@@ -10,12 +10,25 @@ __copyright__ = "Copyright 2020"
 __license__ = "AGPL 3.0"
 __version__ = "1.0.1"
 
-
 import requests
+import datetime
 from requests.exceptions import HTTPError
 import gpxpy
 import gpxpy.gpx
 
+try:
+    # Load LXML or fallback to cET or ET 
+    import lxml.etree as mod_etree  # type: ignore
+except:
+    try:
+        import xml.etree.cElementTree as mod_etree # type: ignore
+    except:
+        import xml.etree.ElementTree as mod_etree # type: ignore
+
+#adjust to OpenCPN Scale (at which scale this is visible) disable if not needed
+_UseScale= True
+_ScaleMin = 50000
+        
 # https://www.marrekrite.frl/wp-json/api/var/get/attributes
 # https://www.marrekrite.frl/wp-json/api/wnt/get/lines
 # https://www.marrekrite.frl/wp-json/api/fkp/get/lines
@@ -23,7 +36,24 @@ import gpxpy.gpx
 
 gpx = gpxpy.gpx.GPX()
 gpx.name = 'Marrekrite aanlegplaatsen'
+gpx.creator = 'marrekritten-conv.py -- https://github.com/marcelrv/OpenCPN-Waypoints'
 gpx.description = 'Marrekrite aanlegplaatsen download from https://www.marrekrite.frl'
+gpx.author_name = 'Marcel Verpaalen'
+gpx.time = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+
+#definition of extension
+namespace = '{opencpn}'
+
+#create extension element
+root = mod_etree.Element(namespace + 'scale_min_max')
+root.attrib['UseScale'] = str(_UseScale)
+root.attrib['ScaleMin'] = str(_ScaleMin)
+root.attrib['ScaleMax'] = "0"
+
+#add extension to header
+if _UseScale:
+    nsmap = {namespace[1:-1]:'http://www.opencpn.org'}
+    gpx.nsmap =nsmap
 
 #for  ty in "top,fkp,wnt,hus,var".split(","):
 for  ty in "var".split(","):
@@ -63,9 +93,11 @@ for  ty in "var".split(","):
                     description = str(a["value" ])
                     if a['id'] == 152:
                         gpx_wps.name = ((point["name"] if point["name"] is not None else " " ) + " " + ( description if  description is not None else " " ) ).strip() + " (" + location_group[ "type"]["description"] + ")"
-                    desc = desc + name + ' ' * ( 60 - len (name) - len (description) ) + description + '\r\n'
+                    desc = desc + name + ' ' * ( 60 - len (name) - len (description) ) + description + '<BR>' #'\r\n'
                 gpx_wps.description = desc
 #                print (loc_attribute)
+                if _UseScale:
+                    gpx_wps.extensions.append(root)
                 gpx.waypoints.append(gpx_wps)
     
     except HTTPError as http_err:
