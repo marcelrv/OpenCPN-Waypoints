@@ -52,13 +52,13 @@ if _UseScale:
 for ty in "var".split(","):
     try:
         response = requests.get(
-            'https://www.marrekrite.frl/wp-json/api/' + ty + '/get/points')
+            'https://marrekrite.frl/wp-json/api/' + ty + '/get/points')
         response.raise_for_status()
         # access JSOn content
         jsonResponse = response.json()
 
         response = requests.get(
-            'https://www.marrekrite.frl/wp-json/api/var/get/attributes')
+            'https://marrekrite.frl/wp-json/api/var/get/attributes')
         response.raise_for_status()
         # access JSOn content
         attributes = response.json()
