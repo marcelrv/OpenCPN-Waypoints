@@ -5,6 +5,9 @@ GPX Files for OpenCPN
 * [NL-Bridges.gpx](NL-Bridges.gpx) - Alle Nederlandse bruggen met openingstijden en marifoon kanaal
 * [BE-Bridges.gpx](BE-Bridges.gpx) - Belgische bruggen
 * [DE-Bridges.gpx](DE-Bridges.gpx) - Duitse bruggen
+* [AT-Bridges.gpx](AT-Bridges.gpx) - Oosterijkse bruggen
+* [FR-Bridges.gpx](FR-Bridges.gpx) - Franse bruggen
+* [CH-Bridges.gpx](CH-Bridges.gpx) - Zwitserse bruggen
 
 ![openCPN brug info image](./img/openCPN-brug.png)
 

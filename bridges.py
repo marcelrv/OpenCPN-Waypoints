@@ -223,8 +223,16 @@ if __name__ == "__main__":
     operatingtimes = readJson(workingFolder + 'operatingtimesDownload.json')
     radiocallinpoint = readJson(workingFolder + 'radiocallinpointDownload.json')
 
+    countries = ['NL']
+    for bridge in bridges:
+        fc = bridge.get('ForeignCode')
+        if fc is not None:
+            if fc[:2] not in countries:
+                countries.append (fc[:2])
+    print(f'Available countries in the database: {countries}')
+
     bridgeInfo = BridgeInfo(bridges, operatingtimes, radiocallinpoint)
-    for country in ['NL', 'BE', 'DE']:
+    for country in countries:
         gpx = bridgeInfo.create_bridgeGPX(country)
         gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
         if debugging:
