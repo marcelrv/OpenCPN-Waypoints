@@ -98,9 +98,9 @@ class BridgeInfo:
         _ScaleMin = 50000
 
         gpx = gpxpy.gpx.GPX()
-        gpx.name = 'NL Bruggen'
-        gpx.creator = 'NLbridges.py -- https://github.com/marcelrv/OpenCPN-Waypoints'
-        gpx.description = 'NL bruggeninformatie voor import in OpenCPN downloaded from www.vaarweginformatie.nl'
+        gpx.name = country + ' Bruggen'
+        gpx.creator = 'bridges.py -- https://github.com/marcelrv/OpenCPN-Waypoints'
+        gpx.description = country + ' bruggeninformatie voor import in OpenCPN downloaded from www.vaarweginformatie.nl'
         gpx.author_name = 'Marcel Verpaalen'
         gpx.copyright_year = '2022'
         gpx.copyright_license = 'CC BY-NC-SA 4.0'
