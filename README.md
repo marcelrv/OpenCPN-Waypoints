@@ -3,7 +3,7 @@ GPX Files for OpenCPN
 
 * [marrekrite.gpx](marrekrite.gpx)  - Alle marrekritten aanlegplaatsen for use with OpenCPN. Import as Layer so it can be easily switched on/off
 * [NLBridges.gpx](NLBridges.gpx) - Alle Nederlandse bruggen met openingstijden en marifoon kanaal
-![image](https://user-images.githubusercontent.com/5871213/173774589-dcffd332-2f87-4ccb-82a7-d8b150f98b89.png)
+![openCPN brug info image](./img/openCPN-brug.png)
 
 
 # Tools
