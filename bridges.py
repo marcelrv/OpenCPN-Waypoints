@@ -21,9 +21,11 @@ import gpxpy
 import gpxpy.gpx
 import json
 import re
+import os , time
 
 
 baseURL= 'https://www.vaarweginformatie.nl/wfswms/dataservice/1.3/'
+workingFolder = './working/'
 debugging=False
 
 
@@ -83,15 +85,22 @@ class BridgeInfo:
         for rec in data:
             if rec.get('ParentId') == id:
                 return rec
+    
+    def operatinghours_sort_key(self,operatingRule):
+        t = operatingRule.get('From')
+        if t is not None:
+            if operatingRule.get('IsMonday'): t-=3
+            if operatingRule.get('IsSaturday'): t+=1
+            if operatingRule.get('IsSunday'): t+=2
+            return operatingRule.get('From')
+        return 9999900000
 
     def get_openingHours(self, openingId):
         openings = self.find_id(self.operatingtimes,openingId)
         openingDescription = '\r\nBedieningstijden\r\n'
         for OperatingPeriod in openings.get ('OperatingPeriods'):
             openingDescription += 'Periode ' + OperatingPeriod['Start'][2:] + '-' + OperatingPeriod['Start'][:2] + ' tot ' + OperatingPeriod['End'][2:] + '-' + OperatingPeriod['End'][:2] + ':\r\n'
-            for OperatingRule in OperatingPeriod['OperatingRules']:
-#            needs sorting
-#            for OperatingRule in OperatingPeriod['OperatingRules'].sort(key=lambda x: (999999 ,8888888)[ (x.get('From') is not None)] ):
+            for OperatingRule in sorted (OperatingPeriod['OperatingRules'] , key=self.operatinghours_sort_key):
                 if OperatingRule.get('From') is not None and  OperatingRule.get('To') is not None: 
                     openingDescription += '   ' + datetime.datetime.fromtimestamp(OperatingRule['From'] /1000.0 ).strftime('%H:%M') + ' - '+ datetime.datetime.fromtimestamp(OperatingRule['To'] /1000.0 ).strftime('%H:%M') + ': '
                 else:
@@ -124,7 +133,6 @@ class BridgeInfo:
         gpx.author_name = 'Marcel Verpaalen'
         gpx.copyright_year = '2022'
         gpx.copyright_license = 'CC BY-NC-SA 4.0'
-        
         gpx.time = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
 
         # definition of extension
@@ -176,21 +184,28 @@ if __name__ == "__main__":
     geoInfo = response.json()
     print ( f"Latest geoinfomation: {json.dumps(geoInfo,indent=2)}")
 
-    response = requests.get(baseURL + 'geotype')
-    geotypes = response.json()
-    print ( f"Available geotypes:\r\n {json.dumps(geoInfo,indent=2)}")
+#    download all available info instead of required only
+#    response = requests.get(baseURL + 'geotype')
+#    geotypes = response.json()
+#    print ( f"Available geotypes:\r\n {json.dumps(geotypes,indent=2)}")
+    geotypes = [ 'bridge', 'operatingtimes', 'radiocallinpoint']
 
-    for geotype in geotypes : # [ 'bridge', 'operatingtimes', 'radiocallinpoint']
-        res = download_geo_data(geotype, geoInfo['GeoGeneration'])
-        saveJson ( './working/'+ geotype + 'Download.json' , res)
-    
-    bridges = readJson ( "./working/bridgeDownload.json")
-    operatingtimes = readJson ( "./working/operatingtimesDownload.json")
-    radiocallinpoint = readJson ( "./working/radiocallinpointDownload.json")
+    for geotype in geotypes :
+        fn = workingFolder + geotype + 'Download.json'
+        if not os.path.exists(fn) or (time.time() -  os.path.getmtime(fn)) > 60*60*24:
+            res = download_geo_data(geotype, geoInfo['GeoGeneration'])
+            saveJson ( fn , res)
+        else:
+            print (f'Reusing existing {fn} which is {int((time.time() -  os.path.getmtime(fn))/3600)} hours old')
+
+    bridges = readJson ( workingFolder + 'bridgeDownload.json')
+    operatingtimes = readJson ( workingFolder + 'operatingtimesDownload.json')
+    radiocallinpoint = readJson  ( workingFolder + 'radiocallinpointDownload.json')
 
     bridgeInfo = BridgeInfo(bridges,operatingtimes,radiocallinpoint)
     gpx = bridgeInfo.create_bridgeGPX ()
-    print('Created GPX:', gpx.to_xml())
+    gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
+    if debugging: print('Created GPX:', gpx.to_xml())
     fn = "NLBridges.gpx"
     f = open(fn, "w")
     f.write(gpx.to_xml())
