@@ -6,9 +6,9 @@ Create marrekrite GPX file for OpenCPN
 
 """
 __author__ = "Marcel Verpaalen"
-__copyright__ = "Copyright 2020"
+__copyright__ = "Copyright 2020 - 2022"
 __license__ = "AGPL 3.0"
-__version__ = "1.0.1"
+__version__ = "1.0.2"
 
 import datetime
 import xml.etree.ElementTree as mod_etree
@@ -32,6 +32,9 @@ gpx.name = 'Marrekrite aanlegplaatsen'
 gpx.creator = 'marrekritten_to_GPX.py -- https://github.com/marcelrv/OpenCPN-Waypoints'
 gpx.description = 'Marrekrite aanlegplaatsen download from https://www.marrekrite.frl'
 gpx.author_name = 'Marcel Verpaalen'
+gpx.copyright_year = '2022'
+gpx.copyright_license = 'CC BY-NC-SA 4.0'
+ 
 gpx.time = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
 
 # definition of extension
