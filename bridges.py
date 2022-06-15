@@ -21,12 +21,13 @@ import gpxpy
 import gpxpy.gpx
 import json
 import re
-import os , time
+import os
+import time
 
 
-baseURL= 'https://www.vaarweginformatie.nl/wfswms/dataservice/1.3/'
+baseURL = 'https://www.vaarweginformatie.nl/wfswms/dataservice/1.3/'
 workingFolder = './working/'
-debugging=False
+debugging = False
 
 
 def download_geo_data(geotype, geogeneration):
@@ -35,7 +36,8 @@ def download_geo_data(geotype, geogeneration):
     counter = 0
     while not download_done:
         try:
-            url = baseURL + str(geogeneration) + '/' + geotype +'?offset=' + str(counter) + '&count=100'
+            url = baseURL + str(geogeneration) + '/' + geotype + \
+                '?offset=' + str(counter) + '&count=100'
             response = requests.get(url)
             response.raise_for_status()
             # access JSOn content
@@ -43,9 +45,9 @@ def download_geo_data(geotype, geogeneration):
 
             if debugging:
                 print("Downloading JSON response for " + url)
-                print(json.dumps(jsonResponse,indent=2))
-            
-            result.extend (jsonResponse['Result'])
+                print(json.dumps(jsonResponse, indent=2))
+
+            result.extend(jsonResponse['Result'])
             print(f"Processed {counter} of {str(jsonResponse['TotalCount'])} from {url}")
             counter = counter + jsonResponse['Count']
             if (counter >= jsonResponse['TotalCount']):
@@ -62,13 +64,15 @@ def download_geo_data(geotype, geogeneration):
 
 def saveJson(filename, data):
     f = open(filename, "w")
-    f.write(json.dumps(data,indent=2))
+    f.write(json.dumps(data, indent=2))
     f.close()
     print("Exported to " + filename)
+
 
 def readJson(filename):
     with open(filename) as f:
         return json.load(f)
+
 
 class BridgeInfo:
     def __init__(self, bridges, operatingtimes, radiocallinpoint):
@@ -76,48 +80,57 @@ class BridgeInfo:
         self.operatingtimes = operatingtimes
         self.radiocallinpoint = radiocallinpoint
 
-    def find_id(self,data,id):
+    def find_id(self, data, id):
         for rec in data:
             if rec.get('Id') == id:
                 return rec
 
-    def find_child(self,data,id):
+    def find_child(self, data, id):
         for rec in data:
             if rec.get('ParentId') == id:
                 return rec
-    
-    def operatinghours_sort_key(self,operatingRule):
+
+    def operatinghours_sort_key(self, operatingRule):
         t = operatingRule.get('From')
         if t is not None:
-            if operatingRule.get('IsMonday'): t-=3
-            if operatingRule.get('IsSaturday'): t+=1
-            if operatingRule.get('IsSunday'): t+=2
+            if operatingRule.get('IsMonday'): t -= 3
+            if operatingRule.get('IsSaturday'): t += 1
+            if operatingRule.get('IsSunday'): t += 2
             return operatingRule.get('From')
         return 9999900000
 
     def get_openingHours(self, openingId):
-        openings = self.find_id(self.operatingtimes,openingId)
+        openings = self.find_id(self.operatingtimes, openingId)
         openingDescription = '\r\nBedieningstijden\r\n'
-        for OperatingPeriod in openings.get ('OperatingPeriods'):
-            openingDescription += 'Periode ' + OperatingPeriod['Start'][2:] + '-' + OperatingPeriod['Start'][:2] + ' tot ' + OperatingPeriod['End'][2:] + '-' + OperatingPeriod['End'][:2] + ':\r\n'
-            for OperatingRule in sorted (OperatingPeriod['OperatingRules'] , key=self.operatinghours_sort_key):
-                if OperatingRule.get('From') is not None and  OperatingRule.get('To') is not None: 
-                    openingDescription += '   ' + datetime.datetime.fromtimestamp(OperatingRule['From'] /1000.0 ).strftime('%H:%M') + ' - '+ datetime.datetime.fromtimestamp(OperatingRule['To'] /1000.0 ).strftime('%H:%M') + ': '
+        for OperatingPeriod in openings.get('OperatingPeriods'):
+            openingDescription += 'Periode ' + OperatingPeriod['Start'][2:] + '-' + OperatingPeriod['Start'][:2] + \
+                ' tot ' + OperatingPeriod['End'][2:] + '-' + OperatingPeriod['End'][:2] + ':\r\n'
+            for OperatingRule in sorted(OperatingPeriod['OperatingRules'], key=self.operatinghours_sort_key):
+                if OperatingRule.get('From') is not None and OperatingRule.get('To') is not None and OperatingRule.get('From') > 0:
+                    openingDescription += '   ' + datetime.datetime.fromtimestamp(OperatingRule['From'] / 1000.0).strftime(
+                        '%H:%M') + ' - ' + datetime.datetime.fromtimestamp(OperatingRule['To'] / 1000.0).strftime('%H:%M') + ': '
                 else:
                     openingDescription += '   Gesloten: '
-                if OperatingRule.get('IsMonday'): openingDescription += 'Ma, '
-                if OperatingRule.get('IsTuesday'): openingDescription += 'Di, '
-                if OperatingRule.get('IsWednesday'): openingDescription += 'Wo, '
-                if OperatingRule.get('IsThursday'): openingDescription += 'Do, '
-                if OperatingRule.get('IsFriday'): openingDescription += 'Vr, '
-                if OperatingRule.get('IsSaturday'): openingDescription += 'Za, '
-                if OperatingRule.get('IsSunday'): openingDescription += 'Zo, '
-                if OperatingRule.get('IsHoliday'): 
+                if OperatingRule.get('IsMonday'):
+                    openingDescription += 'Ma, '
+                if OperatingRule.get('IsTuesday'):
+                    openingDescription += 'Di, '
+                if OperatingRule.get('IsWednesday'):
+                    openingDescription += 'Wo, '
+                if OperatingRule.get('IsThursday'):
+                    openingDescription += 'Do, '
+                if OperatingRule.get('IsFriday'):
+                    openingDescription += 'Vr, '
+                if OperatingRule.get('IsSaturday'):
+                    openingDescription += 'Za, '
+                if OperatingRule.get('IsSunday'):
+                    openingDescription += 'Zo, '
+                if OperatingRule.get('IsHoliday'):
                     openingDescription += 'incl. feestdagen.\r\n'
                 else:
                     openingDescription += 'excl. feestdagen.\r\n'
         if openings.get('Note') is not None:
-#            pass
+            #            pass
             openingDescription += 'Note:' + openings.get('Note')
         return openingDescription
 
@@ -156,7 +169,8 @@ class BridgeInfo:
             gpx_wps.longitude = pnt[0]
             gpx_wps.latitude = pnt[1]
             gpx_wps.name = bridge["Name"]
-            gpx_wps.link = 'https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/' + str(bridge["Id"])
+            gpx_wps.link = 'https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/' + \
+                str(bridge["Id"])
             gpx_wps.link_text = bridge["Name"] + ' detail info'
             description = []
             if bridge.get('CanOpen') is True:
@@ -167,45 +181,48 @@ class BridgeInfo:
                 gpx_wps.symbol = "Landmarks-Bridge1"
             radiopoint = self.find_child(self.radiocallinpoint, bridge.get('Id'))
             if radiopoint is not None:
-                description.append( 'VHF:  ' + ','.join(radiopoint.get('VhfChannels')) )
-            if bridge.get ('OperatingTimesId') is not None :
-                openingHours = self.get_openingHours (bridge.get ('OperatingTimesId'))
-                description.append( openingHours)
+                description.append('VHF:  ' + ','.join(radiopoint.get('VhfChannels')))
+            if bridge.get('OperatingTimesId') is not None:
+                openingHours = self.get_openingHours(bridge.get('OperatingTimesId'))
+                description.append(openingHours)
             gpx_wps.description = '\r\n'.join(description)
             # The file also has Belgium, German etc bridges (>3000!) for now excluded.
             # Needs a smarter way to make dedicated files per country/region
-            if bridge.get ('ForeignCode') == None :
+            if bridge.get('ForeignCode') == None:
                 gpx.waypoints.append(gpx_wps)
         return gpx
 
+
 if __name__ == "__main__":
- 
+
     response = requests.get(baseURL + 'geogeneration')
     geoInfo = response.json()
-    print ( f"Latest geoinfomation: {json.dumps(geoInfo,indent=2)}")
+    print(f"Latest geoinfomation: {json.dumps(geoInfo,indent=2)}")
 
 #    download all available info instead of required only
 #    response = requests.get(baseURL + 'geotype')
 #    geotypes = response.json()
 #    print ( f"Available geotypes:\r\n {json.dumps(geotypes,indent=2)}")
-    geotypes = [ 'bridge', 'operatingtimes', 'radiocallinpoint']
+    geotypes = ['bridge', 'operatingtimes', 'radiocallinpoint']
 
-    for geotype in geotypes :
+    for geotype in geotypes:
         fn = workingFolder + geotype + 'Download.json'
-        if not os.path.exists(fn) or (time.time() -  os.path.getmtime(fn)) > 60*60*24:
+        if not os.path.exists(fn) or (time.time() - os.path.getmtime(fn)) > 60*60*24:
             res = download_geo_data(geotype, geoInfo['GeoGeneration'])
-            saveJson ( fn , res)
+            saveJson(fn, res)
         else:
-            print (f'Reusing existing {fn} which is {int((time.time() -  os.path.getmtime(fn))/3600)} hours old')
+            print(
+                f'Reusing existing {fn} which is {int((time.time() -  os.path.getmtime(fn))/3600)} hours old')
 
-    bridges = readJson ( workingFolder + 'bridgeDownload.json')
-    operatingtimes = readJson ( workingFolder + 'operatingtimesDownload.json')
-    radiocallinpoint = readJson  ( workingFolder + 'radiocallinpointDownload.json')
+    bridges = readJson(workingFolder + 'bridgeDownload.json')
+    operatingtimes = readJson(workingFolder + 'operatingtimesDownload.json')
+    radiocallinpoint = readJson(workingFolder + 'radiocallinpointDownload.json')
 
-    bridgeInfo = BridgeInfo(bridges,operatingtimes,radiocallinpoint)
-    gpx = bridgeInfo.create_bridgeGPX ()
+    bridgeInfo = BridgeInfo(bridges, operatingtimes, radiocallinpoint)
+    gpx = bridgeInfo.create_bridgeGPX()
     gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
-    if debugging: print('Created GPX:', gpx.to_xml())
+    if debugging:
+        print('Created GPX:', gpx.to_xml())
     fn = "NLBridges.gpx"
     f = open(fn, "w")
     f.write(gpx.to_xml())
