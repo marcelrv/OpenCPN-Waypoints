@@ -24,54 +24,9 @@ import re
 import os
 import time
 
-
 baseURL = 'https://www.vaarweginformatie.nl/wfswms/dataservice/1.3/'
 workingFolder = './working/'
 debugging = False
-
-
-def download_geo_data(geotype, geogeneration):
-    download_done = False
-    result = []
-    counter = 0
-    while not download_done:
-        try:
-            url = baseURL + str(geogeneration) + '/' + geotype + \
-                '?offset=' + str(counter) + '&count=100'
-            response = requests.get(url)
-            response.raise_for_status()
-            # access JSOn content
-            jsonResponse = response.json()
-
-            if debugging:
-                print("Downloading JSON response for " + url)
-                print(json.dumps(jsonResponse, indent=2))
-
-            result.extend(jsonResponse['Result'])
-            print(f"Processed {counter} of {str(jsonResponse['TotalCount'])} from {url}")
-            counter = counter + jsonResponse['Count']
-            if (counter >= jsonResponse['TotalCount']):
-                download_done = True
-
-        except HTTPError as http_err:
-            print(f'HTTP error occurred: {http_err}')
-            download_done = True
-        except Exception as err:
-            print(f'Other error occurred: {err}')
-            download_done = True
-    return result
-
-
-def saveJson(filename, data):
-    f = open(filename, "w")
-    f.write(json.dumps(data, indent=2))
-    f.close()
-    print("Exported to " + filename)
-
-
-def readJson(filename):
-    with open(filename) as f:
-        return json.load(f)
 
 
 class BridgeInfo:
@@ -93,9 +48,12 @@ class BridgeInfo:
     def operatinghours_sort_key(self, operatingRule):
         t = operatingRule.get('From')
         if t is not None:
-            if operatingRule.get('IsMonday'): t -= 3
-            if operatingRule.get('IsSaturday'): t += 1
-            if operatingRule.get('IsSunday'): t += 2
+            if operatingRule.get('IsMonday'):
+                t -= 3
+            if operatingRule.get('IsSaturday'):
+                t += 1
+            if operatingRule.get('IsSunday'):
+                t += 2
             return operatingRule.get('From')
         return 9999900000
 
@@ -134,7 +92,7 @@ class BridgeInfo:
             openingDescription += 'Note:' + openings.get('Note')
         return openingDescription
 
-    def create_bridgeGPX(self):
+    def create_bridgeGPX(self,country = 'NL'):
         # adjust to OpenCPN Scale (at which scale this is visible) disable if not needed
         _UseScale = True
         _ScaleMin = 50000
@@ -188,9 +146,56 @@ class BridgeInfo:
             gpx_wps.description = '\r\n'.join(description)
             # The file also has Belgium, German etc bridges (>3000!) for now excluded.
             # Needs a smarter way to make dedicated files per country/region
-            if bridge.get('ForeignCode') == None:
+            if bridge.get('ForeignCode') == None and country == 'NL':
                 gpx.waypoints.append(gpx_wps)
+            elif bridge.get('ForeignCode') is not None:
+                if bridge.get('ForeignCode')[:2] == country:
+                    gpx.waypoints.append(gpx_wps)
         return gpx
+
+
+def download_geo_data(geotype, geogeneration):
+    download_done = False
+    result = []
+    counter = 0
+    while not download_done:
+        try:
+            url = baseURL + str(geogeneration) + '/' + geotype + \
+                '?offset=' + str(counter) + '&count=100'
+            response = requests.get(url)
+            response.raise_for_status()
+            # access JSOn content
+            jsonResponse = response.json()
+
+            if debugging:
+                print("Downloading JSON response for " + url)
+                print(json.dumps(jsonResponse, indent=2))
+
+            result.extend(jsonResponse['Result'])
+            print(f"Processed {counter} of {str(jsonResponse['TotalCount'])} from {url}")
+            counter = counter + jsonResponse['Count']
+            if (counter >= jsonResponse['TotalCount']):
+                download_done = True
+
+        except HTTPError as http_err:
+            print(f'HTTP error occurred: {http_err}')
+            download_done = True
+        except Exception as err:
+            print(f'Other error occurred: {err}')
+            download_done = True
+    return result
+
+
+def saveJson(filename, data):
+    f = open(filename, "w")
+    f.write(json.dumps(data, indent=2))
+    f.close()
+    print("Exported to " + filename)
+
+
+def readJson(filename):
+    with open(filename) as f:
+        return json.load(f)
 
 
 if __name__ == "__main__":
@@ -219,12 +224,13 @@ if __name__ == "__main__":
     radiocallinpoint = readJson(workingFolder + 'radiocallinpointDownload.json')
 
     bridgeInfo = BridgeInfo(bridges, operatingtimes, radiocallinpoint)
-    gpx = bridgeInfo.create_bridgeGPX()
-    gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
-    if debugging:
-        print('Created GPX:', gpx.to_xml())
-    fn = "NLBridges.gpx"
-    f = open(fn, "w")
-    f.write(gpx.to_xml())
-    f.close()
-    print("Exported to " + fn)
+    for country in ['NL', 'BE', 'DE']:
+        gpx = bridgeInfo.create_bridgeGPX(country)
+        gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
+        if debugging:
+            print('Created GPX:', gpx.to_xml())
+        fn = country +"-Bridges.gpx"
+        f = open(fn, "w")
+        f.write(gpx.to_xml())
+        f.close()
+        print("Exported to " + fn)
