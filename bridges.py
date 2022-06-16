@@ -249,7 +249,6 @@ if __name__ == "__main__":
     print(f'Available countries in the database: {countries}')
 
     bridgeInfo = BridgeInfo(bridges, operatingtimes, radiocallinpoint)
-    countries = []
     for country in countries:
         gpx = bridgeInfo.create_bridgeGPX(country)
         gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
