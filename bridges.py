@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Create NL bridges layer GPX file for OpenCPN
+Create  bridges layers GPX file for OpenCPN
 incl bedieningstijden en marifoonkanalen
 @author: Marcel Verpaalen
 
@@ -88,19 +88,23 @@ class BridgeInfo:
                 else:
                     openingDescription += 'excl. feestdagen.\r\n'
         if openings.get('Note') is not None:
-            #            pass
-            openingDescription += 'Note:' + openings.get('Note')
+            openingDescription += '\r\nNote: ' + openings.get('Note')
         return openingDescription
 
-    def create_bridgeGPX(self,country = 'NL'):
+    def create_bridgeGPX(self, country='NL'):
         # adjust to OpenCPN Scale (at which scale this is visible) disable if not needed
         _UseScale = True
         _ScaleMin = 50000
 
         gpx = gpxpy.gpx.GPX()
-        gpx.name = country + ' Bruggen'
+        if isinstance(country, str):
+            gpx.name = country + ' Bruggen'
+            gpx.description = country + ' bruggeninformatie voor import in OpenCPN downloaded from www.vaarweginformatie.nl'
+        else:
+            gpx.name = country['name'] + ' Bruggen'
+            gpx.description = country['name'] + \
+                ' bruggeninformatie voor import in OpenCPN downloaded from www.vaarweginformatie.nl'
         gpx.creator = 'bridges.py -- https://github.com/marcelrv/OpenCPN-Waypoints'
-        gpx.description = country + ' bruggeninformatie voor import in OpenCPN downloaded from www.vaarweginformatie.nl'
         gpx.author_name = 'Marcel Verpaalen'
         gpx.copyright_year = '2022'
         gpx.copyright_license = 'CC BY-NC-SA 4.0'
@@ -144,12 +148,17 @@ class BridgeInfo:
                 openingHours = self.get_openingHours(bridge.get('OperatingTimesId'))
                 description.append(openingHours)
             gpx_wps.description = '\r\n'.join(description)
-            # The file also has Belgium, German etc bridges (>3000!) for now excluded.
-            # Needs a smarter way to make dedicated files per country/region
-            if bridge.get('ForeignCode') == None and country == 'NL':
-                gpx.waypoints.append(gpx_wps)
-            elif bridge.get('ForeignCode') is not None:
-                if bridge.get('ForeignCode')[:2] == country:
+            if isinstance(country, str):
+                if bridge.get('ForeignCode') == None and country == 'NL':
+                    gpx.waypoints.append(gpx_wps)
+                elif bridge.get('ForeignCode') is not None:
+                    if bridge.get('ForeignCode')[:2] == country:
+                        gpx.waypoints.append(gpx_wps)
+            else:
+                from_Coord = country['from'].split(',')
+                to_Coord = country['to'].split(',')
+                if float(pnt[1]) > float(from_Coord[0]) and float(pnt[0]) > float(from_Coord[1]) and\
+                   float(pnt[1]) < float(to_Coord[0]) and float(pnt[0]) < float(to_Coord[1]):
                     gpx.waypoints.append(gpx_wps)
         return gpx
 
@@ -198,6 +207,14 @@ def readJson(filename):
         return json.load(f)
 
 
+def saveGPX(gpx, name):
+    fn = name + '.gpx'
+    f = open(fn, "w")
+    f.write(gpx.to_xml())
+    f.close()
+    print("GPX exported to " + fn)
+
+
 if __name__ == "__main__":
 
     response = requests.get(baseURL + 'geogeneration')
@@ -228,17 +245,22 @@ if __name__ == "__main__":
         fc = bridge.get('ForeignCode')
         if fc is not None:
             if fc[:2] not in countries:
-                countries.append (fc[:2])
+                countries.append(fc[:2])
     print(f'Available countries in the database: {countries}')
 
     bridgeInfo = BridgeInfo(bridges, operatingtimes, radiocallinpoint)
+    countries = []
     for country in countries:
         gpx = bridgeInfo.create_bridgeGPX(country)
         gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
         if debugging:
             print('Created GPX:', gpx.to_xml())
-        fn = country +"-Bridges.gpx"
-        f = open(fn, "w")
-        f.write(gpx.to_xml())
-        f.close()
-        print("Exported to " + fn)
+        saveGPX(gpx, country + "-Bridges")
+    #53.120605, 6.318042
+    #53.447370, 6.372974
+    for region in [{'name': 'Friesland', 'from': '52.774726, 5.340259', 'to': '53.447370, 6.372974'}]:
+        gpx = bridgeInfo.create_bridgeGPX(region)
+        gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
+        if debugging:
+            print('Created GPX:', gpx.to_xml())
+        saveGPX(gpx, region['name'] + "-Bridges")
