@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Create  bridges layers GPX file for OpenCPN
+Create bridges & locks layers GPX file for OpenCPN
 incl bedieningstijden en marifoonkanalen
 @author: Marcel Verpaalen
 
@@ -91,10 +91,7 @@ class BridgeInfo:
             openingDescription += '\r\nNote: ' + openings.get('Note')
         return openingDescription
 
-    def create_bridgeGPX(self, region, geotype):
-        # adjust to OpenCPN Scale (at which scale this is visible) disable if not needed
-        _UseScale = True
-        _ScaleMin = 160000
+    def create_header(self, region, geotype):
 
         gpx = gpxpy.gpx.GPX()
         if geotype == 'lock':
@@ -110,6 +107,14 @@ class BridgeInfo:
         gpx.copyright_year = '2022'
         gpx.copyright_license = 'CC BY-NC-SA 4.0'
         gpx.time = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+        return gpx
+
+    def create_bridgeGPX(self, region, geotype):
+        # adjust to OpenCPN Scale (at which scale this is visible) disable if not needed
+        _UseScale = True
+        _ScaleMin = 160000
+
+        gpx = self.create_header(region, geotype)
 
         # definition of extension
         namespace = '{opencpn}'
