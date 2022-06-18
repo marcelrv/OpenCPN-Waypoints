@@ -92,7 +92,6 @@ class BridgeInfo:
         return openingDescription
 
     def create_header(self, region, geotype):
-
         gpx = gpxpy.gpx.GPX()
         if geotype == 'lock':
             gpx.name = region['name'] + ' Sluizen'
@@ -102,7 +101,7 @@ class BridgeInfo:
             gpx.name = region['name'] + ' Bruggen'
             gpx.description = region['name'] + \
                 ' bruggeninformatie voor import in OpenCPN downloaded from www.vaarweginformatie.nl'
-        gpx.creator = 'bridges.py -- https://github.com/marcelrv/OpenCPN-Waypoints'
+        gpx.creator = 'vwi_waypoints_generator.py -- https://github.com/marcelrv/OpenCPN-Waypoints'
         gpx.author_name = 'Marcel Verpaalen'
         gpx.copyright_year = '2022'
         gpx.copyright_license = 'CC BY-NC-SA 4.0'
@@ -137,11 +136,11 @@ class BridgeInfo:
             gpx_wps.longitude = pnt[0]
             gpx_wps.latitude = pnt[1]
             gpx_wps.name = bridge["Name"]
-            gpx_wps.link = 'https://vaarweginformatie.nl/frp/main/#/geo/detail/'+ geotype.upper()  + '/' + \
+            gpx_wps.link = 'https://vaarweginformatie.nl/frp/main/#/geo/detail/' + geotype.upper() + '/' + \
                 str(bridge["Id"])
             gpx_wps.link_text = bridge["Name"] + ' detail info'
             if _UseScale:
-                    gpx_wps.extensions.append(root)
+                gpx_wps.extensions.append(root)
             description = []
             if geotype == 'lock':
                 gpx_wps.symbol = "Symbol-Spot-Magenta"
@@ -158,7 +157,7 @@ class BridgeInfo:
                 openingHours = self.get_openingHours(bridge.get('OperatingTimesId'))
                 description.append(openingHours)
             gpx_wps.description = '\r\n'.join(description)
-            country =  region.get('country')
+            country = region.get('country')
             if country is not None:
                 if bridge.get('ForeignCode') == None and country == 'NL':
                     gpx.waypoints.append(gpx_wps)
@@ -219,10 +218,10 @@ def readJson(filename):
 
 
 def saveGPX(gpx, name):
-    waypoints = len (gpx.waypoints)
+    waypoints = len(gpx.waypoints)
     if waypoints == 0:
-            print(f'GPX with {str(waypoints)} waypoints SKIPPED: {name}')
-            return
+        print(f'GPX with {str(waypoints)} waypoints SKIPPED: {name}')
+        return
     fn = name + '.gpx'
     f = open(fn, "w")
     f.write(gpx.to_xml())
@@ -239,8 +238,8 @@ if __name__ == "__main__":
 #    download all available info instead of required only
     response = requests.get(baseURL + 'geotype')
     geotypes = response.json()
-    print ( f"Available geotypes:\r\n {json.dumps(geotypes,indent=2)}")
-    #comment below line to download all geotypes
+    print(f"Available geotypes:\r\n {json.dumps(geotypes,indent=2)}")
+    # comment below line to download all geotypes
     geotypes = ['bridge', 'operatingtimes', 'radiocallinpoint', 'lock']
 
     for geotype in geotypes:
@@ -251,7 +250,6 @@ if __name__ == "__main__":
         else:
             print(
                 f'Reusing existing {fn} which is {int((time.time() -  os.path.getmtime(fn))/3600)} hours old')
-
 
     bridges = readJson(workingFolder + 'bridgeDownload.json')
     locks = readJson(workingFolder + 'lockDownload.json')
@@ -266,11 +264,11 @@ if __name__ == "__main__":
                 countries.append(fc[:2])
     print(f'Available countries in the database: {countries}')
 
-    regions = [ {'name': 'Friesland', 'from': [52.774726, 5.340259], 'to': [53.447370, 6.372974]} ]
+    regions = [{'name': 'Friesland', 'from': [52.774726, 5.340259], 'to': [53.447370, 6.372974]}]
 
     bridgeInfo = BridgeInfo(bridges, operatingtimes, radiocallinpoint)
     for country in countries:
-        regions.append ( {'name' : country, 'country': country})
+        regions.append({'name': country, 'country': country})
 
     for region in regions:
         gpx = bridgeInfo.create_bridgeGPX(region, 'bridge')
