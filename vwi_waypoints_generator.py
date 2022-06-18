@@ -14,15 +14,16 @@ __license__ = "AGPL 3.0"
 __version__ = "1.0.2"
 
 import datetime
+import json
+import os
+import re
+import time
 import xml.etree.ElementTree as mod_etree
-import requests
-from requests.exceptions import HTTPError
+
 import gpxpy
 import gpxpy.gpx
-import json
-import re
-import os
-import time
+import requests
+from requests.exceptions import HTTPError
 
 baseURL = 'https://www.vaarweginformatie.nl/wfswms/dataservice/1.3/'
 workingFolder = './working/'
@@ -30,6 +31,8 @@ debugging = False
 
 
 class BridgeInfo:
+    """Create bridges and locks  waypoints."""
+
     def __init__(self, bridges, operatingtimes, radiocallinpoint):
         self.bridges = bridges
         self.operatingtimes = operatingtimes
@@ -92,42 +95,26 @@ class BridgeInfo:
         return openingDescription
 
     def create_header(self, region, geotype):
-        gpx = gpxpy.gpx.GPX()
+        gpx = create_GPXheader()
         if geotype == 'lock':
             gpx.name = region['name'] + ' Sluizen'
             gpx.description = region['name'] + \
-                ' sluis informatie voor import in OpenCPN downloaded from www.vaarweginformatie.nl'
+                ' sluis informatie for import in OpenCPN downloaded from www.vaarweginformatie.nl'
         else:
             gpx.name = region['name'] + ' Bruggen'
             gpx.description = region['name'] + \
-                ' bruggeninformatie voor import in OpenCPN downloaded from www.vaarweginformatie.nl'
-        gpx.creator = 'vwi_waypoints_generator.py -- https://github.com/marcelrv/OpenCPN-Waypoints'
-        gpx.author_name = 'Marcel Verpaalen'
-        gpx.copyright_year = '2022'
-        gpx.copyright_license = 'CC BY-NC-SA 4.0'
-        gpx.time = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+                ' bruggeninformatie for import in OpenCPN downloaded from www.vaarweginformatie.nl'
         return gpx
 
     def create_bridgeGPX(self, region, geotype):
+
         # adjust to OpenCPN Scale (at which scale this is visible) disable if not needed
         _UseScale = True
         _ScaleMin = 160000
 
         gpx = self.create_header(region, geotype)
-
-        # definition of extension
-        namespace = '{opencpn}'
-
-        # create extension element
-        root = mod_etree.Element(namespace + 'scale_min_max')
-        root.attrib['UseScale'] = str(_UseScale)
-        root.attrib['ScaleMin'] = str(_ScaleMin)
-        root.attrib['ScaleMax'] = "0"
-
-        # add extension to header
         if _UseScale:
-            nsmap = {namespace[1:-1]: 'http://www.opencpn.org'}
-            gpx.nsmap = nsmap
+            root = create_GPX_namespace(gpx, _ScaleMin)
 
         for bridge in self.bridges:
             gpx_wps = gpxpy.gpx.GPXWaypoint()
@@ -171,6 +158,104 @@ class BridgeInfo:
                    float(pnt[1]) < to_Coord[0] and float(pnt[0]) < to_Coord[1]:
                     gpx.waypoints.append(gpx_wps)
         return gpx
+
+ 
+class RadioInfo:
+    """Create VHF radion station waypoints."""
+
+    def __init__(self,  radiocallinpoint):
+        self.radiocallinpoint = radiocallinpoint
+
+    def create_radioGPX(self, region, channelVHFonly=True):
+        _UseScale = True
+        _ScaleMin = 100000
+
+        gpx = create_GPXheader()
+        if _UseScale:
+            root = create_GPX_namespace(gpx, _ScaleMin)
+
+        gpx.name = region['name'] + ' Marifoon meldpunten'
+        gpx.description = region['name'] + \
+            ' Marifoon meldpunt informatie for import in OpenCPN downloaded from www.vaarweginformatie.nl'
+
+        # definition of extension
+        namespace = '{opencpn}'
+
+        # create extension element
+        root = mod_etree.Element(namespace + 'scale_min_max')
+        root.attrib['UseScale'] = str(_UseScale)
+        root.attrib['ScaleMin'] = str(_ScaleMin)
+        root.attrib['ScaleMax'] = "0"
+
+        for radio in self.radiocallinpoint:
+            gpx_wps = gpxpy.gpx.GPXWaypoint()
+            pnt = re.search(r"\((.*)\)", radio["Geometry"]).group(1).split(" ")
+            gpx_wps.longitude = pnt[0]
+            gpx_wps.latitude = pnt[1]
+            if channelVHFonly:
+                gpx_wps.name = 'VHF ' + ','.join(radio.get('VhfChannels'))
+            else:
+                gpx_wps.name = radio["Name"]
+            gpx_wps.link = 'https://vaarweginformatie.nl/frp/main/#/geo/detail/' + radio.get('ParentGeoType').upper() + '/' + \
+                str(radio['ParentId'])
+            gpx_wps.link_text = radio["Name"] + ' detail info'
+            if _UseScale:
+                gpx_wps.extensions.append(root)
+            description = []
+            gpx_wps.symbol = "Info-Info"
+            description.append('Naam:         ' + radio["Name"])
+            description.append('VHF:          ' + ','.join(radio.get('VhfChannels')))
+            if radio.get('RadioStatus') is not None:
+                description.append('RadioStatus: ' + radio['RadioStatus'])
+                gpx_wps.symbol = "Symbol-Exclamation-Blue"
+            description.append('RadioTraffic: ' + radio.get('RadioTraffic'))
+            gpx_wps.description = '\r\n'.join(description)
+            country = region.get('country')
+            if country is not None:
+                if bridge.get('ForeignCode') is None and country == 'NL':
+                    gpx.waypoints.append(gpx_wps)
+                elif bridge.get('ForeignCode') is not None:
+                    if bridge.get('ForeignCode')[:2] == country:
+                        gpx.waypoints.append(gpx_wps)
+            else:
+                from_Coord = region['from']
+                to_Coord = region['to']
+                if float(pnt[1]) > from_Coord[0] and float(pnt[0]) > from_Coord[1] and\
+                   float(pnt[1]) < to_Coord[0] and float(pnt[0]) < to_Coord[1]:
+                    gpx.waypoints.append(gpx_wps)
+        return gpx
+        return gpx
+
+
+def create_GPXheader():
+    gpx = gpxpy.gpx.GPX()
+    gpx.creator = 'vwi_waypoints_generator.py -- https://github.com/marcelrv/OpenCPN-Waypoints'
+    gpx.author_name = 'Marcel Verpaalen'
+    gpx.copyright_year = '2022'
+    gpx.copyright_license = 'CC BY-NC-SA 4.0'
+    gpx.time = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+    return gpx
+
+
+def create_GPX_namespace(gpx, ScaleMin):
+    # adjust to OpenCPN Scale (at which scale this is visible) disable if not needed
+    _UseScale = True
+    _ScaleMin = ScaleMin
+
+    # definition of extension
+    namespace = '{opencpn}'
+
+    # create extension element
+    root = mod_etree.Element(namespace + 'scale_min_max')
+    root.attrib['UseScale'] = str(_UseScale)
+    root.attrib['ScaleMin'] = str(_ScaleMin)
+    root.attrib['ScaleMax'] = "0"
+
+    # add extension to header
+    if _UseScale:
+        nsmap = {namespace[1:-1]: 'http://www.opencpn.org'}
+        gpx.nsmap = nsmap
+    return root
 
 
 def download_geo_data(geotype, geogeneration):
@@ -218,6 +303,8 @@ def readJson(filename):
 
 
 def saveGPX(gpx, name):
+    if debugging:
+        print('Created GPX:', gpx.to_xml())
     waypoints = len(gpx.waypoints)
     if waypoints == 0:
         print(f'GPX with {str(waypoints)} waypoints SKIPPED: {name}')
@@ -264,23 +351,31 @@ if __name__ == "__main__":
                 countries.append(fc[:2])
     print(f'Available countries in the database: {countries}')
 
+    # create precooked regions and add an entry for each country found.
     regions = [{'name': 'Friesland', 'from': [52.774726, 5.340259], 'to': [53.447370, 6.372974]}]
-
-    bridgeInfo = BridgeInfo(bridges, operatingtimes, radiocallinpoint)
     for country in countries:
         regions.append({'name': country, 'country': country})
 
+    # create bridge files
+    bridgeInfo = BridgeInfo(bridges, operatingtimes, radiocallinpoint)
     for region in regions:
         gpx = bridgeInfo.create_bridgeGPX(region, 'bridge')
         gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
-        if debugging:
-            print('Created GPX:', gpx.to_xml())
         saveGPX(gpx, region['name'] + "-Bruggen")
 
+    # create locks files
     bridgeInfo = BridgeInfo(locks, operatingtimes, radiocallinpoint)
     for region in regions:
         gpx = bridgeInfo.create_bridgeGPX(region, 'lock')
         gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
-        if debugging:
-            print('Created GPX:', gpx.to_xml())
         saveGPX(gpx, region['name'] + "-Sluizen")
+
+    # create radio VHF files
+    radioInfo = RadioInfo(radiocallinpoint)
+    for region in regions:
+        gpx = radioInfo.create_radioGPX(region,  channelVHFonly=True)
+        gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
+        saveGPX(gpx, region['name'] + "-MarifoonPunten-VHFinName")
+        gpx = radioInfo.create_radioGPX(region,  channelVHFonly=False)
+        gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
+        saveGPX(gpx, region['name'] + "-MarifoonPunten")
