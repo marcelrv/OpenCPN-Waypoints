@@ -109,7 +109,7 @@ class BridgeInfo:
             gpx.name = region['name'] + ' Bruggen'
             description += ' bruggeninformatie'
         if region.get('country') is None or region.get('country') =='NL':
-            description += ' incl openings tijden'
+            description += ' incl. openings tijden'
         gpx.description = description + ' based on RWS information'
         return gpx
 
@@ -182,11 +182,10 @@ class RadioInfo:
             root = create_GPX_namespace(gpx, _ScaleMin)
 
         gpx.name = region['name'] + ' Marifoon meldpunten'
-        description = region['name'] + \
-            ' Marifoon meldpunten based on RWS data'
+        description = region['name'] + ' Marifoon meldpunten'
         if channelVHFonly:
-            description += 'with VHF channel in name'
-        gpx.description = description
+            description += ' with VHF channel in name'
+        gpx.description = description + ' based on RWS data'
 
         for radio in self.radiocallinpoint:
             gpx_wps = gpxpy.gpx.GPXWaypoint()
@@ -357,7 +356,7 @@ def saveGPX_and_catalog(gpx, name: str, description: str, publication_date: date
         print(f'GPX with {str(waypoints)} waypoints SKIPPED: {name}')
         return
     saveGPX(gpx, name)
-    chart_catalog.add_and_store_chart(description, publication_date, name)
+    chart_catalog.add_and_store_chart(description + ' (%d wpts)' % waypoints, publication_date, name)
 
 
 if __name__ == "__main__":
@@ -409,9 +408,7 @@ if __name__ == "__main__":
         gpx = bridgeInfo.create_bridgeGPX(region, 'bridge')
         gpx.time = publication_date
         name = region['name'] + "-Bruggen"
-        #saveGPX(gpx, name)
         saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
-        #chart_catalog.add_and_store_chart(gpx.description, publication_date, name)
 
     # create locks files
     bridgeInfo = BridgeInfo(locks, operatingtimes, radiocallinpoint)
@@ -419,9 +416,7 @@ if __name__ == "__main__":
         gpx = bridgeInfo.create_bridgeGPX(region, 'lock')
         gpx.time = publication_date
         name = region['name'] + "-Sluizen"
-        saveGPX_and_catalog(gpx, name, gpx.description + ' publication', publication_date)
-        #saveGPX(gpx, name)
-        #chart_catalog.add_and_store_chart(gpx.description, publication_date, name)
+        saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
 
     # create radio VHF files
     radioInfo = RadioInfo(radiocallinpoint)
@@ -430,14 +425,10 @@ if __name__ == "__main__":
         gpx.time = publication_date
         name = region['name'] + "-MarifoonPunten-VHFinName"
         saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
-#        saveGPX(gpx, name)
- #       chart_catalog.add_and_store_chart(gpx.description, publication_date, name)
 
         gpx = radioInfo.create_radioGPX(region,  channelVHFonly=False)
         gpx.time = publication_date
         name = region['name'] + "-MarifoonPunten"
         saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
-        #saveGPX(gpx, name)
-        #chart_catalog.add_and_store_chart(gpx.description, publication_date, name)
 
     chart_catalog.store_catalog()
