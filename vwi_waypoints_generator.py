@@ -108,7 +108,7 @@ class BridgeInfo:
         else:
             gpx.name = region['name'] + ' Bruggen'
             description += ' bruggeninformatie'
-        if region.get('country') is None or region.get('country') =='NL':
+        if region.get('country') is None or region.get('country') == 'NL':
             description += ' incl. openings tijden'
         gpx.description = description + ' based on RWS information'
         return gpx
@@ -232,24 +232,27 @@ class OpenCPNChartCatalog:
 
     def __init__(self):
         self.catalog = RncChartCatalog()
-        self.catalog.title = "Netherlands Inland & Surroundings GPX waypoints for bridges, locks etc."
+        self.catalog.title = "Netherlands Inland & Surroundings GPX waypoints of berths, bridges and locks etc. for import as layer."
         self.counter = 0
         self.catalog_folder = 'chartcatalog/'
+        # add other files
+        self.add_and_store_chart('Marrekrite aanleg plaatsen', datetime.datetime.fromtimestamp(
+            os.path.getmtime('marrekrite.gpx')), 'marrekrite')
 
-    def add_and_store_chart(self, name: str,  update_date: datetime, filename: str):
+    def add_and_store_chart(self, description: str,  update_date: datetime, filename: str):
         zip_name = filename + '.zip'
         with ZipFile(self.catalog_folder + zip_name, 'w') as zip:
             zip.write(filename + '.gpx')
-        self.add_chart(name, update_date, zip_name)
+        self.add_chart(description, update_date, zip_name)
 
-    def add_chart(self, name: str,  update_date: datetime, filename: str):
+    def add_chart(self, description: str,  update_date: datetime, filename: str):
         chart = Chart()
         chart.chart_format = 'Sailing Chart, International Chart'
         chart.url = "https://raw.githubusercontent.com/marcelrv/OpenCPN-Waypoints/master/%s" % self.catalog_folder + filename
         chart.number = "%s" % self.counter
-        chart.title = "%s" % name
+        chart.title = "%s" % description
         chart.zipfile_ts = update_date
-        chart.target_filename = "%s.zip" % filename
+        chart.target_filename = "%s" % filename
         self.catalog.add_chart(chart)
         self.counter += 1
 
@@ -356,7 +359,8 @@ def saveGPX_and_catalog(gpx, name: str, description: str, publication_date: date
         print(f'GPX with {str(waypoints)} waypoints SKIPPED: {name}')
         return
     saveGPX(gpx, name)
-    chart_catalog.add_and_store_chart(description + ' (%d wpts)' % waypoints, publication_date, name)
+    chart_catalog.add_and_store_chart(description + ' (%d wpts)' %
+                                      waypoints, publication_date, name)
 
 
 if __name__ == "__main__":
