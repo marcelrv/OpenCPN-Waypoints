@@ -24,6 +24,11 @@ import gpxpy
 import gpxpy.gpx
 import requests
 from requests.exceptions import HTTPError
+try:
+    from ChartCatalogs import Chart, RncChartCatalog
+    from zipfile import ZipFile
+except ImportError:
+    external_module = None
 
 baseURL = 'https://www.vaarweginformatie.nl/wfswms/dataservice/1.3/'
 workingFolder = './working/'
@@ -159,7 +164,7 @@ class BridgeInfo:
                     gpx.waypoints.append(gpx_wps)
         return gpx
 
- 
+
 class RadioInfo:
     """Create VHF radion station waypoints."""
 
@@ -175,8 +180,11 @@ class RadioInfo:
             root = create_GPX_namespace(gpx, _ScaleMin)
 
         gpx.name = region['name'] + ' Marifoon meldpunten'
-        gpx.description = region['name'] + \
+        description = region['name'] + \
             ' Marifoon meldpunt informatie for import in OpenCPN downloaded from www.vaarweginformatie.nl'
+        if channelVHFonly:
+            description += 'with VHF channel in name'
+        gpx.description = description
 
         # definition of extension
         namespace = '{opencpn}'
@@ -225,6 +233,40 @@ class RadioInfo:
                     gpx.waypoints.append(gpx_wps)
         return gpx
         return gpx
+
+
+class OpenCPNChartCatalog:
+    """Create chart catalog file to easy load the files in OpenCPN."""
+
+    def __init__(self):
+        self.catalog = RncChartCatalog()
+        self.catalog.title = "Netherlands Inland & Surroundings GPX waypoints for bridges, locks etc."
+        self.counter = 0
+        self.catalog_folder = 'chartcatalog/'
+
+    def add_and_store_chart(self, name: str,  update_date: datetime, filename: str):
+        zip_name =  filename + '.zip'
+        with ZipFile(self.catalog_folder + zip_name, 'w') as zip:
+            zip.write(filename + '.gpx')
+        self.add_chart(name, update_date, zip_name)
+
+    def add_chart(self, name: str,  update_date: datetime, filename: str):
+        chart = Chart()
+        chart.chart_format = 'Sailing Chart, International Chart'
+        chart.url = "https://raw.githubusercontent.com/marcelrv/OpenCPN-Waypoints/master/%s" % self.catalog_folder + filename
+        chart.number = "%s" % self.counter
+        chart.title = "%s" % name
+        chart.zipfile_ts = update_date
+        chart.target_filename = "%s.zip" % filename
+        self.catalog.add_chart(chart)
+        self.counter += 1
+
+    def store_catalog(self):
+        filename = self.catalog_folder+'NL-waypoints.xml'
+        f = open(filename, "w")
+        f.write(self.catalog.get_xml(True))
+        f.close()
+        print("Catalog exported to " + filename)
 
 
 def create_GPXheader():
@@ -316,12 +358,24 @@ def saveGPX(gpx, name):
     print(f'GPX with {str(waypoints)} points exported to {fn}')
 
 
+def saveGPX_and_catalog(gpx, name: str, description: str, publication_date: datetime):
+    waypoints = len(gpx.waypoints)
+    if waypoints == 0:
+        print(f'GPX with {str(waypoints)} waypoints SKIPPED: {name}')
+        return
+    saveGPX(gpx, name)
+    chart_catalog.add_and_store_chart(description, publication_date, name)
+
+
 if __name__ == "__main__":
 
     response = requests.get(baseURL + 'geogeneration')
     geoInfo = response.json()
     print(f"Latest geoinfomation: {json.dumps(geoInfo,indent=2)}")
+    publication_date = datetime.datetime.strptime(
+        geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
 
+    chart_catalog = OpenCPNChartCatalog()
 #    download all available info instead of required only
     response = requests.get(baseURL + 'geotype')
     geotypes = response.json()
@@ -360,22 +414,37 @@ if __name__ == "__main__":
     bridgeInfo = BridgeInfo(bridges, operatingtimes, radiocallinpoint)
     for region in regions:
         gpx = bridgeInfo.create_bridgeGPX(region, 'bridge')
-        gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
-        saveGPX(gpx, region['name'] + "-Bruggen")
+        gpx.time = publication_date
+        name = region['name'] + "-Bruggen"
+        #saveGPX(gpx, name)
+        saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
+        #chart_catalog.add_and_store_chart(gpx.description, publication_date, name)
 
     # create locks files
     bridgeInfo = BridgeInfo(locks, operatingtimes, radiocallinpoint)
     for region in regions:
         gpx = bridgeInfo.create_bridgeGPX(region, 'lock')
-        gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
-        saveGPX(gpx, region['name'] + "-Sluizen")
+        gpx.time = publication_date
+        name = region['name'] + "-Sluizen"
+        saveGPX_and_catalog(gpx, name, gpx.description + ' publication', publication_date)
+        #saveGPX(gpx, name)
+        #chart_catalog.add_and_store_chart(gpx.description, publication_date, name)
 
     # create radio VHF files
     radioInfo = RadioInfo(radiocallinpoint)
     for region in regions:
         gpx = radioInfo.create_radioGPX(region,  channelVHFonly=True)
-        gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
-        saveGPX(gpx, region['name'] + "-MarifoonPunten-VHFinName")
+        gpx.time = publication_date
+        name = region['name'] + "-MarifoonPunten-VHFinName"
+        saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
+#        saveGPX(gpx, name)
+ #       chart_catalog.add_and_store_chart(gpx.description, publication_date, name)
+
         gpx = radioInfo.create_radioGPX(region,  channelVHFonly=False)
-        gpx.time = datetime.datetime.strptime(geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
-        saveGPX(gpx, region['name'] + "-MarifoonPunten")
+        gpx.time = publication_date
+        name = region['name'] + "-MarifoonPunten"
+        saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
+        #saveGPX(gpx, name)
+        #chart_catalog.add_and_store_chart(gpx.description, publication_date, name)
+
+    chart_catalog.store_catalog()
