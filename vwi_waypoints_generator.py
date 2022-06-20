@@ -322,7 +322,6 @@ class OpenCPNChartCatalog:
         chart.zipfile_ts = update_date
         chart.target_filename = "%s" % filename
         self.catalog.add_chart(chart)
-        self.counter += 1
 
     def store_catalog(self):
         filename = self.catalog_folder+'NL-waypoints.xml'

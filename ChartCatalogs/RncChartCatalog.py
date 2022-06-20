@@ -42,7 +42,7 @@ class RncChartCatalog:
         t.text = self.s62AgencyCode
 
     def xml_add_charts(self, chart_name_include_number):
-        for chart in self.charts:
+        for chart in sorted(self.charts, key=lambda x: int(x.number)):
             chart.append_xml_element(self.xml, chart_name_include_number)
 
     def get_xml(self, chart_name_include_number=False) -> str:
