@@ -291,6 +291,11 @@ class OpenCPNChartCatalog:
             'with  berths, bridges and locks etc. to import as layer (manually).'
         self.counter = 0
         self.catalog_folder = 'chartcatalog/'
+        try:
+            self.chart_sort = readJson('chartSorting.json')
+        except:
+            self.chart_sort = []
+        self.counter = len(self.chart_sort)
         # add other files
         self.add_and_store_chart('Marrekrite aanleg plaatsen', datetime.datetime.fromtimestamp(
             os.path.getmtime('marrekrite.gpx')), 'marrekrite')
@@ -305,7 +310,14 @@ class OpenCPNChartCatalog:
         chart = Chart()
         chart.chart_format = 'Sailing Chart, International Chart'
         chart.url = "https://raw.githubusercontent.com/marcelrv/OpenCPN-Waypoints/master/%s" % self.catalog_folder + filename
-        chart.number = "%s" % self.counter
+        try:
+            chart.number = "%s" % self.chart_sort.index(filename)
+        except:
+            chart.number = "%s" % self.counter
+            self.counter += 1
+            self.chart_sort.append(filename)
+            saveJson('chartSorting.json', self.chart_sort)
+
         chart.title = "%s" % description
         chart.zipfile_ts = update_date
         chart.target_filename = "%s" % filename
