@@ -107,7 +107,7 @@ class BridgeInfo:
         if geotype == 'lock':
             gpx.name = region['name'] + ' Sluizen'
             description += ' sluis informatie'
-        elif geotype == 'vinharbour':
+        elif geotype == 'touristharbour':
             gpx.name = region['name'] + ' Jachthavens'
             description += ' jachthaven informatie'
         else:
