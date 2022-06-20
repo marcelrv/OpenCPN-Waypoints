@@ -1,10 +1,12 @@
 """Chart
 Part of the ChartCatalogs project
-Copyright (c) 2015 Pavel Kalian
+Copyright (c) 2015 Pavel Kalian : Original implementation
+Copyright (c) 2022 Marcel Verpaalen : Minor updates
 Licensed under GPLv2 or, at yoir will later version
 """
 
 from xml.etree.ElementTree import Element, SubElement, tostring
+
 
 class Chart:
     def __init__(self):
@@ -22,8 +24,9 @@ class Chart:
     def is_valid(self):
         return self.number != 0 and self.title != '' and self.url != '' and self.zipfile_ts != None
 
-    def append_xml_element(self, parent, chart_name_include_number = False):
+    def append_xml_element(self, parent, chart_name_include_number=False):
         e = SubElement(parent, 'chart')
+        e.tail = '\n'
         child = SubElement(e, 'number')
         child.text = self.number
         child = SubElement(e, 'title')
@@ -57,8 +60,7 @@ class Chart:
             child.text = self.target_filename
 
     def print_info(self):
-        print (self.number)
-        print (self.title)
-        print (self.url)
-        print (self.ntm_edition_last_correction)
-
+        print(self.number)
+        print(self.title)
+        print(self.url)
+        print(self.ntm_edition_last_correction)

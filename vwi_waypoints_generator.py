@@ -131,10 +131,7 @@ class BridgeInfo:
         for bridge in self.bridges:
             gpx_wps = gpxpy.gpx.GPXWaypoint()
             # pnt = bridge["Geometry"].replace("POINT (", "").replace(")", "").split(" ")
-            pnt = re.search(r"\((.*)\)", bridge["Geometry"]).group(1)
-            pnt = pnt.split(',')[0].split(" ")
-            gpx_wps.longitude = pnt[0]
-            gpx_wps.latitude = pnt[1]
+            pnt = add_coordinate(gpx_wps, bridge["Geometry"])
             name = bridge["Name"]
             radio_record = bridge
             if _UseScale:
@@ -149,11 +146,22 @@ class BridgeInfo:
                 gpx_wps.symbol = "Symbol-Spot-Magenta"
             elif 'harbour' in geotype:
                 vinHarbour = find_related(bridge, self.related, 'VinHarbourId')
-                if vinHarbour is not None:
-                    name = vinHarbour["Name"]
-                    radio_record = vinHarbour
-                    if vinHarbour.get('Note') is not None:
-                        description.append('Opmerking      : %s' % vinHarbour.get('Note'))
+                nwbHarbour = find_related(bridge, self.related, 'NwbHarbourId')
+                berth = find_related(bridge, self.related, 'BerthId')
+                harbour = vinHarbour
+                if nwbHarbour is not None:
+                    harbour = nwbHarbour
+                elif berth is not None:
+                    harbour = berth
+                if harbour is not None:
+                    name = harbour["Name"]
+                    pnt = add_coordinate(gpx_wps, harbour["Geometry"])
+                    radio_record = harbour
+                    if harbour.get('Note') is not None:
+                        description.append('Opmerking      : %s' % harbour.get('Note'))
+                else:
+                    if debugging:
+                        print('harbourtype not processed %s - id %s : %s' % (geotype, bridge["Id"],  bridge["Name"]))
                 gpx_wps.symbol = "Anchor"
                 short_stay_places = bridge.get('ShortStayPlaces')
                 if (short_stay_places) is not None:
@@ -231,9 +239,7 @@ class RadioInfo:
 
         for radio in self.radiocallinpoint:
             gpx_wps = gpxpy.gpx.GPXWaypoint()
-            pnt = re.search(r"\((.*)\)", radio["Geometry"]).group(1).split(" ")
-            gpx_wps.longitude = pnt[0]
-            gpx_wps.latitude = pnt[1]
+            pnt = add_coordinate(gpx_wps, radio["Geometry"])
             related_geo = find_related(radio.get('ParentId'), self.related, radio.get('ParentGeoType'))
             if related_geo is not None:
                 name = 'Meldpunt %s' % related_geo.get("Name")
@@ -328,6 +334,14 @@ class OpenCPNChartCatalog:
         f.write(self.catalog.get_xml(True))
         f.close()
         print("Catalog exported to " + filename)
+
+
+def add_coordinate(gpx_wp, location: str):
+    pnt = re.search(r"\((.*)\)", location).group(1)
+    pnt = pnt.split(',')[0].split(" ")
+    gpx_wp.longitude = pnt[0]
+    gpx_wp.latitude = pnt[1]
+    return pnt
 
 
 def find_related(data, related_data, id_type: str):
@@ -487,7 +501,8 @@ if __name__ == "__main__":
     related.append({'nwbharbour': readJson(workingFolder + 'nwbharbourDownload.json')})
     related.append({'berth': readJson(workingFolder + 'berthDownload.json')})
     related.append({'vtssector': readJson(workingFolder + 'vtssectorDownload.json')})
-    related.append({'exceptionalnavigationalstructure': readJson(workingFolder + 'exceptionalnavigationalstructureDownload.json')})
+    related.append({'exceptionalnavigationalstructure': readJson(
+        workingFolder + 'exceptionalnavigationalstructureDownload.json')})
 
     countries = ['NL']
     for bridge in bridges:

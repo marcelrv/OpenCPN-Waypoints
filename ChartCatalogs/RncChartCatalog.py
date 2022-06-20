@@ -1,6 +1,7 @@
 """ChartCatalog
 Part of the ChartCatalogs project
-Copyright (c) 2015 Pavel Kalian
+Copyright (c) 2015 Pavel Kalian : Original implementation
+Copyright (c) 2022 Marcel Verpaalen : add sorting, formatting etc
 Licensed under GPLv2 or, at yoir will later version
 """
 
@@ -22,6 +23,7 @@ class RncChartCatalog:
 
     def xml_add_header(self):
         header = SubElement(self.xml, 'Header')
+        header.tail = '\n'
         t = SubElement(header, 'title')
         t.text = self.title
         t = SubElement(header, 'date_created')
