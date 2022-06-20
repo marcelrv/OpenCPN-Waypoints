@@ -45,17 +45,6 @@ class BridgeInfo:
         self.fairway = fairway
         self.related = related
 
-    def find_related(self, data, related_data, id_type: str):
-        id = data.get(id_type)
-        related_data_type = id_type[:-2]
-        if id is not None:
-            for related in related_data:
-                if related[related_data_type] is not None:
-                    for rec in related[related_data_type]:
-                        if rec.get('Id') == id:
-                            return rec
-        return None
-
     def find_id(self, data, id):
         for rec in data:
             if rec.get('Id') == id:
@@ -123,7 +112,7 @@ class BridgeInfo:
             description += ' jachthaven informatie'
         else:
             gpx.name = region['name'] + ' Bruggen'
-            description += ' bruggeninformatie'
+            description += ' bruggen informatie'
         if region.get('country') is None or region.get('country') == 'NL':
             description += ' incl. openings tijden'
         gpx.description = description + ' based on RWS information'
@@ -141,7 +130,7 @@ class BridgeInfo:
 
         for bridge in self.bridges:
             gpx_wps = gpxpy.gpx.GPXWaypoint()
-            #pnt = bridge["Geometry"].replace("POINT (", "").replace(")", "").split(" ")
+            # pnt = bridge["Geometry"].replace("POINT (", "").replace(")", "").split(" ")
             pnt = re.search(r"\((.*)\)", bridge["Geometry"]).group(1)
             pnt = pnt.split(',')[0].split(" ")
             gpx_wps.longitude = pnt[0]
@@ -159,7 +148,7 @@ class BridgeInfo:
             if geotype == 'lock':
                 gpx_wps.symbol = "Symbol-Spot-Magenta"
             elif 'harbour' in geotype:
-                vinHarbour = self.find_related(bridge, self.related, 'VinHarbourId')
+                vinHarbour = find_related(bridge, self.related, 'VinHarbourId')
                 if vinHarbour is not None:
                     name = vinHarbour["Name"]
                     radio_record = vinHarbour
@@ -222,8 +211,9 @@ class BridgeInfo:
 class RadioInfo:
     """Create VHF radion station waypoints."""
 
-    def __init__(self,  radiocallinpoint):
+    def __init__(self,  radiocallinpoint, related=[]):
         self.radiocallinpoint = radiocallinpoint
+        self.related = related
 
     def create_radioGPX(self, region, channelVHFonly=True):
         _UseScale = True
@@ -244,26 +234,35 @@ class RadioInfo:
             pnt = re.search(r"\((.*)\)", radio["Geometry"]).group(1).split(" ")
             gpx_wps.longitude = pnt[0]
             gpx_wps.latitude = pnt[1]
+            related_geo = find_related(radio.get('ParentId'), self.related, radio.get('ParentGeoType'))
+            if related_geo is not None:
+                name = 'Meldpunt %s' % related_geo.get("Name")
+                foreign_code = related_geo.get('ForeignCode')
+            else:
+                name = radio["Name"]
+                print('geoType %s not found for radiocallinpoint' % radio.get('ParentGeoType'))
             if channelVHFonly:
                 gpx_wps.name = 'VHF ' + ','.join(radio.get('VhfChannels'))
             else:
-                gpx_wps.name = radio["Name"]
+                gpx_wps.name = name
             gpx_wps.link = 'https://vaarweginformatie.nl/frp/main/#/geo/detail/' + radio.get('ParentGeoType').upper() + '/' + \
                 str(radio['ParentId'])
-            gpx_wps.link_text = radio["Name"] + ' online info'
+            gpx_wps.link_text = name + ' online info'
             if _UseScale:
                 gpx_wps.extensions.append(root)
             description = []
             gpx_wps.symbol = "Info-Info"
-            description.append('Naam:         ' + radio["Name"])
+            description.append('Naam:         ' + name)
             description.append('VHF:          ' + ','.join(radio.get('VhfChannels')))
             if radio.get('RadioStatus') is not None:
                 description.append('RadioStatus: ' + radio['RadioStatus'])
                 gpx_wps.symbol = "Symbol-Exclamation-Blue"
             description.append('RadioTraffic: ' + radio.get('RadioTraffic'))
+            if related_geo is not None and related_geo.get('Note') is not None:
+                description.append('Opmerking: %s' % related_geo.get('Note'))
             gpx_wps.description = '\r\n'.join(description)
             country = region.get('country')
-            foreign_code = radio.get('ForeignCode')
+
             if foreign_code is not None:
                 foreign_code = foreign_code[:2]
                 if foreign_code == '65':  # hack as no country
@@ -329,6 +328,25 @@ class OpenCPNChartCatalog:
         f.write(self.catalog.get_xml(True))
         f.close()
         print("Catalog exported to " + filename)
+
+
+def find_related(data, related_data, id_type: str):
+    if isinstance(data, str) or isinstance(data, int):
+        id = data
+    else:
+        id = data.get(id_type)
+    if id_type[-2:] == 'Id':
+        related_data_type = id_type[:-2]
+    else:
+        related_data_type = id_type
+    related_data_type = related_data_type.lower()
+    if id is not None:
+        for related in related_data:
+            if related.get(related_data_type) is not None:
+                for rec in related[related_data_type]:
+                    if rec.get('Id') == id:
+                        return rec
+    return None
 
 
 def create_GPXheader():
@@ -444,7 +462,9 @@ if __name__ == "__main__":
     geotypes = response.json()
     print(f"Available geotypes:\r\n {json.dumps(geotypes,indent=2)}")
     # comment below line to download all geotypes
-    geotypes = ['bridge', 'operatingtimes', 'radiocallinpoint', 'lock', 'fairway']
+    geotypes = ['bridge', 'operatingtimes', 'radiocallinpoint', 'lock',
+                'fairway', 'vinharbour', 'nwbharbour', 'berth', 'vtssector',
+                'exceptionalnavigationalstructure']
 
     for geotype in geotypes:
         fn = workingFolder + geotype + 'Download.json'
@@ -461,15 +481,20 @@ if __name__ == "__main__":
     operatingtimes = readJson(workingFolder + 'operatingtimesDownload.json')
     radiocallinpoint = readJson(workingFolder + 'radiocallinpointDownload.json')
     fairway = readJson(workingFolder + 'fairwayDownload.json')
-    vinharbour = readJson(workingFolder + 'vinharbourDownload.json')
     touristharbour = readJson(workingFolder + 'touristharbourDownload.json')
+    related = [{'bridge': bridges}, {'lock': locks}]
+    related.append({'vinharbour': readJson(workingFolder + 'vinharbourDownload.json')})
+    related.append({'nwbharbour': readJson(workingFolder + 'nwbharbourDownload.json')})
+    related.append({'berth': readJson(workingFolder + 'berthDownload.json')})
+    related.append({'vtssector': readJson(workingFolder + 'vtssectorDownload.json')})
+    related.append({'exceptionalnavigationalstructure': readJson(workingFolder + 'exceptionalnavigationalstructureDownload.json')})
 
     countries = ['NL']
     for bridge in bridges:
         fc = bridge.get('ForeignCode')
         if fc is not None:
-            if fc[:2] not in countries:
-                countries.append(fc[:2])
+            if fc[: 2] not in countries:
+                countries.append(fc[: 2])
     print(f'Available countries in the database: {countries}')
 
     # create precooked regions and add an entry for each country found.
@@ -493,9 +518,9 @@ if __name__ == "__main__":
         name = region['name'] + "-Sluizen"
         saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
 
-    # create harbours files (vinharbour)
+    # create harbours files (touristharbours only)
     bridgeInfo = BridgeInfo(touristharbour, operatingtimes, radiocallinpoint,
-                            fairway, [{'VinHarbour': vinharbour}])
+                            fairway, related)
     for region in regions:
         gpx = bridgeInfo.create_bridgeGPX(region, 'touristharbour')
         gpx.time = publication_date
@@ -503,21 +528,14 @@ if __name__ == "__main__":
         saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
 
     # create radio VHF files
-    radioInfo = RadioInfo(radiocallinpoint)
-    gt = []
-    for r in radiocallinpoint:
-        ParentGeoType = r.get('ParentGeoType')
-        if ParentGeoType not in gt:
-            gt.append(ParentGeoType)
-    print('types in radio:', gt)
-
+    radioInfo = RadioInfo(radiocallinpoint, related)
     for region in regions:
-        gpx = radioInfo.create_radioGPX(region,  channelVHFonly=True)
+        gpx = radioInfo.create_radioGPX(region, channelVHFonly=True)
         gpx.time = publication_date
         name = region['name'] + "-MarifoonPunten-VHFinName"
         saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
 
-        gpx = radioInfo.create_radioGPX(region,  channelVHFonly=False)
+        gpx = radioInfo.create_radioGPX(region, channelVHFonly=False)
         gpx.time = publication_date
         name = region['name'] + "-MarifoonPunten"
         saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
