@@ -478,7 +478,7 @@ if __name__ == "__main__":
     # comment below line to download all geotypes
     geotypes = ['bridge', 'operatingtimes', 'radiocallinpoint', 'lock',
                 'fairway', 'vinharbour', 'nwbharbour', 'berth', 'vtssector',
-                'exceptionalnavigationalstructure']
+                'touristharbour', 'exceptionalnavigationalstructure']
 
     for geotype in geotypes:
         fn = workingFolder + geotype + 'Download.json'
