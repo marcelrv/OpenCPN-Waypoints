@@ -315,7 +315,7 @@ class OpenCPNChartCatalog:
     def add_chart(self, description: str,  update_date: datetime, filename: str):
         chart = Chart()
         chart.chart_format = 'Sailing Chart, International Chart'
-        chart.url = "https://raw.githubusercontent.com/marcelrv/OpenCPN-Waypoints/master/%s" % self.catalog_folder + filename
+        chart.url = "https://raw.githubusercontent.com/marcelrv/OpenCPN-Waypoints/main/%s" % self.catalog_folder + filename
         try:
             chart.number = "%s" % self.chart_sort.index(filename)
         except:
