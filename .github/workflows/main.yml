@@ -6,7 +6,7 @@ name: Refresh Data
 on:
   # Triggers the workflow on push or pull request events but only for the "master" branch
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
   schedule:
     - cron: '0 12 * * *' # runs daily refresh at 12:00 UTC everyday
 
