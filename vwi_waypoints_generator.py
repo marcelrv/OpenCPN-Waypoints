@@ -16,6 +16,7 @@ __version__ = "1.0.2"
 import datetime
 import json
 import os
+import sys
 import re
 import time
 import xml.etree.ElementTree as mod_etree
@@ -470,6 +471,14 @@ if __name__ == "__main__":
     publication_date = datetime.datetime.strptime(
         geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
 
+    last_publication_filename = 'lastPublication.json'
+
+    if readJson(last_publication_filename).get('GeoGeneration') == geoInfo.get('GeoGeneration'):
+        if len(sys.argv) < 2:
+            print('Already up-to-date. Skipping update. Note: To force an update provide any command line argument.')
+            exit()
+    print('Already up-to-date. Forcing update due to command line argument provided.')
+
     chart_catalog = OpenCPNChartCatalog()
 #    download all available info instead of required only
     response = requests.get(baseURL + 'geotype')
@@ -556,3 +565,6 @@ if __name__ == "__main__":
         saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
 
     chart_catalog.store_catalog()
+    
+    # if we reach here we expect all went fine and we have an update
+    saveJson(last_publication_filename, geoInfo)
