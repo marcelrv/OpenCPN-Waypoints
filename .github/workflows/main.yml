@@ -7,8 +7,8 @@ on:
   # Triggers the workflow on push or pull request events but only for the "master" branch
   push:
     branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
+  schedule:
+    - cron: '0 12 * * *' # runs daily refresh at 12:00 UTC everyday
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
