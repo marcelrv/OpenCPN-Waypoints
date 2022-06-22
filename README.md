@@ -2,7 +2,7 @@
 
 ## GPX Files for OpenCPN
 
-### Dutch files
+### Dutch files (bruggen, sluizen, marifoon & jachthavens gebaseerd op RWS / vaarweginformatie.nl data)
 * [marrekrite.gpx](marrekrite.gpx)  - Alle marrekritten aanlegplaatsen for use with OpenCPN. Import as Layer so it can be easily switched on/off
 * [Friesland-Bruggen.gpx](Friesland-Bruggen.gpx) - Alle Friese bruggen met openingstijden en marifoon kanaal
 * [Friesland-Sluizen.gpx](Friesland-Sluizen.gpx) -Alle Friese sluizen met openingstijden en marifoon kanaal
@@ -15,13 +15,13 @@
 * [NL-MarifoonPunten-VHFinName.gpx](NL-MarifoonPunten-VHFinName.gpx) - Marifoon meldpunten met kanaal in de naam om snel te zien in de map (check 'Show WPT Name')
 * [NL-MarifoonPunten.gpx](NL-MarifoonPunten.gpx) - Marifoon meldpunten Friesland
 
-### Belgium & France (note based on information provided by RWS / vavaarweginformatie.nl )
+### Belgium & France (note based on information provided by RWS / vaarweginformatie.nl )
 * [BE-Bruggen.gpx](BE-Bruggen.gpx) - Belgische bridges
 * [BE-Sluizen.gpx](BE-Sluizen.gpx) - Belgium locks
 * [FR-Bruggen.gpx](FR-Bruggen.gpx) - France bridges
 * [FR-Sluizen.gpx](FR-Sluizen.gpx) - France locks
 
-### Germany, Austria & Swiss (note based on information provided by RWS / vavaarweginformatie.nl )
+### Germany, Austria & Swiss (note based on information provided by RWS / vaarweginformatie.nl )
 * [DE-Bruggen.gpx](DE-Bruggen.gpx) - German bridges
 * [DE-Sluizen.gpx](DE-Sluizen.gpx) - German locks
 * [AT-Bruggen.gpx](AT-Bruggen.gpx) - Austria bridges
@@ -33,7 +33,7 @@
 ## Easy Update in OpenCPN
 
 To support easy downloading of the latest files add the following URL to the Chart Downloader plugin:
-[https://raw.githubusercontent.com/marcelrv/OpenCPN-Waypoints/main/NL-waypoints.xml](https://raw.githubusercontent.com/marcelrv/OpenCPN-Waypoints/main/NL-waypoints.xml)
+[https://raw.githubusercontent.com/marcelrv/OpenCPN-Waypoints/main/NL-waypoints.xml](https://raw.githubusercontent.com/marcelrv/OpenCPN-Waypoints/main/NL-waypoints.xml)  
 Note that you still need to (manually) import the waypoints in the Route and Marks manager.
 
 ![openCPN Chart Download ](./img/openCPN-dl.png)
