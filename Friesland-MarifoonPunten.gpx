@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-06-22T17:44:07.272000Z</time>
+    <time>2022-06-23T09:48:56.170000Z</time>
   </metadata>
   <wpt lat="53.1816700695457" lon="5.41852890783895">
     <name>Meldpunt Vissershaven te Harlingen (oost)</name>
@@ -621,344 +621,150 @@ RadioTraffic: INBOUND</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.198538974457" lon="5.76719671390832">
-    <name>Meldpunt Slauerhoffbrug Leeuwarden</name>
-    <desc>Naam:         Meldpunt Slauerhoffbrug Leeuwarden
-VHF:          80
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/23780">
-      <text>Meldpunt Slauerhoffbrug Leeuwarden online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.1832812941977" lon="5.42057771791061">
-    <name>Meldpunt Harlingen, ligplaats (2)</name>
-    <desc>Naam:         Meldpunt Harlingen, ligplaats (2)
+  <wpt lat="53.1703422107143" lon="5.42208019077011">
+    <name>Meldpunt spoorbrug Harlingen</name>
+    <desc>Naam:         Meldpunt spoorbrug Harlingen
 VHF:          11
 RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/24567">
-      <text>Meldpunt Harlingen, ligplaats (2) online info</text>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/11652">
+      <text>Meldpunt spoorbrug Harlingen online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.1797585204874" lon="5.50500931363074">
-    <name>Meldpunt brug Kiesterzijl</name>
-    <desc>Naam:         Meldpunt brug Kiesterzijl
-VHF:          80
-RadioStatus: RECOMMENDED
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/25132">
-      <text>Meldpunt brug Kiesterzijl online info</text>
-    </link>
-    <sym>Symbol-Exclamation-Blue</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.337222486616" lon="6.29714559123706">
-    <name>Meldpunt Reitdiepbrug</name>
-    <desc>Naam:         Meldpunt Reitdiepbrug
-VHF:          85
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/26133">
-      <text>Meldpunt Reitdiepbrug online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.4084701991288" lon="6.19671188901056">
-    <name>Meldpunt Brug over de Robbengatsluis</name>
-    <desc>Naam:         Meldpunt Brug over de Robbengatsluis
-VHF:          84
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/26301">
-      <text>Meldpunt Brug over de Robbengatsluis online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.2500233244466" lon="6.32177302192322">
-    <name>Meldpunt Ligplaats Gaarkeuken oost</name>
-    <desc>Naam:         Meldpunt Ligplaats Gaarkeuken oost
-VHF:          18
-RadioTraffic: TWO_WAY
-Opmerking: Maximaal 3 x 24 uur.</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/9549">
-      <text>Meldpunt Ligplaats Gaarkeuken oost online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.8392774233328" lon="5.71065812152322">
-    <name>Meldpunt Werkhaven te Lemmer</name>
-    <desc>Naam:         Meldpunt Werkhaven te Lemmer
-VHF:          11
-RadioTraffic: TWO_WAY
-Opmerking: Afbouwkade.</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/NWBHARBOUR/11859">
-      <text>Meldpunt Werkhaven te Lemmer online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.2493764388906" lon="6.31587127327096">
-    <name>Meldpunt Wachtplaats Gaarkeuken kegelschepen oostzijde</name>
-    <desc>Naam:         Meldpunt Wachtplaats Gaarkeuken kegelschepen oostzijde
-VHF:          18
-RadioTraffic: TWO_WAY
-Opmerking: Wachtplaats kegelschepen</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/12635">
-      <text>Meldpunt Wachtplaats Gaarkeuken kegelschepen oostzijde online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.196046828261" lon="5.74115504970777">
-    <name>Meldpunt fietsbrug Ritsumasyl</name>
-    <desc>Naam:         Meldpunt fietsbrug Ritsumasyl
-VHF:          80
-RadioStatus: RECOMMENDED
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/13556">
-      <text>Meldpunt fietsbrug Ritsumasyl online info</text>
-    </link>
-    <sym>Symbol-Exclamation-Blue</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.3146359262027" lon="6.35626991847917">
-    <name>Meldpunt Sluis Lammerburen, brug over benedenhoofd</name>
-    <desc>Naam:         Meldpunt Sluis Lammerburen, brug over benedenhoofd
-VHF:          85
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/13929">
-      <text>Meldpunt Sluis Lammerburen, brug over benedenhoofd online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.2007255706207" lon="6.06862256511228">
-    <name>Meldpunt Brug Schuilenburg</name>
-    <desc>Naam:         Meldpunt Brug Schuilenburg
-VHF:          22
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/14113">
-      <text>Meldpunt Brug Schuilenburg online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.2073384722291" lon="6.09716324905641">
-    <name>Meldpunt Brug Kootstertille</name>
-    <desc>Naam:         Meldpunt Brug Kootstertille
-VHF:          22
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/16010">
-      <text>Meldpunt Brug Kootstertille online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.3167881277507" lon="6.15892843781367">
-    <name>Meldpunt Willem Loresluis</name>
-    <desc>Naam:         Meldpunt Willem Loresluis
+  <wpt lat="53.3168426326602" lon="6.15911340957145">
+    <name>Meldpunt Willem Loresluis, brug over buitenhoofd</name>
+    <desc>Naam:         Meldpunt Willem Loresluis, brug over buitenhoofd
 VHF:          20
 RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/17218">
-      <text>Meldpunt Willem Loresluis online info</text>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/7069578">
+      <text>Meldpunt Willem Loresluis, brug over buitenhoofd online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.1843408020006" lon="5.54862750787666">
-    <name>Meldpunt Stationsbrug, Franeker</name>
-    <desc>Naam:         Meldpunt Stationsbrug, Franeker
-VHF:          80
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/21028">
-      <text>Meldpunt Stationsbrug, Franeker online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.1756290347755" lon="5.41405260842947">
-    <name>Meldpunt Prins Hendrikbrug</name>
-    <desc>Naam:         Meldpunt Prins Hendrikbrug
-VHF:          11
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/21647">
-      <text>Meldpunt Prins Hendrikbrug online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.3146359262027" lon="6.35626991847917">
-    <name>Meldpunt sluis Lammerburen</name>
-    <desc>Naam:         Meldpunt sluis Lammerburen
-VHF:          85
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/21743">
-      <text>Meldpunt sluis Lammerburen online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.2484804146813" lon="6.30744807276955">
-    <name>Meldpunt Wachtplaats Gaarkeuken kegelschepen west</name>
-    <desc>Naam:         Meldpunt Wachtplaats Gaarkeuken kegelschepen west
-VHF:          18
+  <wpt lat="52.8387837676186" lon="5.67222791927411">
+    <name>Meldpunt Kegelligplaats  Lemmer buitenzijde</name>
+    <desc>Naam:         Meldpunt Kegelligplaats  Lemmer buitenzijde
+VHF:          20
 RadioTraffic: TWO_WAY
-Opmerking: Wachtplaats voor de sluis voor kegelschepen</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/22682">
-      <text>Meldpunt Wachtplaats Gaarkeuken kegelschepen west online info</text>
+Opmerking: Maximaal 3 x 24 uur</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170262">
+      <text>Meldpunt Kegelligplaats  Lemmer buitenzijde online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.1790288354532" lon="5.41963705577998">
-    <name>Meldpunt Tsjerk Hiddessluizen, brug over buitenhoofd (1)</name>
-    <desc>Naam:         Meldpunt Tsjerk Hiddessluizen, brug over buitenhoofd (1)
-VHF:          22
+  <wpt lat="52.8357896947757" lon="5.66895897210495">
+    <name>Meldpunt Ligplaats Lemmer buitenzijde Oostkant</name>
+    <desc>Naam:         Meldpunt Ligplaats Lemmer buitenzijde Oostkant
+VHF:          20
+RadioTraffic: TWO_WAY
+Opmerking: Maximaal 3 x 24 uur.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170282">
+      <text>Meldpunt Ligplaats Lemmer buitenzijde Oostkant online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.841425795663" lon="5.67264474027335">
+    <name>Meldpunt Wachtplaats Lemmer buitenzijde</name>
+    <desc>Naam:         Meldpunt Wachtplaats Lemmer buitenzijde
+VHF:          20
+RadioTraffic: TWO_WAY
+Opmerking: -</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170325">
+      <text>Meldpunt Wachtplaats Lemmer buitenzijde online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.8509027241667" lon="5.67605676231886">
+    <name>Meldpunt Wachtplaats Lemmer binnenzijde</name>
+    <desc>Naam:         Meldpunt Wachtplaats Lemmer binnenzijde
+VHF:          20
 RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43114">
-      <text>Meldpunt Tsjerk Hiddessluizen, brug over buitenhoofd (1) online info</text>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170330">
+      <text>Meldpunt Wachtplaats Lemmer binnenzijde online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.8788298188463" lon="5.36250517017292">
-    <name>Meldpunt Johan Frisosluis</name>
-    <desc>Naam:         Meldpunt Johan Frisosluis
-VHF:          18
+  <wpt lat="53.1852476165178" lon="5.77393915473789">
+    <name>Meldpunt Spoorbrug HRMK</name>
+    <desc>Naam:         Meldpunt Spoorbrug HRMK
+VHF:          20
 RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/43520">
-      <text>Meldpunt Johan Frisosluis online info</text>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/1527">
+      <text>Meldpunt Spoorbrug HRMK online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.1745857596094" lon="5.41036558845977">
-    <name>Meldpunt Het Dok te Harlingen</name>
-    <desc>Naam:         Meldpunt Het Dok te Harlingen
+  <wpt lat="53.1721604004715" lon="5.411343628737">
+    <name>Meldpunt Nieuwe Willemshaven</name>
+    <desc>Naam:         Meldpunt Nieuwe Willemshaven
 VHF:          11
 RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/NWBHARBOUR/27534">
-      <text>Meldpunt Het Dok te Harlingen online info</text>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/NWBHARBOUR/8241">
+      <text>Meldpunt Nieuwe Willemshaven online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.0788216827678" lon="5.82779219421873">
-    <name>Meldpunt Spoorbrug Grou</name>
-    <desc>Naam:         Meldpunt Spoorbrug Grou
-VHF:          18
+  <wpt lat="53.0437464377852" lon="5.78161725769042">
+    <name>Meldpunt Nije Sânsleatbrêge</name>
+    <desc>Naam:         Meldpunt Nije Sânsleatbrêge
+VHF:          20
 RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/27630">
-      <text>Meldpunt Spoorbrug Grou online info</text>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/9064">
+      <text>Meldpunt Nije Sânsleatbrêge online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.1916894964182" lon="5.76006291449884">
-    <name>Meldpunt Spoorbrug HRM</name>
-    <desc>Naam:         Meldpunt Spoorbrug HRM
-VHF:          22
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/32929">
-      <text>Meldpunt Spoorbrug HRM online info</text>
+  <wpt lat="52.8871582762915" lon="5.35953083657468">
+    <name>Meldpunt Stavoren, Spoorhaven, ligplaats</name>
+    <desc>Naam:         Meldpunt Stavoren, Spoorhaven, ligplaats
+VHF:          74
+RadioTraffic: TWO_WAY
+Opmerking: Zie: bijzondere bepaling vergunningen/ontheffingen.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/2249">
+      <text>Meldpunt Stavoren, Spoorhaven, ligplaats online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9106340181156" lon="5.69989417330243">
-    <name>Meldpunt Brug Spannenburg</name>
-    <desc>Naam:         Meldpunt Brug Spannenburg
-VHF:          18
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/33165">
-      <text>Meldpunt Brug Spannenburg online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.1832771675899" lon="5.79683066340256">
-    <name>Meldpunt Van Harinxmabruggen</name>
-    <desc>Naam:         Meldpunt Van Harinxmabruggen
-VHF:          18
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/34342">
-      <text>Meldpunt Van Harinxmabruggen online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.1830738441099" lon="5.41956098724247">
-    <name>Meldpunt Harlingen, loswal (1)</name>
-    <desc>Naam:         Meldpunt Harlingen, loswal (1)
+  <wpt lat="53.4095078873098" lon="6.20508713214552">
+    <name>Meldpunt Vissershaven te Lauwersoog</name>
+    <desc>Naam:         Meldpunt Vissershaven te Lauwersoog
 VHF:          11
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/35613">
-      <text>Meldpunt Harlingen, loswal (1) online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.2490190869681" lon="6.31274324386146">
-    <name>Meldpunt Gaarkeukensluis</name>
-    <desc>Naam:         Meldpunt Gaarkeukensluis
-VHF:          18
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/38226">
-      <text>Meldpunt Gaarkeukensluis online info</text>
+RadioTraffic: TWO_WAY
+Opmerking: Gelet op artikel 8 van de scheepvaartverkeerswet van artikel 13 van het besluit administratieve bepalingen scheepvaartverkeer treedt met ingang van 15 juli 2000 het volgende besluit in werking:
+Het is verboden met zeilplanken te varen in de aanloop en havenmond van de haven van Lauwersoog.Het verbod geldt in het gebied dat begrensd wordt door een denkbeeldige lijn, getrokken door respectievelijk het westelijk havenlicht, het oostelijke havenlicht en de boeien O2, Z14, Z13, Z15 en het westelijke geplaatste havenlicht, alsmede tussen de havenhoofden. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/NWBHARBOUR/2600">
+      <text>Meldpunt Vissershaven te Lauwersoog online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -1011,32 +817,6 @@ VHF:          18
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/6325">
       <text>Meldpunt Brug Eibersburen online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.0437464377852" lon="5.78161725769042">
-    <name>Meldpunt Nije Sânsleatbrêge</name>
-    <desc>Naam:         Meldpunt Nije Sânsleatbrêge
-VHF:          20
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/9064">
-      <text>Meldpunt Nije Sânsleatbrêge online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.1721604004715" lon="5.411343628737">
-    <name>Meldpunt Nieuwe Willemshaven</name>
-    <desc>Naam:         Meldpunt Nieuwe Willemshaven
-VHF:          11
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/NWBHARBOUR/8241">
-      <text>Meldpunt Nieuwe Willemshaven online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -1176,124 +956,344 @@ Opmerking: Diepte MP-3,80m/MP-2,00m. </desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.1703422107143" lon="5.42208019077011">
-    <name>Meldpunt spoorbrug Harlingen</name>
-    <desc>Naam:         Meldpunt spoorbrug Harlingen
+  <wpt lat="53.1830738441099" lon="5.41956098724247">
+    <name>Meldpunt Harlingen, loswal (1)</name>
+    <desc>Naam:         Meldpunt Harlingen, loswal (1)
 VHF:          11
 RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/11652">
-      <text>Meldpunt spoorbrug Harlingen online info</text>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/35613">
+      <text>Meldpunt Harlingen, loswal (1) online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.3168426326602" lon="6.15911340957145">
-    <name>Meldpunt Willem Loresluis, brug over buitenhoofd</name>
-    <desc>Naam:         Meldpunt Willem Loresluis, brug over buitenhoofd
-VHF:          20
+  <wpt lat="53.2490190869681" lon="6.31274324386146">
+    <name>Meldpunt Gaarkeukensluis</name>
+    <desc>Naam:         Meldpunt Gaarkeukensluis
+VHF:          18
 RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/7069578">
-      <text>Meldpunt Willem Loresluis, brug over buitenhoofd online info</text>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/38226">
+      <text>Meldpunt Gaarkeukensluis online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.8387837676186" lon="5.67222791927411">
-    <name>Meldpunt Kegelligplaats  Lemmer buitenzijde</name>
-    <desc>Naam:         Meldpunt Kegelligplaats  Lemmer buitenzijde
-VHF:          20
+  <wpt lat="53.1790288354532" lon="5.41963705577998">
+    <name>Meldpunt Tsjerk Hiddessluizen, brug over buitenhoofd (1)</name>
+    <desc>Naam:         Meldpunt Tsjerk Hiddessluizen, brug over buitenhoofd (1)
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43114">
+      <text>Meldpunt Tsjerk Hiddessluizen, brug over buitenhoofd (1) online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.8788298188463" lon="5.36250517017292">
+    <name>Meldpunt Johan Frisosluis</name>
+    <desc>Naam:         Meldpunt Johan Frisosluis
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/43520">
+      <text>Meldpunt Johan Frisosluis online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1745857596094" lon="5.41036558845977">
+    <name>Meldpunt Het Dok te Harlingen</name>
+    <desc>Naam:         Meldpunt Het Dok te Harlingen
+VHF:          11
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/NWBHARBOUR/27534">
+      <text>Meldpunt Het Dok te Harlingen online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.0788216827678" lon="5.82779219421873">
+    <name>Meldpunt Spoorbrug Grou</name>
+    <desc>Naam:         Meldpunt Spoorbrug Grou
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/27630">
+      <text>Meldpunt Spoorbrug Grou online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1916894964182" lon="5.76006291449884">
+    <name>Meldpunt Spoorbrug HRM</name>
+    <desc>Naam:         Meldpunt Spoorbrug HRM
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/32929">
+      <text>Meldpunt Spoorbrug HRM online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9106340181156" lon="5.69989417330243">
+    <name>Meldpunt Brug Spannenburg</name>
+    <desc>Naam:         Meldpunt Brug Spannenburg
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/33165">
+      <text>Meldpunt Brug Spannenburg online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1832771675899" lon="5.79683066340256">
+    <name>Meldpunt Van Harinxmabruggen</name>
+    <desc>Naam:         Meldpunt Van Harinxmabruggen
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/34342">
+      <text>Meldpunt Van Harinxmabruggen online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.4084701991288" lon="6.19671188901056">
+    <name>Meldpunt Brug over de Robbengatsluis</name>
+    <desc>Naam:         Meldpunt Brug over de Robbengatsluis
+VHF:          84
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/26301">
+      <text>Meldpunt Brug over de Robbengatsluis online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1843408020006" lon="5.54862750787666">
+    <name>Meldpunt Stationsbrug, Franeker</name>
+    <desc>Naam:         Meldpunt Stationsbrug, Franeker
+VHF:          80
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/21028">
+      <text>Meldpunt Stationsbrug, Franeker online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1756290347755" lon="5.41405260842947">
+    <name>Meldpunt Prins Hendrikbrug</name>
+    <desc>Naam:         Meldpunt Prins Hendrikbrug
+VHF:          11
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/21647">
+      <text>Meldpunt Prins Hendrikbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.3146359262027" lon="6.35626991847917">
+    <name>Meldpunt sluis Lammerburen</name>
+    <desc>Naam:         Meldpunt sluis Lammerburen
+VHF:          85
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/21743">
+      <text>Meldpunt sluis Lammerburen online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.2484804146813" lon="6.30744807276955">
+    <name>Meldpunt Wachtplaats Gaarkeuken kegelschepen west</name>
+    <desc>Naam:         Meldpunt Wachtplaats Gaarkeuken kegelschepen west
+VHF:          18
 RadioTraffic: TWO_WAY
-Opmerking: Maximaal 3 x 24 uur</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170262">
-      <text>Meldpunt Kegelligplaats  Lemmer buitenzijde online info</text>
+Opmerking: Wachtplaats voor de sluis voor kegelschepen</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/22682">
+      <text>Meldpunt Wachtplaats Gaarkeuken kegelschepen west online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.8357896947757" lon="5.66895897210495">
-    <name>Meldpunt Ligplaats Lemmer buitenzijde Oostkant</name>
-    <desc>Naam:         Meldpunt Ligplaats Lemmer buitenzijde Oostkant
-VHF:          20
+  <wpt lat="53.198538974457" lon="5.76719671390832">
+    <name>Meldpunt Slauerhoffbrug Leeuwarden</name>
+    <desc>Naam:         Meldpunt Slauerhoffbrug Leeuwarden
+VHF:          80
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/23780">
+      <text>Meldpunt Slauerhoffbrug Leeuwarden online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1832812941977" lon="5.42057771791061">
+    <name>Meldpunt Harlingen, ligplaats (2)</name>
+    <desc>Naam:         Meldpunt Harlingen, ligplaats (2)
+VHF:          11
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/24567">
+      <text>Meldpunt Harlingen, ligplaats (2) online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1797585204874" lon="5.50500931363074">
+    <name>Meldpunt brug Kiesterzijl</name>
+    <desc>Naam:         Meldpunt brug Kiesterzijl
+VHF:          80
+RadioStatus: RECOMMENDED
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/25132">
+      <text>Meldpunt brug Kiesterzijl online info</text>
+    </link>
+    <sym>Symbol-Exclamation-Blue</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.337222486616" lon="6.29714559123706">
+    <name>Meldpunt Reitdiepbrug</name>
+    <desc>Naam:         Meldpunt Reitdiepbrug
+VHF:          85
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/26133">
+      <text>Meldpunt Reitdiepbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.2500233244466" lon="6.32177302192322">
+    <name>Meldpunt Ligplaats Gaarkeuken oost</name>
+    <desc>Naam:         Meldpunt Ligplaats Gaarkeuken oost
+VHF:          18
 RadioTraffic: TWO_WAY
 Opmerking: Maximaal 3 x 24 uur.</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170282">
-      <text>Meldpunt Ligplaats Lemmer buitenzijde Oostkant online info</text>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/9549">
+      <text>Meldpunt Ligplaats Gaarkeuken oost online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.841425795663" lon="5.67264474027335">
-    <name>Meldpunt Wachtplaats Lemmer buitenzijde</name>
-    <desc>Naam:         Meldpunt Wachtplaats Lemmer buitenzijde
-VHF:          20
-RadioTraffic: TWO_WAY
-Opmerking: -</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170325">
-      <text>Meldpunt Wachtplaats Lemmer buitenzijde online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.8509027241667" lon="5.67605676231886">
-    <name>Meldpunt Wachtplaats Lemmer binnenzijde</name>
-    <desc>Naam:         Meldpunt Wachtplaats Lemmer binnenzijde
-VHF:          20
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170330">
-      <text>Meldpunt Wachtplaats Lemmer binnenzijde online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.1852476165178" lon="5.77393915473789">
-    <name>Meldpunt Spoorbrug HRMK</name>
-    <desc>Naam:         Meldpunt Spoorbrug HRMK
-VHF:          20
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/1527">
-      <text>Meldpunt Spoorbrug HRMK online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.8871582762915" lon="5.35953083657468">
-    <name>Meldpunt Stavoren, Spoorhaven, ligplaats</name>
-    <desc>Naam:         Meldpunt Stavoren, Spoorhaven, ligplaats
-VHF:          74
-RadioTraffic: TWO_WAY
-Opmerking: Zie: bijzondere bepaling vergunningen/ontheffingen.</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/2249">
-      <text>Meldpunt Stavoren, Spoorhaven, ligplaats online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.4095078873098" lon="6.20508713214552">
-    <name>Meldpunt Vissershaven te Lauwersoog</name>
-    <desc>Naam:         Meldpunt Vissershaven te Lauwersoog
+  <wpt lat="52.8392774233328" lon="5.71065812152322">
+    <name>Meldpunt Werkhaven te Lemmer</name>
+    <desc>Naam:         Meldpunt Werkhaven te Lemmer
 VHF:          11
 RadioTraffic: TWO_WAY
-Opmerking: Gelet op artikel 8 van de scheepvaartverkeerswet van artikel 13 van het besluit administratieve bepalingen scheepvaartverkeer treedt met ingang van 15 juli 2000 het volgende besluit in werking:
-Het is verboden met zeilplanken te varen in de aanloop en havenmond van de haven van Lauwersoog.Het verbod geldt in het gebied dat begrensd wordt door een denkbeeldige lijn, getrokken door respectievelijk het westelijk havenlicht, het oostelijke havenlicht en de boeien O2, Z14, Z13, Z15 en het westelijke geplaatste havenlicht, alsmede tussen de havenhoofden. 
-</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/NWBHARBOUR/2600">
-      <text>Meldpunt Vissershaven te Lauwersoog online info</text>
+Opmerking: Afbouwkade.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/NWBHARBOUR/11859">
+      <text>Meldpunt Werkhaven te Lemmer online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.2493764388906" lon="6.31587127327096">
+    <name>Meldpunt Wachtplaats Gaarkeuken kegelschepen oostzijde</name>
+    <desc>Naam:         Meldpunt Wachtplaats Gaarkeuken kegelschepen oostzijde
+VHF:          18
+RadioTraffic: TWO_WAY
+Opmerking: Wachtplaats kegelschepen</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/12635">
+      <text>Meldpunt Wachtplaats Gaarkeuken kegelschepen oostzijde online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.196046828261" lon="5.74115504970777">
+    <name>Meldpunt fietsbrug Ritsumasyl</name>
+    <desc>Naam:         Meldpunt fietsbrug Ritsumasyl
+VHF:          80
+RadioStatus: RECOMMENDED
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/13556">
+      <text>Meldpunt fietsbrug Ritsumasyl online info</text>
+    </link>
+    <sym>Symbol-Exclamation-Blue</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.3146359262027" lon="6.35626991847917">
+    <name>Meldpunt Sluis Lammerburen, brug over benedenhoofd</name>
+    <desc>Naam:         Meldpunt Sluis Lammerburen, brug over benedenhoofd
+VHF:          85
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/13929">
+      <text>Meldpunt Sluis Lammerburen, brug over benedenhoofd online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.2007255706207" lon="6.06862256511228">
+    <name>Meldpunt Brug Schuilenburg</name>
+    <desc>Naam:         Meldpunt Brug Schuilenburg
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/14113">
+      <text>Meldpunt Brug Schuilenburg online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.2073384722291" lon="6.09716324905641">
+    <name>Meldpunt Brug Kootstertille</name>
+    <desc>Naam:         Meldpunt Brug Kootstertille
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/16010">
+      <text>Meldpunt Brug Kootstertille online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.3167881277507" lon="6.15892843781367">
+    <name>Meldpunt Willem Loresluis</name>
+    <desc>Naam:         Meldpunt Willem Loresluis
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/17218">
+      <text>Meldpunt Willem Loresluis online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>

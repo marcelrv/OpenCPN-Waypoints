@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-06-22T17:44:07.272000Z</time>
+    <time>2022-06-23T09:48:56.170000Z</time>
   </metadata>
   <wpt lat="48.2111" lon="14.8566">
     <name>Strassenbrücke Grein</name>
@@ -1404,6 +1404,18 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="48.2398" lon="16.3638">
+    <name>Döblinger Steg</name>
+    <desc>Locatie: Wiener Donaukanal
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/1270457">
+      <text>Döblinger Steg online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="48.1713" lon="16.4791">
     <name>Freudenauer Hafenbrücke</name>
     <desc>Locatie: Wiener Donaukanal
@@ -1542,18 +1554,6 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/1270703">
       <text>Hafenbrücke Vöest online info</text>
-    </link>
-    <sym>Landmarks-Bridge1</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="48.2398" lon="16.3638">
-    <name>Döblinger Steg</name>
-    <desc>Locatie: Wiener Donaukanal
-Type:    Vaste Brug</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/1270457">
-      <text>Döblinger Steg online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
