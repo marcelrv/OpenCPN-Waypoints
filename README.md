@@ -3,7 +3,7 @@
 ## GPX Files for OpenCPN
 
 ### Dutch files (bruggen, sluizen, marifoon & jachthavens gebaseerd op RWS / vaarweginformatie.nl data)
-* [Frieslandboeien.gpx](Frieslandboeien.gpx) - Boeien in Friesland als GPX (bron: provincie Friesland). Note: begruik de [usericons](https://www.nautin.nl/opencpn/nautin.usericons.zip) van [Nautin](https://www.nautin.nl/) 
+* [Frieslandboeien.gpx](Frieslandboeien.gpx) - Boeien in Friesland als GPX (bron: provincie Friesland). Note: gebruik de [usericons](./chartcatalog/usericons.zip)  anders zie je alleen circels
 * [marrekrite.gpx](marrekrite.gpx)  - Alle marrekritten aanlegplaatsen for use with OpenCPN. Import as Layer so it can be easily switched on/off
 * [Friesland-Bruggen.gpx](Friesland-Bruggen.gpx) - Alle Friese bruggen met openingstijden en marifoon kanaal
 * [Friesland-Sluizen.gpx](Friesland-Sluizen.gpx) -Alle Friese sluizen met openingstijden en marifoon kanaal
