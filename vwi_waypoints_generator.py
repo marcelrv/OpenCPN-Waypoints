@@ -294,7 +294,7 @@ class OpenCPNChartCatalog:
     def __init__(self):
         self.catalog = RncChartCatalog()
         self.catalog.title = 'Netherlands Inland & Surroundings GPX waypoints ' + \
-            'with  berths, bridges and locks etc. to import as layer (manually).'
+            'with buoys, berths, bridges and locks etc. to import as layer (manually).'
         self.counter = 0
         self.catalog_folder = 'chartcatalog/'
         try:
@@ -303,6 +303,8 @@ class OpenCPNChartCatalog:
             self.chart_sort = []
         self.counter = len(self.chart_sort)
         # add other files
+        self.add_and_store_chart('Friesland Boeien', datetime.datetime.fromtimestamp(
+            os.path.getmtime('Frieslandboeien.gpx')), 'Frieslandboeien')
         self.add_and_store_chart('Marrekrite aanleg plaatsen', datetime.datetime.fromtimestamp(
             os.path.getmtime('marrekrite.gpx')), 'marrekrite')
 
