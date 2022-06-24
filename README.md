@@ -47,4 +47,14 @@ To update run `python3 marrekritten_to_GPX.py`
 * [vwi_waypoints_generator.py](vwi_waypoints_generator.py) - File to automatically create the bridges, locks, radio and harbours gpx files from the public data of Rijkswaterstaat on https://www.vaarweginformatie.nl/  
 To update run `python3 vwi_waypoints_generator.py` to update files when no update is availabe from https://www.vaarweginformatie.nl/ run it with any argument e.g. `python3 vwi_waypoints_generator.py  -force`
 
+* [frieslandBoeien_generator.py](frieslandBoeien_generator.py)  - File to automatically Friesland Boeien based on data from provincie Friesland
+
 Requires gpxpy, you can install this with `pip3 install gpxpy` or alternatively `pip3 install -r requirements.txt`
+
+## Copyright
+Provided GPX files have CC BY-NC-SA 4.0 licence... so share them, copy them, edit them... just don't sell them. They are here all free of charge.
+Location data provided in these files is based on public data.
+
+## Warranty
+Though provided GPX files are generated based on formally published data from respective authorities, they are explicitly provided “AS IS” without express or implied warranties, guarantees, or guarantees of correctness. So USE THEM AT YOUR OWN RISK!
+Having said that... <B>HAPPY SAILING<B>

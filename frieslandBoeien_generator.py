@@ -61,7 +61,7 @@ symb = dict([
             ('bijzondere markering', '056'),
             ('scheidingsboei gelijke vaarwaters', '091'),
             ('scheidingsboei groen-rood', '044'),
-            ('scheidingsboei rood-groen', '045'),
+            ('scheidingsboei rood-groen', '046'),
             ('noord cardinaal boei', 'Marks-Cardinal-North'),
             ('oost cardinaal boei', 'Marks-Cardinal-East'),
             ('west cardinaal boei', 'Marks-Cardinal-West'),
