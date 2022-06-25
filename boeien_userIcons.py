@@ -57,35 +57,13 @@ def update_source_data(fn):
         print(
             f'Reusing existing {fn} which is {int((time.time() -  os.path.getmtime(fn))/3600)} hours old')
 
-symb = dict([
-            ('groene boei', '1041'),
-            ('groene boei met topteken', '1003'),
-            ('groene lichtboei', '1005'),
-            ('groene lichtopstand', '1008'),
-            ('groene boei met radarscherm', '1003'),
-            ('landbaken groen', '10121'),
-            ('landbaken rood', '10111'),
-            ('rode boei', '1141'),
-            ('rode boei met radarscherm', '1103'),
-            ('rode lichtboei', '1105'),
-            ('rode lichtopstand', '1108'),
-            ('aanvullende markering groen-wit', '1512'),
-            ('aanvullende markering rood-wit', '1562'),
-            ('bijzondere markering', '3001'),
-            ('scheidingsboei gelijke vaarwaters', '1411'),
-            ('scheidingsboei groen-rood', '1201'),
-            ('scheidingsboei rood-groen', '1251'),
-            ('noord cardinaal boei', 'Marks-Cardinal-North'),
-            ('oost cardinaal boei', 'Marks-Cardinal-East'),
-            ('west cardinaal boei', 'Marks-Cardinal-West'),
-            ('zuid cardinaal boei', 'Marks-Cardinal-South'),
-            ])
 
 if __name__ == "__main__":
     update_source_data(input_filename)
     sourceData = readJson(input_filename)
     file_list = []
     icons = dict()
+    mapping = dict()
     for layer in sourceData.get('layers'):
         print('Layer: %s' % layer.get('layerName'))
         for icon in layer.get('legend'):
@@ -94,23 +72,21 @@ if __name__ == "__main__":
                 ids = ['NoS57Sym']
             elif ids[0] == "<Null>":
                 ids = ['NoS57Id']
-
             label = icon.get('label')
             print('%s: %s' % (ids[0], label))
             imageData = icon.get('imageData')
             contentType = icon.get('contentType')
             fn = '%s%s.%s' % (workingFolder, ids[0],  contentType.split('/')[1])
-            
-
-            if label in symb:
-                print(label,ids[0])
-
-            if imageData is not None and contentType is not None and fn not in file_list :
+            for id in ids:
+                mapping[id] = {'id': ids[0], 'label': label}
+            if imageData is not None and contentType is not None and fn not in file_list:
                 image_64_decode = base64.b64decode(imageData)
                 image_result = open(fn, 'wb')  # create a writable image and write the decoding result
                 image_result.write(image_64_decode)
                 file_list.append(fn)
                 icons[ids[0]] = label
-    print(icons)
     zip_images(outputFileName, file_list)
 
+    print('# Mapping tabel')
+    for m in mapping:
+        print("('%s' , '%s'), # %s" % (m,  mapping[m].get('id'), mapping[m].get('label')))

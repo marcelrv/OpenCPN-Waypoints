@@ -109,7 +109,7 @@ for ty in "var".split(","):
         print(f'Other error occurred: {err}')
 
 print('Created GPX:', gpx.to_xml())
-fn = "marrekrite.gpx"
+fn = "Marrekrite-Aanlegplaatsen.gpx"
 f = open(fn, "w")
 f.write(gpx.to_xml())
 f.close()

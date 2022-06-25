@@ -303,10 +303,14 @@ class OpenCPNChartCatalog:
             self.chart_sort = []
         self.counter = len(self.chart_sort)
         # add other files
-        self.add_and_store_chart('Friesland Boeien', datetime.datetime.fromtimestamp(
-            os.path.getmtime('Frieslandboeien.gpx')), 'Frieslandboeien')
+        self.add_and_store_chart('Friesland Boeien. Gebruik bijbehorende usericons', datetime.datetime.fromtimestamp(
+            os.path.getmtime('Friesland-Boeien.gpx')), 'Friesland-Boeien')
         self.add_and_store_chart('Marrekrite aanleg plaatsen', datetime.datetime.fromtimestamp(
-            os.path.getmtime('marrekrite.gpx')), 'marrekrite')
+            os.path.getmtime('Marrekrite-Aanlegplaatsen.gpx')), 'Marrekrite-Aanlegplaatsen')
+        self.add_and_store_chart('NL boeien (excl Friesland). Gebruik bijbehorende usericons', datetime.datetime.fromtimestamp(
+            os.path.getmtime('NL-Boeien.gpx')), 'NL-Boeien')
+        self.add_chart('User Icons voor Boeien bestanden', datetime.datetime.fromtimestamp(
+            os.path.getmtime('./chartcatalog/usericons.zip')), 'usericons.zip')
 
     def add_and_store_chart(self, description: str,  update_date: datetime, filename: str):
         zip_name = filename + '.zip'
