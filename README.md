@@ -58,9 +58,9 @@ Provided GPX files have CC BY-NC-SA 4.0 licence... so copy them, edit them and s
 Location data provided in these files is based on public data.
 
 ## Buy me a beer
-All the files here are provided absolutely free for you to use. They are automatically updated when there is a change from RWS.
+All the files here are provided absolutely free for you to use. They are automatically updated when there is a change from RWS.  
 If you like these files and they are usefull to you...I will appreciate very much you [buy me a beer](https://paypal.me/MarcelVerpaalen) and I'll promise I'll enjoy it on my next sailing trip.
 
-## Warranty
-Though provided GPX files are generated based on formally published data from respective authorities, they are explicitly provided “AS IS” without express or implied warranties, guarantees, or guarantees of correctness. So USE THEM AT YOUR OWN RISK!
+## (no)Warranty
+Though provided GPX files are generated based on formally published data from respective authorities, they are explicitly provided “AS IS” without express or implied warranties, guarantees, or guarantees of correctness. So USE THEM AT YOUR OWN RISK!  
 Having said that... <B>HAPPY SAILING<B>
