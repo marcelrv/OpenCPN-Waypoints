@@ -11,7 +11,7 @@ using https://www.vaarweginformatie.nl/frp/main/#/page/services
 __author__ = "Marcel Verpaalen"
 __copyright__ = "Copyright 2022"
 __license__ = "AGPL 3.0"
-__version__ = "1.0.2"
+__version__ = "1.0.3"
 
 import datetime
 import json
@@ -25,15 +25,11 @@ import gpxpy
 import gpxpy.gpx
 import requests
 from requests.exceptions import HTTPError
-try:
-    from ChartCatalogs import Chart, RncChartCatalog
-    from zipfile import ZipFile
-except ImportError:
-    external_module = None
 
 baseURL = 'https://www.vaarweginformatie.nl/wfswms/dataservice/1.3/'
 workingFolder = './working/'
 debugging = False
+max_age = 60 * 60 * 24  # 24h
 
 
 class BridgeInfo:
@@ -75,9 +71,11 @@ class BridgeInfo:
             openingDescription += 'Periode ' + OperatingPeriod['Start'][2:] + '-' + OperatingPeriod['Start'][:2] + \
                 ' tot ' + OperatingPeriod['End'][2:] + '-' + OperatingPeriod['End'][:2] + ':\r\n'
             for OperatingRule in sorted(OperatingPeriod['OperatingRules'], key=self.operatinghours_sort_key):
-                if OperatingRule.get('From') is not None and OperatingRule.get('To') is not None and OperatingRule.get('From') > 0:
-                    openingDescription += '   ' + datetime.datetime.fromtimestamp(OperatingRule['From'] / 1000.0).strftime(
-                        '%H:%M') + ' - ' + datetime.datetime.fromtimestamp(OperatingRule['To'] / 1000.0).strftime('%H:%M') + ': '
+                if OperatingRule.get('From') is not None and \
+                        OperatingRule.get('To') is not None and OperatingRule.get('From') > 0:
+                    openingDescription += '   ' + \
+                        datetime.datetime.fromtimestamp(OperatingRule['From'] / 1000.0).strftime('%H:%M') + \
+                        ' - ' + datetime.datetime.fromtimestamp(OperatingRule['To'] / 1000.0).strftime('%H:%M') + ': '
                 else:
                     openingDescription += '   Gesloten: '
                 if OperatingRule.get('IsMonday'):
@@ -162,7 +160,8 @@ class BridgeInfo:
                         description.append('Opmerking      : %s' % harbour.get('Note'))
                 else:
                     if debugging:
-                        print('harbourtype not processed %s - id %s : %s' % (geotype, bridge["Id"],  bridge["Name"]))
+                        print('harbourtype not processed %s - id %s : %s' %
+                              (geotype, bridge["Id"], bridge["Name"]))
                 gpx_wps.symbol = "Anchor"
                 short_stay_places = bridge.get('ShortStayPlaces')
                 if (short_stay_places) is not None:
@@ -220,7 +219,7 @@ class BridgeInfo:
 class RadioInfo:
     """Create VHF radion station waypoints."""
 
-    def __init__(self,  radiocallinpoint, related=[]):
+    def __init__(self, radiocallinpoint, related=[]):
         self.radiocallinpoint = radiocallinpoint
         self.related = related
 
@@ -252,8 +251,8 @@ class RadioInfo:
                 gpx_wps.name = 'VHF ' + ','.join(radio.get('VhfChannels'))
             else:
                 gpx_wps.name = name
-            gpx_wps.link = 'https://vaarweginformatie.nl/frp/main/#/geo/detail/' + radio.get('ParentGeoType').upper() + '/' + \
-                str(radio['ParentId'])
+            gpx_wps.link = 'https://vaarweginformatie.nl/frp/main/#/geo/detail/' + \
+                radio.get('ParentGeoType').upper() + '/' + str(radio['ParentId'])
             gpx_wps.link_text = name + ' online info'
             if _UseScale:
                 gpx_wps.extensions.append(root)
@@ -288,63 +287,8 @@ class RadioInfo:
         return gpx
 
 
-class OpenCPNChartCatalog:
-    """Create chart catalog file to easy load the files in OpenCPN."""
-
-    def __init__(self):
-        self.catalog = RncChartCatalog()
-        self.catalog.title = 'Netherlands Inland & Surroundings GPX waypoints ' + \
-            'with buoys, berths, bridges and locks etc. to import as layer (manually).'
-        self.counter = 0
-        self.catalog_folder = 'chartcatalog/'
-        try:
-            self.chart_sort = readJson('chartSorting.json')
-        except:
-            self.chart_sort = []
-        self.counter = len(self.chart_sort)
-        # add other files
-        self.add_and_store_chart('Friesland Boeien. Gebruik bijbehorende usericons', datetime.datetime.fromtimestamp(
-            os.path.getmtime('Friesland-Boeien.gpx')), 'Friesland-Boeien')
-        self.add_and_store_chart('Marrekrite aanleg plaatsen', datetime.datetime.fromtimestamp(
-            os.path.getmtime('Marrekrite-Aanlegplaatsen.gpx')), 'Marrekrite-Aanlegplaatsen')
-        self.add_and_store_chart('NL boeien (excl Friesland). Gebruik bijbehorende usericons', datetime.datetime.fromtimestamp(
-            os.path.getmtime('NL-Boeien.gpx')), 'NL-Boeien')
-        self.add_chart('User Icons voor Boeien bestanden', datetime.datetime.fromtimestamp(
-            os.path.getmtime('./chartcatalog/usericons.zip')), 'usericons.zip')
-
-    def add_and_store_chart(self, description: str,  update_date: datetime, filename: str):
-        zip_name = filename + '.zip'
-        with ZipFile(self.catalog_folder + zip_name, 'w') as zip:
-            zip.write(filename + '.gpx')
-        self.add_chart(description, update_date, zip_name)
-
-    def add_chart(self, description: str,  update_date: datetime, filename: str):
-        chart = Chart()
-        chart.chart_format = 'Sailing Chart, International Chart'
-        chart.url = "https://raw.githubusercontent.com/marcelrv/OpenCPN-Waypoints/main/%s" % self.catalog_folder + filename
-        try:
-            chart.number = "%s" % self.chart_sort.index(filename)
-        except:
-            chart.number = "%s" % self.counter
-            self.counter += 1
-            self.chart_sort.append(filename)
-            saveJson('chartSorting.json', self.chart_sort)
-
-        chart.title = "%s" % description
-        chart.zipfile_ts = update_date
-        chart.target_filename = "%s" % filename
-        self.catalog.add_chart(chart)
-
-    def store_catalog(self):
-        filename = self.catalog_folder+'NL-waypoints.xml'
-        f = open(filename, "w")
-        f.write(self.catalog.get_xml(True))
-        f.close()
-        print("Catalog exported to " + filename)
-
-
 def add_coordinate(gpx_wp, location: str):
-    pnt = re.search(r"\((.*)\)", location).group(1)
+    pnt = re.search(r"\(+(.*)\)", location).group(1)
     pnt = pnt.split(',')[0].split(" ")
     gpx_wp.longitude = pnt[0]
     gpx_wp.latitude = pnt[1]
@@ -437,7 +381,7 @@ def saveJson(filename, data):
     f = open(filename, "w")
     f.write(json.dumps(data, indent=2))
     f.close()
-    print("Exported to " + filename)
+    print("Saved to %s" % filename)
 
 
 def readJson(filename):
@@ -459,16 +403,6 @@ def saveGPX(gpx, name):
     print(f'GPX with {str(waypoints)} points exported to {fn}')
 
 
-def saveGPX_and_catalog(gpx, name: str, description: str, publication_date: datetime):
-    waypoints = len(gpx.waypoints)
-    if waypoints == 0:
-        print(f'GPX with {str(waypoints)} waypoints SKIPPED: {name}')
-        return
-    saveGPX(gpx, name)
-    chart_catalog.add_and_store_chart(description + ' (%d wpts)' %
-                                      waypoints, publication_date, name)
-
-
 if __name__ == "__main__":
 
     response = requests.get(baseURL + 'geogeneration')
@@ -485,7 +419,6 @@ if __name__ == "__main__":
             exit()
     print('Already up-to-date. Forcing update due to command line argument provided.')
 
-    chart_catalog = OpenCPNChartCatalog()
 #    download all available info instead of required only
     response = requests.get(baseURL + 'geotype')
     geotypes = response.json()
@@ -497,14 +430,13 @@ if __name__ == "__main__":
 
     for geotype in geotypes:
         fn = workingFolder + geotype + 'Download.json'
-        if not os.path.exists(fn) or (time.time() - os.path.getmtime(fn)) > 60*60*24:
+        if not os.path.exists(fn) or (time.time() - os.path.getmtime(fn)) > max_age:
             res = download_geo_data(geotype, geoInfo['GeoGeneration'])
             saveJson(fn, res)
         else:
             print(
                 f'Reusing existing {fn} which is {int((time.time() -  os.path.getmtime(fn))/3600)} hours old')
 
-#    isrs = readJson(workingFolder + 'isrsDownload.json')
     bridges = readJson(workingFolder + 'bridgeDownload.json')
     locks = readJson(workingFolder + 'lockDownload.json')
     operatingtimes = readJson(workingFolder + 'operatingtimesDownload.json')
@@ -538,7 +470,7 @@ if __name__ == "__main__":
         gpx = bridgeInfo.create_bridgeGPX(region, 'bridge')
         gpx.time = publication_date
         name = region['name'] + "-Bruggen"
-        saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
+        saveGPX(gpx, name)
 
     # create locks files
     bridgeInfo = BridgeInfo(locks, operatingtimes, radiocallinpoint, fairway)
@@ -546,7 +478,7 @@ if __name__ == "__main__":
         gpx = bridgeInfo.create_bridgeGPX(region, 'lock')
         gpx.time = publication_date
         name = region['name'] + "-Sluizen"
-        saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
+        saveGPX(gpx, name)
 
     # create harbours files (touristharbours only)
     bridgeInfo = BridgeInfo(touristharbour, operatingtimes, radiocallinpoint,
@@ -555,7 +487,7 @@ if __name__ == "__main__":
         gpx = bridgeInfo.create_bridgeGPX(region, 'touristharbour')
         gpx.time = publication_date
         name = region['name'] + "-Jachthavens"
-        saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
+        saveGPX(gpx, name)
 
     # create radio VHF files
     radioInfo = RadioInfo(radiocallinpoint, related)
@@ -563,14 +495,11 @@ if __name__ == "__main__":
         gpx = radioInfo.create_radioGPX(region, channelVHFonly=True)
         gpx.time = publication_date
         name = region['name'] + "-MarifoonPunten-VHFinName"
-        saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
-
+        saveGPX(gpx, name)
         gpx = radioInfo.create_radioGPX(region, channelVHFonly=False)
         gpx.time = publication_date
         name = region['name'] + "-MarifoonPunten"
-        saveGPX_and_catalog(gpx, name, gpx.description, publication_date)
+        saveGPX(gpx, name)
 
-    chart_catalog.store_catalog()
-    
     # if we reach here we expect all went fine and we have an update
     saveJson(last_publication_filename, geoInfo)
