@@ -217,9 +217,6 @@ if __name__ == "__main__":
     _UseScale = True
     _ScaleMin = 100000
 
-    # boeien_bestand: BoeienSource = nederland
-    # boeien_bestand: BoeienSource = friesland
-
     for boeien_bestand in [nederland, friesland]:
 
         update_source_data(boeien_bestand.source_filename, boeien_bestand.url)
@@ -230,7 +227,7 @@ if __name__ == "__main__":
         gpx_file = open(boeien_bestand.outputFileName, 'r')
         gpx = gpxpy.parse(gpx_file)
         create_GPXheader(gpx)
-        gpx.description = '%s buoys based on RWS data. Use associated usericons to display buoys shape correctly' \
+        gpx.description = '%s buoys based on RWS data. Use associated user icons to display buoys shape correctly' \
             % boeien_bestand.name
         if _UseScale:
             root = create_GPX_namespace(gpx, _ScaleMin)
