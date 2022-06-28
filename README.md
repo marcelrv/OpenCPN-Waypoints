@@ -35,7 +35,7 @@
 ## Easy Update in OpenCPN
 
 To support easy downloading of the latest files add the following URL to the Chart Downloader plugin:
-[https://raw.githubusercontent.com/marcelrv/OpenCPN-Waypoints/main/NL-waypoints.xml](https://raw.githubusercontent.com/marcelrv/OpenCPN-Waypoints/main/NL-waypoints.xml)  
+[https://raw.githubusercontent.com/marcelrv/OpenCPN-Waypoints/main/chartcatalog/NL-waypoints.xml](https://raw.githubusercontent.com/marcelrv/OpenCPN-Waypoints/main/chartcatalog/NL-waypoints.xml)  
 Note that you still need to (manually) import the waypoints in the Route and Marks manager.
 
 ![openCPN Chart Download ](./img/openCPN-dl.png)
