@@ -10,8 +10,815 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-06-27T07:59:55.752000Z</time>
+    <time>2022-06-27T16:59:04.700000Z</time>
   </metadata>
+  <wpt lat="51.2213427882987" lon="3.23386004864354">
+    <name>Dammepoortsluis</name>
+    <desc>Locatie: Kanaal Gent-Oostende (vak Brugge-Oostende)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1314293">
+      <text>Dammepoortsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9574544422399" lon="2.73620042011209">
+    <name>Fintelesluis</name>
+    <desc>Locatie: Lokanaal</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1315693">
+      <text>Fintelesluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9574511964673" lon="2.73615230873475">
+    <name>Fintelesluis</name>
+    <desc>Locatie: Lokanaal</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1315694">
+      <text>Fintelesluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.241297772071" lon="4.4026231533688">
+    <name>Royerssluis</name>
+    <desc>Locatie: Haven Antwerpen</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1306537">
+      <text>Royerssluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.27773" lon="4.33276">
+    <name>Boudewijnsluis</name>
+    <desc>Locatie: Haven Antwerpen</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1306558">
+      <text>Boudewijnsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.8850776666603" lon="5.6548976947085">
+    <name>Lanaken</name>
+    <desc>Locatie: Kanaal Briegden-Neerharen</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1307070">
+      <text>Lanaken online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.8850776666603" lon="5.6548976947085">
+    <name>sluis Lanaken</name>
+    <desc>Locatie: Kanaal Briegden-Neerharen</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1307089">
+      <text>sluis Lanaken online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9017156479106" lon="5.68297329561174">
+    <name>Neerharen</name>
+    <desc>Locatie: Kanaal Briegden-Neerharen</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1307092">
+      <text>Neerharen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9017156479106" lon="5.68297329561174">
+    <name>sluis Neerharen</name>
+    <desc>Locatie: Kanaal Briegden-Neerharen</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1307098">
+      <text>sluis Neerharen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.4768806765608" lon="3.71189855059564">
+    <name>sluis Pommeroeul</name>
+    <desc>Locatie: Kanaal Pommeroeul-Conde</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1337742">
+      <text>sluis Pommeroeul online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.4499035107989" lon="3.67013508580396">
+    <name>sluis Hensies</name>
+    <desc>Locatie: Kanaal Pommeroeul-Conde</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1337745">
+      <text>sluis Hensies online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0563630285329" lon="3.73776923915727">
+    <name>Kasteelsluis Gent</name>
+    <desc>Locatie: Kanaal Gent-Terneuzen (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1307832">
+      <text>Kasteelsluis Gent online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0087778692873" lon="3.74863449048294">
+    <name>kolk 1 Merelbeke</name>
+    <desc>Locatie: Ringvaart om Gent</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1338054">
+      <text>kolk 1 Merelbeke online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0895129927739" lon="3.66853687133742">
+    <name>sluis Evergem</name>
+    <desc>Locatie: Ringvaart om Gent</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1338202">
+      <text>sluis Evergem online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0895145424431" lon="3.66853601396868">
+    <name>kleine kolk Evergem</name>
+    <desc>Locatie: Ringvaart om Gent</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1338204">
+      <text>kleine kolk Evergem online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0084360551032" lon="3.74839246396061">
+    <name>Sluis Merelbeke</name>
+    <desc>Locatie: Ringvaart om Gent</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1338222">
+      <text>Sluis Merelbeke online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0894498725654" lon="3.6699538501903">
+    <name>grote kolk Evergem</name>
+    <desc>Locatie: Ringvaart om Gent</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1338266">
+      <text>grote kolk Evergem online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.7807625996168" lon="3.10093784708149">
+    <name>nieuwe sluis Menen</name>
+    <desc>Locatie: Grensleie</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1308930">
+      <text>nieuwe sluis Menen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.7595354404854" lon="2.98854634147163">
+    <name>sluis Comines</name>
+    <desc>Locatie: Grensleie</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1308954">
+      <text>sluis Comines online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2638085983989" lon="4.27885347184508">
+    <name>Kallosluis</name>
+    <desc>Locatie: Haven Antwerpen</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1323886">
+      <text>Kallosluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0126343224576" lon="3.7399247296995">
+    <name>sluis E3 Merelbeke</name>
+    <desc>Locatie: Boven-Schelde</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340586">
+      <text>sluis E3 Merelbeke online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.041647869171" lon="3.7397930785733">
+    <name>Brusselsepoortsluis</name>
+    <desc>Locatie: Boven-Schelde</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340618">
+      <text>Brusselsepoortsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.6282896899734" lon="3.37126504049949">
+    <name>sluis Kain</name>
+    <desc>Locatie: Boven-Schelde</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340634">
+      <text>sluis Kain online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.7896712437005" lon="3.49415732976204">
+    <name>sluis Kerkhove</name>
+    <desc>Locatie: Boven-Schelde</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340746">
+      <text>sluis Kerkhove online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9100429147631" lon="2.84990604418236">
+    <name>Sluis Boezinge Sas</name>
+    <desc>Locatie: Kanaal Ieper-IJzer</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1309714">
+      <text>Sluis Boezinge Sas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.8932398015931" lon="2.86710829108112">
+    <name>Sluis Boezinge Dorp</name>
+    <desc>Locatie: Kanaal Ieper-IJzer</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1309715">
+      <text>Sluis Boezinge Dorp online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.893239800665" lon="2.86710829241851">
+    <name>Sluis Boezinge Dorp</name>
+    <desc>Locatie: Kanaal Ieper-IJzer</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1309717">
+      <text>Sluis Boezinge Dorp online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9100396566884" lon="2.84988180067158">
+    <name>Sluis Boezinge-Sas</name>
+    <desc>Locatie: Kanaal Ieper-IJzer</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1309718">
+      <text>Sluis Boezinge-Sas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0862474406639" lon="3.66096195319482">
+    <name>Keersluis K1 te Vinderhoute</name>
+    <desc>Locatie: Kanaal Gent-Oostende (vak Gent-Brugge)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1324459">
+      <text>Keersluis K1 te Vinderhoute online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2213439515099" lon="3.23386305916823">
+    <name>Dammepoortsluis</name>
+    <desc>Locatie: Kanaal Gent-Oostende (vak Gent-Brugge)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1324494">
+      <text>Dammepoortsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0084356372266" lon="3.74839262079719">
+    <name>kolk 2 Merelbeke</name>
+    <desc>Locatie: Ringvaart om Gent</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1338317">
+      <text>kolk 2 Merelbeke online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.6636848790951" lon="5.63822179667523">
+    <name>sluis Monsin</name>
+    <desc>Locatie: Kanaal van Monsin</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1339414">
+      <text>sluis Monsin online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.4789247618383" lon="3.98257272842085">
+    <name>sluis Obourg Wartons</name>
+    <desc>Locatie: Centrumkanaal groot gabariet</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1339468">
+      <text>sluis Obourg Wartons online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.4710284320508" lon="4.02704368240282">
+    <name>sluis Havré</name>
+    <desc>Locatie: Centrumkanaal groot gabariet</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1339471">
+      <text>sluis Havré online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.479071820103" lon="4.11031096814128">
+    <name>lift Strépy-Thieu</name>
+    <desc>Locatie: Centrumkanaal groot gabariet</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1339482">
+      <text>lift Strépy-Thieu online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0692046275306" lon="3.72840251231866">
+    <name>Tolhuissluis Gent</name>
+    <desc>Locatie: Kanaal Gent-Oostende (vak Gent-Brugge)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1324702">
+      <text>Tolhuissluis Gent online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.8504821265332" lon="3.61879895348255">
+    <name>sluis Oudenaarde</name>
+    <desc>Locatie: Boven-Schelde</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340357">
+      <text>sluis Oudenaarde online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.7205065429586" lon="3.3660717001679">
+    <name>sluis Spiere/Hérinnes</name>
+    <desc>Locatie: Boven-Schelde</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340378">
+      <text>sluis Spiere/Hérinnes online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0465427479491" lon="3.74588344740253">
+    <name>Sluis Gentbrugge</name>
+    <desc>Locatie: Boven-Schelde</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340379">
+      <text>Sluis Gentbrugge online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9167930213971" lon="3.66686751485519">
+    <name>sluis Asper</name>
+    <desc>Locatie: Boven-Schelde</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340424">
+      <text>sluis Asper online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.041610133655" lon="3.73989406757199">
+    <name>Brusselsepoortsluis</name>
+    <desc>Locatie: Boven-Schelde</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340431">
+      <text>Brusselsepoortsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0465427452073" lon="3.74588344280835">
+    <name>Sluis Gentbrugge</name>
+    <desc>Locatie: Boven-Schelde</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340486">
+      <text>Sluis Gentbrugge online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0434553281457" lon="4.08470910606429">
+    <name>sluis Dendermonde</name>
+    <desc>Locatie: Dender</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311094">
+      <text>sluis Dendermonde online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.7990521141124" lon="3.93003519628405">
+    <name>Sluis Idegem</name>
+    <desc>Locatie: Dender</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311111">
+      <text>Sluis Idegem online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0009199027852" lon="4.07792713360611">
+    <name>sluis Denderbelle</name>
+    <desc>Locatie: Dender</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311126">
+      <text>sluis Denderbelle online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.1431418582358" lon="3.29692813127596">
+    <name>keersluis Beernem</name>
+    <desc>Locatie: Kanaal Gent-Oostende (vak Gent-Brugge)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1324903">
+      <text>keersluis Beernem online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0862637784953" lon="3.66098254744855">
+    <name>Keersluis K1 te Vinderhoute</name>
+    <desc>Locatie: Kanaal Gent-Oostende (vak Gent-Brugge)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1324933">
+      <text>Keersluis K1 te Vinderhoute online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.8921701804429" lon="4.08149147030582">
+    <name>sluis Teralfene</name>
+    <desc>Locatie: Dender</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311263">
+      <text>sluis Teralfene online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.8739084348418" lon="4.0773727756579">
+    <name>sluis Denderleeuw</name>
+    <desc>Locatie: Dender</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311264">
+      <text>sluis Denderleeuw online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9380969705193" lon="4.04579866825604">
+    <name>sluis Aalst</name>
+    <desc>Locatie: Dender</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311278">
+      <text>sluis Aalst online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.6831668842586" lon="3.82830417410883">
+    <name>sluis Papignies</name>
+    <desc>Locatie: Dender</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311288">
+      <text>sluis Papignies online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.7150141070462" lon="3.83244527202843">
+    <name>sluis Lessines</name>
+    <desc>Locatie: Dender</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311345">
+      <text>sluis Lessines online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.7306068107906" lon="3.85925506530987">
+    <name>sluis Deux-Acren</name>
+    <desc>Locatie: Dender</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311399">
+      <text>sluis Deux-Acren online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.769780771912" lon="3.88050721727135">
+    <name>sluis Geraardsbergen</name>
+    <desc>Locatie: Dender</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311501">
+      <text>sluis Geraardsbergen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.6595709896335" lon="3.7958518972699">
+    <name>sluis Rebaix</name>
+    <desc>Locatie: Dender</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311519">
+      <text>sluis Rebaix online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.64239672756" lon="3.77933104451582">
+    <name>sluis Bilhée</name>
+    <desc>Locatie: Dender</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311522">
+      <text>sluis Bilhée online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2231035738978" lon="3.22331899554001">
+    <name>Verbindingssluis</name>
+    <desc>Locatie: Kanaal Brugge-Zeebrugge</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327192">
+      <text>Verbindingssluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2231035738978" lon="3.22331899554001">
+    <name>Verbindingssluis</name>
+    <desc>Locatie: Kanaal Brugge-Zeebrugge</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327263">
+      <text>Verbindingssluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.4714823770305" lon="4.09207631782016">
+    <name>sluis Thieu</name>
+    <desc>Locatie: Historisch centrumkanaal</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327857">
+      <text>sluis Thieu online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.4827014833885" lon="4.14270957197374">
+    <name>lift 2 Houdeng-Aimeries</name>
+    <desc>Locatie: Historisch centrumkanaal</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327858">
+      <text>lift 2 Houdeng-Aimeries online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.4878109260496" lon="4.17606103754548">
+    <name>lift 1 Houdeng-Goegnies</name>
+    <desc>Locatie: Historisch centrumkanaal</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327859">
+      <text>lift 1 Houdeng-Goegnies online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.4714070721646" lon="4.0949422523657">
+    <name>lift 4 Thieu</name>
+    <desc>Locatie: Historisch centrumkanaal</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327861">
+      <text>lift 4 Thieu online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.4814026353168" lon="4.13770571742011">
+    <name>lift 3 Strépy-Bracquegnies</name>
+    <desc>Locatie: Historisch centrumkanaal</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327862">
+      <text>lift 3 Strépy-Bracquegnies online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0811861693095" lon="4.36681987461417">
+    <name>Sluis Klein-Willebroek</name>
+    <desc>Locatie: Aftakking Oude Arm Klein-Willebroek</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1313864">
+      <text>Sluis Klein-Willebroek online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0811824830949" lon="4.36687261181434">
+    <name>Sluis Klein-Willebroek</name>
+    <desc>Locatie: Aftakking Oude Arm Klein-Willebroek</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1313871">
+      <text>Sluis Klein-Willebroek online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.7950219086872" lon="5.68996659772328">
+    <name>sluis Ternaaien (Lanaye (B))</name>
+    <desc>Locatie: Toeleidingskanaal naar de sluizen van Ternaaien
+
+Bedieningstijden
+Periode 01-05 tot 15-09:
+   Gesloten: incl. feestdagen.
+   23:00 - 18:30: Za, excl. feestdagen.
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
+   05:00 - 22:59: Ma, excl. feestdagen.
+   08:00 - 18:30: Zo, excl. feestdagen.
+Periode 16-09 tot 30-04:
+   Gesloten: incl. feestdagen.
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
+   23:00 - 18:30: Za, excl. feestdagen.
+   05:00 - 22:59: Ma, excl. feestdagen.
+   08:00 - 17:00: Zo, excl. feestdagen.
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/36941">
+      <text>sluis Ternaaien (Lanaye (B)) online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0979990322817" lon="5.10782786256361">
+    <name>Kwaadmechelen middensas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361300">
+      <text>Kwaadmechelen middensas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9383018466125" lon="5.4322735917231">
+    <name>sluis Diepenbeek</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361313">
+      <text>sluis Diepenbeek online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9402703180338" lon="5.36928128220568">
+    <name>Hasselt duwvaartsas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361426">
+      <text>Hasselt duwvaartsas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0368125999311" lon="3.68419605459209">
+    <name>Keersluis K2 te Gent</name>
+    <desc>Locatie: Leie doortocht Gent</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1380225">
+      <text>Keersluis K2 te Gent online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.991486430682" lon="3.56728194021937">
+    <name>sluis Astene</name>
+    <desc>Locatie: Toeristische Leie</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1380262">
+      <text>sluis Astene online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.8550250324812" lon="3.30570167289799">
+    <name>sluis Harelbeke</name>
+    <desc>Locatie: Leie</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1380264">
+      <text>sluis Harelbeke online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.275874717226" lon="4.3307511520743">
     <name>Van Cauwelaertsluis</name>
     <desc>Locatie: Haven Antwerpen</desc>
@@ -210,59 +1017,385 @@
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="50.7950219086872" lon="5.68996659772328">
-    <name>sluis Ternaaien (Lanaye (B))</name>
-    <desc>Locatie: Toeleidingskanaal naar de sluizen van Ternaaien
-
-Bedieningstijden
-Periode 01-05 tot 15-09:
-   Gesloten: incl. feestdagen.
-   23:00 - 18:30: Za, excl. feestdagen.
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   05:00 - 22:59: Ma, excl. feestdagen.
-   08:00 - 18:30: Zo, excl. feestdagen.
-Periode 16-09 tot 30-04:
-   Gesloten: incl. feestdagen.
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 18:30: Za, excl. feestdagen.
-   05:00 - 22:59: Ma, excl. feestdagen.
-   08:00 - 17:00: Zo, excl. feestdagen.
-</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/36941">
-      <text>sluis Ternaaien (Lanaye (B)) online info</text>
+  <wpt lat="50.7439107829775" lon="5.67977447029277">
+    <name>sluis Visé</name>
+    <desc>Locatie: Kanaal van Haccourt naar Wezet</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1344777">
+      <text>sluis Visé online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.2213427882987" lon="3.23386004864354">
-    <name>Dammepoortsluis</name>
-    <desc>Locatie: Kanaal Gent-Oostende (vak Brugge-Oostende)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1314293">
-      <text>Dammepoortsluis online info</text>
+  <wpt lat="50.9734948473919" lon="4.56061116626891">
+    <name>Sluis Boortmeerbeek</name>
+    <desc>Locatie: Kanaal Leuven-Dijle</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1374875">
+      <text>Sluis Boortmeerbeek online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="50.9574544422399" lon="2.73620042011209">
-    <name>Fintelesluis</name>
-    <desc>Locatie: Lokanaal</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1315693">
-      <text>Fintelesluis online info</text>
+  <wpt lat="50.9561577832426" lon="4.59394869500328">
+    <name>Sluis Kampenhout</name>
+    <desc>Locatie: Kanaal Leuven-Dijle</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1374999">
+      <text>Sluis Kampenhout online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="50.9574511964673" lon="2.73615230873475">
-    <name>Fintelesluis</name>
-    <desc>Locatie: Lokanaal</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1315694">
-      <text>Fintelesluis online info</text>
+  <wpt lat="50.9561622946798" lon="4.59394668044538">
+    <name>Sluis Kampenhout</name>
+    <desc>Locatie: Kanaal Leuven-Dijle</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1375049">
+      <text>Sluis Kampenhout online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0384364074576" lon="4.44619878457622">
+    <name>Battelsluis</name>
+    <desc>Locatie: Kanaal Leuven-Dijle</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1375057">
+      <text>Battelsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9395989452289" lon="4.66563681728504">
+    <name>Tildonk sluis</name>
+    <desc>Locatie: Kanaal Leuven-Dijle</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1375098">
+      <text>Tildonk sluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0636616635497" lon="4.4305617053829">
+    <name>Zennegatsluis</name>
+    <desc>Locatie: Kanaal Leuven-Dijle</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1375102">
+      <text>Zennegatsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9734890650686" lon="4.56060151062686">
+    <name>Sluis Boortmeerbeek</name>
+    <desc>Locatie: Kanaal Leuven-Dijle</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1375177">
+      <text>Sluis Boortmeerbeek online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.038448910076" lon="4.44622064424675">
+    <name>Battelsluis</name>
+    <desc>Locatie: Kanaal Leuven-Dijle</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1375226">
+      <text>Battelsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.1885034859459" lon="4.66790192674576">
+    <name>Vierselsluis</name>
+    <desc>Locatie: Netekanaal</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1377259">
+      <text>Vierselsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.1102397146436" lon="4.53583337730607">
+    <name>Duffelsluis I</name>
+    <desc>Locatie: Netekanaal</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1377299">
+      <text>Duffelsluis I online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.1102130014507" lon="4.53574010541182">
+    <name>Duffelsluizen</name>
+    <desc>Locatie: Netekanaal</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1377347">
+      <text>Duffelsluizen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.1885063226322" lon="4.66788768777349">
+    <name>Vierselsluis</name>
+    <desc>Locatie: Netekanaal</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1377349">
+      <text>Vierselsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2071447941484" lon="5.55572087980445">
+    <name>sluis Lozen</name>
+    <desc>Locatie: Zuid-Willemsvaart</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1346819">
+      <text>sluis Lozen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.5372665677655" lon="3.4727811259818">
+    <name>sluis Peronnes 1</name>
+    <desc>Locatie: Kanaal Nimy-Blaton-Peronnes</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1347140">
+      <text>sluis Peronnes 1 online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.5412964544415" lon="3.44851733274383">
+    <name>sluis Peronnes 2</name>
+    <desc>Locatie: Kanaal Nimy-Blaton-Peronnes</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1347146">
+      <text>sluis Peronnes 2 online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.1591215139663" lon="4.86020209442777">
+    <name>sluis Olen</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360434">
+      <text>sluis Olen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.159229419543" lon="4.86050166171887">
+    <name>Olen middensas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360493">
+      <text>Olen middensas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9387440276857" lon="5.43207747088264">
+    <name>Diepenbeek noordersas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360515">
+      <text>Diepenbeek noordersas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.1103515833468" lon="4.53565168817136">
+    <name>Duffelsluis II</name>
+    <desc>Locatie: Netekanaal</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1377547">
+      <text>Duffelsluis II online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0332920407405" lon="4.46768722468063">
+    <name>Benedensluis Mechelen</name>
+    <desc>Locatie: Beneden-Dijle</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1378911">
+      <text>Benedensluis Mechelen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0332910535828" lon="4.46768589220693">
+    <name>Benedensluis Mechelen</name>
+    <desc>Locatie: Beneden-Dijle</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1378914">
+      <text>Benedensluis Mechelen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0982993511165" lon="5.10789677565456">
+    <name>Kwaadmechelen noordersas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360663">
+      <text>Kwaadmechelen noordersas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9384516790123" lon="5.43203852037006">
+    <name>Diepenbeek middensas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360670">
+      <text>Diepenbeek middensas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9362643695697" lon="5.49191644152617">
+    <name>Genk noordersas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360707">
+      <text>Genk noordersas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9406183311639" lon="5.36874877774751">
+    <name>sluis Hasselt</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360718">
+      <text>sluis Hasselt online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.226877487687" lon="4.53621942344223">
+    <name>Wijnegem duwvaartsas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360853">
+      <text>Wijnegem duwvaartsas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.937902450265" lon="5.43255394911323">
+    <name>Diepenbeek duwvaartsas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360868">
+      <text>Diepenbeek duwvaartsas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.159504712963" lon="4.86069416469779">
+    <name>Olen noordersas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360962">
+      <text>Olen noordersas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2267707339951" lon="4.53844107184944">
+    <name>Wijnegem noordersas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361139">
+      <text>Wijnegem noordersas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9357840994888" lon="5.49079788339055">
+    <name>sluis Genk</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361142">
+      <text>sluis Genk online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2266125091208" lon="4.5383143524818">
+    <name>Wijnegem middensas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361155">
+      <text>Wijnegem middensas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0368126023526" lon="3.68419605909917">
+    <name>Keersluis K2 te Gent</name>
+    <desc>Locatie: Leie doortocht Gent</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1380098">
+      <text>Keersluis K2 te Gent online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.0978645025908" lon="5.10771758697555">
+    <name>sluis Kwaadmechelen</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361216">
+      <text>sluis Kwaadmechelen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.940808399302" lon="5.36880064105647">
+    <name>Hasselt middensas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361294">
+      <text>Hasselt middensas online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
@@ -1825,1139 +2958,6 @@ Periode 16-09 tot 30-04:
     <desc>Locatie: Kanaal Leuven-Dijle</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1374845">
       <text>Zennegatsluis online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.7439107829775" lon="5.67977447029277">
-    <name>sluis Visé</name>
-    <desc>Locatie: Kanaal van Haccourt naar Wezet</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1344777">
-      <text>sluis Visé online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9734948473919" lon="4.56061116626891">
-    <name>Sluis Boortmeerbeek</name>
-    <desc>Locatie: Kanaal Leuven-Dijle</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1374875">
-      <text>Sluis Boortmeerbeek online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9561577832426" lon="4.59394869500328">
-    <name>Sluis Kampenhout</name>
-    <desc>Locatie: Kanaal Leuven-Dijle</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1374999">
-      <text>Sluis Kampenhout online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9561622946798" lon="4.59394668044538">
-    <name>Sluis Kampenhout</name>
-    <desc>Locatie: Kanaal Leuven-Dijle</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1375049">
-      <text>Sluis Kampenhout online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0384364074576" lon="4.44619878457622">
-    <name>Battelsluis</name>
-    <desc>Locatie: Kanaal Leuven-Dijle</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1375057">
-      <text>Battelsluis online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9395989452289" lon="4.66563681728504">
-    <name>Tildonk sluis</name>
-    <desc>Locatie: Kanaal Leuven-Dijle</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1375098">
-      <text>Tildonk sluis online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0636616635497" lon="4.4305617053829">
-    <name>Zennegatsluis</name>
-    <desc>Locatie: Kanaal Leuven-Dijle</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1375102">
-      <text>Zennegatsluis online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9734890650686" lon="4.56060151062686">
-    <name>Sluis Boortmeerbeek</name>
-    <desc>Locatie: Kanaal Leuven-Dijle</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1375177">
-      <text>Sluis Boortmeerbeek online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.038448910076" lon="4.44622064424675">
-    <name>Battelsluis</name>
-    <desc>Locatie: Kanaal Leuven-Dijle</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1375226">
-      <text>Battelsluis online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.1885034859459" lon="4.66790192674576">
-    <name>Vierselsluis</name>
-    <desc>Locatie: Netekanaal</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1377259">
-      <text>Vierselsluis online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.1102397146436" lon="4.53583337730607">
-    <name>Duffelsluis I</name>
-    <desc>Locatie: Netekanaal</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1377299">
-      <text>Duffelsluis I online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.1102130014507" lon="4.53574010541182">
-    <name>Duffelsluizen</name>
-    <desc>Locatie: Netekanaal</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1377347">
-      <text>Duffelsluizen online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.1885063226322" lon="4.66788768777349">
-    <name>Vierselsluis</name>
-    <desc>Locatie: Netekanaal</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1377349">
-      <text>Vierselsluis online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.2071447941484" lon="5.55572087980445">
-    <name>sluis Lozen</name>
-    <desc>Locatie: Zuid-Willemsvaart</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1346819">
-      <text>sluis Lozen online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.5372665677655" lon="3.4727811259818">
-    <name>sluis Peronnes 1</name>
-    <desc>Locatie: Kanaal Nimy-Blaton-Peronnes</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1347140">
-      <text>sluis Peronnes 1 online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.5412964544415" lon="3.44851733274383">
-    <name>sluis Peronnes 2</name>
-    <desc>Locatie: Kanaal Nimy-Blaton-Peronnes</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1347146">
-      <text>sluis Peronnes 2 online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.1591215139663" lon="4.86020209442777">
-    <name>sluis Olen</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360434">
-      <text>sluis Olen online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.159229419543" lon="4.86050166171887">
-    <name>Olen middensas</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360493">
-      <text>Olen middensas online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9387440276857" lon="5.43207747088264">
-    <name>Diepenbeek noordersas</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360515">
-      <text>Diepenbeek noordersas online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.1103515833468" lon="4.53565168817136">
-    <name>Duffelsluis II</name>
-    <desc>Locatie: Netekanaal</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1377547">
-      <text>Duffelsluis II online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0332920407405" lon="4.46768722468063">
-    <name>Benedensluis Mechelen</name>
-    <desc>Locatie: Beneden-Dijle</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1378911">
-      <text>Benedensluis Mechelen online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0332910535828" lon="4.46768589220693">
-    <name>Benedensluis Mechelen</name>
-    <desc>Locatie: Beneden-Dijle</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1378914">
-      <text>Benedensluis Mechelen online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0982993511165" lon="5.10789677565456">
-    <name>Kwaadmechelen noordersas</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360663">
-      <text>Kwaadmechelen noordersas online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9384516790123" lon="5.43203852037006">
-    <name>Diepenbeek middensas</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360670">
-      <text>Diepenbeek middensas online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9362643695697" lon="5.49191644152617">
-    <name>Genk noordersas</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360707">
-      <text>Genk noordersas online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9406183311639" lon="5.36874877774751">
-    <name>sluis Hasselt</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360718">
-      <text>sluis Hasselt online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.226877487687" lon="4.53621942344223">
-    <name>Wijnegem duwvaartsas</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360853">
-      <text>Wijnegem duwvaartsas online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.937902450265" lon="5.43255394911323">
-    <name>Diepenbeek duwvaartsas</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360868">
-      <text>Diepenbeek duwvaartsas online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.159504712963" lon="4.86069416469779">
-    <name>Olen noordersas</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360962">
-      <text>Olen noordersas online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.2267707339951" lon="4.53844107184944">
-    <name>Wijnegem noordersas</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361139">
-      <text>Wijnegem noordersas online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9357840994888" lon="5.49079788339055">
-    <name>sluis Genk</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361142">
-      <text>sluis Genk online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.2266125091208" lon="4.5383143524818">
-    <name>Wijnegem middensas</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361155">
-      <text>Wijnegem middensas online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0368126023526" lon="3.68419605909917">
-    <name>Keersluis K2 te Gent</name>
-    <desc>Locatie: Leie doortocht Gent</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1380098">
-      <text>Keersluis K2 te Gent online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0978645025908" lon="5.10771758697555">
-    <name>sluis Kwaadmechelen</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361216">
-      <text>sluis Kwaadmechelen online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.940808399302" lon="5.36880064105647">
-    <name>Hasselt middensas</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361294">
-      <text>Hasselt middensas online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0979990322817" lon="5.10782786256361">
-    <name>Kwaadmechelen middensas</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361300">
-      <text>Kwaadmechelen middensas online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9383018466125" lon="5.4322735917231">
-    <name>sluis Diepenbeek</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361313">
-      <text>sluis Diepenbeek online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9402703180338" lon="5.36928128220568">
-    <name>Hasselt duwvaartsas</name>
-    <desc>Locatie: Albertkanaal (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361426">
-      <text>Hasselt duwvaartsas online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0368125999311" lon="3.68419605459209">
-    <name>Keersluis K2 te Gent</name>
-    <desc>Locatie: Leie doortocht Gent</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1380225">
-      <text>Keersluis K2 te Gent online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.991486430682" lon="3.56728194021937">
-    <name>sluis Astene</name>
-    <desc>Locatie: Toeristische Leie</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1380262">
-      <text>sluis Astene online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.8550250324812" lon="3.30570167289799">
-    <name>sluis Harelbeke</name>
-    <desc>Locatie: Leie</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1380264">
-      <text>sluis Harelbeke online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.241297772071" lon="4.4026231533688">
-    <name>Royerssluis</name>
-    <desc>Locatie: Haven Antwerpen</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1306537">
-      <text>Royerssluis online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.27773" lon="4.33276">
-    <name>Boudewijnsluis</name>
-    <desc>Locatie: Haven Antwerpen</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1306558">
-      <text>Boudewijnsluis online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.8850776666603" lon="5.6548976947085">
-    <name>Lanaken</name>
-    <desc>Locatie: Kanaal Briegden-Neerharen</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1307070">
-      <text>Lanaken online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.8850776666603" lon="5.6548976947085">
-    <name>sluis Lanaken</name>
-    <desc>Locatie: Kanaal Briegden-Neerharen</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1307089">
-      <text>sluis Lanaken online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9017156479106" lon="5.68297329561174">
-    <name>Neerharen</name>
-    <desc>Locatie: Kanaal Briegden-Neerharen</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1307092">
-      <text>Neerharen online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9017156479106" lon="5.68297329561174">
-    <name>sluis Neerharen</name>
-    <desc>Locatie: Kanaal Briegden-Neerharen</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1307098">
-      <text>sluis Neerharen online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.4768806765608" lon="3.71189855059564">
-    <name>sluis Pommeroeul</name>
-    <desc>Locatie: Kanaal Pommeroeul-Conde</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1337742">
-      <text>sluis Pommeroeul online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.4499035107989" lon="3.67013508580396">
-    <name>sluis Hensies</name>
-    <desc>Locatie: Kanaal Pommeroeul-Conde</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1337745">
-      <text>sluis Hensies online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0563630285329" lon="3.73776923915727">
-    <name>Kasteelsluis Gent</name>
-    <desc>Locatie: Kanaal Gent-Terneuzen (BE)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1307832">
-      <text>Kasteelsluis Gent online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0087778692873" lon="3.74863449048294">
-    <name>kolk 1 Merelbeke</name>
-    <desc>Locatie: Ringvaart om Gent</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1338054">
-      <text>kolk 1 Merelbeke online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0895129927739" lon="3.66853687133742">
-    <name>sluis Evergem</name>
-    <desc>Locatie: Ringvaart om Gent</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1338202">
-      <text>sluis Evergem online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0895145424431" lon="3.66853601396868">
-    <name>kleine kolk Evergem</name>
-    <desc>Locatie: Ringvaart om Gent</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1338204">
-      <text>kleine kolk Evergem online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0084360551032" lon="3.74839246396061">
-    <name>Sluis Merelbeke</name>
-    <desc>Locatie: Ringvaart om Gent</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1338222">
-      <text>Sluis Merelbeke online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0894498725654" lon="3.6699538501903">
-    <name>grote kolk Evergem</name>
-    <desc>Locatie: Ringvaart om Gent</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1338266">
-      <text>grote kolk Evergem online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.7807625996168" lon="3.10093784708149">
-    <name>nieuwe sluis Menen</name>
-    <desc>Locatie: Grensleie</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1308930">
-      <text>nieuwe sluis Menen online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.7595354404854" lon="2.98854634147163">
-    <name>sluis Comines</name>
-    <desc>Locatie: Grensleie</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1308954">
-      <text>sluis Comines online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.2638085983989" lon="4.27885347184508">
-    <name>Kallosluis</name>
-    <desc>Locatie: Haven Antwerpen</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1323886">
-      <text>Kallosluis online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0126343224576" lon="3.7399247296995">
-    <name>sluis E3 Merelbeke</name>
-    <desc>Locatie: Boven-Schelde</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340586">
-      <text>sluis E3 Merelbeke online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.041647869171" lon="3.7397930785733">
-    <name>Brusselsepoortsluis</name>
-    <desc>Locatie: Boven-Schelde</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340618">
-      <text>Brusselsepoortsluis online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.6282896899734" lon="3.37126504049949">
-    <name>sluis Kain</name>
-    <desc>Locatie: Boven-Schelde</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340634">
-      <text>sluis Kain online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.7896712437005" lon="3.49415732976204">
-    <name>sluis Kerkhove</name>
-    <desc>Locatie: Boven-Schelde</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340746">
-      <text>sluis Kerkhove online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9100429147631" lon="2.84990604418236">
-    <name>Sluis Boezinge Sas</name>
-    <desc>Locatie: Kanaal Ieper-IJzer</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1309714">
-      <text>Sluis Boezinge Sas online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.8932398015931" lon="2.86710829108112">
-    <name>Sluis Boezinge Dorp</name>
-    <desc>Locatie: Kanaal Ieper-IJzer</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1309715">
-      <text>Sluis Boezinge Dorp online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.893239800665" lon="2.86710829241851">
-    <name>Sluis Boezinge Dorp</name>
-    <desc>Locatie: Kanaal Ieper-IJzer</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1309717">
-      <text>Sluis Boezinge Dorp online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9100396566884" lon="2.84988180067158">
-    <name>Sluis Boezinge-Sas</name>
-    <desc>Locatie: Kanaal Ieper-IJzer</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1309718">
-      <text>Sluis Boezinge-Sas online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0862474406639" lon="3.66096195319482">
-    <name>Keersluis K1 te Vinderhoute</name>
-    <desc>Locatie: Kanaal Gent-Oostende (vak Gent-Brugge)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1324459">
-      <text>Keersluis K1 te Vinderhoute online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.2213439515099" lon="3.23386305916823">
-    <name>Dammepoortsluis</name>
-    <desc>Locatie: Kanaal Gent-Oostende (vak Gent-Brugge)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1324494">
-      <text>Dammepoortsluis online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0084356372266" lon="3.74839262079719">
-    <name>kolk 2 Merelbeke</name>
-    <desc>Locatie: Ringvaart om Gent</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1338317">
-      <text>kolk 2 Merelbeke online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.6636848790951" lon="5.63822179667523">
-    <name>sluis Monsin</name>
-    <desc>Locatie: Kanaal van Monsin</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1339414">
-      <text>sluis Monsin online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.4789247618383" lon="3.98257272842085">
-    <name>sluis Obourg Wartons</name>
-    <desc>Locatie: Centrumkanaal groot gabariet</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1339468">
-      <text>sluis Obourg Wartons online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.4710284320508" lon="4.02704368240282">
-    <name>sluis Havré</name>
-    <desc>Locatie: Centrumkanaal groot gabariet</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1339471">
-      <text>sluis Havré online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.479071820103" lon="4.11031096814128">
-    <name>lift Strépy-Thieu</name>
-    <desc>Locatie: Centrumkanaal groot gabariet</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1339482">
-      <text>lift Strépy-Thieu online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0692046275306" lon="3.72840251231866">
-    <name>Tolhuissluis Gent</name>
-    <desc>Locatie: Kanaal Gent-Oostende (vak Gent-Brugge)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1324702">
-      <text>Tolhuissluis Gent online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.8504821265332" lon="3.61879895348255">
-    <name>sluis Oudenaarde</name>
-    <desc>Locatie: Boven-Schelde</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340357">
-      <text>sluis Oudenaarde online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.7205065429586" lon="3.3660717001679">
-    <name>sluis Spiere/Hérinnes</name>
-    <desc>Locatie: Boven-Schelde</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340378">
-      <text>sluis Spiere/Hérinnes online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0465427479491" lon="3.74588344740253">
-    <name>Sluis Gentbrugge</name>
-    <desc>Locatie: Boven-Schelde</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340379">
-      <text>Sluis Gentbrugge online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9167930213971" lon="3.66686751485519">
-    <name>sluis Asper</name>
-    <desc>Locatie: Boven-Schelde</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340424">
-      <text>sluis Asper online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.041610133655" lon="3.73989406757199">
-    <name>Brusselsepoortsluis</name>
-    <desc>Locatie: Boven-Schelde</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340431">
-      <text>Brusselsepoortsluis online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0465427452073" lon="3.74588344280835">
-    <name>Sluis Gentbrugge</name>
-    <desc>Locatie: Boven-Schelde</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1340486">
-      <text>Sluis Gentbrugge online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0434553281457" lon="4.08470910606429">
-    <name>sluis Dendermonde</name>
-    <desc>Locatie: Dender</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311094">
-      <text>sluis Dendermonde online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.7990521141124" lon="3.93003519628405">
-    <name>Sluis Idegem</name>
-    <desc>Locatie: Dender</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311111">
-      <text>Sluis Idegem online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0009199027852" lon="4.07792713360611">
-    <name>sluis Denderbelle</name>
-    <desc>Locatie: Dender</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311126">
-      <text>sluis Denderbelle online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.1431418582358" lon="3.29692813127596">
-    <name>keersluis Beernem</name>
-    <desc>Locatie: Kanaal Gent-Oostende (vak Gent-Brugge)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1324903">
-      <text>keersluis Beernem online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0862637784953" lon="3.66098254744855">
-    <name>Keersluis K1 te Vinderhoute</name>
-    <desc>Locatie: Kanaal Gent-Oostende (vak Gent-Brugge)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1324933">
-      <text>Keersluis K1 te Vinderhoute online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.8921701804429" lon="4.08149147030582">
-    <name>sluis Teralfene</name>
-    <desc>Locatie: Dender</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311263">
-      <text>sluis Teralfene online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.8739084348418" lon="4.0773727756579">
-    <name>sluis Denderleeuw</name>
-    <desc>Locatie: Dender</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311264">
-      <text>sluis Denderleeuw online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.9380969705193" lon="4.04579866825604">
-    <name>sluis Aalst</name>
-    <desc>Locatie: Dender</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311278">
-      <text>sluis Aalst online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.6831668842586" lon="3.82830417410883">
-    <name>sluis Papignies</name>
-    <desc>Locatie: Dender</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311288">
-      <text>sluis Papignies online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.7150141070462" lon="3.83244527202843">
-    <name>sluis Lessines</name>
-    <desc>Locatie: Dender</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311345">
-      <text>sluis Lessines online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.7306068107906" lon="3.85925506530987">
-    <name>sluis Deux-Acren</name>
-    <desc>Locatie: Dender</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311399">
-      <text>sluis Deux-Acren online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.769780771912" lon="3.88050721727135">
-    <name>sluis Geraardsbergen</name>
-    <desc>Locatie: Dender</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311501">
-      <text>sluis Geraardsbergen online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.6595709896335" lon="3.7958518972699">
-    <name>sluis Rebaix</name>
-    <desc>Locatie: Dender</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311519">
-      <text>sluis Rebaix online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.64239672756" lon="3.77933104451582">
-    <name>sluis Bilhée</name>
-    <desc>Locatie: Dender</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1311522">
-      <text>sluis Bilhée online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.2231035738978" lon="3.22331899554001">
-    <name>Verbindingssluis</name>
-    <desc>Locatie: Kanaal Brugge-Zeebrugge</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327192">
-      <text>Verbindingssluis online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.2231035738978" lon="3.22331899554001">
-    <name>Verbindingssluis</name>
-    <desc>Locatie: Kanaal Brugge-Zeebrugge</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327263">
-      <text>Verbindingssluis online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.4714823770305" lon="4.09207631782016">
-    <name>sluis Thieu</name>
-    <desc>Locatie: Historisch centrumkanaal</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327857">
-      <text>sluis Thieu online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.4827014833885" lon="4.14270957197374">
-    <name>lift 2 Houdeng-Aimeries</name>
-    <desc>Locatie: Historisch centrumkanaal</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327858">
-      <text>lift 2 Houdeng-Aimeries online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.4878109260496" lon="4.17606103754548">
-    <name>lift 1 Houdeng-Goegnies</name>
-    <desc>Locatie: Historisch centrumkanaal</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327859">
-      <text>lift 1 Houdeng-Goegnies online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.4714070721646" lon="4.0949422523657">
-    <name>lift 4 Thieu</name>
-    <desc>Locatie: Historisch centrumkanaal</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327861">
-      <text>lift 4 Thieu online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.4814026353168" lon="4.13770571742011">
-    <name>lift 3 Strépy-Bracquegnies</name>
-    <desc>Locatie: Historisch centrumkanaal</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327862">
-      <text>lift 3 Strépy-Bracquegnies online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0811861693095" lon="4.36681987461417">
-    <name>Sluis Klein-Willebroek</name>
-    <desc>Locatie: Aftakking Oude Arm Klein-Willebroek</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1313864">
-      <text>Sluis Klein-Willebroek online info</text>
-    </link>
-    <sym>Symbol-Spot-Magenta</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0811824830949" lon="4.36687261181434">
-    <name>Sluis Klein-Willebroek</name>
-    <desc>Locatie: Aftakking Oude Arm Klein-Willebroek</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1313871">
-      <text>Sluis Klein-Willebroek online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
