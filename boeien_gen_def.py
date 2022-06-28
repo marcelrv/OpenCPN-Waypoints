@@ -24,7 +24,7 @@ class BoeienSource:
 
 
 nederland = BoeienSource(
-    name='nederland',
+    name='Nederland',
     source_filename=workingFolder + 'NL-Boeien.gml',
     outputFileName='NL-Boeien.gpx',
     url=['https://geo.rijkswaterstaat.nl/services/ogc/gdr/vaarweg_markeringen/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=vaarweg_markering_drijvend_detail&outputFormat=gml32'],

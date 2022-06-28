@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Create Boeien voor Friesland als GPX file for OpenCPN
-Sourcedata is geoportaal friesland
+Create Boeien voor Nederland, Friesland als GPX file for OpenCPN
+Sourcedata is geoportaal friesland & RWS
 
 @author: Marcel Verpaalen
 
@@ -10,14 +10,12 @@ Sourcedata is geoportaal friesland
 __author__ = "Marcel Verpaalen"
 __copyright__ = "Copyright 2022"
 __license__ = "AGPL 3.0"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
-import datetime
 import errno
 import os
 import time
 import xml.etree.ElementTree as mod_etree
-from pathlib import Path
 
 import gpxpy
 import gpxpy.gpx
@@ -153,11 +151,12 @@ def process_gml(input_filename, outName, field_mapping, icon_mapping, epsg=None)
 
 def create_GPXheader(gpx):
 
-    gpx.creator = 'frieslandboeien_generator.py -- https://github.com/marcelrv/OpenCPN-Waypoints'
+    gpx.creator = 'boeien_generator.py -- https://github.com/marcelrv/OpenCPN-Waypoints'
     gpx.author_name = 'Marcel Verpaalen'
     gpx.copyright_year = '2022'
     gpx.copyright_license = 'CC BY-NC-SA 4.0'
-    gpx.time = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+    # removed to avoid everyday updates of the file without real changes
+    # gpx.time = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
     return gpx
 
 
@@ -186,20 +185,19 @@ def safeFile(filename, indata):
     f = open(filename, "w", encoding='utf-8')
     f.write(indata)
     f.close()
-    print("Exported to " + filename)
+    print("Saved to %s" % filename)
 
 
 def update_source_data(fn, urls):
-    for url in urls:  # to be implemented
+    for url in urls:  # multiple urls to be implemented
         if not os.path.exists(fn) or (time.time() - os.path.getmtime(fn)) > max_age:
             print('Downloading %s' % fn)
             response = requests.get(url)
             data = response.text
             safeFile(fn, data)
-
-    else:
-        print(
-            f'Reusing existing {fn} which is {int((time.time() -  os.path.getmtime(fn))/3600)} hours old')
+        else:
+            print(
+                f'Reusing existing {fn} which is {int((time.time() -  os.path.getmtime(fn))/3600)} hours old')
 
 
 def saveGPX(gpx, fn):
@@ -207,7 +205,7 @@ def saveGPX(gpx, fn):
         print('Created GPX:', gpx.to_xml())
     waypoints = len(gpx.waypoints)
     if waypoints == 0:
-        print(f'GPX with {str(waypoints)} waypoints SKIPPED: {name}')
+        print(f'GPX with {str(waypoints)} waypoints SKIPPED: {fn}')
         return
     f = open(fn, "w")
     f.write(gpx.to_xml())
@@ -232,6 +230,8 @@ if __name__ == "__main__":
         gpx_file = open(boeien_bestand.outputFileName, 'r')
         gpx = gpxpy.parse(gpx_file)
         create_GPXheader(gpx)
+        gpx.description = '%s buoys based on RWS data. Use associated usericons to display buoys shape correctly' \
+            % boeien_bestand.name
         if _UseScale:
             root = create_GPX_namespace(gpx, _ScaleMin)
             for gpx_wps in gpx.waypoints:
