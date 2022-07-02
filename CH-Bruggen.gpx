@@ -12,18 +12,6 @@
     </copyright>
     <time>2022-06-29T17:30:20.884000Z</time>
   </metadata>
-  <wpt lat="47.558164939389" lon="7.6143328856467">
-    <name>spoorbrug Basel</name>
-    <desc>Locatie: Rhein
-Type:    Vaste Brug</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/9266011">
-      <text>spoorbrug Basel online info</text>
-    </link>
-    <sym>Landmarks-Bridge1</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="47.570732527892" lon="7.5848500441564">
     <name>Dreirosenbrücke</name>
     <desc>Locatie: Rhein
@@ -126,6 +114,18 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/5373676">
       <text>brug Rheinfelden online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="47.558164939389" lon="7.6143328856467">
+    <name>spoorbrug Basel</name>
+    <desc>Locatie: Rhein
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/9266011">
+      <text>spoorbrug Basel online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
