@@ -227,6 +227,8 @@ if __name__ == "__main__":
         gpx_file = open(boeien_bestand.outputFileName, 'r')
         gpx = gpxpy.parse(gpx_file)
         create_GPXheader(gpx)
+        gpx.waypoints = sorted(gpx.waypoints, key=lambda w:
+                               str(w.name) + str(w.latitude + w.longitude))
         gpx.description = '%s buoys based on RWS data. Use associated user icons to display buoys shape correctly' \
             % boeien_bestand.name
         if _UseScale:

@@ -127,7 +127,7 @@ class BridgeInfo:
         if _UseScale:
             root = create_GPX_namespace(gpx, _ScaleMin)
 
-        for bridge in self.bridges:
+        for bridge in sorted(self.bridges, key=lambda r: r.get('Id')):
             gpx_wps = gpxpy.gpx.GPXWaypoint()
             # pnt = bridge["Geometry"].replace("POINT (", "").replace(")", "").split(" ")
             pnt = add_coordinate(gpx_wps, bridge["Geometry"])
@@ -237,7 +237,7 @@ class RadioInfo:
             description += ' with VHF channel in name'
         gpx.description = description + ' based on RWS data'
 
-        for radio in self.radiocallinpoint:
+        for radio in sorted(self.radiocallinpoint, key=lambda r: r.get('Id')):
             gpx_wps = gpxpy.gpx.GPXWaypoint()
             pnt = add_coordinate(gpx_wps, radio["Geometry"])
             related_geo = find_related(radio.get('ParentId'), self.related, radio.get('ParentGeoType'))
