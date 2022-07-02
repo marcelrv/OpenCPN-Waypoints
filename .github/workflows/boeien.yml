@@ -1,21 +1,22 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Refresh Data vaarwater info
+name: Refresh Boeien files
 
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "master" branch
-  push:
-    branches: [ "main" ]
+#  push:
+#    branches: [ "main" ]
   schedule:
-    - cron: '0 13 * * *' # runs daily refresh at 12:00 UTC everyday
+    - cron: '0 12 * * *' # runs daily refresh at 12:00 UTC everyday
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  refreshBruggenetc:
+  refreshB:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
@@ -33,9 +34,47 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: install gdal
+        run: |
+         sudo apt-add-repository -y ppa:ubuntugis/ubuntugis-unstable
+         sudo apt-get update
+         sudo apt-get install -y gdal-bin libgdal-dev
+         pip install GDAL==3.4.3
+#         pip install GDAL==3.2.3
+
+
+#      - name: install gdal
+#        run: |
+#         sudo apt-get update
+#         sudo apt-get install -y gdal-bin libgdal-dev
+#         apt-get install -y python3-gdal
+#         pip install osgeo
+#         pip install gdal
+#         pip install GDAL
+
+
+
+#         sudo apt-get install gdal-bin libgdal-dev
+#         pip install osgeo
+#         pip install gdal
+#         pip install GDAL
+
+
+
+
+
+#      - name: install gdal
+#        run: |
+#         sudo apt-add-repository ppa:ubuntugis/ubuntugis-unstable
+#         sudo apt-get update
+#         sudo apt-get install gdal-bin libgdal-dev
+#         pip install GDAL==3.2.3
+#         pip install GDAL
+
+
       - name: execute py script # run the run.py to get the latest data
         run: |
-              python vwi_waypoints_generator.py
+              python boeien_generator.py
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
 
