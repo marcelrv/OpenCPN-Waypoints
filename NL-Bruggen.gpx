@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-06-29T17:30:20.884000Z</time>
+    <time>2022-07-04T16:59:52.864000Z</time>
   </metadata>
   <wpt lat="53.0759321679316" lon="7.14846917281973">
     <name>Vriescheloosterbrug</name>
@@ -682,24 +682,20 @@ VHF:     14
 Bedieningstijden
 Periode 01-09 tot 30-09:
    07:00 - 10:00: Za, Zo, incl. feestdagen.
-   07:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   07:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    14:00 - 19:00: Za, Zo, incl. feestdagen.
 Periode 01-10 tot 31-03:
    Gesloten: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-04 tot 31-05:
-   07:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   07:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:00 - 10:00: Za, Zo, incl. feestdagen.
    14:00 - 19:00: Za, Zo, incl. feestdagen.
 Periode 01-06 tot 30-06:
-   07:00 - 10:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   07:00 - 10:00: Za, Zo, incl. feestdagen.
-   14:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   14:00 - 19:00: Za, Zo, incl. feestdagen.
+   07:00 - 10:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   14:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-07 tot 31-08:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   07:00 - 10:00: Za, Zo, incl. feestdagen.
-   14:00 - 20:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   14:00 - 19:00: Za, Zo, incl. feestdagen.
+   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   14:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/2027">
       <text>brug over buitenhoofd Zeedoksluis online info</text>
@@ -10019,7 +10015,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7303111128372" lon="6.20283365249634">
+  <wpt lat="52.730301151934555" lon="6.202836055417719">
     <name>Pijlebrug</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
