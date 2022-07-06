@@ -48232,7 +48232,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.958661111106544" lon="4.152238888519491">
+  <wpt lat="51.95839166647511" lon="4.1520138893403">
     <name>NW 25</name>
     <desc>vaarweg : NIEUWE WATERWEG
 licht type : Q (quick-flashing)
@@ -70746,6 +70746,123 @@ model : spar Rood/groen repeterend</desc>
     <desc>vaarweg : HARINGVLIET
 model : spar Rood/groen repeterend</desc>
     <sym>1421</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.80085277783558" lon="5.655036111577468">
+    <name>SR 10</name>
+    <desc>vaarweg : MAAS
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.800030555525765" lon="5.653986111326325">
+    <name>SR 11</name>
+    <desc>vaarweg : MAAS
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.800669444105985" lon="5.655547222919912">
+    <name>SR 12</name>
+    <desc>vaarweg : MAAS
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.80156666656573" lon="5.65246666650171">
+    <name>SR 1</name>
+    <desc>vaarweg : MAAS
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.802144444273615" lon="5.654011111304519">
+    <name>SR 2</name>
+    <desc>vaarweg : MAAS
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.80134722230689" lon="5.652933333302976">
+    <name>SR 3</name>
+    <desc>vaarweg : MAAS
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.80178888852224" lon="5.654088889199737">
+    <name>SR 4</name>
+    <desc>vaarweg : MAAS
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.80113055578372" lon="5.653386111206636">
+    <name>SR 5</name>
+    <desc>vaarweg : MAAS
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.801427777992615" lon="5.654186111384128">
+    <name>SR 6</name>
+    <desc>vaarweg : MAAS
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.80073611088064" lon="5.653752777271662">
+    <name>SR 7</name>
+    <desc>vaarweg : MAAS
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.80103333312481" lon="5.654538889165179">
+    <name>SR 8</name>
+    <desc>vaarweg : MAAS
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.800383333066236" lon="5.6538611108641">
+    <name>SR 9</name>
+    <desc>vaarweg : MAAS
+model : spits Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
