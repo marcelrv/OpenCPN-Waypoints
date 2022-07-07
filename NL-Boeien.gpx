@@ -9,7 +9,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <bounds minlat="5.611036111530225" maxlat="54.33617777801762" minlon="2.723188888767299" maxlon="7.20723333303639">
+    <bounds minlat="50.78076666705065" maxlat="54.33617777801762" minlon="2.723188888767299" maxlon="7.20723333303639">
     </bounds>
   </metadata>
   <wpt lat="51.67119999975445" lon="4.092716667347069">
@@ -11834,6 +11834,28 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.97114722188654" lon="4.097294444305236">
+    <name>CA 1-B 2</name>
+    <desc>vaarweg : NIEUWE WATERWEG
+licht type : Q (quick-flashing)
+lich kleur : Groen
+model : bol Groen/rood</desc>
+    <sym>1202</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.970922222170735" lon="4.117472222684461">
+    <name>CA 10-BD 1</name>
+    <desc>vaarweg : CALANDKANAAL
+licht type : Q (quick-flashing)
+lich kleur : Rood
+model : bol Rood/groen</desc>
+    <sym>1252</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.983369444779456" lon="4.073405555783862">
     <name>CA 2-NW 1</name>
     <desc>vaarweg : MAASMOND
@@ -11842,6 +11864,30 @@ licht periode : 2
 lich kleur : Wit
 model : bol Rood/groen repeterend</desc>
     <sym>1412</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.97721388877708" lon="4.093427777069389">
+    <name>CA 6</name>
+    <desc>vaarweg : CALANDKANAAL
+licht type : LFl (long-flashing)
+licht periode : 8
+lich kleur : Rood
+model : stomp Rood</desc>
+    <sym>1105</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.968722222474334" lon="4.109463889411502">
+    <name>CA 8</name>
+    <desc>vaarweg : CALANDKANAAL
+licht type : Iso (isophased)
+licht periode : 2
+lich kleur : Rood
+model : stomp Rood</desc>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -23366,7 +23412,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.459666666271126" lon="6.181080555035396">
+  <wpt lat="53.460286111500395" lon="6.181338888722914">
     <name>GS 4A-R 1</name>
     <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
 model : spar Rood/groen/rood</desc>
@@ -23522,7 +23568,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.44608333302187" lon="6.154416667388834">
+  <wpt lat="53.445430555637046" lon="6.154455555936125">
     <name>GVS 12</name>
     <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
 model : spar Rood</desc>
@@ -23531,7 +23577,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.44795833366638" lon="6.161947222907709">
+  <wpt lat="53.44764722213898" lon="6.162150000183206">
     <name>GVS 14</name>
     <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
 model : spar Rood</desc>
@@ -23639,7 +23685,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.447891666721375" lon="6.154852777350101">
+  <wpt lat="53.44597777739398" lon="6.154988888488978">
     <name>GVS-KL 2</name>
     <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
 model : spar Geel</desc>
@@ -56874,7 +56920,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.460847222078826" lon="6.178786110607146">
+  <wpt lat="53.46094722262988" lon="6.175127777391287">
     <name>R 4</name>
     <desc>vaarweg : REDE SCHIERMONNIKOOG
 model : spar Rood</desc>
@@ -71343,17 +71389,6 @@ model : bol Rood/groen repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="5.611036111530225" lon="4.19282777803458">
-    <name>SRK 93</name>
-    <desc>vaarweg : SCHELDE RIJN KANAAL
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Groen
-model : spar Groen</desc>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.40608611094446" lon="3.690927777249678">
     <name>SS 10</name>
     <desc>vaarweg : SCHAAR VAN DE SPIJKERPLAAT
@@ -77416,6 +77451,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
