@@ -11880,14 +11880,13 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.968722222474334" lon="4.109463889411502">
+  <wpt lat="51.97416388867667" lon="4.105638888451677">
     <name>CA 8</name>
     <desc>vaarweg : CALANDKANAAL
 licht type : Iso (isophased)
 licht periode : 2
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -16140,17 +16139,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.35407222256394" lon="6.977044445113139">
-    <name>E-GAS</name>
-    <desc>vaarweg : BOCHT VAN WATUM
-licht type : VQ (very quick-flashing)
-licht periode : 5
-lich kleur : Wit
-model : spar Zwart/geel/zwart</desc>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.37585277816702" lon="3.807297222504205">
     <name>E-ZE</name>
     <desc>vaarweg : EVERINGEN
@@ -16231,29 +16219,11 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.45579722259448" lon="6.35726388906642">
-    <name>EB 11</name>
-    <desc>vaarweg : EILANDER BALG
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.44896944454188" lon="6.340327778216087">
     <name>EB 12</name>
     <desc>vaarweg : EILANDER BALG
 model : spar Rood</desc>
     <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.45898888862135" lon="6.357186111426663">
-    <name>EB 13</name>
-    <desc>vaarweg : EILANDER BALG
-model : spar Groen</desc>
-    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -16267,29 +16237,11 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.46258333361531" lon="6.357038888736653">
-    <name>EB 15</name>
-    <desc>vaarweg : EILANDER BALG
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.49001111117062" lon="6.331522222278631">
     <name>EB 16</name>
     <desc>vaarweg : EILANDER BALG
 model : spar Rood</desc>
     <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.46608888935828" lon="6.35674444404313">
-    <name>EB 17</name>
-    <desc>vaarweg : EILANDER BALG
-model : spar Groen</desc>
-    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -16312,29 +16264,11 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.47051666682947" lon="6.35375555573446">
-    <name>EB 19</name>
-    <desc>vaarweg : EILANDER BALG
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.504613889150676" lon="6.359574999290971">
     <name>EB 20</name>
     <desc>vaarweg : EILANDER BALG
 model : spar Rood</desc>
     <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.47416111114881" lon="6.347588889024155">
-    <name>EB 21</name>
-    <desc>vaarweg : EILANDER BALG
-model : spar Groen</desc>
-    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -16348,29 +16282,11 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.47510555541569" lon="6.341586111810661">
-    <name>EB 23</name>
-    <desc>vaarweg : EILANDER BALG
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.49758333361152" lon="6.384430555041223">
     <name>EB 24</name>
     <desc>vaarweg : EILANDER BALG
 model : spar Rood</desc>
     <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.479611111239876" lon="6.340177777261194">
-    <name>EB 25</name>
-    <desc>vaarweg : EILANDER BALG
-model : spar Groen</desc>
-    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -16393,38 +16309,11 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.482316666724785" lon="6.338883333680956">
-    <name>EB 27</name>
-    <desc>vaarweg : EILANDER BALG
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.49686111106838" lon="6.411536110653249">
     <name>EB 28</name>
     <desc>vaarweg : EILANDER BALG
 model : spar Rood</desc>
     <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.504230555698086" lon="6.343311111234498">
-    <name>EB 29</name>
-    <desc>vaarweg : EILANDER BALG
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.50576944428129" lon="6.350255556090531">
-    <name>EB 31</name>
-    <desc>vaarweg : EILANDER BALG
-model : spar Groen</desc>
-    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -16465,29 +16354,11 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.45035000014213" lon="6.347505555853411">
-    <name>EB 7</name>
-    <desc>vaarweg : EILANDER BALG
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.44564999996304" lon="6.328363888294128">
     <name>EB 8</name>
     <desc>vaarweg : EILANDER BALG
 model : spar Rood</desc>
     <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.45276388908383" lon="6.354486111044696">
-    <name>EB 9</name>
-    <desc>vaarweg : EILANDER BALG
-model : spar Groen</desc>
-    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70800,6 +70671,7 @@ model : spar Rood/groen repeterend</desc>
     <name>SR 10</name>
     <desc>vaarweg : MAAS
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70811,6 +70683,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spits Geel</desc>
+    <sym>3201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70822,6 +70695,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : stomp Geel</desc>
+    <sym>3701</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70833,6 +70707,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spits Geel</desc>
+    <sym>3201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70844,6 +70719,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : stomp Geel</desc>
+    <sym>3701</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70852,6 +70728,7 @@ model : stomp Geel</desc>
     <name>SR 3</name>
     <desc>vaarweg : MAAS
 model : spits Geel</desc>
+    <sym>3001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70860,6 +70737,7 @@ model : spits Geel</desc>
     <name>SR 4</name>
     <desc>vaarweg : MAAS
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70871,6 +70749,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spits Geel</desc>
+    <sym>3201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70882,6 +70761,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : stomp Geel</desc>
+    <sym>3701</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70889,7 +70769,11 @@ model : stomp Geel</desc>
   <wpt lat="51.80073611088064" lon="5.653752777271662">
     <name>SR 7</name>
     <desc>vaarweg : MAAS
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
 model : spits Geel</desc>
+    <sym>3201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70901,6 +70785,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : stomp Geel</desc>
+    <sym>3701</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70909,6 +70794,7 @@ model : stomp Geel</desc>
     <name>SR 9</name>
     <desc>vaarweg : MAAS
 model : spits Geel</desc>
+    <sym>3001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -71385,6 +71271,17 @@ licht periode : 2
 lich kleur : Wit
 model : bol Rood/groen repeterend</desc>
     <sym>1412</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.6103138889751" lon="4.193138888554553">
+    <name>SRK 93</name>
+    <desc>vaarweg : SCHELDE RIJN KANAAL
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spar Groen</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
