@@ -16139,6 +16139,17 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.35407222256394" lon="6.977044445113139">
+    <name>E-GAS</name>
+    <desc>vaarweg : BOCHT VAN WATUM
+licht type : VQ (very quick-flashing)
+licht periode : 5
+lich kleur : Wit
+model : spar Zwart/geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.37585277816702" lon="3.807297222504205">
     <name>E-ZE</name>
     <desc>vaarweg : EVERINGEN
@@ -35025,6 +35036,14 @@ model : spar Rood/groen repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.36474722260942" lon="4.966575000172286">
+    <name>KZ 12</name>
+    <desc>vaarweg : STEIGEREILAND (MARKERMEER)
+model : spar Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.36539444406583" lon="4.965936111740764">
     <name>KZ 13</name>
     <desc>vaarweg : STEIGEREILAND (MARKERMEER)
@@ -48168,18 +48187,6 @@ licht periode : 5
 lich kleur : Rood
 model : stomp Rood</desc>
     <sym>1105</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.95729444436154" lon="4.15486111164368">
-    <name>NW 25A</name>
-    <desc>vaarweg : NIEUWE WATERWEG
-licht type : LFl (long-flashing)
-licht periode : 5
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1008</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -71282,6 +71289,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -83725,7 +83733,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.44705000026935" lon="6.578599999990959">
+  <wpt lat="53.44819166669776" lon="6.577330555987855">
     <name>VN 45</name>
     <desc>vaarweg : ZUID OOST LAUWERS
 model : spits Groen</desc>
@@ -88602,18 +88610,6 @@ model : spar Geel</desc>
     <desc>vaarweg : WEST MEEP
 model : spar Geel</desc>
     <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.938333332951906" lon="3.955266666450359">
-    <name>WMV</name>
-    <desc>vaarweg : MAASVLAKTE-MAASGEUL (NZ)
-licht type : VQ (very quick-flashing)
-licht periode : 10
-lich kleur : Wit
-model : Pilaar Geel/zwart/geel</desc>
-    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
