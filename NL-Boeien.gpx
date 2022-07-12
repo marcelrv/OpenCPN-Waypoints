@@ -11887,6 +11887,7 @@ licht type : Iso (isophased)
 licht periode : 2
 lich kleur : Rood
 model : stomp Rood</desc>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -16146,6 +16147,7 @@ licht type : VQ (very quick-flashing)
 licht periode : 5
 lich kleur : Wit
 model : spar Zwart/geel/zwart</desc>
+    <sym>2133</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -35040,6 +35042,7 @@ model : spar Rood/groen repeterend</desc>
     <name>KZ 12</name>
     <desc>vaarweg : STEIGEREILAND (MARKERMEER)
 model : spar Rood</desc>
+    <sym>1143</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -45554,6 +45557,14 @@ model : spar Rood</desc>
     <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
 model : spar Groen</desc>
     <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.254730555242176" lon="5.393822222588017">
+    <name>NKN 34-ZO 1</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : spar Rood/groen</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87443,11 +87454,8 @@ model : spar Geel</desc>
   <wpt lat="52.58106944456404" lon="5.532252777552373">
     <name>WB-Z-J</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5542</sym>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87467,8 +87475,11 @@ model : spar Geel</desc>
   <wpt lat="52.57926944404288" lon="5.536697222022726">
     <name>WB-Z-K</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5541</sym>
+    <sym>5542</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -90353,150 +90364,6 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.254808333208324" lon="5.393630555024429">
-    <name>WZB-A</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.25456944411472" lon="5.393997222380714">
-    <name>WZB-B</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.25433888908499" lon="5.394355554848837">
-    <name>WZB-C</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.254038889004285" lon="5.39377777849356">
-    <name>WZB-D</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.25374166690799" lon="5.393186110657846">
-    <name>WZB-E</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.25345833321256" lon="5.392622222331943">
-    <name>WZB-F</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.25313611118442" lon="5.392005555060559">
-    <name>WZB-G</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.25283611098771" lon="5.391388889587195">
-    <name>WZB-H</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.2525444448576" lon="5.390827777900381">
-    <name>WZB-I</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.2527888887731" lon="5.389347221987195">
-    <name>WZB-J</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.252894444316155" lon="5.389850000025187">
-    <name>WZB-K</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.253019444437506" lon="5.39055277724763">
-    <name>WZB-L</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.25352777766054" lon="5.391319443813504">
-    <name>WZB-M</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.253877777905714" lon="5.391975000374361">
-    <name>WZB-N</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.25418055543279" lon="5.392522222849278">
-    <name>WZB-O</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.2545361114692" lon="5.393149999503934">
-    <name>WZB-P</name>
-    <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.3954666667716" lon="5.876066667371869">
     <name>Walvis</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
@@ -92925,6 +92792,190 @@ model : spar Geel</desc>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.253597222478696" lon="5.392505554913102">
+    <name>ZO 10</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.25358055561135" lon="5.392213889253316">
+    <name>ZO 11</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.253427777865" lon="5.392125000455625">
+    <name>ZO 12</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.25340277769208" lon="5.391819443858668">
+    <name>ZO 13</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.25323888906767" lon="5.391713889450923">
+    <name>ZO 14</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.25322222183482" lon="5.393102778300725">
+    <name>ZO 15</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.25306111076753" lon="5.391336110470592">
+    <name>ZO 16</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.253041666464114" lon="5.391027777305631">
+    <name>ZO 17</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.25287222190076" lon="5.390911111448959">
+    <name>ZO 18</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.25284444401809" lon="5.390602778457666">
+    <name>ZO 19</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2526722225044" lon="5.390455555959909">
+    <name>ZO 20</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2526472226725" lon="5.390163888704633">
+    <name>ZO 21</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.25256388929758" lon="5.390205556096639">
+    <name>ZO 22</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.25262777793592" lon="5.389925000707454">
+    <name>ZO 23</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.252538888671666" lon="5.389944444084758">
+    <name>ZO 24</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.25460555548374" lon="5.39383888892131">
+    <name>ZO 2</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.25452500031344" lon="5.393575000615267">
+    <name>ZO 3</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.25438888850184" lon="5.393574999260701">
+    <name>ZO 4</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.254319444151456" lon="5.39329722231382">
+    <name>ZO 5</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2541277777517" lon="5.393252777303131">
+    <name>ZO 6</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.25403055584333" lon="5.392961110609249">
+    <name>ZO 7</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.253849999747366" lon="5.392902778431964">
+    <name>ZO 8</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.253761110784914" lon="5.392622222812109">
+    <name>ZO 9</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : spits Groen</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
