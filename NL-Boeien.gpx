@@ -6107,7 +6107,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.35829722218892" lon="5.613136111218899">
+  <wpt lat="52.35836111141308" lon="5.613063888437584">
     <name>AQ 20-GH 1</name>
     <desc>vaarweg : WOLDERWIJD (RANDMEREN)
 licht type : Q (quick-flashing)
@@ -45492,7 +45492,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.253311111351266" lon="5.40013888945655">
+  <wpt lat="52.253311111207026" lon="5.400136111321245">
     <name>NKN 27</name>
     <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
 model : spar Groen</desc>
@@ -53067,6 +53067,15 @@ model : bol Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.346452778079794" lon="5.031613888405997">
+    <name>PEN 1</name>
+    <desc>vaarweg : MUIDEN (MARKERMEER)
+model : stomp Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.489499999963016" lon="4.188083333080307">
     <name>PEN 1</name>
     <desc>vaarweg : NOORDZEE
@@ -53091,6 +53100,22 @@ model : bol Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.346261111367" lon="5.032472222152773">
+    <name>PEN 2</name>
+    <desc>vaarweg : MUIDEN (MARKERMEER)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3460277781999" lon="5.033513888991529">
+    <name>PEN 3</name>
+    <desc>vaarweg : MUIDEN (MARKERMEER)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.49474722224035" lon="4.061997222215826">
     <name>PEN 38</name>
     <desc>vaarweg : NOORDZEE
@@ -53103,6 +53128,22 @@ model : bol Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.34581388884088" lon="5.034474999934555">
+    <name>PEN 4</name>
+    <desc>vaarweg : MUIDEN (MARKERMEER)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.345597222094675" lon="5.035436110707199">
+    <name>PEN 5</name>
+    <desc>vaarweg : MUIDEN (MARKERMEER)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.39324722185192" lon="4.249227778093726">
     <name>PEN 5</name>
     <desc>vaarweg : NOORDZEE
@@ -53111,6 +53152,14 @@ licht periode : 10
 lich kleur : Geel
 model : bol Geel</desc>
     <sym>4201</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.345119444551734" lon="5.035355555412899">
+    <name>PEN 6</name>
+    <desc>vaarweg : MUIDEN (MARKERMEER)
+model : stomp Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -62001,7 +62050,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.35821388891387" lon="5.612777778087036">
+  <wpt lat="52.35829444477878" lon="5.612913889395521">
     <name>RGH 2</name>
     <desc>vaarweg : WOLDERWIJD RECREATIE (RANDMEREN)
 model : spar Rood</desc>
@@ -62010,11 +62059,19 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.357763889229545" lon="5.611830555686494">
+  <wpt lat="52.35822777770662" lon="5.612758332886824">
     <name>RGH 2A</name>
     <desc>vaarweg : WOLDERWIJD RECREATIE (RANDMEREN)
 model : spar Rood</desc>
     <sym>1143</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.35776388866801" lon="5.612758333428264">
+    <name>RGH 2B</name>
+    <desc>vaarweg : WOLDERWIJD RECREATIE (RANDMEREN)
+model : spar Rood</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -88963,7 +89020,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.25289444445959" lon="5.390980554908499">
+  <wpt lat="52.253113889062725" lon="5.390255556015448">
     <name>WR-SP 8</name>
     <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
 model : stomp Geel</desc>
