@@ -20968,7 +20968,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.36376666639094" lon="6.078600000537304">
+  <wpt lat="52.363966666505945" lon="6.078399999451942">
     <name>GIJ 48</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Rood</desc>
@@ -66170,7 +66170,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.333647222041236" lon="5.180586111653602">
+  <wpt lat="53.333613889136664" lon="5.181025000074805">
     <name>SG 14</name>
     <desc>vaarweg : SCHUITENGAT
 model : spar Rood</desc>
@@ -68693,7 +68693,7 @@ model : spar Rood</desc>
     </extensions>
   </wpt>
   <wpt lat="53.49542777738738" lon="6.416322222837362">
-    <name>SP 14A-EB 33</name>
+    <name>SP 14A-EB 7</name>
     <desc>vaarweg : SPRUIT
 model : spar Rood/groen/rood</desc>
     <sym>1371</sym>
@@ -73773,6 +73773,22 @@ model : spar Geel</desc>
     <desc>vaarweg : GOOIMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.52038055576394" lon="5.858422221982888">
+    <name>Spui DM-2</name>
+    <desc>vaarweg : DRONTERMEER (RANDMEREN)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.520324999665895" lon="5.858161111675457">
+    <name>Spui DM-4</name>
+    <desc>vaarweg : DRONTERMEER (RANDMEREN)
+model : spar Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -83677,6 +83693,14 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.454683333594986" lon="6.571916667452339">
+    <name>VN 35A</name>
+    <desc>vaarweg : ZUID OOST LAUWERS
+model : spar Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.46241111129227" lon="6.567908333490123">
     <name>VN 3</name>
     <desc>vaarweg : ZUID OOST LAUWERS
@@ -83736,6 +83760,14 @@ model : spar Rood/wit repeterend</desc>
     <desc>vaarweg : ZUID OOST LAUWERS
 model : spar Groen</desc>
     <sym>1043</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.44996666632337" lon="6.576083333955296">
+    <name>VN 41A</name>
+    <desc>vaarweg : ZUID OOST LAUWERS
+model : spar Groen</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -83889,6 +83921,30 @@ model : spits Groen</desc>
     <desc>vaarweg : NIEUWE ZEUG RECREATIE BET. (IJSSELMEER)
 model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.438233333740335" lon="6.582066666081714">
+    <name>VN 67</name>
+    <desc>vaarweg : ZUID OOST LAUWERS
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.43710000033661" lon="6.582483333154465">
+    <name>VN 69</name>
+    <desc>vaarweg : ZUID OOST LAUWERS
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.436083333171624" lon="6.582883333143657">
+    <name>VN 71</name>
+    <desc>vaarweg : ZUID OOST LAUWERS
+model : spits Groen</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
