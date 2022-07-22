@@ -2042,6 +2042,7 @@ model : spar Groen/wit repeterend</desc>
     <name>32A</name>
     <desc>vaarweg : VEERSE MEER
 model : spar Rood/wit repeterend</desc>
+    <sym>1562</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -45493,20 +45494,20 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.254730555242176" lon="5.393822222588017">
-    <name>NKN 34-ZO 1</name>
-    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
-model : spar Rood/groen</desc>
-    <sym>1261</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.25390555550132" lon="5.395083334036221">
     <name>NKN 34</name>
     <desc>vaarweg : NIJKERKERNAUW (RANDMEREN)
 model : spar Rood</desc>
     <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.254730555242176" lon="5.393822222588017">
+    <name>NKN 34A-ZO 1</name>
+    <desc>vaarweg : NIJKERKERNAUW RECREATIE (RANDMEREN)
+model : spar Rood/groen</desc>
+    <sym>1261</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61334,10 +61335,35 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.58448055513475" lon="5.543502778463831">
+    <name>RB-N 1</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+model : spar Zwart/geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.58611388911501" lon="5.545994444007062">
+    <name>RB-N 2</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+model : spar Zwart/geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.587752778" lon="5.548522222351335">
+    <name>RB-N 3</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+model : spar Zwart/geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.58901111139312" lon="5.550647221994488">
     <name>RB-N 4</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Zwart/geel</desc>
+    <sym>2031</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61346,6 +61372,7 @@ model : spar Zwart/geel</desc>
     <name>RB-N 5</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Zwart/geel</desc>
+    <sym>2031</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61354,6 +61381,7 @@ model : spar Zwart/geel</desc>
     <name>RB-N 6</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Zwart/geel</desc>
+    <sym>2031</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61362,6 +61390,7 @@ model : spar Zwart/geel</desc>
     <name>RB-N 7</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Zwart/geel</desc>
+    <sym>2031</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61370,6 +61399,31 @@ model : spar Zwart/geel</desc>
     <name>RB-N 8</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Zwart/geel</desc>
+    <sym>2031</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.58420277785462" lon="5.543313889329551">
+    <name>RB-O 1</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+model : spar Zwart/geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.58583888902569" lon="5.545836110462866">
+    <name>RB-O 2</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+model : spar Zwart/geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.58748888858549" lon="5.54835833261611">
+    <name>RB-O 3</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+model : spar Zwart/geel/zwart</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61378,6 +61432,7 @@ model : spar Zwart/geel</desc>
     <name>RB-O 4</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Zwart/geel/zwart</desc>
+    <sym>2131</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61386,6 +61441,7 @@ model : spar Zwart/geel/zwart</desc>
     <name>RB-O 5</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Zwart/geel/zwart</desc>
+    <sym>2131</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61394,6 +61450,7 @@ model : spar Zwart/geel/zwart</desc>
     <name>RB-O 6</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Zwart/geel/zwart</desc>
+    <sym>2131</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61402,6 +61459,7 @@ model : spar Zwart/geel/zwart</desc>
     <name>RB-O 7</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Zwart/geel/zwart</desc>
+    <sym>2131</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61410,6 +61468,31 @@ model : spar Zwart/geel/zwart</desc>
     <name>RB-O 8</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Zwart/geel/zwart</desc>
+    <sym>2131</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5843361106816" lon="5.543091666612395">
+    <name>RB-W 1</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+model : spar Geel/zwart/geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.585969444079254" lon="5.545602777281696">
+    <name>RB-W 2</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+model : spar Geel/zwart/geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.587613889011806" lon="5.548144443883658">
+    <name>RB-W 3</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+model : spar Geel/zwart/geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61418,6 +61501,7 @@ model : spar Zwart/geel/zwart</desc>
     <name>RB-W 4</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Geel/zwart/geel</desc>
+    <sym>2331</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61426,6 +61510,7 @@ model : spar Geel/zwart/geel</desc>
     <name>RB-W 5</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Geel/zwart/geel</desc>
+    <sym>2331</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61434,6 +61519,7 @@ model : spar Geel/zwart/geel</desc>
     <name>RB-W 6</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Geel/zwart/geel</desc>
+    <sym>2331</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61442,6 +61528,7 @@ model : spar Geel/zwart/geel</desc>
     <name>RB-W 7</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Geel/zwart/geel</desc>
+    <sym>2331</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61450,6 +61537,31 @@ model : spar Geel/zwart/geel</desc>
     <name>RB-W 8</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Geel/zwart/geel</desc>
+    <sym>2331</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.58408611117364" lon="5.542872221853715">
+    <name>RB-Z 1</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+model : spar Geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.58572777768745" lon="5.545377777934637">
+    <name>RB-Z 2</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+model : spar Geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.58736388911373" lon="5.547894444089083">
+    <name>RB-Z 3</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+model : spar Geel/zwart</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61458,6 +61570,7 @@ model : spar Geel/zwart/geel</desc>
     <name>RB-Z 4</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Geel/zwart</desc>
+    <sym>2231</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61466,6 +61579,7 @@ model : spar Geel/zwart</desc>
     <name>RB-Z 5</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Geel/zwart</desc>
+    <sym>2231</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61474,6 +61588,7 @@ model : spar Geel/zwart</desc>
     <name>RB-Z 6</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Geel/zwart</desc>
+    <sym>2231</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61482,6 +61597,7 @@ model : spar Geel/zwart</desc>
     <name>RB-Z 7</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Geel/zwart</desc>
+    <sym>2231</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61490,6 +61606,7 @@ model : spar Geel/zwart</desc>
     <name>RB-Z 8</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Geel/zwart</desc>
+    <sym>2231</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -63572,6 +63689,7 @@ model : spar Groen</desc>
     <name>S 1A</name>
     <desc>vaarweg : VEERSE MEER
 model : spits Groen</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -71220,6 +71338,17 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.597733332984305" lon="4.189638888487123">
+    <name>SRK 74</name>
+    <desc>vaarweg : SCHELDE RIJN KANAAL
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
+model : spar Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.56515833362376" lon="4.227783332992739">
     <name>SRK 75</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
@@ -77422,7 +77551,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.403230555322004" lon="5.801405555425072">
+  <wpt lat="53.40307500022557" lon="5.800877777399666">
     <name>VA 15</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Iso (isophased)
@@ -77457,7 +77586,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.400897222114665" lon="5.803413888566556">
+  <wpt lat="53.40075277758691" lon="5.803177778291655">
     <name>VA 17</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Iso (isophased)
@@ -85341,18 +85470,6 @@ model : spits Groen</desc>
   </wpt>
   <wpt lat="51.89504166663894" lon="5.691722222811455">
     <name>W 21-B-B</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.89428333321711" lon="5.699383333796588">
-    <name>W 21-B-C</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
 licht periode : 4
