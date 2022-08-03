@@ -42375,6 +42375,41 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.40964999960284" lon="3.453099999889143">
+    <name>MP 1</name>
+    <desc>vaarweg : WIELINGEN
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.44691666643053" lon="3.662916666103346">
+    <name>MP 2</name>
+    <desc>vaarweg : WIELINGEN
+licht type : LFl (long-flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.40798333353855" lon="3.705533332891136">
+    <name>MP 3</name>
+    <desc>vaarweg : WIELINGEN
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.35539999966029" lon="3.758400000043247">
+    <name>MP 7</name>
+    <desc>vaarweg : WIELINGEN
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.764752777820256" lon="4.222861111189087">
     <name>MP</name>
     <desc>vaarweg : HARINGVLIET
@@ -42383,6 +42418,46 @@ licht periode : 5
 lich kleur : Geel
 model : bol Geel</desc>
     <sym>4201</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.33582777755364" lon="5.069716666102138">
+    <name>MPP-A</name>
+    <desc>vaarweg : MUIDEN (MARKERMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.335730555218674" lon="5.069588888191789">
+    <name>MPP-B</name>
+    <desc>vaarweg : MUIDEN (MARKERMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.335613888893064" lon="5.069538889441567">
+    <name>MPP-C</name>
+    <desc>vaarweg : MUIDEN (MARKERMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.33548333321453" lon="5.06958333384472">
+    <name>MPP-D</name>
+    <desc>vaarweg : MUIDEN (MARKERMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.335388889276125" lon="5.069602778166992">
+    <name>MPP-E</name>
+    <desc>vaarweg : MUIDEN (MARKERMEER)
+model : spar Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
