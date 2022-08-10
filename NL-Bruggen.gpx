@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-08-09T10:21:28.986000Z</time>
+    <time>2022-08-09T16:35:49.669000Z</time>
   </metadata>
   <wpt lat="53.0759321679316" lon="7.14846917281973">
     <name>Vriescheloosterbrug</name>
@@ -60499,6 +60499,18 @@ Type:    Vaste Brug</desc>
       <text>Loulânsbrêge online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.815263745013226" lon="4.698872965236659">
+    <name>Amaliabrug Dordrecht</name>
+    <desc>Locatie: Wantij
+Type:    Bedienbare Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/36510832">
+      <text>Amaliabrug Dordrecht online info</text>
+    </link>
+    <sym>Landmarks-Bridge2</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
