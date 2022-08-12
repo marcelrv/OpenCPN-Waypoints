@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-08-09T16:35:49.669000Z</time>
+    <time>2022-08-12T12:00:13.710000Z</time>
   </metadata>
   <wpt lat="53.0759321679316" lon="7.14846917281973">
     <name>Vriescheloosterbrug</name>
@@ -9251,12 +9251,12 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.77018535687165" lon="5.851495266251731">
-    <name>Brug sluis Heumen</name>
+  <wpt lat="51.770230194471196" lon="5.851780772209166">
+    <name>Brug sluis Heumen (Maas-Waalkanaal)</name>
     <desc>Locatie: Maas-Waalkanaal
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/11462">
-      <text>Brug sluis Heumen online info</text>
+      <text>Brug sluis Heumen (Maas-Waalkanaal) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -60511,6 +60511,18 @@ Type:    Bedienbare Brug</desc>
       <text>Amaliabrug Dordrecht online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.77011304045112" lon="5.850942135293735">
+    <name>Brug sluis Heumen (over sluis)</name>
+    <desc>Locatie: Sluis Heumen
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/36523028">
+      <text>Brug sluis Heumen (over sluis) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
