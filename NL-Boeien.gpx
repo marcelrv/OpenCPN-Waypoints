@@ -64921,7 +64921,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.82248333365238" lon="5.352961110546187">
+  <wpt lat="52.82106111111075" lon="5.354647222950576">
     <name>SB 8</name>
     <desc>vaarweg : STEILEBANK (IJSSELMEER)
 licht type : Iso (isophased)
@@ -76517,6 +76517,14 @@ model : spits Groen</desc>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spits Groen</desc>
     <sym>1001</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.87196666696469" lon="5.898047222738836">
+    <name>Ton 880.390R</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+model : stomp Rood/wit repeterend</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
