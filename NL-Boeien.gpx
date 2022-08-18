@@ -12609,18 +12609,6 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.76546388909971" lon="4.624913888962644">
-    <name>D 1</name>
-    <desc>vaarweg : DORDTSCHE KIL
-licht type : LFl (long-flashing)
-licht periode : 5
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.29061111090967" lon="7.16235555564464">
     <name>D 15</name>
     <desc>vaarweg : DOLLARD
@@ -77191,7 +77179,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.29741388877249" lon="5.459111110781381">
+  <wpt lat="53.29746944445284" lon="5.459111111501279">
     <name>V 2</name>
     <desc>vaarweg : VINGEGAT
 model : spar Rood</desc>
