@@ -13630,6 +13630,17 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.96458611136129" lon="5.106283333094797">
+    <name>DAM-Z</name>
+    <desc>vaarweg : VAARWATER LANGS FRIESE KUST (IJSSELMEER)
+licht type : very quick-flash plus long- fl
+licht periode : 10
+lich kleur : Wit
+model : spar Geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.38814722183817" lon="3.599530556156683">
     <name>DAM</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
@@ -18024,7 +18035,7 @@ model : spar Geel</desc>
     <name>F 58</name>
     <desc>vaarweg : SCHAAR VAN VALKENISSE
 model : spar Geel</desc>
-    <sym>5000</sym>
+    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -86918,6 +86929,7 @@ licht type : Q (quick-flashing)
 licht periode : 15
 lich kleur : Wit
 model : spar Geel/zwart/geel</desc>
+    <sym>2331</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -86929,7 +86941,7 @@ licht type : VQ (very quick-flashing)
 licht periode : 10
 lich kleur : Wit
 model : spar Geel/zwart/geel</desc>
-    <sym>2231</sym>
+    <sym>2331</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
