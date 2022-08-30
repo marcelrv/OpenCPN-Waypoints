@@ -28656,15 +28656,6 @@ model : stomp Rood</desc>
   <wpt lat="52.375583332921394" lon="4.951799999368962">
     <name>IJ 19</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.375116666274295" lon="4.95208333305419">
-    <name>IJ 21</name>
-    <desc>vaarweg : HET IJ (AMSTERDAM)
 licht type : LFl (long-flashing)
 licht periode : 8
 lich kleur : Groen
@@ -28674,7 +28665,16 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.374699999652066" lon="4.952266667028005">
+  <wpt lat="52.3743333335399" lon="4.952466667235544">
+    <name>IJ 21</name>
+    <desc>vaarweg : HET IJ (AMSTERDAM)
+model : spar Groen</desc>
+    <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.373950000312455" lon="4.952650000453357">
     <name>IJ 23</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
 model : spar Groen</desc>
@@ -28683,11 +28683,14 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.3743333335399" lon="4.952466667235544">
+  <wpt lat="52.373655555171744" lon="4.952927777448622">
     <name>IJ 25</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
-model : spar Groen</desc>
-    <sym>1041</sym>
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spits Groen</desc>
+    <sym>1008</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -28700,27 +28703,6 @@ licht periode : 4
 lich kleur : Rood
 model : stomp Rood</desc>
     <sym>1107</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.373950000312455" lon="4.952650000453357">
-    <name>IJ 27</name>
-    <desc>vaarweg : HET IJ (AMSTERDAM)
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.373655555171744" lon="4.952927777448622">
-    <name>IJ 29</name>
-    <desc>vaarweg : HET IJ (AMSTERDAM)
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1008</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -36803,7 +36785,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.37455000012362" lon="4.950866666463991">
+  <wpt lat="52.374336110844645" lon="4.951094444924909">
     <name>L</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
 model : spar Groen/wit repeterend</desc>
@@ -37767,7 +37749,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.37356944479915" lon="4.951580555942749">
+  <wpt lat="52.37350277814682" lon="4.951711111378864">
     <name>M</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
 model : spar Groen/wit repeterend</desc>
