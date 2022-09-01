@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-08-30T13:50:48.141000Z</time>
+    <time>2022-08-31T18:16:45.307000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -7843,8 +7843,8 @@ Periode 01-06 tot 31-08:
    08:00 - 09:00: Ma, Di, Wo, excl. feestdagen.
    13:00 - 15:00: Vr, excl. feestdagen.
    13:00 - 15:00: Ma, Di, Wo, excl. feestdagen.
-   16:30 - 17:30: Ma, Di, Wo, excl. feestdagen.
    16:30 - 17:30: Do, Vr, excl. feestdagen.
+   16:30 - 17:30: Ma, Di, Wo, excl. feestdagen.
    17:00 - 17:30: Za, excl. feestdagen.
    18:45 - 19:15: Zo, incl. feestdagen.
 Periode 01-09 tot 30-09:
@@ -12326,6 +12326,78 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/36833134">
       <text>brug Leechlân online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.35717108974484" lon="6.137764016166328">
+    <name>Saatsenbrêge</name>
+    <desc>Locatie: Súd Ie
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/36889010">
+      <text>Saatsenbrêge online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.3574235931529" lon="6.120693770062643">
+    <name>Heeghout Wetterskip</name>
+    <desc>Locatie: Súd Ie
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/36889027">
+      <text>Heeghout Wetterskip online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.35600648535137" lon="6.115661209914832">
+    <name>De Wite Brêge</name>
+    <desc>Locatie: Súd Ie
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/36889046">
+      <text>De Wite Brêge online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.353653610993774" lon="6.079768884228542">
+    <name>Grutte Tille</name>
+    <desc>Locatie: Súd Ie
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/36889061">
+      <text>Grutte Tille online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.35383487340417" lon="6.07691133627668">
+    <name>Kowebrêge</name>
+    <desc>Locatie: Súd Ie
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/36889087">
+      <text>Kowebrêge online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.353848525118394" lon="6.077066558646037">
+    <name>fietsbrug naast Kowebrêge</name>
+    <desc>Locatie: Súd Ie
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/36889101">
+      <text>fietsbrug naast Kowebrêge online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
