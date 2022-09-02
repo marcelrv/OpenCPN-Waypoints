@@ -52511,7 +52511,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.380099999677306" lon="5.045511110934596">
+  <wpt lat="52.37980555597367" lon="5.045988888709496">
     <name>P 7</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
 licht type : Iso (isophased)
@@ -52578,7 +52578,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.37602222198987" lon="5.032605556188538">
+  <wpt lat="52.37562777749634" lon="5.033052777900006">
     <name>P 9</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
 licht type : Iso (isophased)
@@ -87280,7 +87280,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.37844722197997" lon="5.039100000286174">
+  <wpt lat="52.378047222209304" lon="5.039544444893399">
     <name>WB-P</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
 model : spar Geel</desc>
@@ -87508,7 +87508,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.3772138884557" lon="5.035538889282514">
+  <wpt lat="52.376805555747694" lon="5.03618611095878">
     <name>WB-Z-G</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
 licht type : Fl (flashing)
@@ -91912,7 +91912,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.145705555233874" lon="4.78400277788231">
+  <wpt lat="53.147963888761566" lon="4.780577777691309">
     <name>ZINK-T</name>
     <desc>vaarweg : NOORDZEE
 licht type : VQ (very quick-flashing)
@@ -94805,6 +94805,17 @@ model : stomp Geel</desc>
     <desc>vaarweg : OOSTGAT
 model : stomp Geel</desc>
     <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.20761388860365" lon="4.375180555588301">
+    <name>Zink-W</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Q (quick-flashing)
+licht periode : 15
+lich kleur : Wit
+model : Pilaar Geel/zwart/geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
