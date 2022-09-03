@@ -91912,6 +91912,38 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.381661111328235" lon="3.63137222192">
+    <name>ZINK-A</name>
+    <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.37753611069776" lon="3.647494443862603">
+    <name>ZINK-B</name>
+    <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.376663889035825" lon="3.647094444337435">
+    <name>ZINK-C</name>
+    <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.37961666671369" lon="3.630472221758011">
+    <name>ZINK-D</name>
+    <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.147963888761566" lon="4.780577777691309">
     <name>ZINK-T</name>
     <desc>vaarweg : NOORDZEE
@@ -91920,24 +91952,6 @@ licht periode : 10
 lich kleur : Wit
 model : spar Geel/zwart/geel</desc>
     <sym>2333</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.37709722251983" lon="3.647288889223891">
-    <name>ZINKER OOST</name>
-    <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
-model : spar Zwart/geel/zwart</desc>
-    <sym>2131</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.37998888929708" lon="3.632177777686916">
-    <name>ZINKER WEST</name>
-    <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
-model : spar Geel/zwart/geel</desc>
-    <sym>2331</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
