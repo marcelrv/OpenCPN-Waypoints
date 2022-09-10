@@ -10982,7 +10982,7 @@ model : spar Groen/rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.541616666734754" lon="3.988616667074983">
+  <wpt lat="51.54178333361746" lon="3.989444445147347">
     <name>BV 24</name>
     <desc>vaarweg : BRABANTSCHE VAARWATER
 licht type : LFl (long-flashing)
@@ -48277,18 +48277,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.559958332994476" lon="3.922266666493779">
-    <name>O 12</name>
-    <desc>vaarweg : OOSTERSCHELDE
-licht type : LFl (long-flashing)
-licht periode : 8
-lich kleur : Rood
-model : spar Rood</desc>
-    <sym>1145</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.843366666495" lon="4.376194445001592">
     <name>O 12</name>
     <desc>vaarweg : OUDE MAAS
@@ -49148,7 +49136,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.58433333344156" lon="3.902144444825581">
+  <wpt lat="51.584177777810986" lon="3.896327777325648">
     <name>O 3</name>
     <desc>vaarweg : OOSTERSCHELDE
 model : spar Groen</desc>
@@ -49563,7 +49551,7 @@ model : spar Rood</desc>
     <name>O 5</name>
     <desc>vaarweg : OOSTERSCHELDE
 licht type : LFl (long-flashing)
-licht periode : 5
+licht periode : 8
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
@@ -49873,7 +49861,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.57589999981671" lon="3.917969445040479">
+  <wpt lat="51.57591111103206" lon="3.917527777765615">
     <name>O 8</name>
     <desc>vaarweg : OOSTERSCHELDE
 licht type : LFl (long-flashing)
@@ -49922,7 +49910,7 @@ model : spar Rood</desc>
     <name>O 9</name>
     <desc>vaarweg : OOSTERSCHELDE
 licht type : LFl (long-flashing)
-licht periode : 8
+licht periode : 5
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
@@ -49975,8 +49963,8 @@ model : spar Groen</desc>
   <wpt lat="51.55438611142734" lon="3.90908055520927">
     <name>O 9A</name>
     <desc>vaarweg : OOSTERSCHELDE
-licht type : Iso (isophased)
-licht periode : 4
+licht type : LFl (long-flashing)
+licht periode : 8
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
@@ -76379,7 +76367,6 @@ model : stomp Rood/wit repeterend</desc>
     <name>Ton 903.570RV</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : stomp Rood/wit repeterend</desc>
-    <sym>1552</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -90579,7 +90566,7 @@ model : spar Rood</desc>
     <name>Z 1</name>
     <desc>vaarweg : ZANDKREEK
 licht type : Iso (isophased)
-licht periode : 8
+licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1047</sym>
