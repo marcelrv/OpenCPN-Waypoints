@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-09-07T15:19:57.359000Z</time>
+    <time>2022-09-13T09:30:17.158000Z</time>
   </metadata>
   <wpt lat="53.0759321679316" lon="7.14846917281973">
     <name>Vriescheloosterbrug</name>
@@ -1537,17 +1537,17 @@ Type:    Bedienbare Brug
 Bedieningstijden
 Periode 01-04 tot 31-10:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   12:00 - 16:00: Zo, incl. feestdagen.
+   08:00 - 11:00: Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Zo, incl. feestdagen.
    16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-11 tot 31-03:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   12:00 - 16:00: Zo, incl. feestdagen.
+   08:00 - 11:00: Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Zo, incl. feestdagen.
    16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/2873">
@@ -1718,12 +1718,12 @@ Periode 26-03 tot 31-10:
    07:57 - 08:00: Za, Zo, incl. feestdagen.
    08:27 - 08:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    08:57 - 09:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   11:27 - 11:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    11:27 - 11:30: Za, Zo, incl. feestdagen.
+   11:27 - 11:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:57 - 13:00: Za, Zo, incl. feestdagen.
    13:57 - 14:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   17:57 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    17:57 - 18:00: Za, Zo, incl. feestdagen.
+   17:57 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    18:57 - 19:00: Za, Zo, incl. feestdagen.
    19:57 - 20:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 25-03:
@@ -2773,8 +2773,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:00: Za, excl. feestdagen.
    17:30 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-03:
-   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 16:00: Za, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/4117">
@@ -6538,7 +6538,8 @@ Periode 01-11 tot 28-03:
    07:00 - 14:30: Za, excl. feestdagen.
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    17:30 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-</desc>
+
+Note: Marifoonkanaal 18. Brug heeft zelf geen marifoon, communicatie loopt via de Nautisch Verkeersleider. Roep hiervoor Havendienst Haarlem.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/8386">
       <text>Prinsenbrug online info</text>
     </link>
@@ -9046,7 +9047,7 @@ Periode 16-10 tot 15-04:
    08:00 - 12:00: Za, excl. feestdagen.
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
-Note: Tel nr brugwachter, 0348 428692</desc>
+Note: Tel nr brugwachter, 0348-428692.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/11233">
       <text>Blokhuisbrug, Woerden online info</text>
     </link>
@@ -9279,7 +9280,7 @@ Periode 01-11 tot 31-03:
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: 1 november t/m 31 maart: 
-Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
+Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08:30-16:00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/11479">
       <text>Weidlanbrege (Leppedijkbrug ) online info</text>
@@ -10063,7 +10064,7 @@ Periode 15-11 tot 14-03:
    17:00 - 17:30: Za, excl. feestdagen.
 
 Note: Voor brugbediening melden bij de 2e Kanaalsbrug. Bediening uitsluitend voor bestemmingsverkeer.
-Bediening op aanvraag via 06 - 11 80 91 63 (bereikbaar ma t/m vr 08.30-16.00).
+Bediening op aanvraag via 06 - 11 80 91 63 (bereikbaar ma t/m vr 08:30-16:00).
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.
 2e Paasdag en 2e Pinksterdag bediening als op zondag.
 Oudejaarsdag (31-12), de dag voor 1e Kerstdag (24-12) sluiting als zaterdag avond, behalve als dit op zondag valt.
@@ -13862,7 +13863,7 @@ Periode 01-09 tot 31-10:
 Periode 01-11 tot 31-03:
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
-Note: 1 nov t/m 31 maart: Bediening op aanvraag via 058 - 29 25 888 optie 4 (bereikbaar ma. t/m vr. 8.30 - 16.00 uur) 2 uur van tevoren dient een afroep te worden aangevraagd,.</desc>
+Note: 1 nov t/m 31 maart: Bediening op aanvraag via 058 - 29 25 888 optie 4 (bereikbaar ma. t/m vr. 8.30 - 16.00 uur) 2 uur van tevoren dient een afroep te worden aangevraagd.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/16931">
       <text>brug Oostermeer online info</text>
     </link>
@@ -14609,8 +14610,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:00: Za, excl. feestdagen.
    17:30 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-03:
-   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 16:00: Za, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/17992">
@@ -15354,8 +15355,8 @@ Periode 01-06 tot 31-08:
    13:05 - 13:13: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    13:35 - 13:43: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    14:05 - 14:13: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   14:35 - 14:43: Zo, incl. feestdagen.
    14:35 - 14:40: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   14:35 - 14:43: Zo, incl. feestdagen.
    15:05 - 15:10: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    15:05 - 15:13: Zo, incl. feestdagen.
    15:35 - 15:43: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -15727,8 +15728,8 @@ Periode 15-04 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    09:00 - 16:30: Za, Zo, incl. feestdagen.
 Periode 01-11 tot 14-04:
-   23:00 - 22:59: Za, Zo, incl. feestdagen.
    23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   23:00 - 22:59: Za, Zo, incl. feestdagen.
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
@@ -15764,8 +15765,8 @@ Type:    Bedienbare Brug
 Bedieningstijden
 Periode 12-12 tot 11-12:
    04:57 - 05:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   05:57 - 06:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    05:57 - 06:03: Za, Zo, incl. feestdagen.
+   05:57 - 06:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:57 - 07:03: Za, Zo, incl. feestdagen.
    07:57 - 08:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:57 - 09:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -15774,10 +15775,10 @@ Periode 12-12 tot 11-12:
    11:57 - 12:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:57 - 13:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    13:57 - 14:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   14:57 - 15:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    14:57 - 15:03: Za, Zo, incl. feestdagen.
-   15:57 - 16:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   14:57 - 15:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    15:57 - 16:03: Za, Zo, incl. feestdagen.
+   15:57 - 16:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    16:57 - 17:03: Za, Zo, incl. feestdagen.
    17:57 - 18:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    18:57 - 19:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -17944,8 +17945,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:00: Za, excl. feestdagen.
    17:30 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-03:
-   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 16:00: Za, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/21773">
@@ -18190,7 +18191,7 @@ Periode 01-11 tot 31-03:
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: 1 november t/m 31 maart: 
-Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
+Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08:30-16:00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/22056">
       <text>Hoofdbrug (Doelhofbrug) online info</text>
@@ -20496,17 +20497,17 @@ Type:    Bedienbare Brug
 Bedieningstijden
 Periode 01-04 tot 31-10:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   12:00 - 16:00: Zo, incl. feestdagen.
+   08:00 - 11:00: Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Zo, incl. feestdagen.
    16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-11 tot 31-03:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   12:00 - 16:00: Zo, incl. feestdagen.
+   08:00 - 11:00: Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Zo, incl. feestdagen.
    16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/24150">
@@ -24394,7 +24395,7 @@ Periode 31-10 tot 28-03:
    08:00 - 14:30: Za, excl. feestdagen.
    17:10 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
-Note: Brug wordt niet bediend vanaf windkracht 7</desc>
+Note: Brug wordt niet bediend vanaf windkracht 7. Marifoonkanaal 18. Brug heeft zelf geen marifoon, communicatie loopt via de Nautisch Verkeersleider. Roep hiervoor Havendienst Haarlem.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/28191">
       <text>Schouwbroekerbrug online info</text>
     </link>
@@ -29115,7 +29116,7 @@ Periode 01-11 tot 31-03:
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: 1 november t/m 31 maart: 
-Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
+Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08:30-16:00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/33511">
       <text>Fietsbrug in Spinhuisstege online info</text>
@@ -31049,30 +31050,30 @@ Periode 01-04 tot 31-10:
 Periode 01-11 tot 31-03:
    08:30 - 08:34: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    08:50 - 08:54: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   09:20 - 09:24: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    09:20 - 09:24: Za, Zo, excl. feestdagen.
-   09:50 - 09:54: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   09:20 - 09:24: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    09:50 - 09:54: Za, Zo, excl. feestdagen.
-   10:20 - 10:24: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   09:50 - 09:54: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    10:20 - 10:24: Za, Zo, excl. feestdagen.
-   10:50 - 10:54: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   10:20 - 10:24: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    10:50 - 10:54: Za, Zo, excl. feestdagen.
-   11:20 - 11:24: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   10:50 - 10:54: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    11:20 - 11:24: Za, Zo, excl. feestdagen.
-   11:50 - 11:54: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   11:20 - 11:24: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    11:50 - 11:54: Za, Zo, excl. feestdagen.
-   12:20 - 12:24: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   11:50 - 11:54: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:20 - 12:24: Za, Zo, excl. feestdagen.
-   12:50 - 12:54: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:20 - 12:24: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:50 - 12:54: Za, Zo, excl. feestdagen.
-   13:20 - 13:24: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:50 - 12:54: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    13:20 - 13:24: Za, Zo, excl. feestdagen.
-   13:50 - 13:54: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   13:20 - 13:24: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    13:50 - 13:54: Za, Zo, excl. feestdagen.
-   14:20 - 14:24: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   13:50 - 13:54: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    14:20 - 14:24: Za, Zo, excl. feestdagen.
-   14:50 - 14:54: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   14:20 - 14:24: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    14:50 - 14:54: Za, Zo, excl. feestdagen.
+   14:50 - 14:54: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/35198">
       <text>Ketelbrug Swifterbant online info</text>
@@ -32273,8 +32274,8 @@ Bedieningstijden
 Periode 02-01 tot 31-03:
    23:00 - 22:59: Zo, excl. feestdagen.
    23:00 - 04:59: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
-   05:00 - 12:59: incl. feestdagen.
    05:00 - 12:59: Za, excl. feestdagen.
+   05:00 - 12:59: incl. feestdagen.
    05:00 - 06:39: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:40 - 07:09: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:10 - 07:39: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -34039,12 +34040,12 @@ Periode 26-03 tot 31-10:
    07:57 - 08:00: Za, Zo, incl. feestdagen.
    08:27 - 08:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    08:57 - 09:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   11:27 - 11:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    11:27 - 11:30: Za, Zo, incl. feestdagen.
+   11:27 - 11:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:57 - 13:00: Za, Zo, incl. feestdagen.
    13:57 - 14:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   17:57 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    17:57 - 18:00: Za, Zo, incl. feestdagen.
+   17:57 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    18:57 - 19:00: Za, Zo, incl. feestdagen.
    19:57 - 20:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 25-03:
@@ -34744,7 +34745,7 @@ Periode 01-11 tot 31-03:
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: 1 november t/m 31 maart: 
-Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
+Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08:30-16:00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/40226">
       <text>Nesserzijl online info</text>
@@ -35288,17 +35289,17 @@ Type:    Bedienbare Brug
 Bedieningstijden
 Periode 01-04 tot 31-10:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   12:00 - 16:00: Zo, incl. feestdagen.
+   08:00 - 11:00: Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Zo, incl. feestdagen.
    16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-11 tot 31-03:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   12:00 - 16:00: Zo, incl. feestdagen.
+   08:00 - 11:00: Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Zo, incl. feestdagen.
    16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/41008">
@@ -35709,8 +35710,8 @@ Bedieningstijden
 Periode 02-01 tot 31-03:
    23:00 - 22:59: Zo, excl. feestdagen.
    23:00 - 04:59: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
-   05:00 - 12:59: incl. feestdagen.
    05:00 - 12:59: Za, excl. feestdagen.
+   05:00 - 12:59: incl. feestdagen.
    05:00 - 20:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    13:00 - 22:59: Za, incl. feestdagen.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -36048,8 +36049,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:00: Za, excl. feestdagen.
    17:30 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-03:
-   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 16:00: Za, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/41822">
@@ -38164,8 +38165,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:00: Za, excl. feestdagen.
    17:30 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-03:
-   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 16:00: Za, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43962">
@@ -40600,7 +40601,7 @@ Periode 01-11 tot 31-03:
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: 1 november t/m 31 maart: 
-Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
+Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08:30-16:00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/46360">
       <text>Fietsbrug in Lytse Stege online info</text>
@@ -40898,7 +40899,7 @@ Periode 15-11 tot 14-03:
    17:00 - 17:30: Za, excl. feestdagen.
 
 Note: Voor brugbediening melden bij de 2e Kanaalsbrug. Bediening uitsluitend voor bestemmingsverkeer.
-Bediening op aanvraag via 06 - 11 80 91 63 (bereikbaar ma t/m vr 08.30-16.00).
+Bediening op aanvraag via 06 - 11 80 91 63 (bereikbaar ma t/m vr 08:30-16:00).
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.
 2e Paasdag en 2e Pinksterdag bediening als op zondag.
 Oudejaarsdag (31-12), de dag voor 1e Kerstdag (24-12) sluiting als zaterdag avond, behalve als dit op zondag valt.
@@ -41680,7 +41681,7 @@ Periode 01-11 tot 31-03:
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: 1 november t/m 31 maart: 
-Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
+Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08:30-16:00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/47503">
       <text>Meineslootbrug online info</text>
@@ -43229,17 +43230,17 @@ Type:    Bedienbare Brug
 Bedieningstijden
 Periode 01-04 tot 31-10:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   12:00 - 16:00: Zo, incl. feestdagen.
+   08:00 - 11:00: Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Zo, incl. feestdagen.
    16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-11 tot 31-03:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   12:00 - 16:00: Zo, incl. feestdagen.
+   08:00 - 11:00: Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Zo, incl. feestdagen.
    16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/49317">
@@ -43399,8 +43400,8 @@ Type:    Bedienbare Brug
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
-   23:00 - 22:59: Za, Zo, incl. feestdagen.
    23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   23:00 - 22:59: Za, Zo, incl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
@@ -44593,7 +44594,8 @@ Periode 01-11 tot 28-03:
    07:00 - 14:30: Za, excl. feestdagen.
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    17:30 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-</desc>
+
+Note: Marifoonkanaal 18. Brug heeft zelf geen marifoon, communicatie loopt via de Nautisch Verkeersleider. Roep hiervoor Havendienst Haarlem.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/51012">
       <text>Buitenrustbrug online info</text>
     </link>
@@ -44610,10 +44612,10 @@ Type:    Bedienbare Brug
 Bedieningstijden
 Periode 01-01 tot 31-12:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   08:00 - 11:00: Zo, incl. feestdagen.
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   12:00 - 16:00: Zo, incl. feestdagen.
+   08:00 - 11:00: Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Zo, incl. feestdagen.
    16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: Tussen 1 april en 1 november: 
@@ -44889,8 +44891,8 @@ Bedieningstijden
 Periode 02-01 tot 31-03:
    23:00 - 22:59: Zo, excl. feestdagen.
    23:00 - 04:59: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
-   05:00 - 12:59: incl. feestdagen.
    05:00 - 12:59: Za, excl. feestdagen.
+   05:00 - 12:59: incl. feestdagen.
    05:00 - 06:39: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:40 - 07:09: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:10 - 07:39: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -46879,7 +46881,7 @@ Periode 01-11 tot 31-03:
    17:00 - 18:00: Za, excl. feestdagen.
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
-Note: Bediening op aanvraag via 058 -  29 25 888.  Optie 4 (bereikbaar ma t/m vr 08.30-16.00).
+Note: Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08:30-16:00).
 Betaalde afroep, 24 uur vooruit bestellen.
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.
 2e Paasdag en 2e Pinksterdag bediening als op zondag.
@@ -47430,8 +47432,8 @@ Type:    Bedienbare Brug
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
-   23:00 - 22:59: Za, Zo, incl. feestdagen.
    23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   23:00 - 22:59: Za, Zo, incl. feestdagen.
    08:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    17:45 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
@@ -47961,7 +47963,7 @@ Periode 01-11 tot 31-03:
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: 1 november t/m 31 maart: 
-Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
+Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08:30-16:00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54790">
       <text>Boornebrug online info</text>
@@ -48016,8 +48018,8 @@ Periode 01-06 tot 31-08:
    08:00 - 09:00: Ma, Di, Wo, excl. feestdagen.
    13:00 - 15:00: Vr, excl. feestdagen.
    13:00 - 15:00: Ma, Di, Wo, excl. feestdagen.
-   16:30 - 17:30: Do, Vr, excl. feestdagen.
    16:30 - 17:30: Ma, Di, Wo, excl. feestdagen.
+   16:30 - 17:30: Do, Vr, excl. feestdagen.
    17:00 - 17:30: Za, excl. feestdagen.
    18:45 - 19:15: Zo, incl. feestdagen.
 Periode 01-09 tot 30-09:
@@ -48949,8 +48951,8 @@ Type:    Bedienbare Brug
 Bedieningstijden
 Periode 12-12 tot 11-12:
    04:57 - 05:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   05:57 - 06:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    05:57 - 06:03: Za, Zo, incl. feestdagen.
+   05:57 - 06:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:57 - 07:03: Za, Zo, incl. feestdagen.
    07:57 - 08:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:57 - 09:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -48959,10 +48961,10 @@ Periode 12-12 tot 11-12:
    11:57 - 12:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:57 - 13:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    13:57 - 14:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   14:57 - 15:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    14:57 - 15:03: Za, Zo, incl. feestdagen.
-   15:57 - 16:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   14:57 - 15:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    15:57 - 16:03: Za, Zo, incl. feestdagen.
+   15:57 - 16:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    16:57 - 17:03: Za, Zo, incl. feestdagen.
    17:57 - 18:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    18:57 - 19:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -49236,7 +49238,7 @@ Periode 12-12 tot 25-03:
    18:56 - 19:02: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    19:26 - 19:32: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
-Note: Opening tussen 6:00 en 20:30 uur. Opening aanvragen bij: Treindienstleiding Groningen, tel: 0840 835460</desc>
+Note: Opening tussen 6:00 en 20:30 uur. Opening aanvragen bij: Treindienstleiding Groningen, tel: 0840-835460.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/56043">
       <text>Greunsspoorbrug online info</text>
     </link>
@@ -52375,7 +52377,7 @@ Periode 15-11 tot 14-03:
    17:00 - 17:30: Za, excl. feestdagen.
 
 Note: Voor brugbediening melden bij de 2e Kanaalsbrug. Bediening uitsluitend voor bestemmingsverkeer.
-Bediening op aanvraag via 06 - 11 80 91 63 (bereikbaar ma t/m vr 08.30-16.00).
+Bediening op aanvraag via 06 - 11 80 91 63 (bereikbaar ma t/m vr 08:30-16:00).
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.
 2e Paasdag en 2e Pinksterdag bediening als op zondag.
 Oudejaarsdag (31-12), de dag voor 1e Kerstdag (24-12) sluiting als zaterdag avond, behalve als dit op zondag valt.
@@ -53467,8 +53469,8 @@ Type:    Bedienbare Brug
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
-   23:00 - 22:59: Za, Zo, excl. feestdagen.
    23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   23:00 - 22:59: Za, Zo, excl. feestdagen.
    08:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    17:45 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
@@ -59859,7 +59861,7 @@ Periode 15-11 tot 14-03:
    17:00 - 17:30: Za, excl. feestdagen.
 
 Note: Voor brugbediening melden bij de 2e Kanaalsbrug. Bediening uitsluitend voor bestemmingsverkeer.
-Bediening op aanvraag via 06 - 11 80 91 63 (bereikbaar ma t/m vr 08.30-16.00).
+Bediening op aanvraag via 06 - 11 80 91 63 (bereikbaar ma t/m vr 08:30-16:00).
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.
 2e Paasdag en 2e Pinksterdag bediening als op zondag.
 Oudejaarsdag (31-12), de dag voor 1e Kerstdag (24-12) sluiting als zaterdag avond, behalve als dit op zondag valt.
