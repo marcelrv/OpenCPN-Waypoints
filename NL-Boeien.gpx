@@ -23212,7 +23212,7 @@ model : spar Groen</desc>
     <name>GVR 6</name>
     <desc>vaarweg : GEUL VAN ROGGEPLAAT
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1143</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -42375,7 +42375,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.15617222212574" lon="5.27419166614939">
+  <wpt lat="53.15653333334721" lon="5.273594444047689">
     <name>MR 11</name>
     <desc>vaarweg : MOLENRAK
 model : spar Groen</desc>
@@ -42384,7 +42384,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.16301111108088" lon="5.284041665969575">
+  <wpt lat="53.16382222248245" lon="5.284638888540661">
     <name>MR 13</name>
     <desc>vaarweg : MOLENRAK
 model : spar Groen</desc>
@@ -42468,7 +42468,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.13511111076022" lon="5.240030555722741">
+  <wpt lat="53.13699722231391" lon="5.240472222841833">
     <name>MR 2</name>
     <desc>vaarweg : MOLENRAK
 model : spar Rood</desc>
@@ -48261,7 +48261,7 @@ licht type : LFl (long-flashing)
 licht periode : 8
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1145</sym>
+    <sym>1147</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -56055,8 +56055,9 @@ model : spar Rood</desc>
     <desc>vaarweg : ROOMPOT
 licht type : LFl (long-flashing)
 licht periode : 8
+lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1043</sym>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -56120,8 +56121,9 @@ model : stomp Geel</desc>
     <desc>vaarweg : ROOMPOT
 licht type : Iso (isophased)
 licht periode : 4
+lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -56208,7 +56210,7 @@ licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1045</sym>
+    <sym>1047</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -56257,8 +56259,9 @@ model : spar Rood</desc>
     <desc>vaarweg : ROOMPOT
 licht type : LFl (long-flashing)
 licht periode : 8
+lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1041</sym>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -56420,7 +56423,7 @@ licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1145</sym>
+    <sym>1147</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -56517,8 +56520,9 @@ model : stomp Geel</desc>
     <desc>vaarweg : ROOMPOT
 licht type : Iso (isophased)
 licht periode : 4
+lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72389,6 +72393,7 @@ model : spar Rood</desc>
     <name>SVC 1A</name>
     <desc>vaarweg : SCHAAR VAN COLIJN
 model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72397,6 +72402,7 @@ model : spar Groen</desc>
     <name>SVC 1B</name>
     <desc>vaarweg : SCHAAR VAN COLIJN
 model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72459,7 +72465,6 @@ model : spar Rood</desc>
     <name>SVC 9</name>
     <desc>vaarweg : SCHAAR VAN COLIJN
 model : spar Groen</desc>
-    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
