@@ -62142,6 +62142,22 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.23580555524992" lon="6.165747221896181">
+    <name>RGIJ-A</name>
+    <desc>vaarweg : GELDERSE IJSSEL
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.00776388868016" lon="6.126947222748711">
+    <name>RGIJ-J</name>
+    <desc>vaarweg : GELDERSE IJSSEL
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.180216666416996" lon="5.407772222198509">
     <name>RH 1</name>
     <desc>vaarweg : REDE VAN HARLINGEN
@@ -71442,18 +71458,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.83814722247893" lon="5.329858333362417">
-    <name>ST 1-SB 2</name>
-    <desc>vaarweg : STAVOREN (IJSSELMEER)
-licht type : Q (quick-flashing)
-lich kleur : Groen
-model : spar Groen/rood</desc>
-    <sym>1212</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.860311111293065" lon="5.347702777805473">
+  <wpt lat="52.861627777528305" lon="5.34426388937486">
     <name>ST 11</name>
     <desc>vaarweg : STAVOREN (IJSSELMEER)
 model : spar Groen</desc>
@@ -71462,7 +71467,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.864883333548015" lon="5.351286110949411">
+  <wpt lat="52.86585277793028" lon="5.348899999805909">
     <name>ST 13</name>
     <desc>vaarweg : STAVOREN (IJSSELMEER)
 model : spar Groen</desc>
@@ -71471,7 +71476,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.86933888874325" lon="5.354891667129338">
+  <wpt lat="52.869919444673954" lon="5.3534055557676">
     <name>ST 15</name>
     <desc>vaarweg : STAVOREN (IJSSELMEER)
 model : spar Groen</desc>
@@ -71480,7 +71485,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.873744444569155" lon="5.358411110393307">
+  <wpt lat="52.87385555535694" lon="5.35789166708868">
     <name>ST 17</name>
     <desc>vaarweg : STAVOREN (IJSSELMEER)
 model : spar Groen</desc>
@@ -71498,7 +71503,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.84216944488872" lon="5.333136111210912">
+  <wpt lat="52.84613888847214" lon="5.326758333827586">
     <name>ST 3</name>
     <desc>vaarweg : STAVOREN (IJSSELMEER)
 model : spar Groen</desc>
@@ -71507,7 +71512,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.84687499962628" lon="5.336952777631796">
+  <wpt lat="52.84944722241728" lon="5.330530555640423">
     <name>ST 5</name>
     <desc>vaarweg : STAVOREN (IJSSELMEER)
 model : spar Groen</desc>
@@ -71516,7 +71521,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.85148888926575" lon="5.340536111680358">
+  <wpt lat="52.85364722231152" lon="5.335211111214933">
     <name>ST 7</name>
     <desc>vaarweg : STAVOREN (IJSSELMEER)
 model : spar Groen</desc>
@@ -71525,7 +71530,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.85551666664275" lon="5.343819444671702">
+  <wpt lat="52.85737777810262" lon="5.339372221920448">
     <name>ST 9</name>
     <desc>vaarweg : STAVOREN (IJSSELMEER)
 model : spar Groen</desc>
