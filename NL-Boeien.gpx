@@ -29815,7 +29815,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.26455277774593" lon="6.124869444295819">
+  <wpt lat="52.264633333185394" lon="6.125063888622956">
     <name>JHD 1</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Groen</desc>
@@ -29824,7 +29824,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.264730555414225" lon="6.124669444291218">
+  <wpt lat="52.26471388886166" lon="6.124744444879893">
     <name>JHD 2</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Rood</desc>
@@ -29833,7 +29833,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.26463055535264" lon="6.125422222323925">
+  <wpt lat="52.264791667115496" lon="6.125627777823082">
     <name>JHD 3</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Groen</desc>
@@ -29842,7 +29842,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.26480277747603" lon="6.125252777519561">
+  <wpt lat="52.26490277796406" lon="6.125397222499037">
     <name>JHD 4</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Rood</desc>
@@ -62150,6 +62150,14 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.00795000024473" lon="6.126622221562664">
+    <name>RGIJ-I</name>
+    <desc>vaarweg : GELDERSE IJSSEL
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.00776388868016" lon="6.126947222748711">
     <name>RGIJ-J</name>
     <desc>vaarweg : GELDERSE IJSSEL
@@ -64611,6 +64619,14 @@ licht periode : 4
 lich kleur : Rood
 model : spar Rood</desc>
     <sym>1147</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.8381944440598" lon="5.329947221854625">
+    <name>SB 2A</name>
+    <desc>vaarweg : STEILEBANK (IJSSELMEER)
+model : spar Rood</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -71454,6 +71470,17 @@ model : stomp Geel</desc>
     <desc>vaarweg : MAAS
 model : stomp Geel</desc>
     <sym>5511</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.84281388846627" lon="5.32302222258957">
+    <name>ST 1-SB 2</name>
+    <desc>vaarweg : STAVOREN (IJSSELMEER)
+licht type : Q (quick-flashing)
+lich kleur : Groen
+model : spar Groen/rood</desc>
+    <sym>1212</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
