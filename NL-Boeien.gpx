@@ -59928,15 +59928,6 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.80866666673494" lon="5.364841667269532">
-    <name>R-SA 18</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : spar Rood/wit repeterend</desc>
-    <sym>1562</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.8169666665223" lon="5.328200000622267">
     <name>R-SA 2</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
@@ -66939,7 +66930,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.59500555542179" lon="3.720161111122556">
+  <wpt lat="51.59500555514541" lon="3.72008611156644">
     <name>SH 3</name>
     <desc>vaarweg : ROOMPOT
 model : spar Groen</desc>
@@ -66984,7 +66975,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.59473055529903" lon="3.720463888694017">
+  <wpt lat="51.59478611152511" lon="3.720383334016008">
     <name>SH 6</name>
     <desc>vaarweg : ROOMPOT
 model : spar Rood</desc>
@@ -71126,6 +71117,17 @@ licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.52180277805442" lon="4.22525277734443">
+    <name>SRK 49</name>
+    <desc>vaarweg : SCHELDE RIJN KANAAL
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spar Groen</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
