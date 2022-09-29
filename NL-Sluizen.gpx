@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-09-28T08:40:31.974000Z</time>
+    <time>2022-09-29T10:10:18.319000Z</time>
   </metadata>
   <wpt lat="53.0240104564255" lon="7.13930010795593">
     <name>Vlagtweddersluis</name>
@@ -557,8 +557,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: Zo, excl. feestdagen.
    05:00 - 21:00: incl. feestdagen.
+   05:00 - 21:00: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/5080">
@@ -1725,8 +1725,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: Zo, excl. feestdagen.
    05:00 - 21:00: incl. feestdagen.
+   05:00 - 21:00: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/13878">
@@ -4144,7 +4144,7 @@ Bedieningstijden
 Periode 01-04 tot 30-04:
    09:00 - 15:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-05 tot 30-09:
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-10 tot 31-10:
    09:00 - 15:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
@@ -4516,8 +4516,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: Zo, excl. feestdagen.
    05:00 - 21:00: incl. feestdagen.
+   05:00 - 21:00: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/38226">
@@ -4943,8 +4943,8 @@ VHF:     20
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
-   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 22:59: Za, Zo, incl. feestdagen.
+   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    15:00 - 17:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -5406,8 +5406,8 @@ Periode 01-09 tot 15-09:
    15:30 - 15:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
    17:30 - 17:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
    18:00 - 18:01: Ma, Di, Wo, Do, excl. feestdagen.
-   18:30 - 18:31: Ma, Di, Wo, Do, excl. feestdagen.
    18:30 - 18:31: Vr, Za, Zo, excl. feestdagen.
+   18:30 - 18:31: Ma, Di, Wo, Do, excl. feestdagen.
    19:00 - 19:01: Vr, Za, Zo, excl. feestdagen.
    19:30 - 19:31: Vr, Za, Zo, excl. feestdagen.
 Periode 16-09 tot 30-09:
@@ -6917,7 +6917,7 @@ Periode 01-11 tot 31-03:
   </wpt>
   <wpt lat="51.6668688093211" lon="4.09485340118408">
     <name>Grevelingensluis</name>
-    <desc>Locatie: Voorhavens Grevelingensluis
+    <desc>Locatie: Grevelingensluis inclusief voorhavens
 VHF:     20
 
 Bedieningstijden
@@ -7952,12 +7952,10 @@ Bij windkracht 7 of hoger worden de bruggen die in beheer zijn bij de provincie 
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
-   05:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   07:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 
-Note: Brug wordt op afstand bediend door Waternet 
-Telefoonnummer 020 608 79 98
-Code 10141 van zuid naar noord
-Code 20141 van noord naar zuid</desc>
+Note: Sluis wordt lokaal bediend door Waternet 
+Telefoonnummer 0683183616</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/24774128">
       <text>Sluis Blaricum (sluisnr 0141) online info</text>
     </link>
