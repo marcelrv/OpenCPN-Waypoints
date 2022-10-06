@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-09-30T12:35:56.394000Z</time>
+    <time>2022-10-05T16:52:14.663000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -17178,6 +17178,19 @@ VHF:          22
 RadioTraffic: INBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/34686807">
       <text>Meldpunt Dokbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.49009983265864" lon="4.801272153854369">
+    <name>Meldpunt Tijdelijke Zaanbrug</name>
+    <desc>Naam:         Meldpunt Tijdelijke Zaanbrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/37148690">
+      <text>Meldpunt Tijdelijke Zaanbrug online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
