@@ -47409,6 +47409,28 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.32201944487295" lon="3.825444444978527">
+    <name>NST-O</name>
+    <desc>vaarweg : Kanaal Gent- Terneuzen
+licht type : VQ (very quick-flashing)
+licht periode : 5
+lich kleur : Wit
+model : spar Zwart/geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.32173611127087" lon="3.823552778394424">
+    <name>NST-W</name>
+    <desc>vaarweg : Kanaal Gent- Terneuzen
+licht type : VQ (very quick-flashing)
+licht periode : 10
+lich kleur : Wit
+model : spar Geel/zwart/geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.336052777628744" lon="3.81270833268582">
     <name>NST</name>
     <desc>vaarweg : Kanaal Gent- Terneuzen
@@ -75047,6 +75069,17 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.323661111329514" lon="3.824636111402625">
+    <name>TK 3</name>
+    <desc>vaarweg : Kanaal Gent- Terneuzen
+licht type : Iso (isophased)
+licht periode : 2
+lich kleur : Groen
+model : spar Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.16642222233232" lon="6.192822222528553">
     <name>TK 3</name>
     <desc>vaarweg : Twentekanalen
@@ -87644,6 +87677,82 @@ model : spar Geel</desc>
     <desc>vaarweg : KORNWERDERZAND (IJSSELMEER)
 model : spar Geel</desc>
     <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.728999999985774" lon="4.378333333956153">
+    <name>WF-HN-E 1</name>
+    <desc>vaarweg : NOORDZEE
+licht type : VQ (very quick-flashing)
+licht periode : 5
+lich kleur : Wit
+model : Pilaar Zwart/geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.67666666679943" lon="4.319999999987886">
+    <name>WF-HN-E 2</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Q (quick-flashing)
+licht periode : 10
+lich kleur : Wit
+model : Pilaar Zwart/geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.80333333353993" lon="4.298830555783141">
+    <name>WF-HN-N</name>
+    <desc>vaarweg : NOORDZEE
+licht type : VQ (very quick-flashing)
+lich kleur : Wit
+model : Pilaar Zwart/geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.63416666673155" lon="4.273500000669947">
+    <name>WF-HN-S 1</name>
+    <desc>vaarweg : NOORDZEE
+licht type : very quick-flash plus long- fl
+licht periode : 10
+lich kleur : Wit
+model : Pilaar Geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.62799999975557" lon="4.156499999350031">
+    <name>WF-HN-S 2</name>
+    <desc>vaarweg : NOORDZEE
+licht type : quick-flash plus long- flash
+licht periode : 15
+lich kleur : Wit
+model : Pilaar Geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.64916666701847" lon="4.124166666618017">
+    <name>WF-HN-W 1</name>
+    <desc>vaarweg : NOORDZEE
+licht type : VQ (very quick-flashing)
+licht periode : 10
+lich kleur : Wit
+model : Pilaar Geel/zwart/geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.71550000012217" lon="4.170166666373465">
+    <name>WF-HN-W 2</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Q (quick-flashing)
+licht periode : 15
+lich kleur : Wit
+model : Pilaar Geel/zwart/geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
