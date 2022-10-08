@@ -19539,6 +19539,7 @@ model : spar Geel</desc>
     <name>GB 10A</name>
     <desc>vaarweg : GREVELINGEN
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -19574,6 +19575,7 @@ model : spar Geel</desc>
     <name>GB 12A</name>
     <desc>vaarweg : GREVELINGEN
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -19812,6 +19814,7 @@ model : spar Geel</desc>
     <name>GB 4A</name>
     <desc>vaarweg : GREVELINGEN
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -19868,6 +19871,7 @@ model : spar Geel</desc>
     <name>GB 6A</name>
     <desc>vaarweg : GREVELINGEN
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -19876,6 +19880,7 @@ model : stomp Rood</desc>
     <name>GB 6B</name>
     <desc>vaarweg : GREVELINGEN
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -47421,6 +47426,7 @@ licht type : VQ (very quick-flashing)
 licht periode : 5
 lich kleur : Wit
 model : spar Zwart/geel/zwart</desc>
+    <sym>2133</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -47432,6 +47438,7 @@ licht type : VQ (very quick-flashing)
 licht periode : 10
 lich kleur : Wit
 model : spar Geel/zwart/geel</desc>
+    <sym>2333</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -47443,6 +47450,7 @@ licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5301</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -53443,6 +53451,7 @@ model : spar Rood</desc>
     <name>PKN 10</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -53451,6 +53460,7 @@ model : stomp Rood</desc>
     <name>PKN 11</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : spits Groen</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -53459,6 +53469,7 @@ model : spits Groen</desc>
     <name>PKN 12</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -53467,6 +53478,7 @@ model : stomp Rood</desc>
     <name>PKN 1</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : spits Groen</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -53475,6 +53487,7 @@ model : spits Groen</desc>
     <name>PKN 2</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -53483,6 +53496,7 @@ model : stomp Rood</desc>
     <name>PKN 3</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : spits Groen</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -53491,6 +53505,7 @@ model : spits Groen</desc>
     <name>PKN 4</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -53499,6 +53514,7 @@ model : stomp Rood</desc>
     <name>PKN 5</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : spits Groen</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -53507,6 +53523,7 @@ model : spits Groen</desc>
     <name>PKN 6</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -53515,6 +53532,7 @@ model : stomp Rood</desc>
     <name>PKN 7</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : spits Groen</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -53523,6 +53541,7 @@ model : spits Groen</desc>
     <name>PKN 8</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -53531,6 +53550,7 @@ model : stomp Rood</desc>
     <name>PKN 9</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : spits Groen</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -62122,6 +62142,7 @@ model : spar Groen</desc>
     <name>RGIJ-A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : stomp Geel</desc>
+    <sym>5511</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -62130,6 +62151,7 @@ model : stomp Geel</desc>
     <name>RGIJ-I</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -62138,6 +62160,7 @@ model : spar Geel</desc>
     <name>RGIJ-J</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -64603,6 +64626,7 @@ model : spar Rood</desc>
     <name>SB 2A</name>
     <desc>vaarweg : STEILEBANK (IJSSELMEER)
 model : spar Rood</desc>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -71459,6 +71483,7 @@ model : stomp Geel</desc>
 licht type : Q (quick-flashing)
 lich kleur : Groen
 model : spar Groen/rood</desc>
+    <sym>1212</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72475,6 +72500,7 @@ model : spar Rood</desc>
     <name>SVC 9</name>
     <desc>vaarweg : SCHAAR VAN COLIJN
 model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -75082,6 +75108,7 @@ licht type : Iso (isophased)
 licht periode : 2
 lich kleur : Groen
 model : spar Groen</desc>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -77294,6 +77321,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Rood
 model : spar Rood</desc>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -77877,6 +77905,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Rood
 model : spar Rood</desc>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -77912,6 +77941,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Rood
 model : spar Rood</desc>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -85409,7 +85439,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.875863889219524" lon="5.791477777146316">
+  <wpt lat="51.875605555833964" lon="5.790561110420215">
     <name>W 21B-G</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : spits Groen</desc>
@@ -85418,7 +85448,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.875361110910006" lon="5.795672221984807">
+  <wpt lat="51.87473055571149" lon="5.795547222231484">
     <name>W 21B-H</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : spits Groen</desc>
@@ -85427,7 +85457,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.87467777759723" lon="5.799394444566419">
+  <wpt lat="51.87424166637129" lon="5.799194444747315">
     <name>W 21B-I</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : spits Groen</desc>
@@ -87695,6 +87725,7 @@ licht type : VQ (very quick-flashing)
 licht periode : 5
 lich kleur : Wit
 model : Pilaar Zwart/geel/zwart</desc>
+    <sym>2123</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87706,6 +87737,7 @@ licht type : Q (quick-flashing)
 licht periode : 10
 lich kleur : Wit
 model : Pilaar Zwart/geel/zwart</desc>
+    <sym>2123</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87716,6 +87748,7 @@ model : Pilaar Zwart/geel/zwart</desc>
 licht type : VQ (very quick-flashing)
 lich kleur : Wit
 model : Pilaar Zwart/geel</desc>
+    <sym>2023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87727,6 +87760,7 @@ licht type : very quick-flash plus long- fl
 licht periode : 10
 lich kleur : Wit
 model : Pilaar Geel/zwart</desc>
+    <sym>2223</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87738,6 +87772,7 @@ licht type : quick-flash plus long- flash
 licht periode : 15
 lich kleur : Wit
 model : Pilaar Geel/zwart</desc>
+    <sym>2223</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87749,6 +87784,7 @@ licht type : VQ (very quick-flashing)
 licht periode : 10
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
+    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87760,6 +87796,7 @@ licht type : Q (quick-flashing)
 licht periode : 15
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
+    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -92013,6 +92050,7 @@ licht type : VQ (very quick-flashing)
 licht periode : 10
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
+    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -94005,6 +94043,7 @@ model : spits Groen</desc>
     <name>ZS 1A</name>
     <desc>vaarweg : ZUIDERSPRUIT AMELAND
 model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -94894,7 +94933,7 @@ model : Pilaar Geel/zwart/geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.88411666704418" lon="5.744500000435975">
+  <wpt lat="51.88345277797974" lon="5.744074999793659">
     <name>kmr 893.205</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : spits Groen</desc>
@@ -94903,7 +94942,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.88442499997579" lon="5.742083333939163">
+  <wpt lat="51.883686110999584" lon="5.741488888418069">
     <name>kmr 893.325</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : spits Groen</desc>
