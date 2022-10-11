@@ -788,7 +788,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.39280000033279" lon="3.697449999322266">
+  <wpt lat="51.393269444730116" lon="3.698572222686545">
     <name>13A</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 model : spar Groen</desc>
@@ -896,7 +896,7 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.38659166636966" lon="3.706280555078998">
+  <wpt lat="51.38902222265509" lon="3.705825000442871">
     <name>15</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 licht type : Iso (isophased)
@@ -6267,7 +6267,7 @@ model : spar Geel/zwart</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.46384444448005" lon="4.621661111673156">
+  <wpt lat="52.467963888628084" lon="4.616055555056592">
     <name>AV-L</name>
     <desc>vaarweg : NOORDZEEKANAAL
 model : spar Geel</desc>
@@ -6276,7 +6276,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.46406111081937" lon="4.621861111705227">
+  <wpt lat="52.467719444344624" lon="4.616555555354656">
     <name>AV-M</name>
     <desc>vaarweg : NOORDZEEKANAAL
 model : spar Geel</desc>
@@ -6285,7 +6285,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.46428055566503" lon="4.622063889180472">
+  <wpt lat="52.46748888873296" lon="4.616969444653346">
     <name>AV-N</name>
     <desc>vaarweg : NOORDZEEKANAAL
 licht type : Fl (flashing)
@@ -6297,7 +6297,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.464277777789384" lon="4.622977778153805">
+  <wpt lat="52.46742777799619" lon="4.618063889424954">
     <name>AV-O</name>
     <desc>vaarweg : NOORDZEEKANAAL
 model : spar Geel</desc>
@@ -6306,17 +6306,8 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.46427222262808" lon="4.62387222175996">
+  <wpt lat="52.467305555491784" lon="4.61922777763075">
     <name>AV-P</name>
-    <desc>vaarweg : NOORDZEEKANAAL
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.46430555571162" lon="4.624772222129608">
-    <name>AV-Q</name>
     <desc>vaarweg : NOORDZEEKANAAL
 licht type : Fl (flashing)
 licht periode : 5
@@ -6327,7 +6318,16 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.46423611076555" lon="4.625691666327575">
+  <wpt lat="52.46738333321164" lon="4.620361111817297">
+    <name>AV-Q</name>
+    <desc>vaarweg : NOORDZEEKANAAL
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.46744722228193" lon="4.621825000426148">
     <name>AV-R</name>
     <desc>vaarweg : NOORDZEEKANAAL
 model : spar Geel</desc>
@@ -6336,7 +6336,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.464186111534005" lon="4.62661944414209">
+  <wpt lat="52.46750277785458" lon="4.623027778480858">
     <name>AV-S</name>
     <desc>vaarweg : NOORDZEEKANAAL
 model : spar Geel</desc>
@@ -6345,7 +6345,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.46416944452331" lon="4.627263889606187">
+  <wpt lat="52.467513888902374" lon="4.624280555968634">
     <name>AV-T</name>
     <desc>vaarweg : NOORDZEEKANAAL
 licht type : Fl (flashing)
@@ -6357,7 +6357,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.46408055560685" lon="4.627644444293923">
+  <wpt lat="52.46779444482333" lon="4.624702777602042">
     <name>AV-U</name>
     <desc>vaarweg : NOORDZEEKANAAL
 model : spar Geel</desc>
@@ -6366,26 +6366,8 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.463866666324236" lon="4.627766666779793">
+  <wpt lat="52.46806666703262" lon="4.625119444823959">
     <name>AV-V</name>
-    <desc>vaarweg : NOORDZEEKANAAL
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.46949444413849" lon="4.618575000564143">
-    <name>AV-W</name>
-    <desc>vaarweg : NOORDZEEKANAAL
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.46909444478626" lon="4.618227778375729">
-    <name>AV-X</name>
     <desc>vaarweg : NOORDZEEKANAAL
 licht type : Fl (flashing)
 licht periode : 5
@@ -6396,8 +6378,8 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.46870555513636" lon="4.617855554983191">
-    <name>AV-Y</name>
+  <wpt lat="52.46838055583576" lon="4.624797222802368">
+    <name>AV-W</name>
     <desc>vaarweg : NOORDZEEKANAAL
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -17617,7 +17599,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
 model : spar Rood/wit repeterend</desc>
-    <sym>6023</sym>
+    <sym>6033</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -71351,7 +71333,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.40291388891366" lon="3.684638888532211">
+  <wpt lat="51.4033805556648" lon="3.685355556190689">
     <name>SS 11</name>
     <desc>vaarweg : SCHAAR VAN DE SPIJKERPLAAT
 model : spar Groen</desc>
