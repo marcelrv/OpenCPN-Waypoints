@@ -76411,15 +76411,6 @@ model : stomp Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.87341944472715" lon="5.427619444077469">
-    <name>Ton 916.350R</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : stomp Rood/wit repeterend</desc>
-    <sym>1552</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.82323888848885" lon="5.315708333104007">
     <name>Ton 929.630R</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
@@ -79458,9 +79449,10 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.38858333327331" lon="3.615699999324666">
+  <wpt lat="51.38859444484752" lon="3.620661111238171">
     <name>VH 10</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+licht type : Q (quick-flashing)
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
