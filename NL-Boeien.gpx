@@ -53465,7 +53465,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.88555555562366" lon="6.028075000497809">
+  <wpt lat="51.8857277781162" lon="6.027597222602405">
     <name>PKN 6</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : stomp Rood</desc>
@@ -77855,6 +77855,17 @@ licht periode : 10
 lich kleur : Groen
 model : spar Groen/rood/groen</desc>
     <sym>1322</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.4206000002133" lon="5.777147222374045">
+    <name>VA 5A</name>
+    <desc>vaarweg : VEERBOOT ROUTE AMELAND
+licht type : Iso (isophased)
+licht periode : 8
+lich kleur : Groen
+model : spar Groen</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
