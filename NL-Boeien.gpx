@@ -23787,7 +23787,6 @@ model : stomp Rood</desc>
     <name>H 12AN1</name>
     <desc>vaarweg : HAMMEN
 model : stomp Geel</desc>
-    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -77939,6 +77938,16 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.41852499987109" lon="5.793188888369357">
+    <name>VA 7B</name>
+    <desc>vaarweg : VEERBOOT ROUTE AMELAND
+licht type : Q (quick-flashing)
+lich kleur : Groen
+model : spar Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.41852500005741" lon="5.785355555937637">
     <name>VA 8</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
@@ -77981,7 +77990,6 @@ model : spar Rood</desc>
 licht type : Q (quick-flashing)
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
