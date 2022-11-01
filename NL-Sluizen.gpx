@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-10-31T12:52:28.458000Z</time>
+    <time>2022-11-01T11:44:19.968000Z</time>
   </metadata>
   <wpt lat="53.0240104564255" lon="7.13930010795593">
     <name>Vlagtweddersluis</name>
@@ -1533,11 +1533,16 @@ Periode 31-12 tot 01-01:
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.3290386729213" lon="6.46396279335022">
-    <name>sluis Schaphalsterzijl</name>
-    <desc>Locatie: Winsumerdiep</desc>
+  <wpt lat="53.32888856120255" lon="6.463548121937492">
+    <name>Sluis Schaphalsterzijl</name>
+    <desc>Locatie: Winsumerdiep
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/12948">
-      <text>sluis Schaphalsterzijl online info</text>
+      <text>Sluis Schaphalsterzijl online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
@@ -2477,10 +2482,9 @@ Periode 16-09 tot 15-05:
 
 Bedieningstijden
 Periode 16-04 tot 15-10:
-   08:00 - 17:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   13:00 - 16:30: Zo, incl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 16-10 tot 15-04:
-   08:00 - 16:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/21124">
       <text>Goejanverwellesluis online info</text>
@@ -2717,7 +2721,7 @@ Note: De Kolksluis staat in de regel open.</desc>
   <wpt lat="51.1417019076937" lon="5.87774991989136">
     <name>sluis Maasbracht</name>
     <desc>Locatie: Julianakanaal
-VHF:     85
+VHF:     78
 
 Bedieningstijden
 Periode 03-01 tot 24-12:
@@ -4060,18 +4064,19 @@ Note: Staat in het algemeen open, doorvaart wordt d.m.v. lichten geregeld. Gaat 
     <desc>Locatie: Oude Rijn
 
 Bedieningstijden
-Periode 01-04 tot 31-10:
-   05:00 - 07:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   05:00 - 18:00: Za, excl. feestdagen.
-   07:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   08:00 - 18:00: Zo, incl. feestdagen.
-   19:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-04 tot 31-05:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-09 tot 31-10:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
    05:00 - 07:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   07:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    08:00 - 12:00: Za, excl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    19:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-</desc>
+
+Note: Wanneer 1e paasdag valt voor 1 april, dan geldt Goede Vrijdag als start van het zomerseizoen (1 april-1 nov.). Op 24 en 31 december, vallende op een werkdag, wordt bediend tot 18 h. Goede vrijdag en Hemelvaartsdag worden niet gezien als feestdag; Koningsdag en Bevrijdingsdag worden niet gezien als feestdag, tenzij vallend op een zondag.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/32761">
       <text>sluis Bodegraven online info</text>
     </link>
@@ -5406,8 +5411,8 @@ Periode 01-09 tot 15-09:
    15:30 - 15:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
    17:30 - 17:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
    18:00 - 18:01: Ma, Di, Wo, Do, excl. feestdagen.
-   18:30 - 18:31: Ma, Di, Wo, Do, excl. feestdagen.
    18:30 - 18:31: Vr, Za, Zo, excl. feestdagen.
+   18:30 - 18:31: Ma, Di, Wo, Do, excl. feestdagen.
    19:00 - 19:01: Vr, Za, Zo, excl. feestdagen.
    19:30 - 19:31: Vr, Za, Zo, excl. feestdagen.
 Periode 16-09 tot 30-09:
@@ -6553,14 +6558,19 @@ Periode 01-04 tot 31-03:
     <desc>Locatie: Grecht
 
 Bedieningstijden
-Periode 01-04 tot 31-10:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   09:00 - 17:00: Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   17:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 31-05:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   09:00 - 18:00: Zo, incl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   09:00 - 19:00: Zo, incl. feestdagen.
+Periode 01-09 tot 31-10:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   09:00 - 18:00: Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
-   08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-</desc>
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+
+Note: Wanneer 1e paasdag valt voor 1 april, dan geldt Goede Vrijdag als start van het zomerseizoen (1 april-1 nov.). Op 24 en 31 december, vallende op een werkdag, wordt bediend tot 18 h. Goede vrijdag en Hemelvaartsdag worden niet gezien als feestdag; Koningsdag en Bevrijdingsdag worden niet gezien als feestdag, tenzij vallend op een zondag.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/57387">
       <text>Woerdense Verlaat online info</text>
     </link>
@@ -7194,14 +7204,16 @@ Op overige tijden op aanvraag bij Bediencentrale Tilburg</desc>
     <desc>Locatie: Gekanaliseerde Hollandsche IJssel
 
 Bedieningstijden
-Periode 01-04 tot 31-10:
-   07:00 - 08:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   08:00 - 18:00: Za, Zo, excl. feestdagen.
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-04 tot 31-05:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-09 tot 31-10:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
-   07:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   08:00 - 16:00: Za, Zo, excl. feestdagen.
-</desc>
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+
+Note: Wanneer 1e paasdag valt voor 1 april, dan geldt Goede Vrijdag als start van het zomerseizoen (1 april-1 nov.). Op 24 en 31 december, vallende op een werkdag, wordt bediend tot 18 h. Goede vrijdag en Hemelvaartsdag worden niet gezien als feestdag; Koningsdag en Bevrijdingsdag worden niet gezien als feestdag, tenzij vallend op een zondag.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/7069906">
       <text>Waaiersluis online info</text>
     </link>
