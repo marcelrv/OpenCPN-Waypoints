@@ -10500,7 +10500,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.19626944442721" lon="5.323388888483921">
+  <wpt lat="53.19619722186739" lon="5.323313888791011">
     <name>BS-F</name>
     <desc>vaarweg : BLAUWE SLENK
 model : spar Geel</desc>
@@ -10509,7 +10509,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.193683333017674" lon="5.327808332652504">
+  <wpt lat="53.193502778107145" lon="5.327630555964804">
     <name>BS-G</name>
     <desc>vaarweg : BLAUWE SLENK
 model : spar Geel</desc>
@@ -10518,7 +10518,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.19089722255449" lon="5.330280555420484">
+  <wpt lat="53.1905388892655" lon="5.332300000132798">
     <name>BS-H</name>
     <desc>vaarweg : BLAUWE SLENK
 model : spar Geel</desc>
@@ -50258,7 +50258,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.45495833344379" lon="3.52531666662124">
+  <wpt lat="51.45379722263691" lon="3.527791667301885">
     <name>OG 20</name>
     <desc>vaarweg : OOSTGAT
 licht type : VQ (very quick-flashing)
@@ -53476,7 +53476,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.906502777730246" lon="6.001219444908207">
+  <wpt lat="51.9069805552472" lon="5.999086111281852">
     <name>PKN 2</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : stomp Rood</desc>
@@ -53494,7 +53494,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.90626944431872" lon="6.001811110683774">
+  <wpt lat="51.906397222341205" lon="6.000511110524334">
     <name>PKN 4</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : stomp Rood</desc>
@@ -53512,7 +53512,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.8857277781162" lon="6.027597222602405">
+  <wpt lat="51.884811110779985" lon="6.028077778224726">
     <name>PKN 6</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : stomp Rood</desc>
@@ -66618,7 +66618,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.44533333291096" lon="3.553500000056561">
+  <wpt lat="51.44363333330767" lon="3.557638889595871">
     <name>SG 3</name>
     <desc>vaarweg : SARDIJNGEUL
 licht type : Iso (isophased)
@@ -66902,7 +66902,7 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.43894722202833" lon="3.564580555180321">
+  <wpt lat="51.44056666702256" lon="3.561744444513424">
     <name>SG-W</name>
     <desc>vaarweg : SARDIJNGEUL
 licht type : VQ (very quick-flashing)
@@ -77913,6 +77913,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Groen
 model : spar Groen</desc>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -78029,6 +78030,19 @@ model : spar Rood</desc>
 licht type : Q (quick-flashing)
 lich kleur : Groen
 model : spar Groen</desc>
+    <sym>1045</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.37403055590988" lon="4.091786110862807">
+    <name>VALKENISSE</name>
+    <desc>vaarweg : SCHAAR VAN VALKENISSE
+licht type : quick-flash plus long- flash
+licht periode : 15
+lich kleur : Wit
+model : spar Geel/zwart</desc>
+    <sym>2223</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
