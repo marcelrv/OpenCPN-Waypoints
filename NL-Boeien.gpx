@@ -2269,18 +2269,6 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.899811110977026" lon="4.287394443797145">
-    <name>38</name>
-    <desc>vaarweg : NIEUWE WATERWEG
-licht type : LFl (long-flashing)
-licht periode : 8
-lich kleur : Rood
-model : stomp Rood</desc>
-    <sym>1105</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.5348999998643" lon="3.688266666083959">
     <name>39</name>
     <desc>vaarweg : VEERSE MEER
@@ -53300,7 +53288,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.88746944477894" lon="6.026938889205432">
+  <wpt lat="51.88386944448972" lon="6.028594444663016">
     <name>PKN 10</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : stomp Rood</desc>
@@ -53453,7 +53441,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.90614722193436" lon="5.997636110912365">
+  <wpt lat="51.89048055530653" lon="6.02449722250658">
     <name>PKN 9</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : spits Groen</desc>
@@ -53516,15 +53504,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.89536111136957" lon="6.0218361113851">
-    <name>PL 1</name>
-    <desc>vaarweg : PANNENDERSEKANAAL
-model : spits Groen/wit repeterend</desc>
-    <sym>1502</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.394225000175894" lon="5.69270000045517">
     <name>PL 16</name>
     <desc>vaarweg : VELUWEMEER RECREATIE (RANDMEREN)
@@ -53543,15 +53522,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.89500833302656" lon="6.022255554846353">
-    <name>PL 3</name>
-    <desc>vaarweg : PANNENDERSEKANAAL
-model : spits Groen/wit repeterend</desc>
-    <sym>1502</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.40069722185414" lon="5.683891666817847">
     <name>PL 3</name>
     <desc>vaarweg : VELUWEMEER RECREATIE (RANDMEREN)
@@ -53566,15 +53536,6 @@ model : spar Groen</desc>
     <desc>vaarweg : VELUWEMEER RECREATIE (RANDMEREN)
 model : spar Rood</desc>
     <sym>1143</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.894616666621395" lon="6.022480555451868">
-    <name>PL 5</name>
-    <desc>vaarweg : PANNENDERSEKANAAL
-model : spits Groen/wit repeterend</desc>
-    <sym>1502</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -77904,6 +77865,7 @@ model : spar Groen</desc>
 licht type : Q (quick-flashing)
 lich kleur : Groen
 model : spar Groen</desc>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -77948,6 +77910,7 @@ model : spar Rood</desc>
     <name>VA 9</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Q (quick-flashing)
+licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
