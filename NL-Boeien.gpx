@@ -76349,7 +76349,7 @@ model : stomp Rood/wit repeterend</desc>
     <name>Ton 903.330R</name>
     <desc>vaarweg : NEDERRIJN
 model : stomp Rood/wit repeterend</desc>
-    <sym>1552</sym>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -94929,15 +94929,6 @@ model : spits Groen</desc>
   </wpt>
   <wpt lat="51.82291666711984" lon="5.294633332931693">
     <name>kmr 931.130</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : spits Groen</desc>
-    <sym>1003</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.8227166667272" lon="5.291516666351248">
-    <name>kmr 931.360</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : spits Groen</desc>
     <sym>1003</sym>
