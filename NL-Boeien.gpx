@@ -1425,6 +1425,18 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.35533333344336" lon="3.759761111254764">
+    <name>23</name>
+    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spits Groen</desc>
+    <sym>1005</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.69726666625572" lon="4.093716667240854">
     <name>23</name>
     <desc>vaarweg : GREVELINGEN
@@ -11159,7 +11171,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.431530555643405" lon="6.193547222387221">
+  <wpt lat="53.43118611070696" lon="6.191508333825497">
     <name>BZ 13</name>
     <desc>vaarweg : GEUL VAN BRAKZAND
 model : spar Groen</desc>
@@ -11168,7 +11180,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.43021944419756" lon="6.188330555604858">
+  <wpt lat="53.42987222198372" lon="6.186294443710927">
     <name>BZ 15</name>
     <desc>vaarweg : GEUL VAN BRAKZAND
 model : spar Groen</desc>
@@ -11195,7 +11207,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.42765555593898" lon="6.182113889062688">
+  <wpt lat="53.42747222213816" lon="6.182308334072932">
     <name>BZ 17</name>
     <desc>vaarweg : GEUL VAN BRAKZAND
 model : spar Groen</desc>
@@ -22958,7 +22970,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.460286111500395" lon="6.181338888722914">
+  <wpt lat="53.460097222082915" lon="6.181261111213222">
     <name>GS 4A-R 1</name>
     <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
 model : spar Rood/groen/rood</desc>
@@ -94901,7 +94913,6 @@ model : spits Groen</desc>
     <name>kmr 931.360</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : spits Groen</desc>
-    <sym>1003</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
