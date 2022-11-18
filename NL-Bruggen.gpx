@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-11-15T17:38:52.504000Z</time>
+    <time>2022-11-17T16:59:52.893000Z</time>
   </metadata>
   <wpt lat="53.0759321679316" lon="7.14846917281973">
     <name>Vriescheloosterbrug</name>
@@ -1718,12 +1718,12 @@ Periode 26-03 tot 31-10:
    07:57 - 08:00: Za, Zo, incl. feestdagen.
    08:27 - 08:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    08:57 - 09:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   11:27 - 11:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    11:27 - 11:30: Za, Zo, incl. feestdagen.
+   11:27 - 11:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:57 - 13:00: Za, Zo, incl. feestdagen.
    13:57 - 14:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   17:57 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    17:57 - 18:00: Za, Zo, incl. feestdagen.
+   17:57 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    18:57 - 19:00: Za, Zo, incl. feestdagen.
    19:57 - 20:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 25-03:
@@ -15767,8 +15767,8 @@ Type:    Bedienbare Brug
 Bedieningstijden
 Periode 12-12 tot 11-12:
    04:57 - 05:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   05:57 - 06:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    05:57 - 06:03: Za, Zo, incl. feestdagen.
+   05:57 - 06:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:57 - 07:03: Za, Zo, incl. feestdagen.
    07:57 - 08:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:57 - 09:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -15777,10 +15777,10 @@ Periode 12-12 tot 11-12:
    11:57 - 12:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:57 - 13:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    13:57 - 14:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   14:57 - 15:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    14:57 - 15:03: Za, Zo, incl. feestdagen.
-   15:57 - 16:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   14:57 - 15:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    15:57 - 16:03: Za, Zo, incl. feestdagen.
+   15:57 - 16:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    16:57 - 17:03: Za, Zo, incl. feestdagen.
    17:57 - 18:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    18:57 - 19:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -17906,8 +17906,8 @@ Type:    Bedienbare Brug
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
-   23:00 - 22:59: Za, Zo, incl. feestdagen.
    23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   23:00 - 22:59: Za, Zo, incl. feestdagen.
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
@@ -25198,15 +25198,18 @@ Type:    Bedienbare Brug
 VHF:     68
 
 Bedieningstijden
-Periode 01-01 tot 31-12:
-   23:00 - 05:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   05:15 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   07:00 - 08:00: Za, Zo, excl. feestdagen.
-   07:30 - 16:15: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   17:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   19:00 - 20:00: Za, Zo, excl. feestdagen.
-
-Note: Bediening Havenbrug is mede afhankelijk van de treinenloop.</desc>
+Periode 16-04 tot 15-10:
+   05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   07:00 - 19:00: Za, Zo, incl. feestdagen.
+   07:30 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   17:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 16-10 tot 15-04:
+   05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   07:00 - 08:00: Za, excl. feestdagen.
+   07:30 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   17:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   19:00 - 20:00: Zo, excl. feestdagen.
+</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/28977">
       <text>Koepaardbrug online info</text>
     </link>
@@ -28331,8 +28334,8 @@ VHF:     22
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
-   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 22:59: Za, Zo, incl. feestdagen.
+   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:30 - 15:00: Ma, Di, Wo, Do, excl. feestdagen.
    07:30 - 22:59: Vr, excl. feestdagen.
    16:00 - 22:59: Ma, Di, Wo, Do, excl. feestdagen.
@@ -34057,12 +34060,12 @@ Periode 26-03 tot 31-10:
    07:57 - 08:00: Za, Zo, incl. feestdagen.
    08:27 - 08:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    08:57 - 09:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   11:27 - 11:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    11:27 - 11:30: Za, Zo, incl. feestdagen.
+   11:27 - 11:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:57 - 13:00: Za, Zo, incl. feestdagen.
    13:57 - 14:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   17:57 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    17:57 - 18:00: Za, Zo, incl. feestdagen.
+   17:57 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    18:57 - 19:00: Za, Zo, incl. feestdagen.
    19:57 - 20:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 25-03:
@@ -34607,8 +34610,8 @@ Periode 01-09 tot 15-09:
    15:30 - 15:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
    17:30 - 17:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
    18:00 - 18:01: Ma, Di, Wo, Do, excl. feestdagen.
-   18:30 - 18:31: Ma, Di, Wo, Do, excl. feestdagen.
    18:30 - 18:31: Vr, Za, Zo, excl. feestdagen.
+   18:30 - 18:31: Ma, Di, Wo, Do, excl. feestdagen.
    19:00 - 19:01: Vr, Za, Zo, excl. feestdagen.
    19:30 - 19:31: Vr, Za, Zo, excl. feestdagen.
 Periode 16-09 tot 30-09:
@@ -39661,18 +39664,26 @@ Note: Opening tussen 6:00 en 22:00 uur.</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9220153477531" lon="4.25225982051427">
-    <name>Schansbrug</name>
+    <name>Schansbrug Maassluis</name>
     <desc>Locatie: Noordgeer
 Type:    Bedienbare Brug
 VHF:     68
 
 Bedieningstijden
-Periode 01-01 tot 31-12:
-   05:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 16-04 tot 15-10:
+   05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   07:00 - 19:00: Za, Zo, incl. feestdagen.
+   07:30 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   17:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 16-10 tot 15-04:
+   05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:00 - 08:00: Za, excl. feestdagen.
+   07:30 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   17:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   19:00 - 20:00: Zo, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/45677">
-      <text>Schansbrug online info</text>
+      <text>Schansbrug Maassluis online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -44629,10 +44640,10 @@ Type:    Bedienbare Brug
 Bedieningstijden
 Periode 01-01 tot 31-12:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    08:00 - 11:00: Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Zo, incl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: Tussen 1 april en 1 november: 
@@ -47447,8 +47458,8 @@ Type:    Bedienbare Brug
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
-   23:00 - 22:59: Za, Zo, incl. feestdagen.
    23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   23:00 - 22:59: Za, Zo, incl. feestdagen.
    08:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    17:45 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
@@ -48965,8 +48976,8 @@ Type:    Bedienbare Brug
 Bedieningstijden
 Periode 12-12 tot 11-12:
    04:57 - 05:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   05:57 - 06:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    05:57 - 06:03: Za, Zo, incl. feestdagen.
+   05:57 - 06:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:57 - 07:03: Za, Zo, incl. feestdagen.
    07:57 - 08:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:57 - 09:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -48975,10 +48986,10 @@ Periode 12-12 tot 11-12:
    11:57 - 12:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:57 - 13:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    13:57 - 14:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   14:57 - 15:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    14:57 - 15:03: Za, Zo, incl. feestdagen.
-   15:57 - 16:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   14:57 - 15:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    15:57 - 16:03: Za, Zo, incl. feestdagen.
+   15:57 - 16:03: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    16:57 - 17:03: Za, Zo, incl. feestdagen.
    17:57 - 18:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    18:57 - 19:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
