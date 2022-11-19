@@ -4029,7 +4029,7 @@ model : spits Groen</desc>
     <name>77</name>
     <desc>vaarweg : GREVELINGEN
 model : spar Rood/groen repeterend</desc>
-    <sym>1562</sym>
+    <sym>1421</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -23046,15 +23046,6 @@ model : spar Zwart/geel/zwart</desc>
     <desc>vaarweg : WOLDERWIJD (RANDMEREN)
 model : spar Geel/zwart/geel</desc>
     <sym>2331</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.22986666681744" lon="5.283402777509036">
-    <name>GW</name>
-    <desc>vaarweg : GRIENDERWAARD
-model : spar Geel</desc>
-    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
