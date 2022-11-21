@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-11-17T16:59:52.893000Z</time>
+    <time>2022-11-21T11:41:42.517000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -1346,7 +1346,7 @@ Note: Bediening op afroep. Opening aanvragen bij Treindienstleiding Groningen, t
     </extensions>
   </wpt>
   <wpt lat="52.9457293790243" lon="5.78070224560518">
-    <name>Scharsterbrug</name>
+    <name>Skarsterbrêge</name>
     <desc>Locatie: Scharsterrijn of Nieuwe Rijn
 Type:    Bedienbare Brug
 VHF:     80
@@ -1364,7 +1364,7 @@ Periode 01-11 tot 31-03:
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
 Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/10138">
-      <text>Scharsterbrug online info</text>
+      <text>Skarsterbrêge online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -6667,7 +6667,7 @@ Hemelvaartsdag is bediening als op donderdag.</desc>
     </extensions>
   </wpt>
   <wpt lat="52.9744959424677" lon="5.75699450180216">
-    <name>brug Noorder Oude Weg</name>
+    <name>Brêge Noarder Alde Wei</name>
     <desc>Locatie: Oudeweg
 Type:    Bedienbare Brug
 VHF:     80
@@ -6685,7 +6685,7 @@ Periode 01-11 tot 31-03:
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
 Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/46966">
-      <text>brug Noorder Oude Weg online info</text>
+      <text>Brêge Noarder Alde Wei online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -7170,7 +7170,7 @@ Oudejaarsdag (31-12), de dag voor 1e Kerstdag (24-12) en Hemelvaartsdag sluiting
     </extensions>
   </wpt>
   <wpt lat="53.0399849636011" lon="5.4961601104791">
-    <name>Van Panhuysbrug</name>
+    <name>Van Panhuysbrêge</name>
     <desc>Locatie: Van Panhuyskanaal
 Type:    Bedienbare Brug
 VHF:     80
@@ -7188,7 +7188,7 @@ Periode 01-11 tot 31-03:
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
 Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/50865">
-      <text>Van Panhuysbrug online info</text>
+      <text>Van Panhuysbrêge online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -7858,8 +7858,8 @@ Periode 01-06 tot 31-08:
    08:00 - 09:00: Ma, Di, Wo, excl. feestdagen.
    13:00 - 15:00: Vr, excl. feestdagen.
    13:00 - 15:00: Ma, Di, Wo, excl. feestdagen.
-   16:30 - 17:30: Do, Vr, excl. feestdagen.
    16:30 - 17:30: Ma, Di, Wo, excl. feestdagen.
+   16:30 - 17:30: Do, Vr, excl. feestdagen.
    17:00 - 17:30: Za, excl. feestdagen.
    18:45 - 19:15: Zo, incl. feestdagen.
 Periode 01-09 tot 30-09:
@@ -10191,9 +10191,11 @@ Type:    Bedienbare Brug
 
 Bedieningstijden
 Periode 01-05 tot 30-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   13:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   18:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   07:00 - 09:00: Zo, incl. feestdagen.
+   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   13:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   16:00 - 18:00: Zo, incl. feestdagen.
+   18:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-10 tot 30-04:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 
