@@ -1432,6 +1432,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -86194,6 +86195,7 @@ model : spar Rood</desc>
     <name>WA 11</name>
     <desc>vaarweg : WESTGAT (AMELAND)
 model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87700,17 +87702,6 @@ model : stomp Rood</desc>
     <desc>vaarweg : WESTGAT (OOSTERSCHELDE)
 model : spar Rood</desc>
     <sym>1143</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.52688333369961" lon="6.042750000661947">
-    <name>WG 2</name>
-    <desc>vaarweg : WESTGAT (FRIESCHE ZEEGAT)
-licht type : VQ (very quick-flashing)
-lich kleur : Rood
-model : stomp Rood</desc>
-    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -94465,17 +94456,6 @@ model : stomp Geel</desc>
     <desc>vaarweg : OOSTGAT
 model : stomp Geel</desc>
     <sym>3500</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.20761388860365" lon="4.375180555588301">
-    <name>Zink-W</name>
-    <desc>vaarweg : NOORDZEE
-licht type : Q (quick-flashing)
-licht periode : 15
-lich kleur : Wit
-model : Pilaar Geel/zwart/geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
