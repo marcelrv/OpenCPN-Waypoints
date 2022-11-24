@@ -20609,7 +20609,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.090916666884716" lon="6.182633333292003">
+  <wpt lat="52.09096666632225" lon="6.18241666653446">
     <name>GIJ 60</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Rood</desc>
@@ -20618,7 +20618,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.09113333302319" lon="6.181516666042134">
+  <wpt lat="52.091016666539524" lon="6.181149999852733">
     <name>GIJ 60A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Rood</desc>
@@ -52931,7 +52931,7 @@ model : stomp Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.88968888867427" lon="6.024705556074501">
+  <wpt lat="51.90685833372045" lon="5.995986110633278">
     <name>PKN 11</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : spits Groen/wit repeterend</desc>
@@ -53075,7 +53075,7 @@ model : stomp Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.890463888716084" lon="6.024519444445298">
+  <wpt lat="51.90712222212628" lon="5.995474999534135">
     <name>PKN 9</name>
     <desc>vaarweg : PANNENDERSEKANAAL
 model : spits Groen/wit repeterend</desc>
@@ -61739,7 +61739,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.23557777748678" lon="6.164986111292829">
+  <wpt lat="52.23557777777869" lon="6.164969445032207">
     <name>RGIJ-E</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : stomp Geel</desc>
@@ -87723,7 +87723,6 @@ model : spar Rood</desc>
 licht type : VQ (very quick-flashing)
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -94489,51 +94488,7 @@ licht type : Q (quick-flashing)
 licht periode : 15
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.88345277797974" lon="5.744074999793659">
-    <name>kmr 893.205</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : spits Groen</desc>
-    <sym>1003</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.883686110999584" lon="5.741488888418069">
-    <name>kmr 893.325</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : spits Groen</desc>
-    <sym>1003</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.896911110934646" lon="5.668041666456913">
-    <name>kmr 898.780</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : stomp Rood</desc>
-    <sym>1103</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.897191666894656" lon="5.662924999813913">
-    <name>kmr 899.100</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : stomp Rood</desc>
-    <sym>1103</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.89766666635197" lon="5.659013888271605">
-    <name>kmr 899.520</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : stomp Rood</desc>
-    <sym>1103</sym>
+    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
