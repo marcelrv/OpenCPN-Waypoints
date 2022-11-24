@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-11-22T18:10:43.168000Z</time>
+    <time>2022-11-24T12:55:37.523000Z</time>
   </metadata>
   <wpt lat="53.0759321679316" lon="7.14846917281973">
     <name>Vriescheloosterbrug</name>
@@ -6043,8 +6043,8 @@ VHF:     18
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
-   23:00 - 06:00: Vr, excl. feestdagen.
    23:00 - 22:59: Za, Zo, incl. feestdagen.
+   23:00 - 06:00: Vr, excl. feestdagen.
    23:00 - 05:45: Ma, Di, Wo, Do, excl. feestdagen.
    07:15 - 07:25: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:45 - 22:59: Vr, excl. feestdagen.
@@ -9691,7 +9691,7 @@ Periode 01-10 tot 30-04:
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.6650104174601" lon="4.16168580736343">
+  <wpt lat="51.66500268744059" lon="4.161687810064905">
     <name>brug in N257 Krammerjachtensluis</name>
     <desc>Locatie: Jachtsluizen Krammer
 Type:    Vaste Brug</desc>
@@ -24094,8 +24094,8 @@ Note: Als er tijdens bedieningstijden na 30 min geen bediening is kunt u bellen 
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.6649629624226" lon="4.16032810173998">
-    <name>Krammerjachtensluis, sluisdeur in buitenhoofd</name>
+  <wpt lat="51.66495613665407" lon="4.160204241075006">
+    <name>brug over buitenhoofd Krammerjachtensluis</name>
     <desc>Locatie: Jachtsluizen Krammer
 Type:    Bedienbare Brug
 
@@ -24105,7 +24105,7 @@ Periode 01-01 tot 31-12:
 
 Note: Voor bediening van de sluis, telefonisch: 088-7974752 of bij meldpaal op wachtsteiger.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/28021">
-      <text>Krammerjachtensluis, sluisdeur in buitenhoofd online info</text>
+      <text>brug over buitenhoofd Krammerjachtensluis online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -28134,24 +28134,6 @@ Type:    Vaste Brug</desc>
       <text>Olstbrug online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.6650033449424" lon="4.16148337594612">
-    <name>Krammerjachtensluis, sluisdeur in binnenhoofd</name>
-    <desc>Locatie: Jachtsluizen Krammer
-Type:    Bedienbare Brug
-
-Bedieningstijden
-Periode 01-01 tot 31-12:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-
-Note: Voor bediening van de sluis, telefonisch: 088-7974752 of bij meldpaal op wachtsteiger.</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/32697">
-      <text>Krammerjachtensluis, sluisdeur in binnenhoofd online info</text>
-    </link>
-    <sym>Landmarks-Bridge2</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
