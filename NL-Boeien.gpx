@@ -17600,11 +17600,35 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.396788889237534" lon="4.213019444575419">
+    <name>F 68</name>
+    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.373197222237174" lon="4.151911111346529">
     <name>F 69</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 model : spar Geel</desc>
     <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.39000277814566" lon="4.219458333776803">
+    <name>F 70</name>
+    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.38151944418292" lon="4.220830555162252">
+    <name>F 72</name>
+    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+model : spar Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -20636,7 +20660,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.01835833295873" lon="6.12906111159811">
+  <wpt lat="52.01821666651677" lon="6.128900000361582">
     <name>GIJ 60C</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Rood</desc>
@@ -20708,7 +20732,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.20116666679771" lon="6.167583333434317">
+  <wpt lat="52.20146666694314" lon="6.167138888278827">
     <name>GIJ 63</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Groen</desc>
@@ -20717,7 +20741,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.189408333762486" lon="6.164072222767648">
+  <wpt lat="52.18921944448777" lon="6.162697221725738">
     <name>GIJ 65</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Groen</desc>
@@ -20735,7 +20759,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.18958333323722" lon="6.165897222881054">
+  <wpt lat="52.18947777810227" lon="6.164852777958522">
     <name>GIJ 65A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Groen</desc>
@@ -20744,7 +20768,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.189333333539615" lon="6.167900000263042">
+  <wpt lat="52.18938611097828" lon="6.167261110837459">
     <name>GIJ 65B</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Groen</desc>
@@ -20753,7 +20777,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.18851388917747" lon="6.169580555010671">
+  <wpt lat="52.188869444419836" lon="6.168744443964753">
     <name>GIJ 67</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Groen</desc>
@@ -24923,18 +24947,6 @@ model : spits Groen</desc>
     <desc>vaarweg : HOLLANDSCH DIEP
 model : stomp Rood</desc>
     <sym>1101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.702216666427425" lon="4.572083332999324">
-    <name>HD 39</name>
-    <desc>vaarweg : HOLLANDSCH DIEP
-licht type : LFl (long-flashing)
-licht periode : 5
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -42812,7 +42824,7 @@ model : spar Rood/wit repeterend</desc>
     <name>MW 5</name>
     <desc>vaarweg : NOORDZEE
 licht type : LFl (long-flashing)
-licht periode : 5
+licht periode : 8
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1005</sym>
@@ -42833,7 +42845,7 @@ model : spar Rood/wit repeterend</desc>
     <name>MW 7</name>
     <desc>vaarweg : NOORDZEE
 licht type : LFl (long-flashing)
-licht periode : 8
+licht periode : 5
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1005</sym>
@@ -68277,7 +68289,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.47486944437282" lon="6.437288888480132">
+  <wpt lat="53.47480277758364" lon="6.438922221678718">
     <name>SP 14</name>
     <desc>vaarweg : SPRUIT
 model : spar Rood</desc>
@@ -69114,7 +69126,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.46054166639007" lon="6.439802777304987">
+  <wpt lat="53.460747222220746" lon="6.43651388928062">
     <name>SP 9</name>
     <desc>vaarweg : SPRUIT
 model : spar Groen</desc>
@@ -69813,7 +69825,7 @@ model : bol Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.800000000406364" lon="5.150000000087215">
+  <wpt lat="52.8000194444381" lon="5.150019444071635">
     <name>SPORT C</name>
     <desc>vaarweg : WAGENPAD (IJSSELMEER)
 licht type : Fl (flashing)
@@ -79660,42 +79672,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.23056388894233" lon="5.042097221486555">
-    <name>VH-A</name>
-    <desc>vaarweg : VLIEHORS
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.229744444348746" lon="5.050624999335047">
-    <name>VH-C</name>
-    <desc>vaarweg : VLIEHORS
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.229661110746775" lon="5.046827777668259">
-    <name>VH-E</name>
-    <desc>vaarweg : VLIEHORS
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.23056944451316" lon="5.045766666627665">
-    <name>VH-F</name>
-    <desc>vaarweg : VLIEHORS
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.24130555551335" lon="5.033847222524201">
     <name>VH-GAS-N</name>
     <desc>vaarweg : VLIEHORS
@@ -79705,7 +79681,7 @@ model : stomp Zwart/geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.24700833306559" lon="5.027022222001129">
+  <wpt lat="53.24045555591701" lon="5.03476944445524">
     <name>VH-GAS-Z</name>
     <desc>vaarweg : VLIEHORS
 model : stomp Geel/zwart</desc>
@@ -85638,6 +85614,9 @@ model : spar Groen</desc>
   <wpt lat="52.959666666622674" lon="5.401866666216114">
     <name>W 5A</name>
     <desc>vaarweg : WORKUM (IJSSELMEER)
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
