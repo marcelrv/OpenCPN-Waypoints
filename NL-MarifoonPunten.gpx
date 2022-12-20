@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-12-19T06:24:11.150000Z</time>
+    <time>2022-12-19T17:27:31.905000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -5066,19 +5066,6 @@ RadioTraffic: TWO_WAY</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.398615526658" lon="4.89664047024602">
-    <name>Meldpunt Amsterdam, ligplaats duwbakken</name>
-    <desc>Naam:         Meldpunt Amsterdam, ligplaats duwbakken
-VHF:          4
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/21975">
-      <text>Meldpunt Amsterdam, ligplaats duwbakken online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.9520994241159" lon="4.15597509501379">
     <name>Meldpunt Rotterdam, Europoort, overslagsteiger Welplaat</name>
     <desc>Naam:         Meldpunt Rotterdam, Europoort, overslagsteiger Welplaat
@@ -8916,19 +8903,6 @@ Opmerking: Gem Havendienst</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.3837163426748" lon="4.94052171707153">
-    <name>Meldpunt Amsterdam, Surinamekade</name>
-    <desc>Naam:         Meldpunt Amsterdam, Surinamekade
-VHF:          14
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/37011">
-      <text>Meldpunt Amsterdam, Surinamekade online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.2442150615713" lon="6.17429921299527">
     <name>Meldpunt Hanzebruggen</name>
     <desc>Naam:         Meldpunt Hanzebruggen
@@ -9796,14 +9770,14 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="52.4135273436534" lon="4.84358188022706">
-    <name>Meldpunt Jan van Riebeeckhaven Eurotank steiger 10</name>
-    <desc>Naam:         Meldpunt Jan van Riebeeckhaven Eurotank steiger 10
+    <name>Meldpunt Jan van Riebeeckhaven steiger 10</name>
+    <desc>Naam:         Meldpunt Jan van Riebeeckhaven steiger 10
 VHF:          4
 RadioTraffic: TWO_WAY
 Opmerking: Voor zee- en binnenvaart
 Code; RBS10</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/41122">
-      <text>Meldpunt Jan van Riebeeckhaven Eurotank steiger 10 online info</text>
+      <text>Meldpunt Jan van Riebeeckhaven steiger 10 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
