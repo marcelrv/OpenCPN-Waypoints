@@ -23783,6 +23783,24 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.656791666728196" lon="3.73458055611228">
+    <name>H 2AZ</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.65789444478352" lon="3.734936111445729">
+    <name>H 2N</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.65789444478352" lon="3.734936111445729">
     <name>H 2N</name>
     <desc>vaarweg : HAMMEN
@@ -23794,6 +23812,24 @@ model : stomp Geel</desc>
   </wpt>
   <wpt lat="51.655888889129216" lon="3.734372222612037">
     <name>H 2V</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.655888889129216" lon="3.734372222612037">
+    <name>H 2V</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.65532777816163" lon="3.733194444857864">
+    <name>H 2Z</name>
     <desc>vaarweg : HAMMEN
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -47891,7 +47927,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.434658333427976" lon="6.260636110950957">
+  <wpt lat="53.43501944429811" lon="6.260644444656002">
     <name>O 13</name>
     <desc>vaarweg : OORT
 model : spar Groen</desc>
@@ -48121,7 +48157,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.43366388894129" lon="6.273555554859531">
+  <wpt lat="53.43473333301252" lon="6.274933333117564">
     <name>O 17</name>
     <desc>vaarweg : OORT
 model : spar Groen</desc>
@@ -48199,7 +48235,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.432936111075044" lon="6.281063888406465">
+  <wpt lat="53.434855555249115" lon="6.282461111353584">
     <name>O 19</name>
     <desc>vaarweg : OORT
 model : spar Groen</desc>
@@ -55604,8 +55640,35 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.615469444668754" lon="3.668408333271602">
+    <name>R 13AN</name>
+    <desc>vaarweg : ROOMPOT
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.61474444474856" lon="3.667575000476939">
     <name>R 13AV</name>
+    <desc>vaarweg : ROOMPOT
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.61474444474856" lon="3.667575000476939">
+    <name>R 13AV</name>
+    <desc>vaarweg : ROOMPOT
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.617380555683866" lon="3.671430555007684">
+    <name>R 13N</name>
     <desc>vaarweg : ROOMPOT
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -55631,8 +55694,35 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.617952778222" lon="3.672727777341508">
+    <name>R 13NN</name>
+    <desc>vaarweg : ROOMPOT
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.618619444394525" lon="3.673769443808551">
     <name>R 13NNN</name>
+    <desc>vaarweg : ROOMPOT
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.618619444394525" lon="3.673769443808551">
+    <name>R 13NNN</name>
+    <desc>vaarweg : ROOMPOT
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.61716944434263" lon="3.67042777800862">
+    <name>R 13V</name>
     <desc>vaarweg : ROOMPOT
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -63630,8 +63720,26 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.639536111230974" lon="3.719952778122644">
+    <name>S 2BN</name>
+    <desc>vaarweg : GEUL VAN ROGGEPLAAT
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.640036111504024" lon="3.722430555717346">
     <name>S 2BV</name>
+    <desc>vaarweg : GEUL VAN ROGGEPLAAT
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.63978611099251" lon="3.721224999442401">
+    <name>S 2BZ</name>
     <desc>vaarweg : GEUL VAN ROGGEPLAAT
 model : stomp Geel</desc>
     <sym>3500</sym>
