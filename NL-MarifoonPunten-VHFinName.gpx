@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2022-12-19T17:27:31.905000Z</time>
+    <time>2022-12-22T10:30:39.225000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>VHF 20</name>
@@ -911,20 +911,6 @@ VHF:          20
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/4705">
       <text>Meldpunt Erasmusbrug, vaste overspanning online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.4643901733794" lon="4.61363009027495">
-    <name>VHF 22</name>
-    <desc>Naam:         Meldpunt Wachtpalen Sluis west
-VHF:          22
-RadioTraffic: TWO_WAY
-Opmerking: Duwbak, Koppelverband, Motorschip, categorie: Binnenvaart, ligplaatscode: ZTPLW ( Wachten). Melden VHF 22</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/4728">
-      <text>Meldpunt Wachtpalen Sluis west online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -2039,20 +2025,6 @@ VHF:          22
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/9912">
       <text>Meldpunt Hoflandbrug online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.4638900950871" lon="4.58445909180962">
-    <name>VHF 61</name>
-    <desc>Naam:         Meldpunt Cruiseterminal Zuiderbuitentoeleidingskanaal Zuid
-VHF:          61
-RadioTraffic: TWO_WAY
-Opmerking: Ligplaatsenbeleid RWS, categorie: Zee- en binnenvaart, ligplaatscode: ZTPAS ( Overslag, Embarkeren, Auto afzetten)</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/9993">
-      <text>Meldpunt Cruiseterminal Zuiderbuitentoeleidingskanaal Zuid online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -3787,19 +3759,6 @@ RadioTraffic: TWO_WAY</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.4706201418718" lon="4.66729859749612">
-    <name>VHF 71</name>
-    <desc>Naam:         Meldpunt Beverwijk, Houtimport Kuhn
-VHF:          71
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/16805">
-      <text>Meldpunt Beverwijk, Houtimport Kuhn online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.9059392163606" lon="4.40867275077141">
     <name>VHF 22</name>
     <desc>Naam:         Meldpunt Koninginnebrug, Schiedam
@@ -4700,19 +4659,6 @@ VHF:          20
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/20703">
       <text>Meldpunt Brug Waalstraat online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.4270516147899" lon="4.83510848139843">
-    <name>VHF 4</name>
-    <desc>Naam:         Meldpunt Zaandam, Kenz
-VHF:          4
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/20735">
-      <text>Meldpunt Zaandam, Kenz online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -7134,21 +7080,6 @@ RadioTraffic: TWO_WAY</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.4726052410139" lon="4.59625047434402">
-    <name>VHF 61</name>
-    <desc>Naam:         Meldpunt Loswal Buitenhaven Steenstortkade
-VHF:          61
-RadioTraffic: TWO_WAY
-Opmerking: "Ligplaatsenbeleid RWS, categorie: Zee- en binnenvaart, ligplaatscode: BUSTE ( Overslag)
-Maximum ligtijd 3x24 uur."</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/29637">
-      <text>Meldpunt Loswal Buitenhaven Steenstortkade online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.1258077435657" lon="4.46254943732525">
     <name>VHF 22</name>
     <desc>Naam:         Meldpunt Vlietlandbrug
@@ -7237,19 +7168,6 @@ RadioTraffic: TWO_WAY
 Opmerking:  </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/NWBHARBOUR/29810">
       <text>Meldpunt Papaverkanaal online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.4776462778267" lon="4.66081449368793">
-    <name>VHF 71</name>
-    <desc>Naam:         Meldpunt Beverwijk, Handelskade
-VHF:          71
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/29877">
-      <text>Meldpunt Beverwijk, Handelskade online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -7627,19 +7545,6 @@ VHF:          63
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/NWBHARBOUR/31312">
       <text>Meldpunt Wiltonhaven online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.468880478496" lon="4.66794332318096">
-    <name>VHF 3 71</name>
-    <desc>Naam:         Meldpunt Beverwijk, Koster Metalen bv
-VHF:          3 71
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/31432">
-      <text>Meldpunt Beverwijk, Koster Metalen bv online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -9171,19 +9076,6 @@ RadioTraffic: TWO_WAY</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.4263211212045" lon="4.83580624376259">
-    <name>VHF 4</name>
-    <desc>Naam:         Meldpunt Zaandam, Havenstraats
-VHF:          4
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/38418">
-      <text>Meldpunt Zaandam, Havenstraats online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.5004212615246" lon="4.79469125630481">
     <name>VHF 20</name>
     <desc>Naam:         Meldpunt Prins Clausbrug Wormerveer
@@ -9205,19 +9097,6 @@ RadioTraffic: TWO_WAY
 Opmerking: Diepte: MP-4m/MP-3m. Maximum snelheid 5 km/u.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VINHARBOUR/38474">
       <text>Meldpunt Marina Port Zelande  online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.4764558968614" lon="4.66196161284242">
-    <name>VHF 71</name>
-    <desc>Naam:         Meldpunt Beverwijk Noorderkade West
-VHF:          71
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/38519">
-      <text>Meldpunt Beverwijk Noorderkade West online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -10062,19 +9941,6 @@ RadioTraffic: TWO_WAY</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.4225491507092" lon="4.83951010209275">
-    <name>VHF 4</name>
-    <desc>Naam:         Meldpunt Zaandam, Sloperij Kapteyn
-VHF:          4
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/42082">
-      <text>Meldpunt Zaandam, Sloperij Kapteyn online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.9655031007488" lon="4.07777098823992">
     <name>VHF 66</name>
     <desc>Naam:         Meldpunt 8e Petroleumhaven (Beerkanaal)
@@ -10136,21 +10002,6 @@ VHF:          22
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42259">
       <text>Meldpunt Zwedenbrug online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.4072410268384" lon="4.77557586986545">
-    <name>VHF 4</name>
-    <desc>Naam:         Meldpunt Amerikahaven Oiltanking Steiger 8
-VHF:          4
-RadioTraffic: TWO_WAY
-Opmerking: Zee- en binnenvaart
-Ligplaatscode AMOT8</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/42268">
-      <text>Meldpunt Amerikahaven Oiltanking Steiger 8 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -11238,19 +11089,6 @@ RadioTraffic: TWO_WAY</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.4263248076875" lon="4.8358027134183">
-    <name>VHF 4</name>
-    <desc>Naam:         Meldpunt Zaandam, Vooruit
-VHF:          4
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/47713">
-      <text>Meldpunt Zaandam, Vooruit online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.3821976143338" lon="4.95903909084542">
     <name>VHF 60</name>
     <desc>Naam:         Meldpunt Schellingwoude, haven te
@@ -11430,20 +11268,6 @@ VHF:          22
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/48698">
       <text>Meldpunt Krammersluizen, ligplaats online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.4639495680251" lon="4.64228861873369">
-    <name>VHF 3</name>
-    <desc>Naam:         Meldpunt Velsen Grote Hout
-VHF:          3
-RadioTraffic: TWO_WAY
-Opmerking: Diepgang tot 9,00 m.</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/48751">
-      <text>Meldpunt Velsen Grote Hout online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
