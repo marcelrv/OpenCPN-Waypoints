@@ -73564,6 +73564,17 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.228983332954016" lon="3.806277777699877">
+    <name>SvG</name>
+    <desc>vaarweg : Kanaal Gent- Terneuzen
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spar Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.02747777788829" lon="4.842844444527315">
     <name>T 10</name>
     <desc>vaarweg : TEXELSTROOM/MARSDIEP
