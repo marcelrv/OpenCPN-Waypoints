@@ -8672,6 +8672,7 @@ model : spar Rood</desc>
     <name>BO 42A</name>
     <desc>vaarweg : BOONTJES
 model : spar Rood</desc>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -23390,8 +23391,35 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.665725000084095" lon="3.735313888956884">
+    <name>H 10N</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.66528888871536" lon="3.73656388823785">
     <name>H 10V</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.66528888871536" lon="3.73656388823785">
+    <name>H 10V</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.66436944441755" lon="3.736786110625749">
+    <name>H 10Z</name>
     <desc>vaarweg : HAMMEN
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -23453,8 +23481,35 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.66708333314582" lon="3.731616666218631">
+    <name>H 12AN1</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.66731944410909" lon="3.73172499995593">
     <name>H 12AN</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.66731944410909" lon="3.73172499995593">
+    <name>H 12AN</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.66800277766758" lon="3.730494444288024">
+    <name>H 12ANN</name>
     <desc>vaarweg : HAMMEN
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -23482,6 +23537,24 @@ model : stomp Geel</desc>
   </wpt>
   <wpt lat="51.66667777733195" lon="3.732825000192393">
     <name>H 12V</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.66667777733195" lon="3.732825000192393">
+    <name>H 12V</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.66624444464826" lon="3.734186111529867">
+    <name>H 12Z</name>
     <desc>vaarweg : HAMMEN
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -24071,6 +24144,24 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.658252777660294" lon="3.738011110713975">
+    <name>H 4N</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.65739444430733" lon="3.73800277733364">
+    <name>H 4V</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.65739444430733" lon="3.73800277733364">
     <name>H 4V</name>
     <desc>vaarweg : HAMMEN
@@ -24224,8 +24315,35 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.66087777807065" lon="3.73772777758284">
+    <name>H 6N</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.6600027781116" lon="3.737958332976669">
     <name>H 6V</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.6600027781116" lon="3.737958332976669">
+    <name>H 6V</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.65914722205877" lon="3.737980555646724">
+    <name>H 6Z</name>
     <desc>vaarweg : HAMMEN
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -24368,8 +24486,35 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.66349722214449" lon="3.737163888979951">
+    <name>H 8N</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.662652777474605" lon="3.737358333720027">
     <name>H 8V</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.662652777474605" lon="3.737358333720027">
+    <name>H 8V</name>
+    <desc>vaarweg : HAMMEN
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.66175277762373" lon="3.737572222044237">
+    <name>H 8Z</name>
     <desc>vaarweg : HAMMEN
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -25198,6 +25343,7 @@ licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Groen
 model : spits Groen</desc>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -30621,6 +30767,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -30734,6 +30881,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -30775,6 +30923,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -56973,6 +57122,15 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.604436111005874" lon="3.58900555489714">
+    <name>R 8</name>
+    <desc>vaarweg : ROOMPOT
+model : spar Rood</desc>
+    <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.432494444438866" lon="5.7716138886173">
     <name>R 8</name>
     <desc>vaarweg : REEGEUL
@@ -64170,6 +64328,24 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.64171944443473" lon="3.723486110446524">
+    <name>S 2AV</name>
+    <desc>vaarweg : GEUL VAN ROGGEPLAAT
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.64117777763856" lon="3.72323333274773">
+    <name>S 2AZ</name>
+    <desc>vaarweg : GEUL VAN ROGGEPLAAT
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.64117777763856" lon="3.72323333274773">
     <name>S 2AZ</name>
     <desc>vaarweg : GEUL VAN ROGGEPLAAT
@@ -64206,6 +64382,15 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.640036111504024" lon="3.722430555717346">
+    <name>S 2BV</name>
+    <desc>vaarweg : GEUL VAN ROGGEPLAAT
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.63978611099251" lon="3.721224999442401">
     <name>S 2BZ</name>
     <desc>vaarweg : GEUL VAN ROGGEPLAAT
@@ -64226,6 +64411,24 @@ model : stomp Geel</desc>
   </wpt>
   <wpt lat="51.64056388928725" lon="3.722791666579711">
     <name>S 2BZZ</name>
+    <desc>vaarweg : GEUL VAN ROGGEPLAAT
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.64056388928725" lon="3.722791666579711">
+    <name>S 2BZZ</name>
+    <desc>vaarweg : GEUL VAN ROGGEPLAAT
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.64233611067829" lon="3.72370000016341">
+    <name>S 2N</name>
     <desc>vaarweg : GEUL VAN ROGGEPLAAT
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -64445,6 +64648,15 @@ model : stomp Geel</desc>
   </wpt>
   <wpt lat="51.64080555524368" lon="3.730888888290984">
     <name>S 4V</name>
+    <desc>vaarweg : GEUL VAN ROGGEPLAAT
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.642944444203124" lon="3.7239555556427">
+    <name>S 4Z</name>
     <desc>vaarweg : GEUL VAN ROGGEPLAAT
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -71618,6 +71830,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Rood
 model : spar Rood</desc>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -74183,6 +74396,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -76806,6 +77020,7 @@ model : stomp Rood/wit repeterend</desc>
     <name>Ton 929.820RV</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : stomp Rood/wit repeterend</desc>
+    <sym>1552</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
