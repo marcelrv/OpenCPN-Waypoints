@@ -11285,28 +11285,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.97114722188654" lon="4.097294444305236">
-    <name>CA 1-B 2</name>
-    <desc>vaarweg : NIEUWE WATERWEG
-licht type : Q (quick-flashing)
-lich kleur : Groen
-model : bol Groen/rood</desc>
-    <sym>1202</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.970922222170735" lon="4.117472222684461">
-    <name>CA 10-BD 1</name>
-    <desc>vaarweg : CALANDKANAAL
-licht type : Q (quick-flashing)
-lich kleur : Rood
-model : bol Rood/groen</desc>
-    <sym>1252</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.983369444779456" lon="4.073405555783862">
     <name>CA 2-NW 1</name>
     <desc>vaarweg : MAASMOND
@@ -11315,30 +11293,6 @@ licht periode : 2
 lich kleur : Wit
 model : bol Rood/groen repeterend</desc>
     <sym>1412</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.97721388877708" lon="4.093427777069389">
-    <name>CA 6</name>
-    <desc>vaarweg : CALANDKANAAL
-licht type : LFl (long-flashing)
-licht periode : 8
-lich kleur : Rood
-model : stomp Rood</desc>
-    <sym>1105</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.97416388867667" lon="4.105638888451677">
-    <name>CA 8</name>
-    <desc>vaarweg : CALANDKANAAL
-licht type : Iso (isophased)
-licht periode : 2
-lich kleur : Rood
-model : stomp Rood</desc>
-    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -44011,7 +43965,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.95970277802342" lon="5.778472222232373">
+  <wpt lat="51.959638888550536" lon="5.778875000220658">
     <name>NDR 10</name>
     <desc>vaarweg : NEDERRIJN
 model : spar Rood</desc>
@@ -44041,7 +43995,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.95974722264118" lon="5.781813888567438">
+  <wpt lat="51.959638888988096" lon="5.781638889627172">
     <name>NDR 12</name>
     <desc>vaarweg : NEDERRIJN
 model : spar Rood</desc>
@@ -44062,7 +44016,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.96010000027869" lon="5.784588889450582">
+  <wpt lat="51.96003611141014" lon="5.784449999875569">
     <name>NDR 14</name>
     <desc>vaarweg : NEDERRIJN
 model : spar Rood</desc>
@@ -44269,7 +44223,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.95996111128015" lon="5.775994444131508">
+  <wpt lat="51.95989999989585" lon="5.776097222593048">
     <name>NDR 8B</name>
     <desc>vaarweg : NEDERRIJN
 model : spar Rood</desc>
@@ -62866,7 +62820,6 @@ licht type : Iso (isophased)
 licht periode : 10
 lich kleur : Wit
 model : bol Rood/wit repeterend</desc>
-    <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -78266,7 +78219,6 @@ model : spar Groen</desc>
 licht type : Q (quick-flashing)
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
