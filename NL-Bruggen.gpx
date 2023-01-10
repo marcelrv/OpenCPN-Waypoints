@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-01-09T11:56:10.079000Z</time>
+    <time>2023-01-10T10:26:08.303000Z</time>
   </metadata>
   <wpt lat="53.0759321679316" lon="7.14846917281973">
     <name>Vriescheloosterbrug</name>
@@ -399,7 +399,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/1784">
       <text>Wittelterbrug online info</text>
     </link>
@@ -756,17 +757,26 @@ Periode 31-12 tot 01-01:
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 15-05:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 16-05 tot 15-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 31-10:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-11 tot 31-03:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: Schoolvonder (fietsbrug): bediening in combinatie met Veenbrug en Kerkbrug</desc>
@@ -1289,12 +1299,12 @@ Type:    Bedienbare Brug
 
 Bedieningstijden
 Periode 01-04 tot 31-05:
-   08:00 - 18:00: Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Za, Zo, excl. feestdagen.
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   08:00 - 18:00: Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Za, Zo, excl. feestdagen.
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-03:
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -2436,7 +2446,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/3790">
       <text>Van Liersbrug online info</text>
     </link>
@@ -3752,8 +3763,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -5387,8 +5398,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -5466,12 +5477,20 @@ Note: De bruggen worden door één brugwachter bediend. Deze wordt gewaarschuwd 
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 31-10:
+Periode 01-04 tot 31-05:
+   07:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   07:00 - 18:00: Za, excl. feestdagen.
+   08:00 - 18:00: Zo, incl. feestdagen.
+Periode 01-06 tot 31-08:
+   07:00 - 19:00: Ma, Di, Do, Vr, excl. feestdagen.
+   07:00 - 11:30: Za, excl. feestdagen.
+   08:00 - 18:00: Zo, incl. feestdagen.
+   11:30 - 16:30: Wo, excl. feestdagen.
+Periode 01-09 tot 31-10:
    07:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:00 - 18:00: Za, excl. feestdagen.
    08:00 - 18:00: Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
-   07:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/7120">
       <text>Ziendesluis, voetbrug over benedenhoofd online info</text>
@@ -5955,8 +5974,8 @@ VHF:     18
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
-   23:00 - 06:00: Vr, excl. feestdagen.
    23:00 - 22:59: Za, Zo, incl. feestdagen.
+   23:00 - 06:00: Vr, excl. feestdagen.
    23:00 - 05:45: Ma, Di, Wo, Do, excl. feestdagen.
    07:15 - 07:25: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:45 - 22:59: Vr, excl. feestdagen.
@@ -7858,17 +7877,26 @@ Type:    Vaste Brug</desc>
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 15-05:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 16-05 tot 15-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 31-10:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-11 tot 31-03:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: Schoolvonder (fietsbrug): bediening in combinatie met Veenbrug en Kerkbrug</desc>
@@ -7903,8 +7931,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -9262,7 +9290,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/11517">
       <text>Pieter Hummelenbrug online info</text>
     </link>
@@ -9470,7 +9499,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/11685">
       <text>Pijlebrug online info</text>
     </link>
@@ -9727,8 +9757,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -10084,7 +10114,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/12610">
       <text>Jonkersbrug, Smilde online info</text>
     </link>
@@ -11070,17 +11101,26 @@ Op 5 December, 24 December en 31 December worden de Arkersluis en de Arkervaartb
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 15-05:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 16-05 tot 15-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 31-10:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-11 tot 31-03:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: Schoolvonder (fietsbrug): bediening in combinatie met Veenbrug en Kerkbrug</desc>
@@ -11632,7 +11672,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/14496">
       <text>Kloosterbrug Assen online info</text>
     </link>
@@ -12655,7 +12696,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/15273">
       <text>2e Uffelterbrug online info</text>
     </link>
@@ -14560,17 +14602,26 @@ Note: Bij windkracht 8 bft. en meer worden de bruggen niet bediend. Schutbeperki
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 15-05:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 16-05 tot 15-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 31-10:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-11 tot 31-03:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: Schoolvonder (fietsbrug): bediening in combinatie met Veenbrug en Kerkbrug</desc>
@@ -15344,17 +15395,26 @@ verzoek, ook buiten de vastgestelde bedieningsuren bediend;</desc>
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 15-05:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 16-05 tot 15-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 31-10:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-11 tot 31-03:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: Schoolvonder (fietsbrug): bediening in combinatie met Veenbrug en Kerkbrug</desc>
@@ -16235,8 +16295,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -18050,7 +18110,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/22108">
       <text>Leembrug online info</text>
     </link>
@@ -18908,12 +18969,12 @@ Type:    Bedienbare Brug
 
 Bedieningstijden
 Periode 01-04 tot 31-05:
-   08:00 - 18:00: Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Za, Zo, excl. feestdagen.
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   08:00 - 18:00: Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Za, Zo, excl. feestdagen.
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-03:
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -19795,8 +19856,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -20552,7 +20613,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/24345">
       <text>Grietmansbrug online info</text>
     </link>
@@ -22173,7 +22235,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/26370">
       <text>Veenhoopsbrug (in N371) online info</text>
     </link>
@@ -22499,7 +22562,7 @@ Periode 01-11 tot 31-03:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
    08:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 
-Note: Voor brug Uitwellingerga geldt tijdelijk aangepaste aanmeld periode van 36 uur. Scheepvaart wordt geclusterd ivm verkeersdrukte op de weg over deze brug.</desc>
+Note: Voor brug Uitwellingerga geldt tijdelijk aangepaste aanmeld periode van 36 uur. Scheepvaart wordt geclusterd ivm verkeersdrukte op de weg over deze brug. Bediening is tijdelijk alleen mogelijk tussen 10-15 uur</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/26598">
       <text>Brug Uitwellingerga online info</text>
     </link>
@@ -22569,17 +22632,26 @@ Note: Sleutel is tegen waarborgsom verkrijgbaar.</desc>
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 15-05:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 16-05 tot 15-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 31-10:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-11 tot 31-03:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: Schoolvonder (fietsbrug): bediening in combinatie met Veenbrug en Kerkbrug</desc>
@@ -23186,7 +23258,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/27254">
       <text>Boschkampsbrug online info</text>
     </link>
@@ -23544,8 +23617,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -24048,7 +24121,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/28116">
       <text>Geeuwenbrug online info</text>
     </link>
@@ -24120,7 +24194,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/28136">
       <text>Spiersbrug online info</text>
     </link>
@@ -24135,17 +24210,26 @@ Periode 01-11 tot 31-12:
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 15-05:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 16-05 tot 15-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 31-10:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-11 tot 31-03:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: Schoolvonder (fietsbrug): bediening in combinatie met Veenbrug en Kerkbrug</desc>
@@ -24808,7 +24892,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/28674">
       <text>Olden Dieverbrug online info</text>
     </link>
@@ -26595,7 +26680,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/31051">
       <text>Mr. Sickensbrug online info</text>
     </link>
@@ -26859,7 +26945,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/31511">
       <text>Tentingerdraai online info</text>
     </link>
@@ -26927,8 +27014,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -26973,17 +27060,26 @@ Note: Volledig bediend vanuit Bediencentrale Tilburg. Op overige tijden op aanvr
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 15-05:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 16-05 tot 15-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 31-10:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-11 tot 31-03:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: Schoolvonder (fietsbrug): bediening in combinatie met Veenbrug en Kerkbrug</desc>
@@ -27249,8 +27345,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -29547,17 +29643,26 @@ Periode 01-11 tot 31-03:
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 15-05:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 16-05 tot 15-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 31-10:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-11 tot 31-03:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: Schoolvonder (fietsbrug): bediening in combinatie met Veenbrug en Kerkbrug</desc>
@@ -31167,7 +31272,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/35865">
       <text>Havelterbrug online info</text>
     </link>
@@ -31524,12 +31630,16 @@ Type:    Bedienbare Brug
 VHF:     18
 
 Bedieningstijden
+Periode 02-01 tot 31-03:
+   04:30 - 19:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   07:00 - 15:00: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    04:30 - 20:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:30 - 19:30: Za, Zo, incl. feestdagen.
-Periode 01-11 tot 31-03:
-   04:30 - 20:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 24-12:
+   04:30 - 19:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:00 - 15:00: Za, excl. feestdagen.
+Periode 25-12 tot 01-01:
 
 Note: Bij windkracht 8 of hoger uit westelijke of zuidelijke richting wordt  de brug en de sluis niet bediend.
 Laatste schutting is 15 minuten voor sluitingstijd!</desc>
@@ -31818,7 +31928,27 @@ Type:    Vaste Brug</desc>
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-01 tot 31-12:
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, incl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, incl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/37033">
       <text>Brug Asserwijk online info</text>
@@ -32211,8 +32341,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -33655,7 +33785,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/39312">
       <text>Polakkenbrug online info</text>
     </link>
@@ -33832,7 +33963,7 @@ Periode 01-11 tot 31-03:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
    08:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 
-Note: Voor brug Uitwellingerga geldt tijdelijk aangepaste aanmeld periode van 36 uur. Scheepvaart wordt geclusterd ivm verkeersdrukte op de weg over deze brug.</desc>
+Note: Voor brug Uitwellingerga geldt tijdelijk aangepaste aanmeld periode van 36 uur. Scheepvaart wordt geclusterd ivm verkeersdrukte op de weg over deze brug. Bediening is tijdelijk alleen mogelijk tussen 10-15 uur</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/39524">
       <text>Brug Aldskou (Oudeschouw) online info</text>
     </link>
@@ -34336,8 +34467,8 @@ Periode 01-09 tot 15-09:
    15:30 - 15:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
    17:30 - 17:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
    18:00 - 18:01: Ma, Di, Wo, Do, excl. feestdagen.
-   18:30 - 18:31: Vr, Za, Zo, excl. feestdagen.
    18:30 - 18:31: Ma, Di, Wo, Do, excl. feestdagen.
+   18:30 - 18:31: Vr, Za, Zo, excl. feestdagen.
    19:00 - 19:01: Vr, Za, Zo, excl. feestdagen.
    19:30 - 19:31: Vr, Za, Zo, excl. feestdagen.
 Periode 16-09 tot 30-09:
@@ -34435,7 +34566,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/40185">
       <text>Norgerbrug online info</text>
     </link>
@@ -34647,8 +34779,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -34712,16 +34844,16 @@ Periode 01-04 tot 30-10:
    03:00 - 06:15: Ma, excl. feestdagen.
    06:45 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    10:00 - 18:00: Zo, incl. feestdagen.
-   16:00 - 16:01: Di, Wo, Do, Vr, excl. feestdagen.
    16:00 - 16:01: Ma, excl. feestdagen.
+   16:00 - 16:01: Di, Wo, Do, Vr, excl. feestdagen.
    16:30 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 31-10 tot 31-03:
    23:00 - 19:00: Za, excl. feestdagen.
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen.
    03:00 - 06:15: Ma, excl. feestdagen.
    06:45 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   16:00 - 16:01: Di, Wo, Do, Vr, excl. feestdagen.
    16:00 - 16:01: Ma, excl. feestdagen.
+   16:00 - 16:01: Di, Wo, Do, Vr, excl. feestdagen.
    16:30 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: De brug is onbemand en wordt op afstand bediend vanaf de Hogebrug. Tijdens de avondspits kan de brug op verzoek om 17:00 uur éénmaal worden geopend. Geen bediening tijdens brugopening van Hogebrug, Oost-Abtsbrug of Doenbrug.</desc>
@@ -36501,7 +36633,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42577">
       <text>1e Uffelterbrug online info</text>
     </link>
@@ -36628,17 +36761,26 @@ Periode 31-12 tot 01-01:
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 15-05:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 16-05 tot 15-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 31-10:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-11 tot 31-03:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: Schoolvonder (fietsbrug): bediening in combinatie met Veenbrug en Kerkbrug</desc>
@@ -38471,17 +38613,26 @@ Tussen 07.50 - 08.20 uur en tussen 17.10 - 17.30 uur mag de brug éénmaal per v
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 15-05:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 16-05 tot 15-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 31-10:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-11 tot 31-03:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: Schoolvonder (fietsbrug): bediening in combinatie met Veenbrug en Kerkbrug</desc>
@@ -38555,8 +38706,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -38719,8 +38870,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -41077,17 +41228,26 @@ Periode 16-10 tot 15-04:
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 15-05:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 16-05 tot 15-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 31-10:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-11 tot 31-03:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: Schoolvonder (fietsbrug): bediening in combinatie met Veenbrug en Kerkbrug</desc>
@@ -41707,7 +41867,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/47916">
       <text>Lokbrug online info</text>
     </link>
@@ -41957,8 +42118,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -43664,8 +43825,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -44099,17 +44260,26 @@ Houd rekening met aanrijtijd of enige vertraging.</desc>
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 15-05:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 16-05 tot 15-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 31-10:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-11 tot 31-03:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: Schoolvonder (fietsbrug): bediening in combinatie met Veenbrug en Kerkbrug</desc>
@@ -45014,7 +45184,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/51685">
       <text>Dieverbrug online info</text>
     </link>
@@ -45345,8 +45516,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -47733,29 +47904,29 @@ Periode 15-03 tot 31-03:
    08:00 - 09:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    13:00 - 14:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-04 tot 31-05:
-   08:00 - 09:00: Vr, Za, excl. feestdagen.
    08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen.
-   13:00 - 15:00: Vr, excl. feestdagen.
+   08:00 - 09:00: Vr, Za, excl. feestdagen.
    13:00 - 15:00: Ma, Di, Wo, Do, excl. feestdagen.
-   16:30 - 17:30: Vr, excl. feestdagen.
+   13:00 - 15:00: Vr, excl. feestdagen.
    16:30 - 17:30: Ma, Di, Wo, Do, excl. feestdagen.
+   16:30 - 17:30: Vr, excl. feestdagen.
    17:30 - 18:15: Zo, incl. feestdagen.
 Periode 01-06 tot 31-08:
-   08:00 - 09:00: Vr, Za, excl. feestdagen.
    08:00 - 09:00: Ma, Di, Wo, excl. feestdagen.
-   13:00 - 15:00: Vr, excl. feestdagen.
+   08:00 - 09:00: Vr, Za, excl. feestdagen.
    13:00 - 15:00: Ma, Di, Wo, excl. feestdagen.
-   16:30 - 17:30: Do, Vr, excl. feestdagen.
+   13:00 - 15:00: Vr, excl. feestdagen.
    16:30 - 17:30: Ma, Di, Wo, excl. feestdagen.
+   16:30 - 17:30: Do, Vr, excl. feestdagen.
    17:00 - 17:30: Za, excl. feestdagen.
    18:45 - 19:15: Zo, incl. feestdagen.
 Periode 01-09 tot 30-09:
-   08:00 - 09:00: Vr, Za, excl. feestdagen.
    08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen.
-   13:00 - 15:00: Vr, excl. feestdagen.
+   08:00 - 09:00: Vr, Za, excl. feestdagen.
    13:00 - 15:00: Ma, Di, Wo, Do, excl. feestdagen.
-   16:30 - 17:30: Vr, excl. feestdagen.
+   13:00 - 15:00: Vr, excl. feestdagen.
    16:30 - 17:30: Ma, Di, Wo, Do, excl. feestdagen.
+   16:30 - 17:30: Vr, excl. feestdagen.
    17:30 - 18:15: Zo, incl. feestdagen.
 Periode 01-10 tot 31-10:
    08:00 - 09:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
@@ -48996,17 +49167,26 @@ Type:    Vaste Brug</desc>
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 15-05:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 16-05 tot 15-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 31-10:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-11 tot 31-03:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: Schoolvonder (fietsbrug): bediening in combinatie met Veenbrug en Kerkbrug</desc>
@@ -49481,7 +49661,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/56821">
       <text>Koopbakkersdraai online info</text>
     </link>
@@ -49815,8 +49996,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -50152,17 +50333,26 @@ Type:    Vaste Brug</desc>
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 15-05:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-01 tot 31-03:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 16-05 tot 15-09:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 31-10:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-11 tot 31-03:
-   07:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 
 Note: Schoolvonder (fietsbrug): bediening in combinatie met Veenbrug en Kerkbrug</desc>
@@ -50336,7 +50526,8 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-</desc>
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/57823">
       <text>Hendrik Oostdraai online info</text>
     </link>
@@ -50595,8 +50786,8 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
@@ -57576,7 +57767,8 @@ Type:    Bedienbare Brug
 Bedieningstijden
 Periode 01-01 tot 31-12:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-</desc>
+
+Note: De brug wordt lokaal bediend en dient 24 uur van te voren aangevraagd te worden bij Waternet 0900-9394 vragen naar COB Brug en Sluisbediening.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/30388163">
       <text>Werkspoorbrug (Brugnr 2103) online info</text>
     </link>
