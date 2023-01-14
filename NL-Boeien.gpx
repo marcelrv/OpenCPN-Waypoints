@@ -41983,6 +41983,7 @@ licht type : LFl (long-flashing)
 licht periode : 8
 lich kleur : Groen
 model : spits Groen</desc>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -51063,7 +51064,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.84863611126801" lon="6.131438889510396">
+  <wpt lat="51.84894166640681" lon="6.131494444216241">
     <name>OS-A</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Fl (flashing)
@@ -51075,7 +51076,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.84840833316984" lon="6.134583333769917">
+  <wpt lat="51.848708333097946" lon="6.13463055602225">
     <name>OS-B</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Fl (flashing)
@@ -51087,7 +51088,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.84807499990095" lon="6.137713889564493">
+  <wpt lat="51.84834166659726" lon="6.137827777372443">
     <name>OS-C</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Fl (flashing)
@@ -51099,7 +51100,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.847650000083085" lon="6.140797222633609">
+  <wpt lat="51.84790000011647" lon="6.140869444128032">
     <name>OS-D</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Fl (flashing)
@@ -51111,7 +51112,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.84705555557642" lon="6.14381944390101">
+  <wpt lat="51.84736944452239" lon="6.143955554969541">
     <name>OS-E</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Fl (flashing)
@@ -51123,7 +51124,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.8464444444158" lon="6.146827777128426">
+  <wpt lat="51.846772222228445" lon="6.146994443940642">
     <name>OS-F</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Fl (flashing)
@@ -51135,7 +51136,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.8460361110397" lon="6.149927777922533">
+  <wpt lat="51.84613055545843" lon="6.149983333288779">
     <name>OS-G</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Fl (flashing)
@@ -77037,6 +77038,7 @@ model : stomp Rood/wit repeterend</desc>
     <name>Ton 930.000RV</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : stomp Rood</desc>
+    <sym>1552</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
