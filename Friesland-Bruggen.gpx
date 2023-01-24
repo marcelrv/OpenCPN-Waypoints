@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-01-23T09:16:15.225000Z</time>
+    <time>2023-01-24T06:50:53.742000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -12401,6 +12401,30 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/38430011">
       <text>Tolhúspleats online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.053208466255285" lon="5.700183345470577">
+    <name>brug Aldfeartsdyk (Auto)</name>
+    <desc>Locatie: Snitser Aldfeart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/38439610">
+      <text>brug Aldfeartsdyk (Auto) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.053305313300314" lon="5.700323315395507">
+    <name>fietsbrug in Aldfearsdyk</name>
+    <desc>Locatie: Snitser Aldfeart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/38439636">
+      <text>fietsbrug in Aldfearsdyk online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
