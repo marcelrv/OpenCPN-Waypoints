@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-01-26T18:10:09.358000Z</time>
+    <time>2023-01-27T14:51:17.894000Z</time>
   </metadata>
   <wpt lat="53.0240104564255" lon="7.13930010795593">
     <name>Vlagtweddersluis</name>
@@ -78,8 +78,8 @@ Bedieningstijden
 Periode 02-01 tot 31-03:
    23:00 - 22:59: Zo, excl. feestdagen.
    23:00 - 04:59: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
-   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 12:59: incl. feestdagen.
+   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 20:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    13:00 - 22:59: Za, incl. feestdagen.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -89,8 +89,8 @@ Periode 01-04 tot 31-10:
    23:00 - 07:59: Zo, incl. feestdagen.
    05:00 - 20:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:00 - 14:59: Za, excl. feestdagen.
-   08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 15:59: incl. feestdagen.
+   08:00 - 15:59: Zo, excl. feestdagen.
    15:00 - 22:59: Za, excl. feestdagen.
    16:00 - 22:59: Zo, incl. feestdagen.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -424,10 +424,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 04:59: Ma, excl. feestdagen.
    23:00 - 14:59: Za, excl. feestdagen.
-   23:00 - 07:59: incl. feestdagen.
+   23:00 - 04:59: Ma, excl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 07:59: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -564,8 +564,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/5080">
@@ -776,6 +776,7 @@ VHF:     22
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 
 Note: Spertijd Hartelbrug: ma t/m vr.
 06.45 - 08.30 / 16.00 - 18.30 u.</desc>
@@ -1358,8 +1359,8 @@ VHF:     22
 
 Bedieningstijden
 Periode 01-04 tot 31-10:
-   05:00 - 21:00: Za, Zo, excl. feestdagen.
    05:00 - 21:00: incl. feestdagen.
+   05:00 - 21:00: Za, Zo, excl. feestdagen.
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-03:
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -1749,8 +1750,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/13878">
@@ -2091,8 +2092,8 @@ Bedieningstijden
 Periode 02-01 tot 31-03:
    23:00 - 22:59: Zo, excl. feestdagen.
    23:00 - 04:59: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
-   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 12:59: incl. feestdagen.
+   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 20:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    13:00 - 22:59: Za, incl. feestdagen.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -2102,8 +2103,8 @@ Periode 01-04 tot 31-10:
    23:00 - 07:59: Zo, incl. feestdagen.
    05:00 - 20:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:00 - 14:59: Za, excl. feestdagen.
-   08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 15:59: incl. feestdagen.
+   08:00 - 15:59: Zo, excl. feestdagen.
    15:00 - 22:59: Za, excl. feestdagen.
    16:00 - 22:59: Zo, incl. feestdagen.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -2924,6 +2925,7 @@ Periode 01-01 tot 31-12:
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/22960">
       <text>Sluis Breukelen online info</text>
@@ -3241,6 +3243,7 @@ Periode 01-04 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 
 Note: 01 april t/m 31 oktober: 
 Bediening op aanvraag via 06 - 53 75 25 87.
@@ -3446,6 +3449,7 @@ Periode 01-07 tot 21-08:
 Periode 22-08 tot 15-09:
    08:30 - 15:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 16-09 tot 15-05:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/26527">
       <text>Sluis II, Nijeberkoop online info</text>
@@ -3479,8 +3483,8 @@ Bedieningstijden
 Periode 02-01 tot 31-03:
    23:00 - 22:59: Zo, excl. feestdagen.
    23:00 - 04:59: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
-   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 12:59: incl. feestdagen.
+   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 20:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    13:00 - 22:59: Za, incl. feestdagen.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -3490,8 +3494,8 @@ Periode 01-04 tot 31-10:
    23:00 - 07:59: Zo, incl. feestdagen.
    05:00 - 20:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:00 - 14:59: Za, excl. feestdagen.
-   08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 15:59: incl. feestdagen.
+   08:00 - 15:59: Zo, excl. feestdagen.
    15:00 - 22:59: Za, excl. feestdagen.
    16:00 - 22:59: Zo, incl. feestdagen.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -3568,8 +3572,8 @@ VHF:     22
 
 Bedieningstijden
 Periode 01-04 tot 31-10:
-   05:00 - 21:00: Za, Zo, excl. feestdagen.
    05:00 - 21:00: incl. feestdagen.
+   05:00 - 21:00: Za, Zo, excl. feestdagen.
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-03:
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -4065,6 +4069,7 @@ Periode 01-07 tot 21-08:
 Periode 22-08 tot 15-09:
    08:30 - 15:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 16-09 tot 15-05:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/32152">
       <text>Sluis I Nieuwehorne online info</text>
@@ -4258,10 +4263,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 04:59: Ma, excl. feestdagen.
    23:00 - 14:59: Za, excl. feestdagen.
-   23:00 - 07:59: incl. feestdagen.
+   23:00 - 04:59: Ma, excl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 07:59: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -4597,8 +4602,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/38226">
@@ -6159,10 +6164,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 04:59: Ma, excl. feestdagen.
    23:00 - 14:59: Za, excl. feestdagen.
-   23:00 - 07:59: incl. feestdagen.
+   23:00 - 04:59: Ma, excl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 07:59: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -6207,6 +6212,7 @@ Bedieningstijden
 Periode 01-05 tot 30-09:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-10 tot 30-04:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 
 Note: Bediening op afstand vanaf Zeesluis Farmsum.
 Bij de bruggen bevinden zich meldknoppen (bord "Sport").</desc>
@@ -6371,6 +6377,7 @@ Periode 01-07 tot 21-08:
 Periode 22-08 tot 15-09:
    08:30 - 15:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 16-09 tot 15-05:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/55242">
       <text>Sluis III Oosterwolde online info</text>
@@ -6706,6 +6713,7 @@ Periode 25-12 tot 02-01:
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/740256">
       <text>Stad en Lande online info</text>
@@ -7132,8 +7140,8 @@ Bedieningstijden
 Periode 02-01 tot 31-03:
    23:00 - 22:59: Zo, excl. feestdagen.
    23:00 - 04:59: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
-   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 12:59: incl. feestdagen.
+   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 20:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    13:00 - 22:59: Za, incl. feestdagen.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -7143,8 +7151,8 @@ Periode 01-04 tot 31-10:
    23:00 - 07:59: Zo, incl. feestdagen.
    05:00 - 20:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:00 - 14:59: Za, excl. feestdagen.
-   08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 15:59: incl. feestdagen.
+   08:00 - 15:59: Zo, excl. feestdagen.
    15:00 - 22:59: Za, excl. feestdagen.
    16:00 - 22:59: Zo, incl. feestdagen.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -7205,10 +7213,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 04:59: Ma, excl. feestdagen.
    23:00 - 14:59: Za, excl. feestdagen.
-   23:00 - 07:59: incl. feestdagen.
+   23:00 - 04:59: Ma, excl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 07:59: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -7276,8 +7284,8 @@ Bedieningstijden
 Periode 02-01 tot 31-03:
    23:00 - 22:59: Zo, excl. feestdagen.
    23:00 - 04:59: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
-   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 12:59: incl. feestdagen.
+   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 20:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    13:00 - 22:59: Za, incl. feestdagen.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -7287,8 +7295,8 @@ Periode 01-04 tot 31-10:
    23:00 - 07:59: Zo, incl. feestdagen.
    05:00 - 20:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:00 - 14:59: Za, excl. feestdagen.
-   08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 15:59: incl. feestdagen.
+   08:00 - 15:59: Zo, excl. feestdagen.
    15:00 - 22:59: Za, excl. feestdagen.
    16:00 - 22:59: Zo, incl. feestdagen.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -7354,10 +7362,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 04:59: Ma, excl. feestdagen.
    23:00 - 14:59: Za, excl. feestdagen.
-   23:00 - 07:59: incl. feestdagen.
+   23:00 - 04:59: Ma, excl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 07:59: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -7402,8 +7410,8 @@ Bedieningstijden
 Periode 02-01 tot 31-03:
    23:00 - 22:59: Zo, excl. feestdagen.
    23:00 - 04:59: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
-   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 12:59: incl. feestdagen.
+   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 20:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    13:00 - 22:59: Za, incl. feestdagen.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -7413,8 +7421,8 @@ Periode 01-04 tot 31-10:
    23:00 - 07:59: Zo, incl. feestdagen.
    05:00 - 20:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:00 - 14:59: Za, excl. feestdagen.
-   08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 15:59: incl. feestdagen.
+   08:00 - 15:59: Zo, excl. feestdagen.
    15:00 - 22:59: Za, excl. feestdagen.
    16:00 - 22:59: Zo, incl. feestdagen.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -7492,8 +7500,8 @@ Bedieningstijden
 Periode 02-01 tot 31-03:
    23:00 - 22:59: Zo, excl. feestdagen.
    23:00 - 04:59: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
-   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 12:59: incl. feestdagen.
+   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 20:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    13:00 - 22:59: Za, incl. feestdagen.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -7503,8 +7511,8 @@ Periode 01-04 tot 31-10:
    23:00 - 07:59: Zo, incl. feestdagen.
    05:00 - 20:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:00 - 14:59: Za, excl. feestdagen.
-   08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 15:59: incl. feestdagen.
+   08:00 - 15:59: Zo, excl. feestdagen.
    15:00 - 22:59: Za, excl. feestdagen.
    16:00 - 22:59: Zo, incl. feestdagen.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -7547,10 +7555,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 04:59: Ma, excl. feestdagen.
    23:00 - 14:59: Za, excl. feestdagen.
-   23:00 - 07:59: incl. feestdagen.
+   23:00 - 04:59: Ma, excl. feestdagen.
    23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 07:59: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -7728,6 +7736,7 @@ Periode 01-04 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 
 Note: 01 april t/m 31 oktober: 
 Bediening op aanvraag via 06 - 53 75 25 87.
