@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-01-30T07:29:01.863000Z</time>
+    <time>2023-01-30T17:52:35.566000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>VHF 20</name>
@@ -16287,12 +16287,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="53.3256563068307" lon="6.02235853672027">
     <name>VHF 80</name>
-    <desc>Naam:         Meldpunt Schreiersbrug
+    <desc>Naam:         Meldpunt Skreiersbrêge (Schreiersbrug)
 VHF:          80
 RadioStatus: RECOMMENDED
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/14776">
-      <text>Meldpunt Schreiersbrug online info</text>
+      <text>Meldpunt Skreiersbrêge (Schreiersbrug) online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -16978,6 +16978,34 @@ RadioTraffic: TWO_WAY</desc>
       <text>Meldpunt Tijdelijke Zaanbrug online info</text>
     </link>
     <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.325678703869755" lon="6.012944087851793">
+    <name>VHF 80</name>
+    <desc>Naam:         Meldpunt Hegedyksterbrêge (Hegedyksterbrug)
+VHF:          80
+RadioStatus: RECOMMENDED
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/22949369">
+      <text>Meldpunt Hegedyksterbrêge (Hegedyksterbrug) online info</text>
+    </link>
+    <sym>Symbol-Exclamation-Blue</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.32258785268101" lon="6.102194178965874">
+    <name>VHF 80</name>
+    <desc>Naam:         Meldpunt Ir. D. F Woudabrêge ( Ir. D.F. Woudabrug)
+VHF:          80
+RadioStatus: RECOMMENDED
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/53538">
+      <text>Meldpunt Ir. D. F Woudabrêge ( Ir. D.F. Woudabrug) online info</text>
+    </link>
+    <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>

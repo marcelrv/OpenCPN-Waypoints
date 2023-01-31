@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-01-30T07:29:01.863000Z</time>
+    <time>2023-01-30T17:52:35.566000Z</time>
   </metadata>
   <wpt lat="53.0240104564255" lon="7.13930010795593">
     <name>Vlagtweddersluis</name>
@@ -1359,8 +1359,8 @@ VHF:     22
 
 Bedieningstijden
 Periode 01-04 tot 31-10:
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Za, Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-03:
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -3572,8 +3572,8 @@ VHF:     22
 
 Bedieningstijden
 Periode 01-04 tot 31-10:
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Za, Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-03:
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -5379,20 +5379,25 @@ Periode 16-10 tot 15-04:
 
 Bedieningstijden
 Periode 01-04 tot 30-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-05 tot 31-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 01-06 tot 31-08:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
-Periode 01-09 tot 30-09:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 01-10 tot 31-03:
-   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-</desc>
+   06:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   12:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-05 tot 30-09:
+   06:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   12:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-10 tot 31-10:
+   06:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   12:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-11 tot 31-03:
+   06:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   12:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+
+Note: Bedieningstijden beroepsvaart:
+Januari tot en met december 
+maandag tot en met zaterdag 
+07.00 uur - 12.00 uur  
+13.00 uur - 18.00 uur 
+Buiten de reguliere bedieningstijden van de recreatievaart alleen op afspraak, mits 1 x 24 uur van tevoren aangemeld.
+Hoofdpost Sluis Peelo, telefoonnummer 0592 - 340560.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/45937">
       <text>sluis Peelo online info</text>
     </link>
@@ -6758,7 +6763,14 @@ Periode 01-01 tot 31-12:
   </wpt>
   <wpt lat="52.0462376123392" lon="4.94787108267865">
     <name>Sluis Montfoort</name>
-    <desc>Locatie: Montfoortse Vaart</desc>
+    <desc>Locatie: Montfoortse Vaart
+
+Bedieningstijden
+Periode 15-04 tot 14-10:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 15-10 tot 14-04:
+
+Note: Ligt u met uw boot voor de sluis, bel onze sluiswachter op 06-24821629.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1022715">
       <text>Sluis Montfoort online info</text>
     </link>

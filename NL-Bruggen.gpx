@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-01-30T07:29:01.863000Z</time>
+    <time>2023-01-30T17:52:35.566000Z</time>
   </metadata>
   <wpt lat="53.0759321679316" lon="7.14846917281973">
     <name>Vriescheloosterbrug</name>
@@ -376,7 +376,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.8241152022164" lon="6.3130893438737">
+  <wpt lat="52.82415754806823" lon="6.313100904317252">
     <name>Wittelterbrug</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -666,7 +666,30 @@ Type:    Vaste Brug</desc>
   <wpt lat="52.9997922098482" lon="6.53263807296753">
     <name>Montessoribrug</name>
     <desc>Locatie: Noord-Willemskanaal
-Type:    Bedienbare Brug</desc>
+Type:    Bedienbare Brug
+
+Bedieningstijden
+Periode 01-01 tot 31-03:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/2118">
       <text>Montessoribrug online info</text>
     </link>
@@ -753,7 +776,7 @@ Periode 31-12 tot 01-01:
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7352585608856" lon="6.72014703838964">
+  <wpt lat="52.735268213732866" lon="6.720201820080546">
     <name>Oosterhesselerbrug</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -844,14 +867,26 @@ Periode 01-10 tot 30-04:
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 30-09:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 15:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-Periode 01-10 tot 31-03:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 15:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-04 tot 30-04:
+   06:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   12:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-05 tot 30-09:
+   06:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   12:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-10 tot 31-10:
+   06:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   12:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-11 tot 31-03:
+   06:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   12:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 
-Note: Voor meer informatie over het bedienen van de bruggen kunt u contact opnemen met de havenmeester via 06 – 25 50 32 25 of havenmeester@assen.nl</desc>
+Note: Bedieningstijden beroepsvaart:
+Januari tot en met december 
+maandag tot en met zaterdag 
+07.00 uur - 12.00 uur  
+13.00 uur - 18.00 uur 
+Buiten de reguliere bedieningstijden van de recreatievaart alleen op afspraak, mits 1 x 24 uur van tevoren aangemeld.
+Hoofdpost Sluis Peelo, telefoonnummer 0592 - 340560.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/2284">
       <text>Lonerbrug online info</text>
     </link>
@@ -1587,7 +1622,7 @@ Periode 01-11 tot 31-03:
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7084515010522" lon="6.9407761202374">
+  <wpt lat="52.70845156234108" lon="6.940849870516103">
     <name>Oosterveenschebrug</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -2343,7 +2378,7 @@ Note: Alleen opening in de nacht, gekoppeld aan de Staande Mast Route.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.6968639593339" lon="6.86693957657413">
+  <wpt lat="52.696883440930606" lon="6.866958364835226">
     <name>Drieklapsbrug</name>
     <desc>Locatie: Stieltjeskanaal
 Type:    Bedienbare Brug
@@ -2442,7 +2477,7 @@ Aanvraag brug 06 - 51205038</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9863423724615" lon="6.48521037139335">
+  <wpt lat="52.98631141328491" lon="6.485160291194917">
     <name>Van Liersbrug</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -3016,7 +3051,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.1396090870253" lon="6.60468207307702">
+  <wpt lat="53.139572964604724" lon="6.604692935943603">
     <name>Oosterbroeksebrug</name>
     <desc>Locatie: Noord-Willemskanaal
 Type:    Bedienbare Brug
@@ -3519,7 +3554,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7157661896091" lon="6.85564983913979">
+  <wpt lat="52.715746626490784" lon="6.855848282575606">
     <name>Fietsbrug 't Vonder</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug</desc>
@@ -4185,7 +4220,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7122424690517" lon="6.45484683511178">
+  <wpt lat="52.71224449795184" lon="6.454822868181509">
     <name>Tweelandenbrug</name>
     <desc>Locatie: Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -5637,11 +5672,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.3842819774085" lon="5.53700840918526">
-    <name>brug over Hoge Knarsluis</name>
+    <name>Brug over Hoge Knarsluis</name>
     <desc>Locatie: Hoge Vaart
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/7307">
-      <text>brug over Hoge Knarsluis online info</text>
+      <text>Brug over Hoge Knarsluis online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -6011,11 +6046,11 @@ Note: op za, zo en feestdagen bediening 24 uur per dag</desc>
     </extensions>
   </wpt>
   <wpt lat="52.3384958823166" lon="4.91264509707762">
-    <name>Amsterdam, fiets/voetbrug</name>
+    <name>Fiets/voetbrug Amsterdam</name>
     <desc>Locatie: Duivendrechtsche Vaart
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/7932">
-      <text>Amsterdam, fiets/voetbrug online info</text>
+      <text>Fiets/voetbrug Amsterdam online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -6401,7 +6436,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.9731044445572" lon="6.32465958595276">
-    <name>brug over benedenhoofd Verlaat Nr. VI</name>
+    <name>Brug over benedenhoofd Verlaat Nr. VI</name>
     <desc>Locatie: Opsterlandse Compagnonsvaart
 Type:    Bedienbare Brug
 
@@ -6418,7 +6453,7 @@ Periode 16-09 tot 15-05:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/8292">
-      <text>brug over benedenhoofd Verlaat Nr. VI online info</text>
+      <text>Brug over benedenhoofd Verlaat Nr. VI online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -6450,7 +6485,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.9915275469442" lon="6.28930286715331">
-    <name>fiets/voetbrug Oosterwolde</name>
+    <name>Fiets/voetbrug Oosterwolde</name>
     <desc>Locatie: Opsterlandse Compagnonsvaart
 Type:    Bedienbare Brug
 
@@ -6467,7 +6502,7 @@ Periode 16-09 tot 15-05:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/8365">
-      <text>fiets/voetbrug Oosterwolde online info</text>
+      <text>Fiets/voetbrug Oosterwolde online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -6502,7 +6537,7 @@ Note: Marifoonkanaal 18. Brug heeft zelf geen marifoon, communicatie loopt via d
     </extensions>
   </wpt>
   <wpt lat="53.0528732348561" lon="6.94246164674407">
-    <name>brug over benedenhoofd Kielbadde</name>
+    <name>Brug over benedenhoofd Kielbadde</name>
     <desc>Locatie: Pekelerhoofddiep
 Type:    Bedienbare Brug
 
@@ -6518,7 +6553,7 @@ Note: Begeleide konvooivaart om 09:30 en 13:30 uur vanaf Oude Pekela bij de jach
 Bij vertrek om 13:30 uur vanaf Stadskanaal is het mogelijk de jachthaven in Oude Pekela te bereiken. In omgekeerde richting is het mogelijk Stadskanaal te bereiken.
 Na 16:30 uur vindt geen bediening meer plaats, zodat een ligplaats ingenomen dient te worden.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/8399">
-      <text>brug over benedenhoofd Kielbadde online info</text>
+      <text>Brug over benedenhoofd Kielbadde online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -6616,11 +6651,11 @@ Note: Buiten de vaste openingsmogelijkheden kan op verzoek tussen 10:00 - 16:00 
     </extensions>
   </wpt>
   <wpt lat="52.6894893408226" lon="6.85397396380539">
-    <name>brug over benedenhoofd Stieltjeskanaalsluis</name>
+    <name>Brug over benedenhoofd Stieltjeskanaalsluis</name>
     <desc>Locatie: Stieltjeskanaal
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/8468">
-      <text>brug over benedenhoofd Stieltjeskanaalsluis online info</text>
+      <text>Brug over benedenhoofd Stieltjeskanaalsluis online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -6661,7 +6696,7 @@ Note: De precieze brugopeningen zijn afhankelijk van de aankomst van een konvooi
     </extensions>
   </wpt>
   <wpt lat="52.5026753186814" lon="6.25992132646557">
-    <name>brug Dalfsen</name>
+    <name>Brug Dalfsen</name>
     <desc>Locatie: Overijsselse Vecht
 Type:    Bedienbare Brug
 
@@ -6683,7 +6718,7 @@ Heeft u vragen over bediening van bruggen of sluizen buiten deze bedientijden, n
 Om te schutten dient u 15 minuten voor sluitingstijd bij de sluis aanwezig te zijn anders kunt u niet meer deelnemen aan het schutproces.
 Bij windkracht 7 of hoger worden de bruggen die in beheer zijn bij de provincie Overijssel, niet bediend.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/8615">
-      <text>brug Dalfsen online info</text>
+      <text>Brug Dalfsen online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -7072,11 +7107,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.0669156926556" lon="4.8067385235546">
-    <name>Waarder, fietsbrug</name>
+    <name>Fietsbrug Waarder</name>
     <desc>Locatie: Dubbele Wiericke
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/9098">
-      <text>Waarder, fietsbrug online info</text>
+      <text>Fietsbrug Waarder online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -7432,11 +7467,11 @@ Note: Bruggen worden niet meer bediend. Het gedeelte van de Trekvaart Het Schouw
     </extensions>
   </wpt>
   <wpt lat="52.2195796000278" lon="5.12261131174237">
-    <name>brug in de N201 Kortenhoef</name>
+    <name>Brug in de N201 Kortenhoef</name>
     <desc>Locatie: 's-Gravelandsevaart
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/9444">
-      <text>brug in de N201 Kortenhoef online info</text>
+      <text>Brug in de N201 Kortenhoef online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -7492,11 +7527,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.5005216798874" lon="5.5020797252655">
-    <name>Horstbrug, fietsbrug</name>
+    <name>Horstbrug (fietsbrug)</name>
     <desc>Locatie: Gelderse Diep
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/9535">
-      <text>Horstbrug, fietsbrug online info</text>
+      <text>Horstbrug (fietsbrug) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -7856,11 +7891,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9713840101234" lon="4.60375130902674">
-    <name>brug in de Hoofdweg Nieuwerkerk aan den IJssel</name>
+    <name>Brug in de Hoofdweg Nieuwerkerk aan den IJssel</name>
     <desc>Locatie: Ringvaart van de Zuidplaspolder
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/9682">
-      <text>brug in de Hoofdweg Nieuwerkerk aan den IJssel online info</text>
+      <text>Brug in de Hoofdweg Nieuwerkerk aan den IJssel online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -8182,11 +8217,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="51.95482523284" lon="5.35598315298557">
-    <name>brug over benedenhoofd Prinses Marijkesluis</name>
+    <name>Brug over benedenhoofd Prinses Marijkesluis</name>
     <desc>Locatie: Voorhavens Prinses Marijkesluis
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/10060">
-      <text>brug over benedenhoofd Prinses Marijkesluis online info</text>
+      <text>Brug over benedenhoofd Prinses Marijkesluis online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -8313,11 +8348,11 @@ Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
     </extensions>
   </wpt>
   <wpt lat="52.9688197875041" lon="5.61565518379211">
-    <name>brug Oer de Graft</name>
+    <name>Brug Oer de Graft</name>
     <desc>Locatie: Heeger Var
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/10168">
-      <text>brug Oer de Graft online info</text>
+      <text>Brug Oer de Graft online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -8518,7 +8553,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.028378997425" lon="6.14453315734863">
-    <name>Hemrik, fiets/voetbrug</name>
+    <name>Fiets/voetbrug Hemrik</name>
     <desc>Locatie: Opsterlandse Compagnonsvaart
 Type:    Bedienbare Brug
 
@@ -8535,7 +8570,7 @@ Periode 16-09 tot 15-05:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/10469">
-      <text>Hemrik, fiets/voetbrug online info</text>
+      <text>Fiets/voetbrug Hemrik online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -10118,7 +10153,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9606345396126" lon="6.45740715817969">
+  <wpt lat="52.960625120130686" lon="6.457398086786268">
     <name>Jonkersbrug, Smilde</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -11125,7 +11160,7 @@ Op 5 December, 24 December en 31 December worden de Arkersluis en de Arkervaartb
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7261857924021" lon="6.53553713598065">
+  <wpt lat="52.72618053093325" lon="6.535464450798827">
     <name>Brug over benedenhoofd Noordscheschutsluis</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -11679,7 +11714,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9955546908733" lon="6.51116065884707">
+  <wpt lat="52.995564866344694" lon="6.5112125873565665">
     <name>Kloosterbrug Assen</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -12086,7 +12121,7 @@ Note: In de periode van 16-10 t/m 29-03: op maandag t/m vrijdag alleen bediening
     </extensions>
   </wpt>
   <wpt lat="53.3256563068307" lon="6.02235853672027">
-    <name>Schreiersbrug</name>
+    <name>Skreiersbrêge (Schreiersbrug)</name>
     <desc>Locatie: Dokkumer-Grootdiep
 Type:    Bedienbare Brug
 VHF:     80
@@ -12110,7 +12145,7 @@ Voor de periodes van 1 november t/m 31 maart 9-17 uur: Geen afroep nodig.
 Voor de periodes uitsluitend beroepsvaart op afroep: Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/14776">
-      <text>Schreiersbrug online info</text>
+      <text>Skreiersbrêge (Schreiersbrug) online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -12703,7 +12738,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7850510520202" lon="6.28112853534382">
+  <wpt lat="52.785060380887955" lon="6.281203776597977">
     <name>2e Uffelterbrug</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -15424,7 +15459,7 @@ verzoek, ook buiten de vastgestelde bedieningsuren bediend;</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7276718237534" lon="6.67634167255199">
+  <wpt lat="52.72774214708835" lon="6.676473170609825">
     <name>Zwinderse brug</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -17038,23 +17073,33 @@ Periode 01-10 tot 30-04:
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.935936300181" lon="6.43045457353851">
+  <wpt lat="52.935937738979305" lon="6.430419087409972">
     <name>Wittewijksbrug</name>
     <desc>Locatie: Witte Wijk
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 16-05 tot 30-06:
-   23:00 - 22:59: Zo, incl. feestdagen.
-   08:30 - 15:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 01-07 tot 21-08:
-   08:30 - 15:30: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
-Periode 22-08 tot 15-09:
-   23:00 - 22:59: Zo, incl. feestdagen.
-   08:30 - 15:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
-Periode 16-09 tot 15-05:
+Periode 01-01 tot 31-03:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-</desc>
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/20913">
       <text>Wittewijksbrug online info</text>
     </link>
@@ -18127,7 +18172,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.926881825913" lon="6.42092406749725">
+  <wpt lat="52.92689216912743" lon="6.420921497060587">
     <name>Leembrug</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -18181,7 +18226,7 @@ Note: Bij een windkracht van 7 bft. en meer wordt de brug niet bediend.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.712619835856" lon="6.44804505361367">
+  <wpt lat="52.71261081690619" lon="6.44810989508187">
     <name>Vlinderbrug</name>
     <desc>Locatie: Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -18784,7 +18829,7 @@ Periode 01-10 tot 30-04:
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.0484901698878" lon="6.60839008947435">
+  <wpt lat="53.048476949184845" lon="6.608389019966125">
     <name>Oudemolensebrug</name>
     <desc>Locatie: Noord-Willemskanaal
 Type:    Bedienbare Brug
@@ -18900,7 +18945,7 @@ Tussen 16:00u en 18:00 geen bediening op beide bruggen voor uitvarend scheepvaar
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.6899162239083" lon="6.26087223440698">
+  <wpt lat="52.6898963290586" lon="6.260806173104355">
     <name>brug over benedenhoofd Rogatsluis</name>
     <desc>Locatie: Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -20645,7 +20690,7 @@ Note: Vanwege de versobering kans op wachttijden. Sinds voorjaar 2015 volledig a
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9692686311807" lon="6.46671342957387">
+  <wpt lat="52.96924464356144" lon="6.466713398694992">
     <name>Grietmansbrug</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -21390,7 +21435,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.0371769825771" lon="6.60643800777866">
+  <wpt lat="53.03723719042071" lon="6.60640686750412">
     <name>Taarlosebrug</name>
     <desc>Locatie: Noord-Willemskanaal
 Type:    Bedienbare Brug
@@ -22268,7 +22313,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9428281887491" lon="6.43815920230938">
+  <wpt lat="52.942803082503076" lon="6.438172012567519">
     <name>Veenhoopsbrug (in N371)</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -22679,7 +22724,7 @@ Note: Sleutel is tegen waarborgsom verkrijgbaar.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7274143640385" lon="6.52089720539446">
+  <wpt lat="52.72737951697758" lon="6.521027758726629">
     <name>brug in Weg om de Oost Hoogeveen</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -23288,7 +23333,7 @@ Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7600847256258" lon="6.23278395230681">
+  <wpt lat="52.76008709951054" lon="6.2328045070535145">
     <name>Boschkampsbrug</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -24154,7 +24199,7 @@ Geen bediening bij mist (minder dan 100 m zicht) en wind boven windkracht 7.</de
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.8728391977629" lon="6.37065514917453">
+  <wpt lat="52.87280051820329" lon="6.370633915084908">
     <name>Geeuwenbrug</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -24264,7 +24309,7 @@ Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7412996365376" lon="6.76656257532812">
+  <wpt lat="52.74132697694941" lon="6.766549237095203">
     <name>Klenckerbrug</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -25656,7 +25701,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7098253641178" lon="6.9253588108493">
+  <wpt lat="52.70980964077404" lon="6.925430260612303">
     <name>Ericasebrug</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -26723,7 +26768,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9779605552222" lon="6.47615226862619">
+  <wpt lat="52.97795127453449" lon="6.476102471351622">
     <name>Mr. Sickensbrug</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -27124,7 +27169,7 @@ Note: Volledig bediend vanuit Bediencentrale Tilburg. Op overige tijden op aanvr
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7378189524415" lon="6.73291613418113">
+  <wpt lat="52.73780091867752" lon="6.732936687776599">
     <name>Hesselerbrug</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -29710,7 +29755,7 @@ Periode 01-11 tot 31-03:
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7254665741099" lon="6.54461608910723">
+  <wpt lat="52.72546618686363" lon="6.5446890890962095">
     <name>Kromme Jakken, fiets/voetbrug</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -31325,7 +31370,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7662099376477" lon="6.24796636882469">
+  <wpt lat="52.76616482769808" lon="6.247970312888354">
     <name>Havelterbrug</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -31545,7 +31590,7 @@ Periode 01-01 tot 31-12:
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.1247326613584" lon="6.60588436100328">
+  <wpt lat="53.12467187781658" lon="6.6058409214019775">
     <name>Brug de Punt</name>
     <desc>Locatie: Noord-Willemskanaal
 Type:    Bedienbare Brug
@@ -31996,21 +32041,20 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9988382701928" lon="6.53124494408008">
+  <wpt lat="52.99884512023408" lon="6.5311655402183515">
     <name>Brug Asserwijk</name>
     <desc>Locatie: Noord-Willemskanaal
 Type:    Bedienbare Brug
 
 Bedieningstijden
 Periode 01-01 tot 31-03:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-04 tot 30-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-Periode 01-04 tot 30-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, incl. feestdagen.
 Periode 01-05 tot 31-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-06 tot 31-08:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
@@ -32021,9 +32065,9 @@ Periode 01-10 tot 31-10:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-11 tot 31-12:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-</desc>
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/37033">
       <text>Brug Asserwijk online info</text>
     </link>
@@ -32211,8 +32255,8 @@ Bedieningstijden
 Periode 02-01 tot 31-03:
    23:00 - 22:59: Zo, excl. feestdagen.
    23:00 - 04:59: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
-   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 12:59: incl. feestdagen.
+   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 06:39: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:40 - 07:09: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:10 - 07:39: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -32230,8 +32274,8 @@ Periode 01-04 tot 31-10:
    06:40 - 07:09: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:10 - 07:39: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:40 - 15:29: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 15:59: incl. feestdagen.
+   08:00 - 15:59: Zo, excl. feestdagen.
    15:00 - 22:59: Za, excl. feestdagen.
    15:30 - 15:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    16:00 - 22:59: Zo, incl. feestdagen.
@@ -33838,7 +33882,7 @@ Note: Bruggen worden bediend door de havenmeester van Willemsoord BV.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9518889772323" lon="6.44795531714669">
+  <wpt lat="52.95183719110855" lon="6.447936594486235">
     <name>Polakkenbrug</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -34620,7 +34664,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9928666047168" lon="6.49226634247414">
+  <wpt lat="52.992859115072804" lon="6.492225229740143">
     <name>Norgerbrug</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -36690,7 +36734,7 @@ toegestaan, met inachtneming van de aanwijzingen van het bedienend personeel;</d
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7929387139596" lon="6.28863996234746">
+  <wpt lat="52.79285930704856" lon="6.288670152480335">
     <name>1e Uffelterbrug</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -36837,7 +36881,7 @@ Periode 31-12 tot 01-01:
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7288156335699" lon="6.63362377530769">
+  <wpt lat="52.728818539268474" lon="6.633663624652398">
     <name>Geesbrug</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -37115,7 +37159,7 @@ Note: Bediening binnen de aangegeven perioden, vanuit Bedieningscentrum De Waard
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.1170694791909" lon="6.60481865744549">
+  <wpt lat="53.11703422417773" lon="6.604827046394347">
     <name>Sluis De Punt, brug over benedenhoofd</name>
     <desc>Locatie: Noord-Willemskanaal
 Type:    Bedienbare Brug
@@ -37308,7 +37352,30 @@ Oudejaarsdag (31-12), de dag voor 1e Kerstdag (24-12) en Hemelvaartsdag sluiting
   <wpt lat="52.76024260737202" lon="6.233038008213042">
     <name>Boschkampsbrug - fietsbrug</name>
     <desc>Locatie: Drentsche Hoofdvaart
-Type:    Bedienbare Brug</desc>
+Type:    Bedienbare Brug
+
+Bedieningstijden
+Periode 01-01 tot 31-03:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-04 tot 30-04:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-05 tot 31-05:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-06 tot 31-08:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+Periode 01-09 tot 30-09:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+Periode 01-10 tot 31-10:
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+Periode 01-11 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+
+Note: 1e en 2e Kerstdag, en Nieuwjaarsdag geen bediening</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43116">
       <text>Boschkampsbrug - fietsbrug online info</text>
     </link>
@@ -38688,7 +38755,7 @@ Tussen 07.50 - 08.20 uur en tussen 17.10 - 17.30 uur mag de brug éénmaal per v
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7273125194216" lon="6.5233070070234">
+  <wpt lat="52.727278831389896" lon="6.5232478081816225">
     <name>Het Schoolvonder</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -39386,7 +39453,7 @@ Via de digitale vaarkaart van de provincie kunt u de bedientijden en overige inf
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.0793313518565" lon="6.59261709467776">
+  <wpt lat="53.07926749190639" lon="6.592537164688109">
     <name>Vriezerbrug</name>
     <desc>Locatie: Noord-Willemskanaal
 Type:    Bedienbare Brug
@@ -41311,7 +41378,7 @@ Periode 16-10 tot 15-04:
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7245892758395" lon="6.56814649252525">
+  <wpt lat="52.72457811450411" lon="6.568132415413856">
     <name>Trambrug, Nieuweroord</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -44791,8 +44858,8 @@ Bedieningstijden
 Periode 02-01 tot 31-03:
    23:00 - 22:59: Zo, excl. feestdagen.
    23:00 - 04:59: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen.
-   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 12:59: incl. feestdagen.
+   05:00 - 12:59: Za, excl. feestdagen.
    05:00 - 06:39: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    06:40 - 07:09: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:10 - 07:39: Ma, Di, Wo, Do, Vr, excl. feestdagen.
@@ -44810,8 +44877,8 @@ Periode 01-04 tot 31-10:
    06:40 - 07:09: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:10 - 07:39: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    07:40 - 15:29: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 15:59: incl. feestdagen.
+   08:00 - 15:59: Zo, excl. feestdagen.
    15:00 - 22:59: Za, excl. feestdagen.
    15:30 - 15:59: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    16:00 - 22:59: Zo, incl. feestdagen.
@@ -44927,7 +44994,7 @@ Note: De grote Kolksluis is niet meer in gebruik voor de scheepvaart. De scheepv
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.0220894457756" lon="6.5717914518242">
+  <wpt lat="53.02209791568919" lon="6.571851968765259">
     <name>Sluis Peelo, brug over benedenhoofd</name>
     <desc>Locatie: Noord-Willemskanaal
 Type:    Vaste Brug</desc>
@@ -45162,7 +45229,7 @@ Note: Bediening op aanvraag binnen de aangegeven perioden, 24 uur van te voren a
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.8472074784572" lon="6.34212321302841">
+  <wpt lat="52.84719411093644" lon="6.3421084732362925">
     <name>Dieverbrug</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -45917,14 +45984,26 @@ Periode 16-09 tot 15-05:
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-04 tot 30-09:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 15:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-Periode 01-10 tot 31-03:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 15:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-04 tot 30-04:
+   06:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   12:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-05 tot 30-09:
+   06:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   12:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-10 tot 31-10:
+   06:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   12:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+Periode 01-11 tot 31-03:
+   06:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   12:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 
-Note: Voor meer informatie over het bedienen van de bruggen kunt u contact opnemen met de havenmeester via 06 – 25 50 32 25 of havenmeester@assen.nl</desc>
+Note: Bedieningstijden beroepsvaart:
+Januari tot en met december 
+maandag tot en met zaterdag 
+07.00 uur - 12.00 uur  
+13.00 uur - 18.00 uur 
+Buiten de reguliere bedieningstijden van de recreatievaart alleen op afspraak, mits 1 x 24 uur van tevoren aangemeld.
+Hoofdpost Sluis Peelo, telefoonnummer 0592 - 340560.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/52672">
       <text>Enkeerdbrug (fiets- voetgangersbrug) online info</text>
     </link>
@@ -46495,9 +46574,10 @@ Note: Opening op verzoek. In de periode van 1 mei t/m 30 september wordt de brug
     </extensions>
   </wpt>
   <wpt lat="53.3225879705363" lon="6.10219471157279">
-    <name>Ir. D.F. Woudabrug</name>
+    <name>Ir. D. F Woudabrêge ( Ir. D.F. Woudabrug)</name>
     <desc>Locatie: Dokkumer-Grootdiep
 Type:    Bedienbare Brug
+VHF:     80
 
 Bedieningstijden
 Periode 01-04 tot 31-05:
@@ -46518,7 +46598,7 @@ Voor de periodes van 1 november t/m 31 maart 9-17 uur: Geen afroep nodig.
 Voor de periodes uitsluitend beroepsvaart op afroep: Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/53538">
-      <text>Ir. D.F. Woudabrug online info</text>
+      <text>Ir. D. F Woudabrêge ( Ir. D.F. Woudabrug) online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -48468,7 +48548,7 @@ Houd rekening met aanrijtijd of enige vertraging.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7404498397362" lon="6.94393246383713">
+  <wpt lat="52.740430297650676" lon="6.943991035223007">
     <name>Brug 23</name>
     <desc>Locatie: Bladderswijk, Oranjekanaal
 Type:    Bedienbare Brug
@@ -48538,11 +48618,11 @@ Periode 01-10 tot 30-04:
     </extensions>
   </wpt>
   <wpt lat="52.5116890555987" lon="4.93486547948954">
-    <name>Purmerend, brug in de A-7</name>
+    <name>Brug in de A-7 Purmerend</name>
     <desc>Locatie: Noordhollandsch Kanaal
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/55663">
-      <text>Purmerend, brug in de A-7 online info</text>
+      <text>Brug in de A-7 Purmerend online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -48610,7 +48690,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.0963186950057" lon="6.59900413891205">
+  <wpt lat="53.096281119539015" lon="6.599032133817673">
     <name>Sluis Vries, brug over benedenhoofd</name>
     <desc>Locatie: Noord-Willemskanaal
 Type:    Bedienbare Brug
@@ -49183,7 +49263,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7294958735714" lon="6.69691521219896">
+  <wpt lat="52.72950471634158" lon="6.696960181016038">
     <name>Driftbrug</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -49660,7 +49740,7 @@ Note: Voor brug te Garmerswolde: sleutel verkrijgbaar bij naastliggend cafe.</de
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9477053285534" lon="6.4434135612934">
+  <wpt lat="52.94763540323851" lon="6.443403661251068">
     <name>Koopbakkersdraai</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -50351,7 +50431,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7366639648233" lon="6.78731224464161">
+  <wpt lat="52.736697014478466" lon="6.787332445419451">
     <name>Haarbrug</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -50527,7 +50607,7 @@ Note: Schutbeperking bij een buitenwaterstand van NAP+4,0m en hoger. Bij een win
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.8991166078351" lon="6.39087201371668">
+  <wpt lat="52.89908485121856" lon="6.390906497908871">
     <name>Hendrik Oostdraai</name>
     <desc>Locatie: Drentsche Hoofdvaart
 Type:    Bedienbare Brug
@@ -51596,7 +51676,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7215201138797" lon="6.51860236283221">
+  <wpt lat="52.7215140084532" lon="6.518565230103377">
     <name>Krakeelbrug</name>
     <desc>Locatie: Hoogeveensche Vaart
 Type:    Bedienbare Brug
@@ -56326,7 +56406,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7563345330814" lon="7.02881133503979">
+  <wpt lat="52.75633199431448" lon="7.028821930289268">
     <name>Smeulveenschebrug</name>
     <desc>Locatie: Veenparkkanaal
 Type:    Vaste Brug</desc>
@@ -56410,7 +56490,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7954092974648" lon="7.04533277734299">
+  <wpt lat="52.79541744859716" lon="7.045336961746215">
     <name>De Doorsnee</name>
     <desc>Locatie: Oosterdiep
 Type:    Vaste Brug</desc>
@@ -56422,7 +56502,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.811180596078" lon="7.04669976531477">
+  <wpt lat="52.811160560795855" lon="7.046696841716766">
     <name>De Koepelbrug</name>
     <desc>Locatie: Oosterdiep
 Type:    Vaste Brug</desc>
@@ -56434,7 +56514,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.8128044460277" lon="7.04949030870921">
+  <wpt lat="52.812832317237905" lon="7.049487680196761">
     <name>Paul Krugerbrug</name>
     <desc>Locatie: Hoofdkanaal
 Type:    Vaste Brug</desc>
@@ -56446,7 +56526,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.8175048464701" lon="7.05781094933627">
+  <wpt lat="52.81748810448951" lon="7.057848125696181">
     <name>Kleindraaigie</name>
     <desc>Locatie: Hoofdkanaal
 Type:    Vaste Brug</desc>
@@ -56458,7 +56538,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.8359808679473" lon="7.0800333738589">
+  <wpt lat="52.83597271096846" lon="7.0800480991601935">
     <name>De Twee Provincienbrug</name>
     <desc>Locatie: Stadscompascuumkanaal
 Type:    Vaste Brug</desc>
@@ -56470,7 +56550,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.8302691750704" lon="7.07320615934805">
+  <wpt lat="52.83025815804086" lon="7.073231935501098">
     <name>De Vennenbrug</name>
     <desc>Locatie: Stadscompascuumkanaal
 Type:    Vaste Brug</desc>
@@ -56482,7 +56562,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.8264763320304" lon="7.06868859528185">
+  <wpt lat="52.82647623983871" lon="7.068707048892974">
     <name>Munsterscheveldbrug</name>
     <desc>Locatie: Stadscompascuumkanaal
 Type:    Vaste Brug</desc>
@@ -56644,9 +56724,10 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.3256791886277" lon="6.01294666528702">
-    <name>Hegedyksterbrege</name>
+    <name>Hegedyksterbrêge (Hegedyksterbrug)</name>
     <desc>Locatie: Dokkumer-Grootdiep
 Type:    Bedienbare Brug
+VHF:     80
 
 Bedieningstijden
 Periode 01-04 tot 31-05:
@@ -56667,7 +56748,7 @@ Voor de periodes van 1 november t/m 31 maart 9-17 uur: Geen afroep nodig.
 Voor de periodes uitsluitend beroepsvaart op afroep: Bediening op aanvraag via 058 - 29 25 888. Optie 4 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/22949369">
-      <text>Hegedyksterbrege online info</text>
+      <text>Hegedyksterbrêge (Hegedyksterbrug) online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -57200,7 +57281,7 @@ Note: Voor meer informatie over het bedienen van de bruggen kunt u contact opnem
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.994098567469" lon="6.55276000499725">
+  <wpt lat="52.99410085710139" lon="6.552770733833311">
     <name>Koning Willem III brug</name>
     <desc>Locatie: Blauwe As - De Vaart
 Type:    Bedienbare Brug
@@ -57221,7 +57302,7 @@ Note: Voor meer informatie over het bedienen van de bruggen kunt u contact opnem
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9982829266171" lon="6.55871987342834">
+  <wpt lat="52.998281180382946" lon="6.558733284473419">
     <name>Venebrug</name>
     <desc>Locatie: Blauwe As - De Vaart
 Type:    Bedienbare Brug
@@ -57284,7 +57365,7 @@ Note: Voor meer informatie over het bedienen van de bruggen kunt u contact opnem
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9996118977807" lon="6.57097220420837">
+  <wpt lat="52.99963931746362" lon="6.570961475372314">
     <name>De Blauwe Klap</name>
     <desc>Locatie: Haven van Assen
 Type:    Bedienbare Brug
