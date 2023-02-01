@@ -10164,8 +10164,8 @@ model : spar Geel</desc>
   <wpt lat="53.195744444276116" lon="5.317480555603382">
     <name>BS-N</name>
     <desc>vaarweg : BLAUWE SLENK
-model : Pilaar Zwart/geel</desc>
-    <sym>2021</sym>
+model : spar Zwart/geel</desc>
+    <sym>2031</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -10173,8 +10173,8 @@ model : Pilaar Zwart/geel</desc>
   <wpt lat="53.19350000042932" lon="5.323469444268987">
     <name>BS-O 1</name>
     <desc>vaarweg : BLAUWE SLENK
-model : Pilaar Zwart/geel/zwart</desc>
-    <sym>2121</sym>
+model : spar Zwart/geel/zwart</desc>
+    <sym>2131</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -10182,8 +10182,8 @@ model : Pilaar Zwart/geel/zwart</desc>
   <wpt lat="53.19148055552825" lon="5.326838888427005">
     <name>BS-O</name>
     <desc>vaarweg : BLAUWE SLENK
-model : Pilaar Zwart/geel/zwart</desc>
-    <sym>2121</sym>
+model : spar Zwart/geel/zwart</desc>
+    <sym>2131</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48050,8 +48050,8 @@ model : spar Geel</desc>
   <wpt lat="52.93434444474933" lon="5.144144444512203">
     <name>NZ-N</name>
     <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
-model : Pilaar Zwart/geel</desc>
-    <sym>2021</sym>
+model : spar Zwart/geel</desc>
+    <sym>2031</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48059,8 +48059,8 @@ model : Pilaar Zwart/geel</desc>
   <wpt lat="52.929141666716575" lon="5.150394444948583">
     <name>NZ-O 1</name>
     <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
-model : Pilaar Zwart/geel/zwart</desc>
-    <sym>2121</sym>
+model : spar Zwart/geel/zwart</desc>
+    <sym>2131</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48068,8 +48068,8 @@ model : Pilaar Zwart/geel/zwart</desc>
   <wpt lat="52.91820277733554" lon="5.147555555929911">
     <name>NZ-O</name>
     <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
-model : Pilaar Zwart/geel/zwart</desc>
-    <sym>2121</sym>
+model : spar Zwart/geel/zwart</desc>
+    <sym>2131</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48077,8 +48077,8 @@ model : Pilaar Zwart/geel/zwart</desc>
   <wpt lat="52.93015833296538" lon="5.132452777347452">
     <name>NZ-W 1</name>
     <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
-model : Pilaar Geel/zwart/geel</desc>
-    <sym>2321</sym>
+model : spar Geel/zwart/geel</desc>
+    <sym>2331</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48086,8 +48086,8 @@ model : Pilaar Geel/zwart/geel</desc>
   <wpt lat="52.91916666644765" lon="5.126169443891867">
     <name>NZ-W</name>
     <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
-model : Pilaar Geel/zwart/geel</desc>
-    <sym>2321</sym>
+model : spar Geel/zwart/geel</desc>
+    <sym>2331</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48095,8 +48095,8 @@ model : Pilaar Geel/zwart/geel</desc>
   <wpt lat="52.912147222557124" lon="5.135994444434485">
     <name>NZ-Z</name>
     <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
-model : Pilaar Geel/zwart</desc>
-    <sym>2221</sym>
+model : spar Geel/zwart</desc>
+    <sym>2231</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -78532,8 +78532,8 @@ model : spar Groen</desc>
 licht type : quick-flash plus long- flash
 licht periode : 15
 lich kleur : Wit
-model : Pilaar Geel/zwart</desc>
-    <sym>2223</sym>
+model : spar Geel/zwart</desc>
+    <sym>2233</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87473,7 +87473,7 @@ model : spar Zwart/geel</desc>
   <wpt lat="53.42378888923823" lon="5.642975000285438">
     <name>WA-OOST</name>
     <desc>vaarweg : WESTGAT (AMELAND)
-model : Pilaar Zwart/geel/zwart</desc>
+model : spar Zwart/geel/zwart</desc>
     <sym>2133</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -87518,7 +87518,7 @@ model : spar Geel</desc>
 licht type : very quick-flash plus long- fl
 licht periode : 10
 lich kleur : Wit
-model : Pilaar Geel/zwart</desc>
+model : spar Geel/zwart</desc>
     <sym>2233</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -91117,8 +91117,8 @@ model : spar Groen/wit repeterend</desc>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Q (quick-flashing)
 lich kleur : Wit
-model : Pilaar Zwart/geel</desc>
-    <sym>2023</sym>
+model : spar Zwart/geel</desc>
+    <sym>2033</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
