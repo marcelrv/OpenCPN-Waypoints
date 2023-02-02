@@ -50188,7 +50188,7 @@ model : spar Geel/zwart</desc>
     <name>OBSTRUCTIE-N</name>
     <desc>vaarweg : DOLLARD
 model : spar Zwart/geel</desc>
-    <sym>2011</sym>
+    <sym>2033</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -55923,7 +55923,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.61076111111352" lon="3.70624444479356">
+  <wpt lat="51.609497222416245" lon="3.708097222162216">
     <name>R 11D</name>
     <desc>vaarweg : ROOMPOT
 licht type : Iso (isophased)
@@ -55935,11 +55935,11 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.60646388882581" lon="3.714802777315069">
+  <wpt lat="51.60378611133865" lon="3.717380555606014">
     <name>R 11E</name>
     <desc>vaarweg : ROOMPOT
 licht type : Iso (isophased)
-licht periode : 2
+licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
@@ -56151,9 +56151,10 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.59716666647772" lon="3.722300000430465">
+  <wpt lat="51.597394444811506" lon="3.723425000544128">
     <name>R 13-SH 2</name>
     <desc>vaarweg : ROOMPOT
+licht type : Q (quick-flashing)
 model : spar Groen/rood</desc>
     <sym>1211</sym>
     <extensions>
