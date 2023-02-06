@@ -33,9 +33,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: execute py script # run the run.py to get the latest data
+      - name: execute py script vwi_waypoints_generator # run the run.py to get the latest data
         run: |
               python vwi_waypoints_generator.py
+        env:
+          key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
+
+      - name: execute py script marrekritten_to_GPX.py # run the marrekritten_to_GPX.py to get the latest data
+        run: |
+              python marrekritten_to_GPX.py
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
 
