@@ -4,7 +4,7 @@
 
 ### Dutch files (boeien, bruggen, sluizen, marifoon & jachthavens gebaseerd op RWS / vaarweginformatie.nl data)
 * [Friesland-Boeien.gpx](Friesland-Boeien.gpx) - Boeien in Friesland als GPX (bron: provincie Friesland). Note: gebruik de [usericons](./chartcatalog/usericons.zip)  anders zie je alleen circels
-* [marrekrite.gpx](marrekrite.gpx)  - Alle marrekritten aanlegplaatsen for use with OpenCPN. Import as Layer so it can be easily switched on/off
+* [Marrekrite-Aanlegplaatsen.gpx](Marrekrite-Aanlegplaatsen.gpx)  - Alle marrekritten aanlegplaatsen for use with OpenCPN. Import as Layer so it can be easily switched on/off
 * [Friesland-Bruggen.gpx](Friesland-Bruggen.gpx) - Alle Friese bruggen met openingstijden en marifoon kanaal
 * [Friesland-Sluizen.gpx](Friesland-Sluizen.gpx) -Alle Friese sluizen met openingstijden en marifoon kanaal
 * [Friesland-Jachthavens.gpx](Friesland-Jachthavens.gpx) - Jachthavens in Friesland
@@ -46,7 +46,8 @@ Note that you still need to (manually) import the waypoints in the Route and Mar
 To update run `python3 marrekritten_to_GPX.py`
 
 * [vwi_waypoints_generator.py](vwi_waypoints_generator.py) - File to automatically create the bridges, locks, radio and harbours gpx files from the public data of Rijkswaterstaat on https://www.vaarweginformatie.nl/  
-To update run `python3 vwi_waypoints_generator.py` to update files when no update is availabe from https://www.vaarweginformatie.nl/ run it with any argument e.g. `python3 vwi_waypoints_generator.py  -force`
+To update run `python3 vwi_waypoints_generator.py`.  
+To update files when no update is availabe from https://www.vaarweginformatie.nl/ run it with any argument e.g. `python3 vwi_waypoints_generator.py  -force`
 
 * [boeien_generator.py](boeien_generator.py)  - File to automatically create the boeienfiles based on data from provincie Friesland & RWS
 
