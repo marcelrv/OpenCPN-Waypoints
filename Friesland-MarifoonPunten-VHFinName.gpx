@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-02-09T11:28:59.217000Z</time>
+    <time>2023-02-10T12:19:35.243000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>VHF 20</name>
@@ -190,9 +190,9 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="53.3146359262027" lon="6.35626991847917">
-    <name>VHF 85</name>
+    <name>VHF 78</name>
     <desc>Naam:         Meldpunt Sluis Lammerburen, brug over benedenhoofd
-VHF:          85
+VHF:          78
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/13929">
       <text>Meldpunt Sluis Lammerburen, brug over benedenhoofd online info</text>
@@ -268,9 +268,9 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="53.3146359262027" lon="6.35626991847917">
-    <name>VHF 85</name>
+    <name>VHF 78</name>
     <desc>Naam:         Meldpunt Sluis Lammerburen
-VHF:          85
+VHF:          78
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/21743">
       <text>Meldpunt Sluis Lammerburen online info</text>
@@ -335,9 +335,9 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="53.337222486616" lon="6.29714559123706">
-    <name>VHF 85</name>
+    <name>VHF 78</name>
     <desc>Naam:         Meldpunt Reitdiepbrug
-VHF:          85
+VHF:          78
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/26133">
       <text>Meldpunt Reitdiepbrug online info</text>
@@ -348,9 +348,9 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="53.4084701991288" lon="6.19671188901056">
-    <name>VHF 84</name>
+    <name>VHF 64</name>
     <desc>Naam:         Meldpunt Brug over de Robbengatsluis
-VHF:          84
+VHF:          64
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/26301">
       <text>Meldpunt Brug over de Robbengatsluis online info</text>
@@ -532,9 +532,9 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="53.4079029978129" lon="6.19606776370291">
-    <name>VHF 84</name>
+    <name>VHF 64</name>
     <desc>Naam:         Meldpunt Robbengatsluis
-VHF:          84
+VHF:          64
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/49652">
       <text>Meldpunt Robbengatsluis online info</text>
@@ -1324,6 +1324,19 @@ RadioTraffic: TWO_WAY</desc>
       <text>Meldpunt Ir. D. F Woudabrêge ( Ir. D.F. Woudabrug) online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.33975935224" lon="6.29987333456133">
+    <name>VHF 78</name>
+    <desc>Naam:         Meldpunt Hunsingobrug
+VHF:          78
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/25126">
+      <text>Meldpunt Hunsingobrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
