@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-02-17T15:29:56.063000Z</time>
+    <time>2023-02-20T18:33:32.465000Z</time>
   </metadata>
   <wpt lat="53.0759321679316" lon="7.14846917281973">
     <name>Vriescheloosterbrug</name>
@@ -3810,10 +3810,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -4938,8 +4938,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/6325">
@@ -5457,10 +5457,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -6442,7 +6442,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.9731044445572" lon="6.32465958595276">
-    <name>Brug over benedenhoofd Verlaat Nr. VI</name>
+    <name>Brug over benedenhoofd Verlaat 6 Fochteloo</name>
     <desc>Locatie: Opsterlandse Compagnonsvaart
 Type:    Bedienbare Brug
 
@@ -6459,7 +6459,7 @@ Periode 16-09 tot 15-05:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/8292">
-      <text>Brug over benedenhoofd Verlaat Nr. VI online info</text>
+      <text>Brug over benedenhoofd Verlaat 6 Fochteloo online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -7027,7 +7027,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9654903198698" lon="4.61785091483674">
-    <name>Oranje Brug Nieuwerkerk aan den IJssel</name>
+    <name>Oranjebrug Nieuwerkerk aan den IJssel</name>
     <desc>Locatie: Ringvaart van de Zuidplaspolder
 Type:    Bedienbare Brug
 
@@ -7040,7 +7040,7 @@ Periode 01-10 tot 31-03:
 
 Note: De precieze brugopeningen zijn afhankelijk van de aankomst van een konvooi vanuit de richting Catgesbrug of de richting Francoisviaduct. Kijk voor de bedientijden bij die bruggen.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/8996">
-      <text>Oranje Brug Nieuwerkerk aan den IJssel online info</text>
+      <text>Oranjebrug Nieuwerkerk aan den IJssel online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -7307,7 +7307,7 @@ Geen bediening bij mist (minder dan 100 m zicht) en wind boven windkracht 7.</de
     </extensions>
   </wpt>
   <wpt lat="52.8869503271107" lon="5.73737382888794">
-    <name>Follegabrug</name>
+    <name>Follegeabrêge</name>
     <desc>Locatie: Follegeasleat
 Type:    Bedienbare Brug
 VHF:     80
@@ -7320,12 +7320,12 @@ Periode 01-06 tot 31-08:
 Periode 01-09 tot 31-10:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
+   23:00 - 22:59: Zo, incl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
-Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
-Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
+Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/9280">
-      <text>Follegabrug online info</text>
+      <text>Follegeabrêge online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -7992,10 +7992,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -8343,10 +8343,10 @@ Periode 01-06 tot 31-08:
 Periode 01-09 tot 31-10:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
+   23:00 - 22:59: Zo, incl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
-Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
-Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
+Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/10138">
       <text>Skarsterbrêge online info</text>
     </link>
@@ -9812,10 +9812,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -10915,7 +10915,7 @@ Note: Schutbeperking bij een buitenwaterstand van NAP+4,0m en hoger. Bij een win
     </extensions>
   </wpt>
   <wpt lat="52.9905157620034" lon="6.94692062016298">
-    <name>brug Stadskanaal</name>
+    <name>Brug Stadskanaal</name>
     <desc>Locatie: Stadskanaal
 Type:    Bedienbare Brug
 
@@ -10931,7 +10931,7 @@ Periode 01-10 tot 30-04:
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/13672">
-      <text>brug Stadskanaal online info</text>
+      <text>Brug Stadskanaal online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -11062,7 +11062,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.960029842717" lon="6.97868798290725">
-    <name>4e Verlaat (brug over benedenhoofd)</name>
+    <name>Brug over benedenhoofd Verlaat 4 Musselkanaal</name>
     <desc>Locatie: Musselkanaal
 Type:    Bedienbare Brug
 
@@ -11078,7 +11078,7 @@ Periode 01-10 tot 30-04:
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/13828">
-      <text>4e Verlaat (brug over benedenhoofd) online info</text>
+      <text>Brug over benedenhoofd Verlaat 4 Musselkanaal online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -11365,8 +11365,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/14113">
@@ -11809,7 +11809,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.026822086778" lon="6.13341808319092">
-    <name>brug over benedenhoofd Verlaat III</name>
+    <name>Brug over benedenhoofd Verlaat 3 Hemrik</name>
     <desc>Locatie: Opsterlandse Compagnonsvaart
 Type:    Bedienbare Brug
 
@@ -11826,7 +11826,7 @@ Periode 16-09 tot 15-05:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/14565">
-      <text>brug over benedenhoofd Verlaat III online info</text>
+      <text>Brug over benedenhoofd Verlaat 3 Hemrik online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -11940,8 +11940,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/14689">
@@ -13176,8 +13176,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/16010">
@@ -16331,10 +16331,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -19605,8 +19605,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/23299">
@@ -19916,10 +19916,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -20365,7 +20365,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="51.8546270133761" lon="5.82360148429871">
-    <name>Weurt, brug over buitenhoofd Oostsluis</name>
+    <name>Brug over buitenhoofd Oostsluis Weurt</name>
     <desc>Locatie: Voorhaven Sluis Weurt, Maas-Waalkanaal
 Type:    Bedienbare Brug
 
@@ -20388,7 +20388,7 @@ Periode 31-12 tot 31-12:
    23:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/24080">
-      <text>Weurt, brug over buitenhoofd Oostsluis online info</text>
+      <text>Brug over buitenhoofd Oostsluis Weurt online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -20860,11 +20860,11 @@ Periode 01-01 tot 31-12:
     </extensions>
   </wpt>
   <wpt lat="53.2380645729926" lon="6.19433345284051">
-    <name>brug Gerkesklooster (Gerben Allesverlaat)</name>
+    <name>Brug Gerkesklooster (Gerben Allesverlaat)</name>
     <desc>Locatie: Strobosser Trekfeart
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/24579">
-      <text>brug Gerkesklooster (Gerben Allesverlaat) online info</text>
+      <text>Brug Gerkesklooster (Gerben Allesverlaat) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -21026,8 +21026,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/24814">
@@ -21295,11 +21295,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.9214814250998" lon="5.03790199756622">
-    <name>Stontelersluis, brug over buitenhoofd</name>
+    <name>Brug over buitenhoofd Stontelersluis</name>
     <desc>Locatie: Den Oeversche Vaart
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/25152">
-      <text>Stontelersluis, brug over buitenhoofd online info</text>
+      <text>Brug over buitenhoofd Stontelersluis online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -21319,7 +21319,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.928835760878" lon="7.01490435250884">
-    <name>Musselkanaal, brug</name>
+    <name>Brug Musselkanaal</name>
     <desc>Locatie: Musselkanaal
 Type:    Bedienbare Brug
 
@@ -21335,7 +21335,7 @@ Periode 01-10 tot 30-04:
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/25209">
-      <text>Musselkanaal, brug online info</text>
+      <text>Brug Musselkanaal online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -21383,11 +21383,11 @@ De oude Zeesluis en bijbehorende brug worden alleen bediend voor bijzondere situ
     </extensions>
   </wpt>
   <wpt lat="51.8516409895536" lon="5.87092697888643">
-    <name>Waalbrug, Nijmegen</name>
+    <name>Waalbrug Nijmegen</name>
     <desc>Locatie: Waal
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/25279">
-      <text>Waalbrug, Nijmegen online info</text>
+      <text>Waalbrug Nijmegen online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -21429,7 +21429,7 @@ Hoofdpost Sluis Peelo, telefoonnummer 0592 - 340560.</desc>
     </extensions>
   </wpt>
   <wpt lat="52.293846" lon="5.084485">
-    <name>Uitermeersluis, brug over bovenhoofd</name>
+    <name>Brug over bovenhoofd Uitermeersluis</name>
     <desc>Locatie: 's-Gravelandsevaart
 Type:    Bedienbare Brug
 
@@ -21440,7 +21440,7 @@ Periode 01-11 tot 31-03:
    09:00 - 10:00: Wo, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/25366">
-      <text>Uitermeersluis, brug over bovenhoofd online info</text>
+      <text>Brug over bovenhoofd Uitermeersluis online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -21531,8 +21531,8 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.51085233609" lon="4.94324051655597">
-    <name>Purmerend, brug over binnenhoofd</name>
+  <wpt lat="52.51090064290122" lon="4.943305850028991">
+    <name>Brug over binnenhoofd Sluisbrug Purmerend</name>
     <desc>Locatie: Noordhollandsch Kanaal
 Type:    Bedienbare Brug
 VHF:     20
@@ -21555,7 +21555,7 @@ Periode 16-10 tot 15-04:
 
 Note: Voor het Noordhollands kanaal geldt dat in geval van een groot aanbod van het wegverkeer, ongeacht het aanbod van de recreatievaart, het openen van de brug ten behoeve van de recreatievaart beperkt wordt tot eens per half uur.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/25507">
-      <text>Purmerend, brug over binnenhoofd online info</text>
+      <text>Brug over binnenhoofd Sluisbrug Purmerend online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -21709,7 +21709,7 @@ Note: Weerdsluis laatste schutting: 30 minuten van tevoren aanwezig zijn</desc>
     </extensions>
   </wpt>
   <wpt lat="53.2814955012854" lon="6.26801700058611">
-    <name>Pieterzijl, brug</name>
+    <name>Brug Pieterzijl</name>
     <desc>Locatie: Zijldiep
 Type:    Bedienbare Brug
 
@@ -21720,7 +21720,7 @@ Periode 01-10 tot 30-04:
    06:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/25682">
-      <text>Pieterzijl, brug online info</text>
+      <text>Brug Pieterzijl online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -22212,11 +22212,11 @@ Robbengatsluis: laatste schutting start uiterlijk een half uur voor einde bedien
     </extensions>
   </wpt>
   <wpt lat="52.2807242790527" lon="4.55281497994582">
-    <name>Veenenburg, brug</name>
+    <name>Veenenburg brug</name>
     <desc>Locatie: Veenenburger of Elsbbroekkanaal
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/26316">
-      <text>Veenenburg, brug online info</text>
+      <text>Veenenburg brug online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -22379,8 +22379,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/26465">
@@ -23270,10 +23270,10 @@ Periode 01-06 tot 31-08:
 Periode 01-09 tot 31-10:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
+   23:00 - 22:59: Zo, incl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
-Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
-Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
+Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/27249">
       <text>Rogsleatbrêge online info</text>
     </link>
@@ -23427,7 +23427,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.3261389947038" lon="5.98780010440716">
-    <name>Iebrege (Eebrug), Dokkum</name>
+    <name>Iebrege (Eebrug) Dokkum</name>
     <desc>Locatie: Dokkumer-Grootdiep
 Type:    Bedienbare Brug
 
@@ -23462,7 +23462,7 @@ Periode 01-11 tot 14-03:
 Note: 1 nov - 31 maart: Bediening op aanvraag via 058 -  29 25 888.  Optie 4 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 2e Paasdag bediening als op zondag.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/27444">
-      <text>Iebrege (Eebrug), Dokkum online info</text>
+      <text>Iebrege (Eebrug) Dokkum online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -23470,7 +23470,7 @@ Note: 1 nov - 31 maart: Bediening op aanvraag via 058 -  29 25 888.  Optie 4 (be
     </extensions>
   </wpt>
   <wpt lat="52.0234145583267" lon="5.04431101626885">
-    <name>Oranjebrug, IJsselstein</name>
+    <name>Oranjebrug IJsselstein</name>
     <desc>Locatie: Gekanaliseerde Hollandsche IJssel
 Type:    Bedienbare Brug
 
@@ -23491,7 +23491,7 @@ Periode 01-11 tot 31-03:
 Note: 1) Op tel. verzoek bediening voor de beroepsvaart. Aanvraag op voorafgaande werkdag tussen 9.00 uur en 16.00 uur. Tel. nr. Wilhelmina van Pruisenbrug en Hoenkoopsebrug: 06–22766026. De Wilhelmina van Pruisenbrug is een automatische fietsbrug, die normaliter in het zomerseizoen open staat voor de scheepvaart en in het winterseizoen en de vroege ochtend op afroep bediend wordt.
 Tel.nr. Oranjebrug en IJsselbrug: 06–54395937, aanvraag op voorafgaande werkdag tussen 9.00 uur en 16.00 uur.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/27449">
-      <text>Oranjebrug, IJsselstein online info</text>
+      <text>Oranjebrug IJsselstein online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -23535,7 +23535,7 @@ Periode 16-10 tot 15-04:
     </extensions>
   </wpt>
   <wpt lat="52.014589282488" lon="4.81071358527196">
-    <name>Goejanverwellesluis, brug over benedenhoofd</name>
+    <name>Brug over benedenhoofd Goejanverwellesluis</name>
     <desc>Locatie: Lange Weidsche Boezem
 Type:    Vaste Brug
 
@@ -23546,7 +23546,7 @@ Periode 01-11 tot 31-03:
    10:00 - 17:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/27465">
-      <text>Goejanverwellesluis, brug over benedenhoofd online info</text>
+      <text>Brug over benedenhoofd Goejanverwellesluis online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -23658,10 +23658,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -23831,11 +23831,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.3489719729046" lon="4.62867736816406">
-    <name>Kwakelbrug, Heemstede</name>
+    <name>Kwakelbrug Heemstede</name>
     <desc>Locatie: Heemsteedsch Kanaal
 Type:    Bedienbare Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/27785">
-      <text>Kwakelbrug, Heemstede online info</text>
+      <text>Kwakelbrug Heemstede online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -23867,7 +23867,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.9164837430677" lon="7.04716086387634">
-    <name>6e Verlaat, brug over benedenhoofd</name>
+    <name>Brug over benedenhoofd Verlaat 6 Jipsingboermussel</name>
     <desc>Locatie: Musselkanaal
 Type:    Bedienbare Brug
 
@@ -23883,7 +23883,7 @@ Periode 01-10 tot 30-04:
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/27877">
-      <text>6e Verlaat, brug over benedenhoofd online info</text>
+      <text>Brug over benedenhoofd Verlaat 6 Jipsingboermussel online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -23959,11 +23959,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.1431256473704" lon="7.12550383675072">
-    <name>Oudeschans, brug</name>
+    <name>Brug Oudeschans</name>
     <desc>Locatie: Westerwoldsche Aa
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/27976">
-      <text>Oudeschans, brug online info</text>
+      <text>Brug Oudeschans online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -24197,11 +24197,11 @@ Note: In dringende gevallen, na voorafgaand verzoek, kan gelegenheid tot doorvaa
     </extensions>
   </wpt>
   <wpt lat="52.2529193762865" lon="4.99322771703118">
-    <name>Baambrugge, ophaalbrug</name>
+    <name>Ophaalbrug Baambrugge</name>
     <desc>Locatie: Angstel
 Type:    Bedienbare Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/28135">
-      <text>Baambrugge, ophaalbrug online info</text>
+      <text>Ophaalbrug Baambrugge online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -24472,11 +24472,11 @@ Note: November t/m maart: Bediening op aanvraag via 058-2925888. Optie 4.(bereik
     </extensions>
   </wpt>
   <wpt lat="52.9836494346693" lon="5.73765390856127">
-    <name>Boornzwaag over de Wielen, brug in de Alde Wei</name>
+    <name>Brug in de Alde Wei Boornzwaag over de Wielen</name>
     <desc>Locatie: Fammens-Rakken
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/28296">
-      <text>Boornzwaag over de Wielen, brug in de Alde Wei online info</text>
+      <text>Brug in de Alde Wei Boornzwaag over de Wielen online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -24809,8 +24809,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/28592">
@@ -26473,7 +26473,7 @@ Note: 1 nov - 31 maart: Bediening op aanvraag via 058 -  29 25 888.  Optie 4 (be
     </extensions>
   </wpt>
   <wpt lat="52.9836971872518" lon="6.95771283391099">
-    <name>3e Verlaat, brug over benedenhoofd</name>
+    <name>Brug over benedenhoofd Verlaat 3 Stadskanaal</name>
     <desc>Locatie: Stadskanaal
 Type:    Bedienbare Brug
 
@@ -26489,7 +26489,7 @@ Periode 01-10 tot 30-04:
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/30807">
-      <text>3e Verlaat, brug over benedenhoofd online info</text>
+      <text>Brug over benedenhoofd Verlaat 3 Stadskanaal online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -27028,10 +27028,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -27356,10 +27356,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -28621,8 +28621,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/33165">
@@ -30005,7 +30005,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.0187333655945" lon="6.90694830479515">
-    <name>Stadskanaal, brug (2)</name>
+    <name>Brug 2 Stadskanaal</name>
     <desc>Locatie: Pekelerhoofddiep
 Type:    Bedienbare Brug
 
@@ -30021,7 +30021,7 @@ Note: Begeleide konvooivaart om 09:30 en 13:30 uur vanaf Oude Pekela bij de jach
 Bij vertrek om 13:30 uur vanaf Stadskanaal is het mogelijk de jachthaven in Oude Pekela te bereiken. In omgekeerde richting is het mogelijk Stadskanaal te bereiken.
 Na 16:30 uur vindt geen bediening meer plaats, zodat een ligplaats ingenomen dient te worden.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/34480">
-      <text>Stadskanaal, brug (2) online info</text>
+      <text>Brug 2 Stadskanaal online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -30521,8 +30521,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/34914">
@@ -31365,7 +31365,7 @@ De oude Zeesluis en bijbehorende brug worden alleen bediend voor bijzondere situ
     </extensions>
   </wpt>
   <wpt lat="53.0251991863929" lon="6.89279168844223">
-    <name>1e Verlaat, brug over benedenhoofd</name>
+    <name>Brug over benedenhoofd Verlaat 1 Stadskanaal</name>
     <desc>Locatie: Stadskanaal
 Type:    Bedienbare Brug
 
@@ -31381,7 +31381,7 @@ Periode 01-10 tot 30-04:
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/35987">
-      <text>1e Verlaat, brug over benedenhoofd online info</text>
+      <text>Brug over benedenhoofd Verlaat 1 Stadskanaal online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -32104,7 +32104,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.0077852850174" lon="6.92001536222358">
-    <name>brug over benedenhoofd 2e Verlaat</name>
+    <name>Brug over benedenhoofd Verlaat 2 Stadskanaal</name>
     <desc>Locatie: Stadskanaal
 Type:    Bedienbare Brug
 
@@ -32120,7 +32120,7 @@ Periode 01-10 tot 30-04:
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/37119">
-      <text>brug over benedenhoofd 2e Verlaat online info</text>
+      <text>Brug over benedenhoofd Verlaat 2 Stadskanaal online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -32294,8 +32294,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/37350">
@@ -32341,10 +32341,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -33805,8 +33805,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/39333">
@@ -33854,7 +33854,7 @@ Na 16:30 uur vindt geen bediening meer plaats, zodat een ligplaats ingenomen die
     </extensions>
   </wpt>
   <wpt lat="52.9375545177973" lon="7.00461030006409">
-    <name>5e Verlaat (voetbrug over benedenhoofd)</name>
+    <name>Voetbrug over benedenhoofd Verlaat 5 Musselkanaal</name>
     <desc>Locatie: Musselkanaal
 Type:    Bedienbare Brug
 
@@ -33870,7 +33870,7 @@ Periode 01-10 tot 30-04:
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/39456">
-      <text>5e Verlaat (voetbrug over benedenhoofd) online info</text>
+      <text>Voetbrug over benedenhoofd Verlaat 5 Musselkanaal online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -34772,10 +34772,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -34945,8 +34945,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/40623">
@@ -37119,7 +37119,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.0417791598325" lon="5.94758368443893">
-    <name>Warrebrug</name>
+    <name>Warrebrêge</name>
     <desc>Locatie: Ringvaart
 Type:    Bedienbare Brug
 VHF:     80
@@ -37132,12 +37132,12 @@ Periode 01-06 tot 31-08:
 Periode 01-09 tot 31-10:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
+   23:00 - 22:59: Zo, incl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
-Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
-Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
+Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43044">
-      <text>Warrebrug online info</text>
+      <text>Warrebrêge online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -37859,10 +37859,10 @@ Periode 01-06 tot 31-08:
 Periode 01-09 tot 31-10:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
+   23:00 - 22:59: Zo, incl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
-Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
-Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
+Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43854">
       <text>Tutsebrêge online info</text>
     </link>
@@ -38709,10 +38709,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -38873,10 +38873,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -39002,8 +39002,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/45431">
@@ -39209,10 +39209,10 @@ Periode 01-06 tot 31-08:
 Periode 01-09 tot 31-10:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
+   23:00 - 22:59: Zo, incl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
-Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
-Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
+Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/45538">
       <text>Jaansleatbrêge online info</text>
     </link>
@@ -41041,10 +41041,10 @@ Periode 01-06 tot 31-08:
 Periode 01-09 tot 31-10:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
+   23:00 - 22:59: Zo, incl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
-Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
-Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
+Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/46966">
       <text>Brêge Noarder Alde Wei online info</text>
     </link>
@@ -41948,8 +41948,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/48121">
@@ -42118,10 +42118,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -43148,7 +43148,7 @@ Periode 16-09 tot 15-05:
     </extensions>
   </wpt>
   <wpt lat="52.0731029518648" lon="5.11919284484647">
-    <name>Oranjebrug, Utrecht</name>
+    <name>Oranjebrug Utrecht</name>
     <desc>Locatie: Vaartsche Rijn
 Type:    Bedienbare Brug
 
@@ -43168,7 +43168,7 @@ Periode 01-11 tot 31-03:
 Note: Brugwachter bedient meerdere bruggen.
 Buiten de reguliere bedientijden kan bediening worden aangevraagd, 24 uur van tevoren op 030-2866824.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/49397">
-      <text>Oranjebrug, Utrecht online info</text>
+      <text>Oranjebrug Utrecht online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -43639,7 +43639,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.007338165219" lon="5.09652355249221">
-    <name>Oranjebrug, Vreeswijk</name>
+    <name>Oranjebrug Vreeswijk</name>
     <desc>Locatie: Oude Vaartsche Rijn
 Type:    Bedienbare Brug
 
@@ -43648,7 +43648,7 @@ Periode 01-04 tot 31-03:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/50098">
-      <text>Oranjebrug, Vreeswijk online info</text>
+      <text>Oranjebrug Vreeswijk online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -43743,10 +43743,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -44234,7 +44234,7 @@ Oudejaarsdag (31-12), de dag voor 1e Kerstdag (24-12) en Hemelvaartsdag sluiting
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.0399849636011" lon="5.4961601104791">
+  <wpt lat="53.04003450328557" lon="5.4961359500885">
     <name>Van Panhuysbrêge</name>
     <desc>Locatie: Van Panhuyskanaal
 Type:    Bedienbare Brug
@@ -44248,10 +44248,10 @@ Periode 01-06 tot 31-08:
 Periode 01-09 tot 31-10:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
+   23:00 - 22:59: Zo, incl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
-Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
-Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
+Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/50865">
       <text>Van Panhuysbrêge online info</text>
     </link>
@@ -45257,7 +45257,7 @@ Na 16:30 uur vindt geen bediening meer plaats, zodat een ligplaats ingenomen die
     </extensions>
   </wpt>
   <wpt lat="52.9160938182142" lon="7.0473029235052">
-    <name>6e Verlaat, brug over bovenhoofd</name>
+    <name>Brug over bovenhoofd Verlaat 6 Ter Apelkanaal</name>
     <desc>Locatie: Musselkanaal
 Type:    Bedienbare Brug
 
@@ -45273,7 +45273,7 @@ Periode 01-10 tot 30-04:
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/51897">
-      <text>6e Verlaat, brug over bovenhoofd online info</text>
+      <text>Brug over bovenhoofd Verlaat 6 Ter Apelkanaal online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -45426,10 +45426,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -45674,8 +45674,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/52279">
@@ -45711,7 +45711,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.997085878852" lon="6.9366867353449">
-    <name>Stationsbrug, Stadskanaal</name>
+    <name>Stationsbrug Stadskanaal</name>
     <desc>Locatie: Stadskanaal
 Type:    Bedienbare Brug
 
@@ -45727,7 +45727,7 @@ Periode 01-10 tot 30-04:
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/52432">
-      <text>Stationsbrug, Stadskanaal online info</text>
+      <text>Stationsbrug Stadskanaal online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -45759,7 +45759,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.0175897193444" lon="6.90501807982605">
-    <name>Stadskanaal, brug in de Scheepswerfstraat</name>
+    <name>Brug in de Scheepswerfstraat Stadskanaal</name>
     <desc>Locatie: Pekelerhoofddiep
 Type:    Bedienbare Brug
 
@@ -45775,7 +45775,7 @@ Note: Begeleide konvooivaart om 09:30 en 13:30 uur vanaf Oude Pekela bij de jach
 Bij vertrek om 13:30 uur vanaf Stadskanaal is het mogelijk de jachthaven in Oude Pekela te bereiken. In omgekeerde richting is het mogelijk Stadskanaal te bereiken.
 Na 16:30 uur vindt geen bediening meer plaats, zodat een ligplaats ingenomen dient te worden.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/52512">
-      <text>Stadskanaal, brug in de Scheepswerfstraat online info</text>
+      <text>Brug in de Scheepswerfstraat Stadskanaal online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -46459,7 +46459,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.9926245605455" lon="6.27932488918304">
-    <name>Nanningaverlaat, brug over bovenhoofd</name>
+    <name>Brug over bovenhoofd Nanningaverlaat</name>
     <desc>Locatie: Opsterlandse Compagnonsvaart
 Type:    Bedienbare Brug
 
@@ -46476,7 +46476,7 @@ Periode 16-09 tot 15-05:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/53546">
-      <text>Nanningaverlaat, brug over bovenhoofd online info</text>
+      <text>Brug over bovenhoofd Nanningaverlaat online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -47087,7 +47087,7 @@ Periode 01-11 tot 26-03:
     </extensions>
   </wpt>
   <wpt lat="53.0136219197491" lon="6.91087272764889">
-    <name>Boerveensemond, brug</name>
+    <name>Boerveensemondbrug Stadskanaal</name>
     <desc>Locatie: Stadskanaal
 Type:    Bedienbare Brug
 
@@ -47103,7 +47103,7 @@ Periode 01-10 tot 30-04:
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54300">
-      <text>Boerveensemond, brug online info</text>
+      <text>Boerveensemondbrug Stadskanaal online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -47813,8 +47813,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54815">
@@ -48027,8 +48027,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54983">
@@ -48671,11 +48671,11 @@ Kijk voor actuele informatie over bedientijden op https://www.zeeland.nl/sluizen
     </extensions>
   </wpt>
   <wpt lat="53.2844642835662" lon="6.71300053596497">
-    <name>Dijkshorn, brug</name>
+    <name>Brug Dijkshorn</name>
     <desc>Locatie: Damsterdiep
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/55867">
-      <text>Dijkshorn, brug online info</text>
+      <text>Brug Dijkshorn online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -48848,7 +48848,7 @@ Na 16:30 uur vindt geen bediening meer plaats, zodat een ligplaats ingenomen die
     </extensions>
   </wpt>
   <wpt lat="53.0539613717072" lon="5.44276261318416">
-    <name>Kakeshoek, brug</name>
+    <name>Brug Kakeshoek</name>
     <desc>Locatie: Makkumervaart
 Type:    Bedienbare Brug
 
@@ -48869,7 +48869,7 @@ Periode 01-11 tot 31-03:
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/55956">
-      <text>Kakeshoek, brug online info</text>
+      <text>Brug Kakeshoek online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -48877,7 +48877,7 @@ Periode 01-11 tot 31-03:
     </extensions>
   </wpt>
   <wpt lat="52.0817780568904" lon="5.10501354932785">
-    <name>Nelson Mandelabrug, Utrecht</name>
+    <name>Nelson Mandelabrug Utrecht</name>
     <desc>Locatie: Merwedekanaal (benoorden de Lek)
 Type:    Bedienbare Brug
 
@@ -48888,7 +48888,7 @@ Periode 01-04 tot 31-03:
    12:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/55985">
-      <text>Nelson Mandelabrug, Utrecht online info</text>
+      <text>Nelson Mandelabrug Utrecht online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -49070,7 +49070,7 @@ Note: Opening tussen 6:00 en 20:30 uur. Opening aanvragen bij: Treindienstleidin
     </extensions>
   </wpt>
   <wpt lat="53.0339378489929" lon="6.87896962007507">
-    <name>Stadskanaal, brug</name>
+    <name>Brug 1 Stadskanaal</name>
     <desc>Locatie: Stadskanaal
 Type:    Bedienbare Brug
 
@@ -49086,7 +49086,7 @@ Periode 01-10 tot 30-04:
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/56087">
-      <text>Stadskanaal, brug online info</text>
+      <text>Brug 1 Stadskanaal online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -49094,11 +49094,11 @@ Periode 01-10 tot 30-04:
     </extensions>
   </wpt>
   <wpt lat="52.3460975922517" lon="4.88142787769852">
-    <name>Amsterdam, brug in de Diepenbrockstraat.</name>
+    <name>Brug in de Diepenbrockstraat Amsterdam</name>
     <desc>Locatie: Zuideramstelkanaal
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/56106">
-      <text>Amsterdam, brug in de Diepenbrockstraat. online info</text>
+      <text>Brug in de Diepenbrockstraat Amsterdam online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -49176,7 +49176,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.2348518026525" lon="6.73879563080163">
-    <name>Schaaphok, brug</name>
+    <name>Schaaphokbrug</name>
     <desc>Locatie: Slochterdiep
 Type:    Bedienbare Brug
 
@@ -49188,7 +49188,7 @@ Periode 01-10 tot 30-04:
 
 Note: Zelfbediening met behulp van een sleutel.  Deze is tegen een waarborgsom te verkrijgen en in te leveren bij de centrale bedieningspost bij de Groevesluis-Zuid en de Slochtersluis.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/56249">
-      <text>Schaaphok, brug online info</text>
+      <text>Schaaphokbrug online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -49291,11 +49291,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.2089297874092" lon="5.55282590861604">
-    <name>Dongjum, brug in de weg Dongjum-Ried</name>
+    <name>Brug in de weg Dongjum-Ried</name>
     <desc>Locatie: Ried
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/56340">
-      <text>Dongjum, brug in de weg Dongjum-Ried online info</text>
+      <text>Brug in de weg Dongjum-Ried online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -49413,7 +49413,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.2182750641541" lon="5.12203372208097">
-    <name>Raaisluis, brug over binnenhoofd</name>
+    <name>Brug over binnenhoofd Raaisluis</name>
     <desc>Locatie: 's-Gravelandsevaart
 Type:    Bedienbare Brug
 
@@ -49425,7 +49425,7 @@ Periode 01-10 tot 31-03:
 
 Note: Zelfbedieningssluis.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/56545">
-      <text>Raaisluis, brug over binnenhoofd online info</text>
+      <text>Brug over binnenhoofd Raaisluis online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -49931,10 +49931,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -49996,7 +49996,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.8433366088415" lon="5.71526900047802">
-    <name>Riensluis, brug over binnenhoofd</name>
+    <name>Brug over binnenhoofd Riensluis</name>
     <desc>Locatie: Vluchthaven te Lemmer
 Type:    Bedienbare Brug
 
@@ -50011,7 +50011,7 @@ Periode 01-09 tot 30-04:
 
 Note: Alleen op afroep via 0514 - 56 13 31 of VHF 22, minimaal 1 uur vooraf aanvragen.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/57153">
-      <text>Riensluis, brug over binnenhoofd online info</text>
+      <text>Brug over binnenhoofd Riensluis online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -50118,11 +50118,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.3439734131779" lon="4.86798020065995">
-    <name>Amsterdam, brug in de Parnassusweg</name>
+    <name>Brug in de Parnassusweg Amsterdam</name>
     <desc>Locatie: Zuideramstelkanaal
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/57339">
-      <text>Amsterdam, brug in de Parnassusweg online info</text>
+      <text>Brug in de Parnassusweg Amsterdam online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -50130,7 +50130,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="51.8943021710844" lon="4.22836303710938">
-    <name>Rozenburgsesluis, brug over buitenhoofd</name>
+    <name>Brug over buitenhoofd Rozenburgsesluis</name>
     <desc>Locatie: Voorhaven noordzijde Rozenburgsesluis, Calandkanaal
 Type:    Bedienbare Brug
 VHF:     22
@@ -50142,7 +50142,7 @@ Periode 01-01 tot 31-12:
 Note: Verzoekregeling waarbij scheepvaart voorrang heeft op het treinverkeer.
 Calandbrug, 20 minuten vóór de verwachte passagetijd  een verzoek tot opening doorgegeven aan de brugwachter (VHF 22).</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/57361">
-      <text>Rozenburgsesluis, brug over buitenhoofd online info</text>
+      <text>Brug over buitenhoofd Rozenburgsesluis online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -50150,11 +50150,11 @@ Calandbrug, 20 minuten vóór de verwachte passagetijd  een verzoek tot opening 
     </extensions>
   </wpt>
   <wpt lat="51.2731064035379" lon="5.75121134519577">
-    <name>Sluis 15, brug over benedenhoofd</name>
+    <name>Brug over benedenhoofd Sluis 15</name>
     <desc>Locatie: Zuid-Willemsvaart
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/57385">
-      <text>Sluis 15, brug over benedenhoofd online info</text>
+      <text>Brug over benedenhoofd Sluis 15 online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -50174,11 +50174,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.2874015023941" lon="6.32388318837407">
-    <name>Kommerzijl, brug</name>
+    <name>Brug Kommerzijl</name>
     <desc>Locatie: Kommerzijlsterdiep
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/57437">
-      <text>Kommerzijl, brug online info</text>
+      <text>Brug Kommerzijl online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -50198,7 +50198,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.3805997269484" lon="4.75281541352974">
-    <name>Halfweg, brug</name>
+    <name>Brug Halfweg</name>
     <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (noordelijk gedeelte)
 Type:    Bedienbare Brug
 
@@ -50216,7 +50216,7 @@ Periode 01-11 tot 31-03:
 
 Note: In dringende gevallen, na voorafgaand verzoek, kan gelegenheid tot doorvaart worden gegeven buiten de vastgestelde bedieningstijden.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/57520">
-      <text>Halfweg, brug online info</text>
+      <text>Brug Halfweg online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -50251,11 +50251,11 @@ Periode 01-11 tot 31-03:
     </extensions>
   </wpt>
   <wpt lat="51.0365495679554" lon="5.79775084898229">
-    <name>Born, brug over benedenhoofd</name>
+    <name>Brug over benedenhoofd Born</name>
     <desc>Locatie: Julianakanaal
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/57557">
-      <text>Born, brug over benedenhoofd online info</text>
+      <text>Brug over benedenhoofd Born online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -50297,7 +50297,7 @@ Hoofdpost Stieltjeskanaalsluis, telefoonnummer 0591-551849.</desc>
     </extensions>
   </wpt>
   <wpt lat="52.8359369249254" lon="5.93245625495911">
-    <name>Mr H.P. Linthorst Homansluis, brug over sluis</name>
+    <name>Mr H.P. Linthorst Homansluis (brug over sluis)</name>
     <desc>Locatie: Linde
 Type:    Bedienbare Brug
 VHF:     18
@@ -50313,7 +50313,7 @@ Periode 01-11 tot 31-03:
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/57600">
-      <text>Mr H.P. Linthorst Homansluis, brug over sluis online info</text>
+      <text>Mr H.P. Linthorst Homansluis (brug over sluis) online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -50321,7 +50321,7 @@ Periode 01-11 tot 31-03:
     </extensions>
   </wpt>
   <wpt lat="52.9453011895725" lon="6.40421802233807">
-    <name>Damsluis, brug over bovenhoofd</name>
+    <name>Brug over bovenhoofd Damsluis</name>
     <desc>Locatie: Witte Wijk
 Type:    Bedienbare Brug
 
@@ -50338,7 +50338,7 @@ Periode 16-09 tot 15-05:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/57618">
-      <text>Damsluis, brug over bovenhoofd online info</text>
+      <text>Brug over bovenhoofd Damsluis online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -50369,11 +50369,11 @@ Note: Alleen op afroep tijdens kantooruren, tel. 0181-471111 of 0653-136235. Bij
     </extensions>
   </wpt>
   <wpt lat="52.3444646201068" lon="4.87275872304153">
-    <name>Amsterdam, brug in Minervalaan</name>
+    <name>Brug in Minervalaan Amsterdam</name>
     <desc>Locatie: Zuideramstelkanaal
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/57664">
-      <text>Amsterdam, brug in Minervalaan online info</text>
+      <text>Brug in Minervalaan Amsterdam online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -50512,7 +50512,7 @@ Periode 01-01 tot 31-12:
     </extensions>
   </wpt>
   <wpt lat="53.1756597341235" lon="5.4208977520193">
-    <name>Grote Sluis, Harlingen, brug over binnenhoofd</name>
+    <name>Brug over binnenhoofd Grote Sluis Harlingen</name>
     <desc>Locatie: Noorderhaven
 Type:    Bedienbare Brug
 
@@ -50528,7 +50528,7 @@ Bediening op aanvraag via 06 - 53 75 25 87.
 01 november t/m 31 maart: 
 Geen bediening.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/57873">
-      <text>Grote Sluis, Harlingen, brug over binnenhoofd online info</text>
+      <text>Brug over binnenhoofd Grote Sluis Harlingen online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -50627,11 +50627,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.3937092639832" lon="5.25069515389404">
-    <name>Almere, brug in de Busbaan</name>
+    <name>Brug 1 in de busbaan Almere</name>
     <desc>Locatie: Lage Vaart
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/57976">
-      <text>Almere, brug in de Busbaan online info</text>
+      <text>Brug 1 in de busbaan Almere online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -50663,7 +50663,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.2040680266351" lon="4.8687581739582">
-    <name>Hefbrug, Rondweg</name>
+    <name>Hefbrug Rondweg</name>
     <desc>Locatie: Ringvaart Groot-Mijdrecht
 Type:    Bedienbare Brug
 
@@ -50684,7 +50684,7 @@ Periode 16-10 tot 15-04:
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/58071">
-      <text>Hefbrug, Rondweg online info</text>
+      <text>Hefbrug Rondweg online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -50692,7 +50692,7 @@ Periode 16-10 tot 15-04:
     </extensions>
   </wpt>
   <wpt lat="51.4983855349266" lon="5.2064748108387">
-    <name>Sluis IV, brug over benedenhoofd</name>
+    <name>Brug over benedenhoofd Sluis IV</name>
     <desc>Locatie: Wilhelminakanaal
 Type:    Bedienbare Brug
 
@@ -50713,10 +50713,10 @@ Periode 03-01 tot 31-03:
    13:00 - 22:59: Za, excl. feestdagen.
 Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
-   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 04:59: Ma, excl. feestdagen.
-   23:00 - 07:59: Zo, excl. feestdagen.
+   23:00 - 14:59: Za, excl. feestdagen.
    23:00 - 07:59: incl. feestdagen.
+   23:00 - 07:59: Zo, excl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
    08:00 - 15:59: Zo, excl. feestdagen.
    08:00 - 14:59: incl. feestdagen.
@@ -50746,7 +50746,7 @@ Periode 28-12 tot 31-12:
 
 Note: Volledig bediend vanuit Bediencentrale Tilburg. Op overige tijden op aanvraag bij Bediencentrale Tilburg (088-7974825).</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/58110">
-      <text>Sluis IV, brug over benedenhoofd online info</text>
+      <text>Brug over benedenhoofd Sluis IV online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -50778,7 +50778,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.320588556801" lon="6.9405135512352">
-    <name>Farmsum, brug over buitenhoofd zeesluis</name>
+    <name>Brug over buitenhoofd Zeesluis Farmsum</name>
     <desc>Locatie: Eemskanaal
 Type:    Bedienbare Brug
 VHF:     60
@@ -50788,7 +50788,7 @@ Periode 01-01 tot 31-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/58191">
-      <text>Farmsum, brug over buitenhoofd zeesluis online info</text>
+      <text>Brug over buitenhoofd Zeesluis Farmsum online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -50796,7 +50796,7 @@ Periode 01-01 tot 31-12:
     </extensions>
   </wpt>
   <wpt lat="52.0089884416684" lon="4.73157323897794">
-    <name>Waaiersluis, brug over sluiskolk</name>
+    <name>Brug over sluiskolk Waaiersluis</name>
     <desc>Locatie: Gekanaliseerde Hollandsche IJssel
 Type:    Bedienbare Brug
 
@@ -50812,7 +50812,7 @@ Periode 01-11 tot 31-03:
 
 Note: Wanneer 1e paasdag valt voor 1 april, dan geldt Goede Vrijdag als start van het zomerseizoen (1 april-1 nov.). Op 24 en 31 december, vallende op een werkdag, wordt bediend tot 18 h. Goede vrijdag en Hemelvaartsdag worden niet gezien als feestdag; Koningsdag en Bevrijdingsdag worden niet gezien als feestdag, tenzij vallend op een zondag.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/58212">
-      <text>Waaiersluis, brug over sluiskolk online info</text>
+      <text>Brug over sluiskolk Waaiersluis online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -50859,7 +50859,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.3004783420798" lon="7.03548147893399">
-    <name>Termunterzijl, brug</name>
+    <name>Brug Termunterzijl</name>
     <desc>Locatie: Binnenhaven te Termunten
 Type:    Bedienbare Brug
 
@@ -50875,7 +50875,7 @@ Periode 01-10 tot 31-03:
 
 Note: Bediening is afhankelijk van het getij en diepgang.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/58289">
-      <text>Termunterzijl, brug online info</text>
+      <text>Brug Termunterzijl online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -50883,11 +50883,11 @@ Note: Bediening is afhankelijk van het getij en diepgang.</desc>
     </extensions>
   </wpt>
   <wpt lat="52.8465908479011" lon="5.97760319709778">
-    <name>Sasbrug, Wolvega</name>
+    <name>Sasbrug Wolvega</name>
     <desc>Locatie: Boven Linde, Het Wijde
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/58292">
-      <text>Sasbrug, Wolvega online info</text>
+      <text>Sasbrug Wolvega online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -50936,7 +50936,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.0307673029905" lon="6.16108775138855">
-    <name>Verlaat Nr. IV (voetbrug over benedenhoofd)</name>
+    <name>Voetbrug over benedenhoofd Verlaat 4 Wijnjewoude</name>
     <desc>Locatie: Opsterlandse Compagnonsvaart
 Type:    Bedienbare Brug
 
@@ -50953,7 +50953,7 @@ Periode 16-09 tot 15-05:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/58343">
-      <text>Verlaat Nr. IV (voetbrug over benedenhoofd) online info</text>
+      <text>Voetbrug over benedenhoofd Verlaat 4 Wijnjewoude online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -51072,11 +51072,11 @@ Hoofdpost Nieuwe Brugsluis, telefoonnummer 0528 - 265560.</desc>
     </extensions>
   </wpt>
   <wpt lat="52.1711361879979" lon="4.99355690762441">
-    <name>Breukelen, brug in Amerlandseweg</name>
+    <name>Brug in Amerlandseweg Breukelen</name>
     <desc>Locatie: Kerkvaart
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/58582">
-      <text>Breukelen, brug in Amerlandseweg online info</text>
+      <text>Brug in Amerlandseweg Breukelen online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -51659,11 +51659,11 @@ Bediening vanaf CP Gaarkeuken.</desc>
     </extensions>
   </wpt>
   <wpt lat="52.4897764652884" lon="6.06176576174727">
-    <name>Hanzeboog, spoorbug</name>
+    <name>Hanzeboog (spoorbrug)</name>
     <desc>Locatie: Geldersche IJssel
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/741237">
-      <text>Hanzeboog, spoorbug online info</text>
+      <text>Hanzeboog (spoorbrug) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -51671,11 +51671,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.3687795170977" lon="4.88671138905153">
-    <name>Brug 26, Wijde heisteeg</name>
+    <name>Brug 26 (Wijde Heisteeg)</name>
     <desc>Locatie: Herengracht
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/1021200">
-      <text>Brug 26, Wijde heisteeg online info</text>
+      <text>Brug 26 (Wijde Heisteeg) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -51683,11 +51683,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.3668013943135" lon="4.88819979607873">
-    <name>Brug 29, Koningssluis</name>
+    <name>Brug 29 (Koningssluis)</name>
     <desc>Locatie: Herengracht
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/1021203">
-      <text>Brug 29, Koningssluis online info</text>
+      <text>Brug 29 (Koningssluis) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -51719,11 +51719,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.3672892211111" lon="4.88965752787683">
-    <name>Brug 2, Heiligesluis</name>
+    <name>Brug 2 (Heiligesluis)</name>
     <desc>Locatie: Singel
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/1021212">
-      <text>Brug 2, Heiligesluis online info</text>
+      <text>Brug 2 (Heiligesluis) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -51841,11 +51841,11 @@ Note: De brug wordt lokaal bediend en dient 24 uur van te voren aangevraagd te w
     </extensions>
   </wpt>
   <wpt lat="52.3771766185263" lon="4.90210006770438">
-    <name>Brug 285, Kamperbrug</name>
+    <name>Brug 285 (Kamperbrug)</name>
     <desc>Locatie: Open Havenfront
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/1021565">
-      <text>Brug 285, Kamperbrug online info</text>
+      <text>Brug 285 (Kamperbrug) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -52184,11 +52184,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.3856725338819" lon="4.881416610469">
-    <name>brug 152, Mirakelbrug</name>
+    <name>Brug 152 (Mirakelbrug)</name>
     <desc>Locatie: Haarlemertrekvaart
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/1022218">
-      <text>brug 152, Mirakelbrug online info</text>
+      <text>Brug 152 (Mirakelbrug) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -54044,10 +54044,10 @@ Periode 01-06 tot 31-08:
 Periode 01-09 tot 31-10:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
+   23:00 - 22:59: Zo, incl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
-Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
-Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
+Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/10978211">
       <text>Gallebrêge online info</text>
     </link>
@@ -54796,7 +54796,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.6572715752799" lon="4.80042366361886">
-    <name>Nelson Mandelabrug, Alkmaar</name>
+    <name>Nelson Mandelabrug Alkmaar</name>
     <desc>Locatie: Kanaal Alkmaar (Omval) - Kolhorn
 Type:    Bedienbare Brug
 VHF:     20
@@ -54820,7 +54820,7 @@ Periode 01-11 tot 31-03:
 
 Note: Bediening op afstand vanaf de Tesselsebrug.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/18187355">
-      <text>Nelson Mandelabrug, Alkmaar online info</text>
+      <text>Nelson Mandelabrug Alkmaar online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -56030,8 +56030,8 @@ Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen.
    23:00 - 21:00: Za, excl. feestdagen.
-   05:00 - 21:00: incl. feestdagen.
    05:00 - 21:00: Zo, excl. feestdagen.
+   05:00 - 21:00: incl. feestdagen.
    05:00 - 22:59: Ma, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/20264259">
@@ -57079,7 +57079,7 @@ Type:    Vaste Brug</desc>
   </wpt>
   <wpt lat="53.1508033240421" lon="5.8353441953659">
     <name>Palmabrêge</name>
-    <desc>Locatie: Wergeasterfeart
+    <desc>Locatie: Nije Waring
 Type:    Bedienbare Brug
 VHF:     80
 
@@ -57091,10 +57091,10 @@ Periode 01-06 tot 31-08:
 Periode 01-09 tot 31-10:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 01-11 tot 31-03:
+   23:00 - 22:59: Zo, incl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
-Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
-Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
+Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/26158138">
       <text>Palmabrêge online info</text>
     </link>
