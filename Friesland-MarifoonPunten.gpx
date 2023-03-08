@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-03-07T06:53:32.852000Z</time>
+    <time>2023-03-07T18:43:01.630000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -1335,6 +1335,32 @@ VHF:          78
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/25126">
       <text>Meldpunt Hunsingobrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.198538974457" lon="5.76719671390832">
+    <name>Meldpunt Pylkwiersterbrege</name>
+    <desc>Naam:         Meldpunt Pylkwiersterbrege
+VHF:          80
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/10517">
+      <text>Meldpunt Pylkwiersterbrege online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.3016545143219" lon="6.14250535263915">
+    <name>Meldpunt Zijlsterrydbrug</name>
+    <desc>Naam:         Meldpunt Zijlsterrydbrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/34724">
+      <text>Meldpunt Zijlsterrydbrug online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>

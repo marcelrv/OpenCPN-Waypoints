@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-03-07T06:53:32.852000Z</time>
+    <time>2023-03-07T18:43:01.630000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -822,11 +822,11 @@ Periode 01-01 tot 01-01:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -834,29 +834,29 @@ Periode 10-04 tot 10-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 30-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-05 tot 04-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -864,14 +864,14 @@ Periode 29-05 tot 29-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 30-09:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-10 tot 31-10:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 25-12 tot 25-12:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -879,8 +879,8 @@ Periode 26-12 tot 26-12:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/1784">
       <text>Wittelterbrug online info</text>
@@ -2303,47 +2303,47 @@ Bedieningstijden
 Periode 01-01 tot 01-01:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 10-04 tot 10-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 04-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 29-05 tot 29-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 31-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 25-12 tot 25-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 26-12 tot 26-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
@@ -3421,47 +3421,47 @@ Bedieningstijden
 Periode 01-01 tot 01-01:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 10-04 tot 10-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 04-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 29-05 tot 29-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 31-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 25-12 tot 25-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 26-12 tot 26-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
@@ -3613,103 +3613,56 @@ Periode 27-12 tot 31-12:
     <name>Pylkwiersterbrege</name>
     <desc>Locatie: Nauwe Greuns
 Type:    Bedienbare Brug
+VHF:     80
 
 Bedieningstijden
 Periode 01-01 tot 01-01:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   12:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
+   08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 11:00: Za, Zo, incl. feestdagen.
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   12:00 - 15:15: Za, Zo, incl. feestdagen.
-   16:15 - 18:00: Za, Zo, incl. feestdagen.
-   17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 15:15: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   16:15 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 10-04 tot 10-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 15:15: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   16:15 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 11:00: Za, Zo, incl. feestdagen.
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   12:00 - 15:15: Za, Zo, incl. feestdagen.
-   16:15 - 18:00: Za, Zo, incl. feestdagen.
-   17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 15:15: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   16:15 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 04-05:
-   08:00 - 11:00: Za, Zo, incl. feestdagen.
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   12:00 - 15:15: Za, Zo, incl. feestdagen.
-   16:15 - 18:00: Za, Zo, incl. feestdagen.
-   17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 15:15: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   16:15 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 11:00: Za, Zo, incl. feestdagen.
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   12:00 - 15:15: Za, Zo, incl. feestdagen.
-   16:15 - 18:00: Za, Zo, incl. feestdagen.
-   17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 15:15: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   16:15 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 11:00: Za, Zo, incl. feestdagen.
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   12:00 - 15:15: Za, Zo, incl. feestdagen.
-   16:15 - 18:00: Za, Zo, incl. feestdagen.
-   17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 15:15: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   16:15 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 29-05 tot 29-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 15:15: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   16:15 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 31-05:
-   08:00 - 11:00: Za, Zo, incl. feestdagen.
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   12:00 - 15:15: Za, Zo, incl. feestdagen.
-   16:15 - 18:00: Za, Zo, incl. feestdagen.
-   17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   08:00 - 11:00: Za, Zo, incl. feestdagen.
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   12:00 - 15:15: Za, Zo, incl. feestdagen.
-   16:15 - 19:00: Za, Zo, incl. feestdagen.
-   17:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   08:00 - 11:00: Za, Zo, incl. feestdagen.
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   12:00 - 15:15: Za, Zo, incl. feestdagen.
-   16:15 - 18:00: Za, Zo, incl. feestdagen.
-   17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   12:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
+   08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 25-12 tot 25-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 26-12 tot 26-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
-   12:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
+   08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
-Note: Bediening op afstand vanaf Greunsbrug.
-1 januari, 1e en 2e Kerstdag alle objecten gesloten.
-2e Paasdag en 2e Pinksterdag bediening als op zondag.
-Oudejaarsdag (31-12), de dag voor 1e Kerstdag (24-12) sluiting als zaterdag avond, behalve als dit op zondag valt.
-Koningsdag heeft geen afwijkende bedieningstijden.
-Hemelvaartsdag is bediening als op donderdag.</desc>
+Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/10517">
       <text>Pylkwiersterbrege online info</text>
     </link>
@@ -5322,11 +5275,13 @@ VHF:     80
 Bedieningstijden
 Periode 01-01 tot 01-01:
 Periode 02-01 tot 31-03:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   06:00 - 08:00: Za, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -5334,26 +5289,26 @@ Periode 10-04 tot 10-04:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 04-05:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -5361,22 +5316,26 @@ Periode 29-05 tot 29-05:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 31-05:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   06:00 - 08:00: Za, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 25-12 tot 25-12:
 Periode 26-12 tot 26-12:
 Periode 27-12 tot 31-12:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   06:00 - 08:00: Za, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
 Voor de periodes van 1 november t/m 31 maart 9-17 uur: Geen afroep nodig.
@@ -5631,11 +5590,11 @@ Periode 01-01 tot 01-01:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -5643,29 +5602,29 @@ Periode 10-04 tot 10-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 30-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-05 tot 04-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -5673,14 +5632,14 @@ Periode 29-05 tot 29-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 30-09:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-10 tot 31-10:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 25-12 tot 25-12:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -5688,8 +5647,8 @@ Periode 26-12 tot 26-12:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/15273">
       <text>2e Uffelterbrug online info</text>
@@ -9428,47 +9387,47 @@ Bedieningstijden
 Periode 01-01 tot 01-01:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 10-04 tot 10-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 04-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 29-05 tot 29-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 31-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 25-12 tot 25-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 26-12 tot 26-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
@@ -10194,11 +10153,11 @@ Periode 01-01 tot 01-01:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -10206,29 +10165,29 @@ Periode 10-04 tot 10-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 30-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-05 tot 04-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -10236,14 +10195,14 @@ Periode 29-05 tot 29-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 30-09:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-10 tot 31-10:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 25-12 tot 25-12:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -10251,8 +10210,8 @@ Periode 26-12 tot 26-12:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/28116">
       <text>Geeuwenbrug online info</text>
@@ -10601,11 +10560,11 @@ Periode 01-01 tot 01-01:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -10613,29 +10572,29 @@ Periode 10-04 tot 10-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 30-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-05 tot 04-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -10643,14 +10602,14 @@ Periode 29-05 tot 29-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 30-09:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-10 tot 31-10:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 25-12 tot 25-12:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -10658,8 +10617,8 @@ Periode 26-12 tot 26-12:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/28674">
       <text>Oldendieverbrug online info</text>
@@ -12315,6 +12274,7 @@ Periode 27-12 tot 31-12:
     <name>Zijlsterrydbrug</name>
     <desc>Locatie: Sylster Ryd
 Type:    Bedienbare Brug
+VHF:     20
 
 Bedieningstijden
 Periode 01-01 tot 01-01:
@@ -14127,11 +14087,11 @@ Periode 01-01 tot 01-01:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -14139,29 +14099,29 @@ Periode 10-04 tot 10-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 30-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-05 tot 04-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -14169,14 +14129,14 @@ Periode 29-05 tot 29-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 30-09:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-10 tot 31-10:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 25-12 tot 25-12:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -14184,8 +14144,8 @@ Periode 26-12 tot 26-12:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42577">
       <text>1e Uffelterbrug online info</text>
@@ -14241,47 +14201,47 @@ Bedieningstijden
 Periode 01-01 tot 01-01:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 10-04 tot 10-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 04-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 29-05 tot 29-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 31-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 25-12 tot 25-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 26-12 tot 26-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
@@ -14436,47 +14396,47 @@ Bedieningstijden
 Periode 01-01 tot 01-01:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 10-04 tot 10-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 04-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 29-05 tot 29-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 31-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 25-12 tot 25-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 26-12 tot 26-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
@@ -14648,47 +14608,47 @@ Bedieningstijden
 Periode 01-01 tot 01-01:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 10-04 tot 10-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 04-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 29-05 tot 29-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 31-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 25-12 tot 25-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 26-12 tot 26-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
@@ -15267,47 +15227,47 @@ Bedieningstijden
 Periode 01-01 tot 01-01:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 10-04 tot 10-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 04-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 29-05 tot 29-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 31-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 25-12 tot 25-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 26-12 tot 26-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
@@ -16360,47 +16320,47 @@ Bedieningstijden
 Periode 01-01 tot 01-01:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 10-04 tot 10-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 04-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 29-05 tot 29-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 31-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 25-12 tot 25-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 26-12 tot 26-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
@@ -16483,11 +16443,11 @@ Periode 01-01 tot 01-01:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -16495,29 +16455,29 @@ Periode 10-04 tot 10-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 30-04:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-05 tot 04-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -16525,14 +16485,14 @@ Periode 29-05 tot 29-05:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 30-09:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-10 tot 31-10:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 25-12 tot 25-12:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -16540,8 +16500,8 @@ Periode 26-12 tot 26-12:
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   12:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/51685">
       <text>Dieverbrug online info</text>
@@ -16893,11 +16853,13 @@ VHF:     80
 Bedieningstijden
 Periode 01-01 tot 01-01:
 Periode 02-01 tot 31-03:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   06:00 - 08:00: Za, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -16905,26 +16867,26 @@ Periode 10-04 tot 10-04:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 04-05:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -16932,22 +16894,26 @@ Periode 29-05 tot 29-05:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 31-05:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   06:00 - 08:00: Za, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 25-12 tot 25-12:
 Periode 26-12 tot 26-12:
 Periode 27-12 tot 31-12:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   06:00 - 08:00: Za, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
 Voor de periodes van 1 november t/m 31 maart 9-17 uur: Geen afroep nodig.
@@ -17846,8 +17812,8 @@ Periode 15-03 tot 31-03:
    08:00 - 09:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
    13:00 - 14:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 09:00: Vr, Za, excl. feestdagen.
    08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen.
+   08:00 - 09:00: Vr, Za, excl. feestdagen.
    13:00 - 15:00: Vr, excl. feestdagen.
    13:00 - 15:00: Ma, Di, Wo, Do, excl. feestdagen.
    16:30 - 17:30: Vr, excl. feestdagen.
@@ -17858,8 +17824,8 @@ Periode 09-04 tot 09-04:
 Periode 10-04 tot 10-04:
    17:30 - 18:15: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 09:00: Vr, Za, excl. feestdagen.
    08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen.
+   08:00 - 09:00: Vr, Za, excl. feestdagen.
    13:00 - 15:00: Vr, excl. feestdagen.
    13:00 - 15:00: Ma, Di, Wo, Do, excl. feestdagen.
    16:30 - 17:30: Vr, excl. feestdagen.
@@ -17868,8 +17834,8 @@ Periode 11-04 tot 26-04:
 Periode 27-04 tot 27-04:
    17:30 - 18:15: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 04-05:
-   08:00 - 09:00: Vr, Za, excl. feestdagen.
    08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen.
+   08:00 - 09:00: Vr, Za, excl. feestdagen.
    13:00 - 15:00: Vr, excl. feestdagen.
    13:00 - 15:00: Ma, Di, Wo, Do, excl. feestdagen.
    16:30 - 17:30: Vr, excl. feestdagen.
@@ -17878,8 +17844,8 @@ Periode 28-04 tot 04-05:
 Periode 05-05 tot 05-05:
    17:30 - 18:15: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 09:00: Vr, Za, excl. feestdagen.
    08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen.
+   08:00 - 09:00: Vr, Za, excl. feestdagen.
    13:00 - 15:00: Vr, excl. feestdagen.
    13:00 - 15:00: Ma, Di, Wo, Do, excl. feestdagen.
    16:30 - 17:30: Vr, excl. feestdagen.
@@ -17888,8 +17854,8 @@ Periode 06-05 tot 17-05:
 Periode 18-05 tot 18-05:
    17:30 - 18:15: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 09:00: Vr, Za, excl. feestdagen.
    08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen.
+   08:00 - 09:00: Vr, Za, excl. feestdagen.
    13:00 - 15:00: Vr, excl. feestdagen.
    13:00 - 15:00: Ma, Di, Wo, Do, excl. feestdagen.
    16:30 - 17:30: Vr, excl. feestdagen.
@@ -17900,16 +17866,16 @@ Periode 28-05 tot 28-05:
 Periode 29-05 tot 29-05:
    18:45 - 19:15: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 31-05:
-   08:00 - 09:00: Vr, Za, excl. feestdagen.
    08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen.
+   08:00 - 09:00: Vr, Za, excl. feestdagen.
    13:00 - 15:00: Vr, excl. feestdagen.
    13:00 - 15:00: Ma, Di, Wo, Do, excl. feestdagen.
    16:30 - 17:30: Vr, excl. feestdagen.
    16:30 - 17:30: Ma, Di, Wo, Do, excl. feestdagen.
    17:30 - 18:15: Zo, incl. feestdagen.
 Periode 01-06 tot 31-08:
-   08:00 - 09:00: Vr, Za, excl. feestdagen.
    08:00 - 09:00: Ma, Di, Wo, excl. feestdagen.
+   08:00 - 09:00: Vr, Za, excl. feestdagen.
    13:00 - 15:00: Vr, excl. feestdagen.
    13:00 - 15:00: Ma, Di, Wo, excl. feestdagen.
    16:30 - 17:30: Ma, Di, Wo, excl. feestdagen.
@@ -17917,8 +17883,8 @@ Periode 01-06 tot 31-08:
    17:00 - 17:30: Za, excl. feestdagen.
    18:45 - 19:15: Zo, incl. feestdagen.
 Periode 01-09 tot 30-09:
-   08:00 - 09:00: Vr, Za, excl. feestdagen.
    08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen.
+   08:00 - 09:00: Vr, Za, excl. feestdagen.
    13:00 - 15:00: Vr, excl. feestdagen.
    13:00 - 15:00: Ma, Di, Wo, Do, excl. feestdagen.
    16:30 - 17:30: Vr, excl. feestdagen.
@@ -20959,47 +20925,47 @@ Bedieningstijden
 Periode 01-01 tot 01-01:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 10-04 tot 10-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 04-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 29-05 tot 29-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 31-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 25-12 tot 25-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 26-12 tot 26-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
@@ -21906,11 +21872,13 @@ VHF:     80
 Bedieningstijden
 Periode 01-01 tot 01-01:
 Periode 02-01 tot 31-03:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   06:00 - 08:00: Za, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -21918,26 +21886,26 @@ Periode 10-04 tot 10-04:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 04-05:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
@@ -21945,22 +21913,26 @@ Periode 29-05 tot 29-05:
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 31-05:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   06:00 - 08:00: Za, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 25-12 tot 25-12:
 Periode 26-12 tot 26-12:
 Periode 27-12 tot 31-12:
-   06:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   06:00 - 08:00: Ma, Di, Wo, Do, Vr, excl. feestdagen.
+   06:00 - 08:00: Za, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
+   16:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.
 Voor de periodes van 1 november t/m 31 maart 9-17 uur: Geen afroep nodig.
@@ -22008,47 +21980,47 @@ Bedieningstijden
 Periode 01-01 tot 01-01:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 02-01 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 01-04 tot 08-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 09-04 tot 09-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 10-04 tot 10-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 11-04 tot 26-04:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 27-04 tot 27-04:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 28-04 tot 04-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 05-05 tot 05-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 06-05 tot 17-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 18-05 tot 18-05:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 19-05 tot 27-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 28-05 tot 28-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 29-05 tot 29-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 30-05 tot 31-05:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-06 tot 31-08:
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-09 tot 31-10:
-   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen.
 Periode 01-11 tot 24-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 Periode 25-12 tot 25-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 26-12 tot 26-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen.
 Periode 27-12 tot 31-12:
-   23:00 - 22:59: Zo, incl. feestdagen.
+   23:00 - 22:59: Zo, excl. feestdagen.
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen.
 
 Note: Voor het gehele jaar: Binnen bedientijden: Bediening op afstand vanaf het Swettehûs.Voor de periodes van 1 november t/m 31 maart: Geen afroep nodig.</desc>
