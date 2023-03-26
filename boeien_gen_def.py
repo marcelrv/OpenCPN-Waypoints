@@ -1641,6 +1641,7 @@ nederland = BoeienSource(
         ('6022', '6021'),  # Rood wit pilaar met rode bol
         ('6023', '6023'),  # Rood wit pilaar met rode bol en wit licht
         ('6024', '6023'),  # Rood wit pilaar met rode bol en wit licht
+        ('6033', '6023'),  # Rood/wit repeterend
         ('6034', '6023'),  # Rood/wit repeterend
         ('6041', '6041'),  # Rood wit spar met rode bol
         ('6042', '6041'),  # Rood wit spar met rode bol
