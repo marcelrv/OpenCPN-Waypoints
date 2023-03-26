@@ -1,0 +1,4489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:opencpn="http://www.opencpn.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="vwi_waypoints_generator.py -- https://github.com/marcelrv/OpenCPN-Waypoints">
+  <metadata>
+    <name>Holland Jachthavens</name>
+    <desc>Holland jachthaven informatie incl. openings tijden based on RWS information</desc>
+    <author>
+      <name>Marcel Verpaalen</name>
+    </author>
+    <copyright >
+      <year>2022</year>
+      <license>CC BY-NC-SA 4.0</license>
+    </copyright>
+    <time>2023-03-24T16:00:46.705000Z</time>
+  </metadata>
+  <wpt lat="52.2507194217856" lon="4.56760162786651">
+    <name>WV Lisse (1)</name>
+    <desc>Locatie: Havenkanaal van Lisse
+Opmerking      : --
+Passanten plaatsen: 0
+Vaste ligplaatsen: 50
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/1599">
+      <text>WV Lisse (1) online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4622258171744" lon="5.042062494301">
+    <name>Jachthaven Waterland</name>
+    <desc>Locatie: Geul door het Monnickendammergat
+Opmerking      : Diepte: MP-2,30m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 450
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/1613">
+      <text>Jachthaven Waterland online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.091222932642" lon="4.86170776200551">
+    <name>De Greft WSV</name>
+    <desc>Locatie: Grecht
+Opmerking      : Twee invaarten.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 120
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/2122">
+      <text>De Greft WSV online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3351554040097" lon="4.84658149248373">
+    <name>WV Amsterdam</name>
+    <desc>Locatie: Nieuwe Meer
+Opmerking      : Twee invaarten.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 151
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/2134">
+      <text>WV Amsterdam online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0016975873232" lon="4.55329533148704">
+    <name>Zevenhuizen, Van Vliet bv Botenverhuur</name>
+    <desc>Locatie: Hennipsloot
+Opmerking      : Diepte: BP-0,80m/BP-0,50m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 4
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/2273">
+      <text>Zevenhuizen, Van Vliet bv Botenverhuur online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4000153998368" lon="4.67485382678418">
+    <name>Haarlemse Zeilvereniging</name>
+    <desc>Locatie: Mooie Nel
+Opmerking      : Diepte: KP-1,50m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 80
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/2621">
+      <text>Haarlemse Zeilvereniging online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8604152829159" lon="4.99868848233891">
+    <name>De Gors, Arkel</name>
+    <desc>Locatie: Linge
+Opmerking      : -
+Passanten plaatsen: 0
+Vaste ligplaatsen: 50
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/3153">
+      <text>De Gors, Arkel online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0024323305568" lon="5.08717167307623">
+    <name>Rijkshaven Nieuwegein / ZV de Lek</name>
+    <desc>Locatie: Lek
+Opmerking      : Steigers en boxen.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 47
+Tankstation:      : Ja
+PhoneNumber: 088 – 7974240</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/3835">
+      <text>Rijkshaven Nieuwegein / ZV de Lek online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1999865176896" lon="4.57957216266075">
+    <name>Jachthaven De Cleypoelel</name>
+    <desc>Locatie: Ade of Poel
+Passanten plaatsen: 0
+Vaste ligplaatsen: 50
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/3899">
+      <text>Jachthaven De Cleypoelel online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8739982351682" lon="5.07344448447472">
+    <name>WSV De Wiel </name>
+    <desc>Locatie: Linge
+Passanten plaatsen: 0
+Vaste ligplaatsen: 45
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/4154">
+      <text>WSV De Wiel  online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5132122057528" lon="4.78882235673254">
+    <name>West-Knollendam, Zaanlands Zeilvereeniging</name>
+    <desc>Locatie: Achterzaan of Binnenzaan
+Opmerking      : Alleen leden. Hijskraan aanwezig.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 25
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/4609">
+      <text>West-Knollendam, Zaanlands Zeilvereeniging online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1597217963303" lon="4.5145524626617">
+    <name>De Kooihaven</name>
+    <desc>Locatie: Rijn-Schiekanaal
+Opmerking      : Diepte: KP-2,50m.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 50
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/4622">
+      <text>De Kooihaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1475237260332" lon="4.53999545988014">
+    <name>Doeshaven</name>
+    <desc>Locatie: Does
+Opmerking      : Diepte: KP-1,80m.
+Passanten plaatsen: 80
+Vaste ligplaatsen: 684
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/4776">
+      <text>Doeshaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9090502287025" lon="4.17762868381778">
+    <name>Krabbeplaat</name>
+    <desc>Locatie: Brielse Rak, Brielse Meer
+Opmerking      : Diepte: MP-1,5m/MP-1,2m.
+Passanten plaatsen: 2
+Vaste ligplaatsen: 86
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/4798">
+      <text>Krabbeplaat online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.6971029265869" lon="5.28636893850325">
+    <name>Buijshaven, Enkhuizen</name>
+    <desc>Locatie: Krabbershaven
+Opmerking      : -
+Passanten plaatsen: 0
+Vaste ligplaatsen: 60
+Tankstation:      : Nee
+PhoneNumber: 0228-360100</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/5009">
+      <text>Buijshaven, Enkhuizen online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8923700909334" lon="4.63697647908702">
+    <name>WSV De Lek</name>
+    <desc>Locatie: Lek
+Opmerking      : Steigers.
+Passanten plaatsen: 5
+Vaste ligplaatsen: 80
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/5444">
+      <text>WSV De Lek online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.144319906341" lon="4.48467974320911">
+    <name>Leiden, jachtwerf van Wijk maritiem</name>
+    <desc>Locatie: Leidse Trekvliet, Leidsche Vliet
+Passanten plaatsen: 0
+Vaste ligplaatsen: 10
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/5563">
+      <text>Leiden, jachtwerf van Wijk maritiem online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4650409368013" lon="4.56097475719466">
+    <name>Seaport Marina IJmuiden</name>
+    <desc>Locatie: Noorderbuitenkanaal
+Opmerking      : Havenkantoor. Steigers (drijvend) en boxen. Diepte haven: NAP-5,40m/NAP-2,00m.
+Passanten plaatsen: 420
+Vaste ligplaatsen: 230
+Tankstation:      : Ja
+VHF:     74</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/6265">
+      <text>Seaport Marina IJmuiden online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2483602240475" lon="4.70640400768893">
+    <name>De Stormvogel</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (oostelijk deel)
+Passanten plaatsen: 10
+Vaste ligplaatsen: 150
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/6544">
+      <text>De Stormvogel online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1943256836537" lon="4.64471831317122">
+    <name>De Noorderhem</name>
+    <desc>Locatie: Braassemermeer
+Passanten plaatsen: 0
+Vaste ligplaatsen: 250
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/6670">
+      <text>De Noorderhem online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2621998512471" lon="4.72423433643537">
+    <name>JH De Boeier</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (oostelijk deel)
+Passanten plaatsen: 0
+Vaste ligplaatsen: 50
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/6947">
+      <text>JH De Boeier online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5298010747978" lon="4.72388607908825">
+    <name>Uitgeest, Vrolijk</name>
+    <desc>Locatie: Vaargeul naar Uitgeest
+Opmerking      : Diepte: KP-2,50/KP-1,50.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 14
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7055">
+      <text>Uitgeest, Vrolijk online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1849843892277" lon="4.49117545835466">
+    <name>Zwanengat</name>
+    <desc>Locatie: Zwanegat
+Opmerking      : Diepte: KP-1,80m.
+Passanten plaatsen: 20
+Vaste ligplaatsen: 95
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7402">
+      <text>Zwanengat online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1718138194615" lon="4.51606263264083">
+    <name>JH Zijlzicht</name>
+    <desc>Locatie: Zijl
+Opmerking      : Diepte: KP-3,00m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 135
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7638">
+      <text>JH Zijlzicht online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.172087465379" lon="4.63700859625637">
+    <name>Woubrugge, De Nieuwe Haven</name>
+    <desc>Locatie: Heimans- en Woudwetering
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7648">
+      <text>Woubrugge, De Nieuwe Haven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.909934746306" lon="4.40349459030821">
+    <name>WSV De Nieuwe Haven</name>
+    <desc>Locatie: Nieuwe Haven te Schiedam
+Opmerking      : Diepte: KP-2,00m.
+Passanten plaatsen: 15
+Vaste ligplaatsen: 82
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7810">
+      <text>WSV De Nieuwe Haven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.411277720379" lon="4.67873369723028">
+    <name>JH De Rietpol</name>
+    <desc>Locatie: Noorder Buiten-Spaarne
+Passanten plaatsen: 0
+Vaste ligplaatsen: 80
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7834">
+      <text>JH De Rietpol online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4612816355684" lon="5.03986037205075">
+    <name>Marina Monnickendam</name>
+    <desc>Locatie: Geul door het Monnickendammergat
+Opmerking      : Diepte: MP-2,20m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 550
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/8180">
+      <text>Marina Monnickendam online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5577862120506" lon="4.85543012292994">
+    <name>Passantenhaven De Rijp</name>
+    <desc>Locatie: Beemsterringvaart
+Passanten plaatsen: 40
+Vaste ligplaatsen: 50
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/8213">
+      <text>Passantenhaven De Rijp online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.327037545093" lon="5.06571580287798">
+    <name>Fort H</name>
+    <desc>Locatie: Vecht
+Opmerking      : -
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/8247">
+      <text>Fort H online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9495986809512" lon="4.78132764597943">
+    <name>WV Onrust</name>
+    <desc>Locatie: Haven Westoever te Den Helder
+Opmerking      : Diepte: KP-1,5m/KP-3,0m.
+Passanten plaatsen: 4
+Vaste ligplaatsen: 110
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/8459">
+      <text>WV Onrust online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9111559559314" lon="4.51618441275776">
+    <name>Watertorenhaven</name>
+    <desc>Locatie: Nieuwe Maas
+Opmerking      : Diepte: NAP-2,40m/NAP-1,30m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 10
+Tankstation:      : Nee
+PhoneNumber: 010-4179111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/8491">
+      <text>Watertorenhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2201746057086" lon="4.54363863753733">
+    <name>Jonkman</name>
+    <desc>Locatie: Sassenheimervaart
+Opmerking      : Diepte: KP-1,60m.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 450
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/8714">
+      <text>Jonkman online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9070723330616" lon="4.17093364393724">
+    <name>Moerman</name>
+    <desc>Locatie: Buitenhaven, Haven van Brielle
+Passanten plaatsen: 0
+Vaste ligplaatsen: 12
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/8827">
+      <text>Moerman online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3881575893317" lon="4.8909106324653">
+    <name>Het Realeneiland</name>
+    <desc>Locatie: Zoutkeetsgracht
+Opmerking      : Steigers. 
+Passanten plaatsen: 1
+Vaste ligplaatsen: 80
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/8851">
+      <text>Het Realeneiland online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3895194336655" lon="4.93947585042453">
+    <name>Twellegea</name>
+    <desc>Locatie: Zijkanaal K, Zijkanaal naar Nieuwendam
+Opmerking      : Steigers (drijvend) en boxen.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 70
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/8913">
+      <text>Twellegea online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1629615597737" lon="4.64106736907186">
+    <name>Jacobswoude</name>
+    <desc>Locatie: Heimans- en Woudwetering
+Passanten plaatsen: 5
+Vaste ligplaatsen: 50
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/8972">
+      <text>Jacobswoude online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8989311956068" lon="4.5395570478927">
+    <name>Kreeksehaven</name>
+    <desc>Locatie: Zuiddiepje
+Passanten plaatsen: 0
+Vaste ligplaatsen: 104
+Tankstation:      : Nee
+PhoneNumber: 010-4179111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/9150">
+      <text>Kreeksehaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1830802067956" lon="4.83874935964127">
+    <name>Beau rivage</name>
+    <desc>Locatie: Kromme Mijdrecht
+Vaste ligplaatsen: 15
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/9237">
+      <text>Beau rivage online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.469340327536" lon="4.82022265097758">
+    <name>ZV De Onderlinge</name>
+    <desc>Locatie: Poel
+Passanten plaatsen: 0
+Vaste ligplaatsen: 160
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/9385">
+      <text>ZV De Onderlinge online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2002417482918" lon="5.02912479133882">
+    <name>Recreatiecentrum Mijnden</name>
+    <desc>Locatie: Westelijke Drecht
+Passanten plaatsen: 0
+Vaste ligplaatsen: 150
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/9952">
+      <text>Recreatiecentrum Mijnden online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5633682427456" lon="4.74410807295883">
+    <name>'t Hoorntje</name>
+    <desc>Locatie: Vaargeul Alkmaardermeer
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/9972">
+      <text>'t Hoorntje online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.191201975282" lon="4.50295430215926">
+    <name>Olympia charters</name>
+    <desc>Locatie: Grote Sloot
+Passanten plaatsen: 0
+Vaste ligplaatsen: 30
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/9995">
+      <text>Olympia charters online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2180867692655" lon="4.56453103535717">
+    <name>JH Kaagdorp</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (zuidelijk deel)
+Opmerking      : Diepte: KP-1,85m.
+Passanten plaatsen: 4
+Vaste ligplaatsen: 356
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/10038">
+      <text>JH Kaagdorp online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5396801046156" lon="4.83460894652219">
+    <name>'t Verloren Eind</name>
+    <desc>Locatie: Beemsterringvaart
+Passanten plaatsen: 0
+Vaste ligplaatsen: 14
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/10247">
+      <text>'t Verloren Eind online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9347055812663" lon="4.40863280593852">
+    <name>WSV De Schie</name>
+    <desc>Locatie: Schiedamsche Schie
+Opmerking      : Diepte: KP-1,80m.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 126
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/10556">
+      <text>WSV De Schie online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4368866401768" lon="4.82766347108538">
+    <name>Schippershaven te Zaandam</name>
+    <desc>Locatie: Voorzaan
+Opmerking      : In haven Williampontbrug. Beweegbaar met automatische bediening. Toegang naar jachthaven Dukra.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 150
+Tankstation:      : Nee
+PhoneNumber: 075-6816888</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/10692">
+      <text>Schippershaven te Zaandam online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.6396184963178" lon="5.06662192863998">
+    <name>Karperkuil</name>
+    <desc>Locatie: Karperkuil
+Passanten plaatsen: 0
+Vaste ligplaatsen: 50
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/10760">
+      <text>Karperkuil online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2894514874683" lon="4.58206224178994">
+    <name>Hillegom, haven</name>
+    <desc>Locatie: Hillegommerbeek
+Passanten plaatsen: 10
+Vaste ligplaatsen: 15
+Tankstation:      : Nee
+PhoneNumber: 0252-537222</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/10879">
+      <text>Hillegom, haven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1969624910406" lon="4.43257110203651">
+    <name>Noordwijksche vaart of Maandagsche Watering</name>
+    <desc>Opmerking      : Diepte jachthaven: KP-1,70m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 130
+Tankstation:      : Nee
+PhoneNumber: 071-3063063</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/11211">
+      <text>Noordwijksche vaart of Maandagsche Watering online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1868858965735" lon="4.54061675536224">
+    <name>Watertuin</name>
+    <desc>Locatie: Achtergat
+Passanten plaatsen: 0
+Vaste ligplaatsen: 70
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/11763">
+      <text>Watertuin online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4291651367626" lon="4.71374786132517">
+    <name>WV IJmond</name>
+    <desc>Locatie: Zijkanaal C
+Opmerking      : Diepte: KP-1,20m.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 243
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/11778">
+      <text>WV IJmond online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9292776652333" lon="4.10810226957526">
+    <name>Geysman</name>
+    <desc>Locatie: Kruininger Rak, Brielse Meer
+Opmerking      : Diepte: MP-2,1m/MP-1,5m.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 350
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/11872">
+      <text>Geysman online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0057984661512" lon="4.55974656120075">
+    <name>Unie van Watertoeristen (Kanocentrum)</name>
+    <desc>Locatie: Hennipsloot
+Opmerking      : Diepte: BP-1,80m.
+Uitsluitend voor leden Unie van Watertoeristen.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 30
+Tankstation:      : Nee
+PhoneNumber: 010-2981010</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/11964">
+      <text>Unie van Watertoeristen (Kanocentrum) online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2968004386103" lon="4.90131094831775">
+    <name>Ouderkerk aan de Amstel, passantenhaven </name>
+    <desc>Locatie: Amstel
+Opmerking      : Diepte: KP-0,50m. Max. 72 uur.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 0
+Tankstation:      : Nee
+PhoneNumber: 020-4962121</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/12131">
+      <text>Ouderkerk aan de Amstel, passantenhaven  online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9062620744104" lon="4.16797542615953">
+    <name>Zuiderspuihaven</name>
+    <desc>Locatie: Zuid-Spuihaven, Haven van Brielle
+Passanten plaatsen: 0
+Vaste ligplaatsen: 50
+Tankstation:      : Nee
+PhoneNumber: 0181-471111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/12418">
+      <text>Zuiderspuihaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1612490099241" lon="4.50251544308904">
+    <name>Passantenhaven Leiden</name>
+    <desc>Locatie: De Haven
+Passanten plaatsen: 50
+Tankstation:      : Nee
+PhoneNumber: 071-5165165</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/12653">
+      <text>Passantenhaven Leiden online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4368866401768" lon="4.82766347108538">
+    <name>Schippershaven te Zaandam</name>
+    <desc>Locatie: Voorzaan
+Opmerking      : In haven Williampontbrug. Beweegbaar met automatische bediening. Toegang naar jachthaven Dukra.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 80
+Tankstation:      : Nee
+PhoneNumber: 075-6816888</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/12719">
+      <text>Schippershaven te Zaandam online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.634542669345" lon="4.74840948878634">
+    <name>Alkmaar, passantenhaven AKV</name>
+    <desc>Locatie: Noordhollandsch Kanaal
+Opmerking      : Halverwege een ophaalbrug, wijdte 6m, hoogte gesloten stand KP+2,08m. Max. diepgang 3,0 m., max. lengte 10 m.
+Passanten plaatsen: 30
+Tankstation:      : Nee
+PhoneNumber: 072-5117135</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/12743">
+      <text>Alkmaar, passantenhaven AKV online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1730195506133" lon="4.63666731395452">
+    <name>Jachtwerf Woudwetering</name>
+    <desc>Locatie: Heimans- en Woudwetering
+Passanten plaatsen: 10
+Vaste ligplaatsen: 60
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/12934">
+      <text>Jachtwerf Woudwetering online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.221326395039" lon="5.14001855068985">
+    <name>Sporthaven</name>
+    <desc>Locatie: Hilversumsch Kanaal
+Passanten plaatsen: 0
+Vaste ligplaatsen: 58
+Tankstation:      : Nee
+PhoneNumber: 035-6292111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/13060">
+      <text>Sporthaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.458322270108" lon="5.10023414655943">
+    <name>Nieuwe Haven te Marken</name>
+    <desc>Locatie: Haven van Marken
+Opmerking      : Diepte MP--2,00m / lengte kades 150m
+Passanten plaatsen: 0
+Vaste ligplaatsen: 56
+Tankstation:      : Nee
+PhoneNumber: 088-7973700</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/13643">
+      <text>Nieuwe Haven te Marken online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1915308713636" lon="4.49973055926152">
+    <name>Lockhorst</name>
+    <desc>Locatie: Warmonderleede
+Opmerking      : Diepte: KP-1,70m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 50
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/13646">
+      <text>Lockhorst online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9356997447318" lon="4.45687555921735">
+    <name>WSV Overschie</name>
+    <desc>Locatie: Noorderkanaal
+Opmerking      : Diepte: KP-1,50m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 55
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/13676">
+      <text>WSV Overschie online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4624643461053" lon="5.04256369475525">
+    <name>Hemmeland</name>
+    <desc>Locatie: Geul door het Monnickendammergat
+Opmerking      : Diepte: MP-2,30m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 630
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/13803">
+      <text>Hemmeland online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.273147099014" lon="5.02284132744565">
+    <name>WSV Nigtevecht</name>
+    <desc>Locatie: Vecht
+Passanten plaatsen: 0
+Vaste ligplaatsen: 25
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/13908">
+      <text>WSV Nigtevecht online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3965980265505" lon="4.92225494883776">
+    <name>WV De Waterkering</name>
+    <desc>Locatie: Noordhollandsch Kanaal
+Passanten plaatsen: 0
+Vaste ligplaatsen: 25
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/14290">
+      <text>WV De Waterkering online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.334015921331" lon="5.22340164661634">
+    <name>Gemeentehaven Almere</name>
+    <desc>Locatie: Lange Wetering
+Passanten plaatsen: 23
+Vaste ligplaatsen: 0
+Tankstation:      : Nee
+PhoneNumber: 036-5399911</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/14346">
+      <text>Gemeentehaven Almere online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1913000100381" lon="4.50280658872958">
+    <name>Warmond, van Leest scheepsbouw</name>
+    <desc>Locatie: Grote Sloot
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/14596">
+      <text>Warmond, van Leest scheepsbouw online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1437409355535" lon="4.40358417622028">
+    <name>Wassenaar, jachthaven</name>
+    <desc>Locatie: Wassenaarse- of Zijlwatering
+Passanten plaatsen: 0
+Vaste ligplaatsen: 10
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/14764">
+      <text>Wassenaar, jachthaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2213468116412" lon="5.14137814365295">
+    <name>Dirkse Watersport</name>
+    <desc>Locatie: Hilversumsch Kanaal
+Vaste ligplaatsen: 30
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/15085">
+      <text>Dirkse Watersport online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9063731735575" lon="4.44834293437696">
+    <name>WV Voorhaven, ligplaats</name>
+    <desc>Locatie: Voorhaven
+Opmerking      : Diepte: KP-3,00m.
+Passanten plaatsen: 5
+Vaste ligplaatsen: 35
+Tankstation:      : Nee
+PhoneNumber: 010-4179111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/15150">
+      <text>WV Voorhaven, ligplaats online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3310557266047" lon="4.829755867785">
+    <name>WV Onklaar Anker</name>
+    <desc>Locatie: Nieuwe Meer
+Passanten plaatsen: 0
+Vaste ligplaatsen: 135
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/15170">
+      <text>WV Onklaar Anker online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2053095470446" lon="4.41354907027411">
+    <name>Katwijk aan den Rijn, Stichting Jachthaven Katwijk</name>
+    <desc>Locatie: Uitwateringskanaal of Katwijkerkanaal
+Opmerking      : Diepte: KP-1,50m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 271
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/15356">
+      <text>Katwijk aan den Rijn, Stichting Jachthaven Katwijk online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4105227735234" lon="4.90449582737271">
+    <name>Amsterdam, Kadoelen-werf</name>
+    <desc>Locatie: Zijkanaal L
+Opmerking      : Steiger en boxen.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 41
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/15734">
+      <text>Amsterdam, Kadoelen-werf online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2486006362934" lon="4.56754298164426">
+    <name>WV Lisse</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (westelijk gedeelte)
+Opmerking      : Diepte: KP-1,50m.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 150
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/15990">
+      <text>WV Lisse online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3331674314594" lon="5.07037360903268">
+    <name>Muiden, Lengers Yachts </name>
+    <desc>Locatie: Vecht
+Passanten plaatsen: 0
+Vaste ligplaatsen: 15
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/16086">
+      <text>Muiden, Lengers Yachts  online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1543701968108" lon="4.64393748111684">
+    <name>WSV Alphen aan den Rijn</name>
+    <desc>Locatie: Heimans- en Woudwetering
+Passanten plaatsen: 10
+Vaste ligplaatsen: 90
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/16095">
+      <text>WSV Alphen aan den Rijn online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1967178179159" lon="4.53582982981425">
+    <name>KWV De Kaag</name>
+    <desc>Locatie: Zijp
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/16213">
+      <text>KWV De Kaag online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3340554828724" lon="5.06976144307364">
+    <name>Muiden, KNZ &amp; RV</name>
+    <desc>Locatie: Vecht
+Passanten plaatsen: 10
+Vaste ligplaatsen: 145
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/16265">
+      <text>Muiden, KNZ &amp; RV online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9301106699665" lon="4.14325186523959">
+    <name>Kogelhaven</name>
+    <desc>Locatie: Kruininger Rak, Brielse Meer
+Opmerking      : Diepte: MP-1,1m.
+Passanten plaatsen: 8
+Vaste ligplaatsen: 22
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/16324">
+      <text>Kogelhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8814281072332" lon="4.22696828842163">
+    <name>Havengebied WSV De Vijfsluizen</name>
+    <desc>Locatie: Scheepvaartkanaal en Voedingskanaal
+Opmerking      : Diepte: MP-2,5m/MP-1,5m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 190
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/16821">
+      <text>Havengebied WSV De Vijfsluizen online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4626188037122" lon="5.04288824872025">
+    <name>De Zeilhoek</name>
+    <desc>Locatie: Geul door het Monnickendammergat
+Opmerking      : Diepte: MP-1,90m.
+Passanten plaatsen: 20
+Vaste ligplaatsen: 150
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/17157">
+      <text>De Zeilhoek online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9237049608655" lon="5.04238703339658">
+    <name>Marina Den Oever, westelijke invaart</name>
+    <desc>Locatie: De geul door de Zuiderhaven van Den Oever
+Opmerking      : Diepte: MP-2,40m.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 207
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/17275">
+      <text>Marina Den Oever, westelijke invaart online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0447260656952" lon="4.9445751755659">
+    <name>WV Montfoort</name>
+    <desc>Locatie: Gekanaliseerde Hollandsche IJssel
+Opmerking      : Alleen toegang voor leden.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 25
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/17276">
+      <text>WV Montfoort online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1982380295094" lon="4.51059753104889">
+    <name>Warmond, Gebr. Visch cv</name>
+    <desc>Locatie: Warmonderleede
+Passanten plaatsen: 15
+Vaste ligplaatsen: 170
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/17323">
+      <text>Warmond, Gebr. Visch cv online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9016676682741" lon="4.16654355935509">
+    <name>Zuiderspuihaven</name>
+    <desc>Locatie: Zuid-Spuihaven, Haven van Brielle
+Passanten plaatsen: 0
+Vaste ligplaatsen: 129
+Tankstation:      : Nee
+PhoneNumber: 0181-471111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/17485">
+      <text>Zuiderspuihaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2262219126805" lon="5.08506320677587">
+    <name>De Ankerplaats</name>
+    <desc>Locatie: Hilversumsch Kanaal
+Opmerking      : 3 invaarten.
+Passanten plaatsen: 2
+Vaste ligplaatsen: 25
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/17914">
+      <text>De Ankerplaats online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3090652611903" lon="5.2444857404429">
+    <name>Huizer Marina bv</name>
+    <desc>Locatie: Haven van Huizen
+Passanten plaatsen: 0
+Vaste ligplaatsen: 70
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/17978">
+      <text>Huizer Marina bv online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5293315739084" lon="4.72248813400954">
+    <name>Uitgeest, Zonjee</name>
+    <desc>Locatie: Vaargeul naar Uitgeest
+Opmerking      : Diepte: KP-2,20/KP-1,20.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 80
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/17981">
+      <text>Uitgeest, Zonjee online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1244201517754" lon="4.46327090263367">
+    <name>Jachthaven De Vlietopper</name>
+    <desc>Opmerking      : Diepte: KP-2,40m/KP-1,70m.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 390
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/18899">
+      <text>Jachthaven De Vlietopper online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.861027644364" lon="4.34176182738156">
+    <name>Hoogvlietse haven</name>
+    <desc>Locatie: Oude Maas
+Opmerking      : Diepte: NAP-1,60m/NAP-1,20m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 49
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/19302">
+      <text>Hoogvlietse haven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8606888336118" lon="4.99820971691828">
+    <name>De Gors</name>
+    <desc>Locatie: Linge
+Passanten plaatsen: 0
+Vaste ligplaatsen: 90
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/19489">
+      <text>De Gors online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0972091461953" lon="4.26741600036621">
+    <name>2e Haven te Scheveningen</name>
+    <desc>Locatie: Tweedee Haven
+Passanten plaatsen: 0
+Vaste ligplaatsen: 25
+Tankstation:      : Nee
+VHF:     21
+PhoneNumber: 070-3539945</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/19499">
+      <text>2e Haven te Scheveningen online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2950321963237" lon="4.91474840927828">
+    <name>Watersportvereniging Ouder-Amstel</name>
+    <desc>Locatie: Bullewijk
+Passanten plaatsen: 0
+Vaste ligplaatsen: 50
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/19600">
+      <text>Watersportvereniging Ouder-Amstel online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.8997331163516" lon="5.01704426669727">
+    <name>Robbenoordbos, Aquacamping</name>
+    <desc>Locatie: Den Oeversche Vaart
+Passanten plaatsen: 30
+Vaste ligplaatsen: 0
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/19704">
+      <text>Robbenoordbos, Aquacamping online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9604841584239" lon="4.77282715933818">
+    <name>Natte Dok</name>
+    <desc>Locatie: Natte Dok
+Opmerking      : Diepte: KP-7,00m.
+Passanten plaatsen: 25
+Vaste ligplaatsen: 75
+Tankstation:      : Ja
+VHF:     14
+PhoneNumber: 0223-671200</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/19828">
+      <text>Natte Dok online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5099052873553" lon="4.92606469873797">
+    <name>'t Neckerhop</name>
+    <desc>Locatie: Ringvaart van de Wijde Wormer
+Opmerking      : WSV 't Neckerhop
+Passanten plaatsen: 22
+Vaste ligplaatsen: 33
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/19829">
+      <text>'t Neckerhop online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2262219126805" lon="5.08506320677587">
+    <name>De Ankerplaats</name>
+    <desc>Locatie: Hilversumsch Kanaal
+Opmerking      : 3 invaarten.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 10
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/19914">
+      <text>De Ankerplaats online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1542162736589" lon="4.8559702866672">
+    <name>Slikkendam</name>
+    <desc>Locatie: Kadewetering
+Opmerking      : Diepte: PP-1,60m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 30
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/19917">
+      <text>Slikkendam online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4009770988634" lon="4.89963489117681">
+    <name>Cornelis Douweskanaal Oost</name>
+    <desc>Locatie: Zijkanaal L
+Passanten plaatsen: 0
+Vaste ligplaatsen: 55
+Tankstation:      : Nee
+PhoneNumber: 14020</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/20137">
+      <text>Cornelis Douweskanaal Oost online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9055485886653" lon="4.34601651295383">
+    <name>WV Vlaardingen</name>
+    <desc>Locatie: Oude Haven te Vlaardingen
+Opmerking      : Diepte: KP-3,00m.
+Passanten plaatsen: 30
+Vaste ligplaatsen: 70
+Tankstation:      : Nee
+PhoneNumber: 010-2484000</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/20208">
+      <text>WV Vlaardingen online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5668951052108" lon="4.74370228947986">
+    <name>Verduin</name>
+    <desc>Locatie: Vaargeul Alkmaardermeer
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/20259">
+      <text>Verduin online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9262802143076" lon="4.40927656860814">
+    <name>Schiedam, WSV De Vrije Liggers</name>
+    <desc>Locatie: Schiedamsche Schie
+Opmerking      : Diepte: KP-2,00m.
+Passanten plaatsen: 5
+Vaste ligplaatsen: 60
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/20330">
+      <text>Schiedam, WSV De Vrije Liggers online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9460938441736" lon="4.49176683593002">
+    <name>Rotterdam, WSV Uno</name>
+    <desc>Locatie: Rotte
+Opmerking      : Diepte: KP-0,90m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 50
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/20353">
+      <text>Rotterdam, WSV Uno online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7458797059055" lon="5.18054662196833">
+    <name>Watersport Centrum Andijk</name>
+    <desc>Locatie: Nieuwe Jachthaven
+Passanten plaatsen: 100
+Vaste ligplaatsen: 580
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/21030">
+      <text>Watersport Centrum Andijk online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9448148216623" lon="4.48697747119357">
+    <name>Wurth en Zn.</name>
+    <desc>Locatie: Rotte
+Opmerking      : Diepte: KP-1,80m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 25
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/21154">
+      <text>Wurth en Zn. online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9161781602891" lon="4.17254640067695">
+    <name>Molenhaven / WSV Brielle</name>
+    <desc>Locatie: Brielse Rak, Brielse Meer
+Opmerking      : Diepte: MP-2,0m/MP-1,0m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 57
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/21566">
+      <text>Molenhaven / WSV Brielle online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5533172449734" lon="4.77937366243304">
+    <name>De Woudhaven, passantenhaven</name>
+    <desc>Locatie: Kogerpolderkanaal
+Passanten plaatsen: 30
+Tankstation:      : Nee
+PhoneNumber: 0251-311410</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/21599">
+      <text>De Woudhaven, passantenhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2028310158935" lon="4.64895087816707">
+    <name>WSC Braassemmermeer</name>
+    <desc>Locatie: Braassemermeer
+Passanten plaatsen: 0
+Vaste ligplaatsen: 400
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/21718">
+      <text>WSC Braassemmermeer online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4248324329193" lon="4.83723386853108">
+    <name>Zaanhaven</name>
+    <desc>Locatie: Zijkanaal G
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee
+VHF:     4</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/21879">
+      <text>Zaanhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3285039538896" lon="5.06737832741392">
+    <name>Muiden, Herengracht</name>
+    <desc>Locatie: Vecht
+Passanten plaatsen: 0
+Vaste ligplaatsen: 25
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/22224">
+      <text>Muiden, Herengracht online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3792254869368" lon="4.75503838088811">
+    <name>Halfweg, De Swaenenburght</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (noordelijk gedeelte)
+Opmerking      : Diepte: KP-2,50m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 30
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/22337">
+      <text>Halfweg, De Swaenenburght online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9250890647183" lon="5.05033122346014">
+    <name>Marina Den Oever, oostelijke invaart.</name>
+    <desc>Locatie: Wieringervlaak
+Passanten plaatsen: 0
+Vaste ligplaatsen: 120
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/22611">
+      <text>Marina Den Oever, oostelijke invaart. online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.6866566879784" lon="5.25576400377073">
+    <name>WSV Broekerhaven</name>
+    <desc>Locatie: Buitenhaven
+Passanten plaatsen: 0
+Vaste ligplaatsen: 41
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/23053">
+      <text>WSV Broekerhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9061019367058" lon="4.48157208657055">
+    <name>De Fuik</name>
+    <desc>Locatie: Nieuwe Maas
+Passanten plaatsen: 0
+Vaste ligplaatsen: 2
+Tankstation:      : Nee
+PhoneNumber: 010-4179111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/23084">
+      <text>De Fuik online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9052942380641" lon="4.58927683893683">
+    <name>WSV De Hollandse IJssel</name>
+    <desc>Locatie: Sliksloot
+Passanten plaatsen: 1
+Vaste ligplaatsen: 50
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/23533">
+      <text>WSV De Hollandse IJssel online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1981194712741" lon="4.50998855407423">
+    <name>Cieco</name>
+    <desc>Locatie: Warmonderleede
+Opmerking      : Diepte: KP-1,50m.
+Passanten plaatsen: 2
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/23634">
+      <text>Cieco online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3136397705582" lon="5.24717330932617">
+    <name>JH Het Huizerhoofd en Gooierhaven</name>
+    <desc>Locatie: Haven van Huizen
+Opmerking      : Diepte: MP-2,70m/MP-1,60m.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 813
+Tankstation:      : Ja
+VHF:     31</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/23681">
+      <text>JH Het Huizerhoofd en Gooierhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4930881595968" lon="5.07592243665552">
+    <name>Volendam, Zuiderhaven, WV Volendam</name>
+    <desc>Locatie: Haven van Volendam
+Opmerking      : Diepte: MP-2,50m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 73
+Tankstation:      : Nee
+VHF:     71
+PhoneNumber: 0299-398398</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/23761">
+      <text>Volendam, Zuiderhaven, WV Volendam online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9352322518306" lon="4.45561927577565">
+    <name>WSV Union</name>
+    <desc>Locatie: Noorderkanaal
+Opmerking      : Diepte: KP-2,50m/KP-1,00m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 75
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/24043">
+      <text>WSV Union online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5613325301683" lon="4.86017850310774">
+    <name>De Meermolen</name>
+    <desc>Locatie: Beemsterringvaart
+Passanten plaatsen: 20
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/24221">
+      <text>De Meermolen online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1911216259208" lon="4.49872126448175">
+    <name>KWV De Kaag</name>
+    <desc>Locatie: Warmonderleede
+Opmerking      : Diepte: Kp-1,80m.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 350
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/24810">
+      <text>KWV De Kaag online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3472093800382" lon="4.62590503005952">
+    <name>Gemeentehaven Heemstede</name>
+    <desc>Locatie: Heemsteedsch Kanaal
+Opmerking      : Kanaal Peil: de boezem van Rijnland fluctueert rond de -0,60 nap (verschil winter en zomerpeil is ongeveer 3 cm)
+
+Faciliteiten: Stroom, drinkwater, innamepunt vuilwater en toilet aanwezig
+
+Meldpunt: 06-52737545
+Passanten plaatsen: 8
+Vaste ligplaatsen: 37
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/24971">
+      <text>Gemeentehaven Heemstede online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2677964103725" lon="4.73907402754263">
+    <name>Otto Grond-en Baggerwerken bv</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (oostelijk deel)
+Opmerking      : overslagpunt achter in haven.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 100
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/26286">
+      <text>Otto Grond-en Baggerwerken bv online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8889607634515" lon="5.09320185643725">
+    <name>De Oude Horn</name>
+    <desc>Locatie: Linge
+Passanten plaatsen: 40
+Vaste ligplaatsen: 120
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/26530">
+      <text>De Oude Horn online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4375874489727" lon="4.75300601655784">
+    <name>Jachthaven Nauerna</name>
+    <desc>Locatie: Zijkanaal D
+Opmerking      : Diepte: KP-2,50m. Steigers (drijvend) en boxen.
+Passanten plaatsen: 50
+Vaste ligplaatsen: 300
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/26602">
+      <text>Jachthaven Nauerna online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7913954929681" lon="4.78843499935077">
+    <name>Recreatiehaven Schagen</name>
+    <desc>Locatie: Haven van Schagen
+Passanten plaatsen: 0
+Vaste ligplaatsen: 100
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/26921">
+      <text>Recreatiehaven Schagen online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4038219070846" lon="4.66043399980992">
+    <name>Haarlemsche Kanovereniging</name>
+    <desc>Locatie: Noorder Buiten-Spaarne
+Opmerking      : Diepte: KP-1,50m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 125
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/27034">
+      <text>Haarlemsche Kanovereniging online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1478346314151" lon="4.39602541541237">
+    <name>Princehaven</name>
+    <desc>Locatie: Wassenaarse- of Zijlwatering
+Passanten plaatsen: 0
+Vaste ligplaatsen: 35
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/27110">
+      <text>Princehaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4607017123331" lon="5.03844328770658">
+    <name>Monnickendam, haven te</name>
+    <desc>Locatie: Geul door het Monnickendammergat
+Opmerking      : Diepte: MP-2,80m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 30
+Tankstation:      : Nee
+PhoneNumber: 0299-658585</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/27207">
+      <text>Monnickendam, haven te online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4289484102773" lon="4.83360989492827">
+    <name>ZZV Roeivereniging</name>
+    <desc>Locatie: Voorzaan
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/27212">
+      <text>ZZV Roeivereniging online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1817375997808" lon="4.48950471580207">
+    <name>Poelgeest</name>
+    <desc>Locatie: Zwanegat
+Opmerking      : Diepte: KP-1,75m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 150
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/28243">
+      <text>Poelgeest online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1057250405695" lon="4.43483220112565">
+    <name>Jachtwerf Klaassen</name>
+    <desc>Locatie: Rijn-Schiekanaal
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/29404">
+      <text>Jachtwerf Klaassen online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0652174817787" lon="5.11249078039483">
+    <name>Utrecht, haven te</name>
+    <desc>Locatie: Merwedekanaal (benoorden de Lek)
+Passanten plaatsen: 0
+Vaste ligplaatsen: 17
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/29428">
+      <text>Utrecht, haven te online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3059796092548" lon="5.26411871320358">
+    <name>WV De brug EHZ</name>
+    <desc>Locatie: Aanloophaven van Huizen
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/29473">
+      <text>WV De brug EHZ online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3038666099634" lon="5.26397870653665">
+    <name>Huizen, haven te</name>
+    <desc>Locatie: Aanloophaven van Huizen
+Opmerking      : Draaibrug over invaart.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 15
+Tankstation:      : Nee
+PhoneNumber: 035-5281911</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/29529">
+      <text>Huizen, haven te online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1360389146193" lon="4.77075356208881">
+    <name>JH Aart Lelyveld</name>
+    <desc>Locatie: Gemeentevaart
+Passanten plaatsen: 0
+Vaste ligplaatsen: 45
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/29632">
+      <text>JH Aart Lelyveld online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8847158803594" lon="4.22767865301867">
+    <name>WSV Zwartewaal</name>
+    <desc>Locatie: Brielse Meer
+Opmerking      : Diepte: MP-2,0m/MP-1,6m.
+Passanten plaatsen: 4
+Vaste ligplaatsen: 162
+Tankstation:      : Nee
+PhoneNumber: 0181-471111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/29651">
+      <text>WSV Zwartewaal online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.200065134556" lon="4.55374676167953">
+    <name>JH Spijkerboor</name>
+    <desc>Locatie: Zevenhuizervaart
+Opmerking      : Maximum diepgang: 1,25m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 140
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/29899">
+      <text>JH Spijkerboor online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2267397050824" lon="4.77594946722166">
+    <name>WV Jan Ploegensluis</name>
+    <desc>Locatie: Amstel
+Opmerking      : Diepte: KP-3,00m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 25
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/30223">
+      <text>WV Jan Ploegensluis online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7270827326608" lon="4.66344111294783">
+    <name>JH Hargen</name>
+    <desc>Locatie: Hargervaart
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/30290">
+      <text>JH Hargen online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.962757180219" lon="5.21788204895875">
+    <name>Jachthaven de Helling</name>
+    <desc>Locatie: Jachthaven De Helling
+Passanten plaatsen: 25
+Vaste ligplaatsen: 300
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/30339">
+      <text>Jachthaven de Helling online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1834724314334" lon="4.83799810539871">
+    <name>Montana Residence</name>
+    <desc>Locatie: Kromme Mijdrecht
+Passanten plaatsen: 0
+Vaste ligplaatsen: 15
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/30736">
+      <text>Montana Residence online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0449749805011" lon="5.0189101478824">
+    <name>Jachthaven Marnemoende</name>
+    <desc>Locatie: Gekanaliseerde Hollandsche IJssel
+Passanten plaatsen: 0
+Vaste ligplaatsen: 200
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/30806">
+      <text>Jachthaven Marnemoende online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3935666692972" lon="4.67317411316746">
+    <name>Peetoom</name>
+    <desc>Locatie: Liede
+Passanten plaatsen: 0
+Vaste ligplaatsen: 100
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/30909">
+      <text>Peetoom online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2533745097165" lon="5.03397602361983">
+    <name>De Vechtoever</name>
+    <desc>Locatie: Vecht
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/31140">
+      <text>De Vechtoever online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3284902960401" lon="4.81834861576054">
+    <name>JH Driessen </name>
+    <desc>Locatie: Nieuwe Meer
+Passanten plaatsen: 50
+Vaste ligplaatsen: 250
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/31699">
+      <text>JH Driessen  online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.198189931746" lon="4.51035045426249">
+    <name>'t Fort Marina</name>
+    <desc>Locatie: Warmonderleede
+Opmerking      : Diepte: KP-1,70m.
+Passanten plaatsen: 5
+Vaste ligplaatsen: 110
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/31897">
+      <text>'t Fort Marina online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0874064594764" lon="4.88092378466749">
+    <name>Jachthaven Woerden</name>
+    <desc>Locatie: Zuidelijke Singelgracht Woerden
+Opmerking      : Diepte: KP-2,50m.
+Passanten plaatsen: 20
+Vaste ligplaatsen: 22
+Tankstation:      : Nee
+PhoneNumber: 0348-428911</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/31994">
+      <text>Jachthaven Woerden online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1637814014891" lon="4.51510177034923">
+    <name>Leiden, jachthaven</name>
+    <desc>Locatie: Zijl
+Passanten plaatsen: 0
+Vaste ligplaatsen: 30
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/32236">
+      <text>Leiden, jachthaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.8112497030659" lon="4.99132004528713">
+    <name>Jachthaven Middenmeer</name>
+    <desc>Locatie: Wieringerwerfvaart
+Passanten plaatsen: 25
+Vaste ligplaatsen: 20
+Tankstation:      : Nee
+PhoneNumber: 0227-606464</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/32288">
+      <text>Jachthaven Middenmeer online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.374436642634" lon="4.95420693819064">
+    <name>Spoorwegbassin te Amsterdam</name>
+    <desc>Opmerking      : Invaartverbod voor de duur van 3 jaar - Jachthaven in aanleg.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 119
+Tankstation:      : Nee
+VHF:     60
+PhoneNumber: 14020</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/32510">
+      <text>Spoorwegbassin te Amsterdam online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8640922312554" lon="4.2859002978768">
+    <name>WV Hairt Hille</name>
+    <desc>Locatie: Scheepvaartkanaal en Voedingskanaal
+Passanten plaatsen: 3
+Vaste ligplaatsen: 150
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/32571">
+      <text>WV Hairt Hille online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7728975626074" lon="5.1116587406844">
+    <name>Pekelharinghaven bv</name>
+    <desc>Locatie: Oosterhaven te Medemblik
+Opmerking      : Diepte: NAP-3,20m.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 240
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/32838">
+      <text>Pekelharinghaven bv online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9512016852754" lon="4.50903991638906">
+    <name>Rotterdam, WV Hillegersberg</name>
+    <desc>Locatie: Rotte
+Opmerking      : Diepte: KP-1,50m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 34
+Tankstation:      : Nee
+PhoneNumber: 010-4179111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/32998">
+      <text>Rotterdam, WV Hillegersberg online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.201877812893" lon="4.54091767641211">
+    <name>Zevenhuizen, De Horizon</name>
+    <desc>Locatie: Zweiland, Kagerplassen
+Opmerking      : Diepte: KP-2,0m/KP-1,25m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 10
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/33469">
+      <text>Zevenhuizen, De Horizon online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3358359242898" lon="4.84690808750266">
+    <name>Het Bosch</name>
+    <desc>Locatie: Nieuwe Meer
+Passanten plaatsen: 20
+Vaste ligplaatsen: 200
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/33660">
+      <text>Het Bosch online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.6876219820233" lon="5.25398253260196">
+    <name>Binnenhaven te Broekerhaven</name>
+    <desc>Locatie: Binnenhaven
+Opmerking      : Zie bijzonderheden: Algemeen.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 63
+Tankstation:      : Nee
+PhoneNumber: 0228-510111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/33930">
+      <text>Binnenhaven te Broekerhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9072006987636" lon="4.17732844428306">
+    <name>De Meeuw</name>
+    <desc>Locatie: Buitenhaven, Haven van Brielle
+Opmerking      : Diepte: MP-1,3m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 188
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/34144">
+      <text>De Meeuw online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9067165101496" lon="4.44962428170609">
+    <name>WSV Verenigde Liggers Delfshaven</name>
+    <desc>Locatie: Achterhaven
+Opmerking      : Diepte: KP-3,00m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/34247">
+      <text>WSV Verenigde Liggers Delfshaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4584376330819" lon="5.09982217722005">
+    <name>Westhaven  Marken</name>
+    <desc>Locatie: Haven van Marken
+Opmerking      : Diepte MP-1,70m
+Passanten plaatsen: 10
+Vaste ligplaatsen: 38
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/34888">
+      <text>Westhaven  Marken online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7082919240476" lon="4.82092798393726">
+    <name>De Roskam</name>
+    <desc>Locatie: Langedijker Vaart
+Passanten plaatsen: 6
+Vaste ligplaatsen: 54
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/34922">
+      <text>De Roskam online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.85811789663" lon="4.83409467613549">
+    <name>'t Oude Veer</name>
+    <desc>Locatie: Boezem van de Zijpe
+Passanten plaatsen: 10
+Vaste ligplaatsen: 125
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/35002">
+      <text>'t Oude Veer online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.458322270108" lon="5.10023414655943">
+    <name>Oude Haven te Marken</name>
+    <desc>Locatie: Haven van Marken
+Opmerking      : Diepte MP-2,00m / lengte kade 75m
+Passanten plaatsen: 0
+Vaste ligplaatsen: 12
+Tankstation:      : Nee
+PhoneNumber: 088-7973700</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/35187">
+      <text>Oude Haven te Marken online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3053097212143" lon="5.0486352927173">
+    <name>WSV De Vecht</name>
+    <desc>Locatie: Vecht
+Opmerking      : .
+Passanten plaatsen: 12
+Vaste ligplaatsen: 150
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/35188">
+      <text>WSV De Vecht online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3344597560405" lon="4.84623716272547">
+    <name>De Koenen</name>
+    <desc>Locatie: Nieuwe Meer
+Passanten plaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/35314">
+      <text>De Koenen online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2660856442327" lon="4.7321078528931">
+    <name>JH Schimmel</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (oostelijk deel)
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/35365">
+      <text>JH Schimmel online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0276543584053" lon="5.09690789135347">
+    <name>Hatenboer Yachting</name>
+    <desc>Locatie: Merwedekanaal (benoorden de Lek)
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/35436">
+      <text>Hatenboer Yachting online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9083167898396" lon="4.19231484055659">
+    <name>Krabbehaventje van WSV Rozenburg</name>
+    <desc>Locatie: Vaarwater benoorden eiland Middenplaat
+Opmerking      : Diepte: MP-2,5m/MP-1,7m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 64
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/35573">
+      <text>Krabbehaventje van WSV Rozenburg online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5630079567224" lon="4.74428447651542">
+    <name>Alkmaarse Roei- en Zeil Vereniging</name>
+    <desc>Locatie: Vaargeul Alkmaardermeer
+Opmerking      : Alleen leden.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 50
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/35749">
+      <text>Alkmaarse Roei- en Zeil Vereniging online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1618790157167" lon="4.64148261076705">
+    <name>Jachtwerf P.A. van der Laan</name>
+    <desc>Locatie: Heimans- en Woudwetering
+Passanten plaatsen: 3
+Vaste ligplaatsen: 10
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/36017">
+      <text>Jachtwerf P.A. van der Laan online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9096922043245" lon="4.49818167721901">
+    <name>Entrepothaven</name>
+    <desc>Locatie: Binnenhaven
+Opmerking      : Diepte: NAP-3,60m.
+Passanten plaatsen: 40
+Vaste ligplaatsen: 130
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/36035">
+      <text>Entrepothaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.308900360224" lon="5.24429629397645">
+    <name>Het Kolkje</name>
+    <desc>Locatie: Haven van Huizen
+Passanten plaatsen: 15
+Vaste ligplaatsen: 15
+Tankstation:      : Nee
+PhoneNumber: 035-5281911</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/36095">
+      <text>Het Kolkje online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3765545690238" lon="4.95296986298023">
+    <name>Ertshaven</name>
+    <desc>Opmerking      : Aan het einde verbinding met de IJ-haven.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 26
+Tankstation:      : Nee
+VHF:     60
+PhoneNumber: 14020</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/36623">
+      <text>Ertshaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.6371027039252" lon="5.06355928831322">
+    <name>Vluchthaven te Hoorn</name>
+    <desc>Locatie: Buitenhaven
+Opmerking      : W.V. Hoorn
+Drijvende steiger voor afmeren passanten. Takel aanwezig.
+Passanten plaatsen: 26
+Vaste ligplaatsen: 188
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/36818">
+      <text>Vluchthaven te Hoorn online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.978204983171" lon="4.55284197405397">
+    <name>Hoge Bergsche Bosch, ligplaats</name>
+    <desc>Locatie: Rotte
+Opmerking      : Diepte: KP-1,10m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 30
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/37015">
+      <text>Hoge Bergsche Bosch, ligplaats online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.8828487955741" lon="4.87419856697151">
+    <name>JH Ewijcksluis</name>
+    <desc>Locatie: Van Ewijcksvaart
+Passanten plaatsen: 10
+Vaste ligplaatsen: 125
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/37117">
+      <text>JH Ewijcksluis online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3817258740268" lon="4.90622116615786">
+    <name>Sixhaven</name>
+    <desc>Locatie: Sixhaven
+Passanten plaatsen: 80
+Vaste ligplaatsen: 120
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/37388">
+      <text>Sixhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5487046626346" lon="4.77877972143709">
+    <name>De Woude, jachthaven</name>
+    <desc>Locatie: Markervaart
+Passanten plaatsen: 0
+Vaste ligplaatsen: 30
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/37593">
+      <text>De Woude, jachthaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9086268534548" lon="4.17871151928628">
+    <name>M.H. Tromp</name>
+    <desc>Locatie: Brielse Rak, Brielse Meer
+Opmerking      : Diepte: MP-2,5m/MP-1,9m.
+Passanten plaatsen: 8
+Vaste ligplaatsen: 120
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/37940">
+      <text>M.H. Tromp online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.8845009945218" lon="4.93148462963656">
+    <name>De Oude Haven, WV Amstelmeer  </name>
+    <desc>Locatie: Havens van de Haukes
+Opmerking      : Diepte: KP-2,60m.
+Passanten plaatsen: 50
+Vaste ligplaatsen: 100
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/37983">
+      <text>De Oude Haven, WV Amstelmeer   online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8983287767363" lon="4.7024223790504">
+    <name>WV Lekkerkerk</name>
+    <desc>Locatie: Lek
+Opmerking      : Steigers en boxen.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 42
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/38052">
+      <text>WV Lekkerkerk online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1861329627449" lon="4.635679251912">
+    <name>De Meerkant</name>
+    <desc>Locatie: Braassemermeer
+Passanten plaatsen: 10
+Vaste ligplaatsen: 60
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/38424">
+      <text>De Meerkant online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9106132598039" lon="4.17559924691447">
+    <name>JH Port Brielle</name>
+    <desc>Locatie: Brielse Rak, Brielse Meer
+Opmerking      : Diepte: MP-2,4m/MP-1,2m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 80
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/38450">
+      <text>JH Port Brielle online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9221544375418" lon="4.15857615686352">
+    <name>Schreiershaven</name>
+    <desc>Locatie: Oosterlandse Rak, Brielse Meer
+Opmerking      : Diepte: MP-2,6m. Alleen voor Unie van watertoeristen.
+Passanten plaatsen: 2
+Vaste ligplaatsen: 48
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/38487">
+      <text>Schreiershaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.419279414579" lon="5.22116361185741">
+    <name>Almere Buiten, WV De Block van Kuffeler</name>
+    <desc>Locatie: Voorhaven Zuidersluis
+Passanten plaatsen: 0
+Vaste ligplaatsen: 150
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/38720">
+      <text>Almere Buiten, WV De Block van Kuffeler online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4898658851596" lon="5.08073987381998">
+    <name>Marina Volendam</name>
+    <desc>Locatie: Geul door de Gouwzee naar de haven van Volendam
+Passanten plaatsen: 0
+Vaste ligplaatsen: 200
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/38888">
+      <text>Marina Volendam online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5158919824058" lon="4.7891680549756">
+    <name>Oostra</name>
+    <desc>Locatie: Achterzaan of Binnenzaan
+Passanten plaatsen: 0
+Vaste ligplaatsen: 167
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/39045">
+      <text>Oostra online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5303809522936" lon="4.72561278917222">
+    <name>Zaadnoorddijk</name>
+    <desc>Locatie: Vaargeul naar Uitgeest
+Opmerking      : Diepte: KP-2,20/KP-1,70. Jachtwerf in haven
+Passanten plaatsen: 40
+Vaste ligplaatsen: 400
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/39330">
+      <text>Zaadnoorddijk online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.885368438125" lon="4.22732669973292">
+    <name>De Witte Raaf</name>
+    <desc>Locatie: Blankenburgse Rak, Brielse Meer
+Passanten plaatsen: 0
+Vaste ligplaatsen: 50
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/39410">
+      <text>De Witte Raaf online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2626345343975" lon="4.72459416972993">
+    <name>Aalsmeer, Dutch maritiem Jachtbrokers</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (oostelijk deel)
+Passanten plaatsen: 0
+Vaste ligplaatsen: 25
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/39461">
+      <text>Aalsmeer, Dutch maritiem Jachtbrokers online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1905809482592" lon="4.50389006652193">
+    <name>Jachthaven Aad Juffermans</name>
+    <desc>Locatie: Grote Sloot
+Passanten plaatsen: 3
+Vaste ligplaatsen: 100
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/40026">
+      <text>Jachthaven Aad Juffermans online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9193696186587" lon="4.40117539066424">
+    <name>Florynhaven</name>
+    <desc>Locatie: Schiedamsche Schie
+Opmerking      : Passantenhaven.
+Passanten plaatsen: 10
+Vaste ligplaatsen: 0
+Tankstation:      : Nee
+PhoneNumber: 14010</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/40740">
+      <text>Florynhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.352501934151" lon="4.6348409528625">
+    <name>Spaarneborghhaven</name>
+    <desc>Locatie: Heemsteedsch Kanaal
+Opmerking      : Diepte: KP-1,50m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 24
+Tankstation:      : Nee
+PhoneNumber: 023-5485630</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/40762">
+      <text>Spaarneborghhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2775942463443" lon="4.76659177880607">
+    <name>Heemhorst Watersport</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (oostelijk deel)
+Passanten plaatsen: 4
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/41053">
+      <text>Heemhorst Watersport online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8939058255705" lon="4.21541297328221">
+    <name>WSV Nautica</name>
+    <desc>Locatie: Blankenburgse Rak, Brielse Meer
+Passanten plaatsen: 0
+Vaste ligplaatsen: 104
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/41602">
+      <text>WSV Nautica online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2560855470309" lon="4.71409772634437">
+    <name>Stenhuis</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (oostelijk deel)
+Passanten plaatsen: 10
+Vaste ligplaatsen: 250
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/41615">
+      <text>Stenhuis online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2286715360066" lon="4.5519232749939">
+    <name>De Poel</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (westelijk gedeelte)
+Opmerking      : Diepte: KP-1,50m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 30
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/41701">
+      <text>De Poel online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.8401817895621" lon="4.89231242751877">
+    <name>Stichting Jachthaven Nieuwesluis</name>
+    <desc>Locatie: Waardkanaal
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/41900">
+      <text>Stichting Jachthaven Nieuwesluis online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1959669878369" lon="4.53594923217993">
+    <name>Zijleinde , ligplaats</name>
+    <desc>Locatie: Zijp
+Passanten plaatsen: 0
+Vaste ligplaatsen: 15
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/41962">
+      <text>Zijleinde , ligplaats online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8601204640257" lon="4.65083397559716">
+    <name>Alblasserdam, haven te</name>
+    <desc>Locatie: Alblasserdam, haven te
+Opmerking      : Verbinding met Graafstroom via sluis. Maximum snelheid: 6 km/u.
+Passanten plaatsen: 4
+Vaste ligplaatsen: 100
+Tankstation:      : Nee
+PhoneNumber: 0344-649090</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/42074">
+      <text>Alblasserdam, haven te online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2069943979978" lon="4.58963375425056">
+    <name>De Ade</name>
+    <desc>Locatie: Ade of Poel
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/42218">
+      <text>De Ade online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.6875154511858" lon="5.27108788490295">
+    <name>Enkhuizen, Jachtservice</name>
+    <desc>Locatie: Krabbersgat
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/42488">
+      <text>Enkhuizen, Jachtservice online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3857046032586" lon="4.89084095248608">
+    <name>Marina Westerdok</name>
+    <desc>Locatie: Westerdok
+Passanten plaatsen: 0
+Vaste ligplaatsen: 60
+Tankstation:      : Nee
+PhoneNumber: 14020</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/42682">
+      <text>Marina Westerdok online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.8849880038419" lon="4.93251646011675">
+    <name>Marine WV</name>
+    <desc>Locatie: Havens van de Haukes
+Passanten plaatsen: 0
+Vaste ligplaatsen: 140
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/42815">
+      <text>Marine WV online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5665272332795" lon="4.74360805671738">
+    <name>Laamens</name>
+    <desc>Locatie: Vaargeul Alkmaardermeer
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/42990">
+      <text>Laamens online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.6330496025666" lon="5.06358908565637">
+    <name>Grashaven</name>
+    <desc>Locatie: Buitenhaven
+Opmerking      : Diepte haven MP-3,10m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 762
+Tankstation:      : Nee
+VHF:     74</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/43323">
+      <text>Grashaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0638953402817" lon="4.34443293739833">
+    <name>WV Vlietstreek</name>
+    <desc>Locatie: Binckhorsthaven
+Opmerking      : Diepte: KP-3,20m.
+Passanten plaatsen: 4
+Vaste ligplaatsen: 102
+Tankstation:      : Nee
+PhoneNumber: 070-3539945</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/43387">
+      <text>WV Vlietstreek online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9528924785714" lon="4.7793226786705">
+    <name>Den Helder, WV HWN</name>
+    <desc>Locatie: Koopvaardersbinnenhaven
+Opmerking      :  
+Passanten plaatsen: 0
+Vaste ligplaatsen: 75
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/44018">
+      <text>Den Helder, WV HWN online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3482769942091" lon="4.88587019546012">
+    <name>Apollo Marina</name>
+    <desc>Locatie: Amstelkanaal
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/44153">
+      <text>Apollo Marina online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9515814975558" lon="4.7814229623796">
+    <name>Den Helder, WSOV Breewijd</name>
+    <desc>Locatie: Koopvaardersbinnenhaven
+Passanten plaatsen: 0
+Vaste ligplaatsen: 90
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/44683">
+      <text>Den Helder, WSOV Breewijd online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1512163804087" lon="4.41318441152972">
+    <name>WV De Thuishaven</name>
+    <desc>Locatie: Wassenaarse- of Zijlwatering
+Passanten plaatsen: 12
+Vaste ligplaatsen: 260
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/44806">
+      <text>WV De Thuishaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3309835108621" lon="5.22024571105569">
+    <name>Watersportvereniging Almere-Haven</name>
+    <desc>Locatie: Haven Almere
+Passanten plaatsen: 0
+Vaste ligplaatsen: 438
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/45183">
+      <text>Watersportvereniging Almere-Haven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9539663346728" lon="4.77757874879847">
+    <name>Den Helder, WV HWN</name>
+    <desc>Locatie: Koopvaardersbinnenhaven
+Passanten plaatsen: 0
+Vaste ligplaatsen: 18
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/45380">
+      <text>Den Helder, WV HWN online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9295818547008" lon="4.10528312839444">
+    <name>WV Oostvoorne</name>
+    <desc>Locatie: Kruininger Rak, Brielse Meer
+Passanten plaatsen: 10
+Vaste ligplaatsen: 125
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/45394">
+      <text>WV Oostvoorne online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5174443822397" lon="5.07268648327798">
+    <name>Galgenveld, WSV De Zeevang</name>
+    <desc>Locatie: Oorgat
+Opmerking      : Diepte: MP-2,20m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 155
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/45606">
+      <text>Galgenveld, WSV De Zeevang online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9068035530126" lon="4.16821104555611">
+    <name>Noord-Spuihaven</name>
+    <desc>Locatie: Zuid-Spuihaven, Haven van Brielle
+Opmerking      : Bruggen over haven,
+Julianabrug (oph.) 
+Hoogte: MP+ 1,90m. Wijdte7,0m.
+Rolbrug
+Hoogte: MP+ 2,00m  Wijdte 6,4m
+Passanten plaatsen: 55
+Vaste ligplaatsen: 129
+Tankstation:      : Nee
+PhoneNumber: 0181-471111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/45609">
+      <text>Noord-Spuihaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0129629484981" lon="5.09802531617643">
+    <name>WSV Plettenburg</name>
+    <desc>Locatie: Merwedekanaal (benoorden de Lek)
+Passanten plaatsen: 20
+Vaste ligplaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/46095">
+      <text>WSV Plettenburg online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5166024847912" lon="4.78926702660068">
+    <name>De Boeier</name>
+    <desc>Locatie: Achterzaan of Binnenzaan
+Passanten plaatsen: 0
+Vaste ligplaatsen: 70
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/46564">
+      <text>De Boeier online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1853887511836" lon="4.49115567864137">
+    <name>Warmonderhek</name>
+    <desc>Locatie: Zwanegat
+Opmerking      : Diepte: KP-2,00m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 150
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/46695">
+      <text>Warmonderhek online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5755442174623" lon="4.99703859942138">
+    <name>Oosthuizen, passantenhaven</name>
+    <desc>Locatie: Beemsterringvaart
+Passanten plaatsen: 6
+Vaste ligplaatsen: 0
+Tankstation:      : Nee
+PhoneNumber: 0299-409408</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/46829">
+      <text>Oosthuizen, passantenhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9052505583419" lon="4.44823311765242">
+    <name>Rotterdam, Voorhaven</name>
+    <desc>Locatie: Voorhaven
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee
+PhoneNumber: 010-4179111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/46948">
+      <text>Rotterdam, Voorhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0006986431033" lon="4.36429863326283">
+    <name>Princehaven Delft</name>
+    <desc>Locatie: Delftse Schie
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/47048">
+      <text>Princehaven Delft online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2525105078075" lon="4.94930090828581">
+    <name>JH Bon</name>
+    <desc>Locatie: Vinkeveense Plassen
+Passanten plaatsen: 20
+Vaste ligplaatsen: 400
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/47575">
+      <text>JH Bon online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8889211319033" lon="5.09152420789971">
+    <name>Leerdam, haven te</name>
+    <desc>Locatie: Linge
+Opmerking      : Zeil- en roeivereniging.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 30
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/47591">
+      <text>Leerdam, haven te online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9491196837876" lon="4.77699352140818">
+    <name>Jachthaven Den Helder</name>
+    <desc>Locatie: Haven Westoever te Den Helder
+Opmerking      : Maximum diepgang: 1,80m.
+Passanten plaatsen: 50
+Vaste ligplaatsen: 260
+Tankstation:      : Ja
+VHF:     31</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/48144">
+      <text>Jachthaven Den Helder online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.554709546547" lon="4.77969066796135">
+    <name>De Woudhaven, passantenhaven</name>
+    <desc>Locatie: Kogerpolderkanaal
+Passanten plaatsen: 50
+Tankstation:      : Nee
+PhoneNumber: 0251-311410</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/48147">
+      <text>De Woudhaven, passantenhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9427688685245" lon="4.85013699391857">
+    <name>Buitenhaven te Schoonhoven</name>
+    <desc>Locatie: Lek
+Opmerking      : Bevaarbaarheidsklasse I. Diepte: NAP-2,50m. Zie: bijzonderheden algemeen.
+Toegang tot de Vlist (alleen bevaarbaar voor kano's).
+Passanten plaatsen: 10
+Vaste ligplaatsen: 10
+Tankstation:      : Nee
+PhoneNumber: 0182-389200</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/48513">
+      <text>Buitenhaven te Schoonhoven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9522255204538" lon="4.78039121587926">
+    <name>Den Helder, Marine WSV</name>
+    <desc>Locatie: Koopvaardersbinnenhaven
+Opmerking      : Gesloten club Marine
+Passanten plaatsen: 0
+Vaste ligplaatsen: 30
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/48561">
+      <text>Den Helder, Marine WSV online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1961698032866" lon="4.58275031910369">
+    <name>JH De Koppoel</name>
+    <desc>Locatie: Ade of Poel
+Passanten plaatsen: 0
+Vaste ligplaatsen: 120
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/48914">
+      <text>JH De Koppoel online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9374510801409" lon="4.86751770833507">
+    <name>Nieuwpoort, Nova Portus</name>
+    <desc>Locatie: Lek
+Passanten plaatsen: 0
+Vaste ligplaatsen: 25
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/49066">
+      <text>Nieuwpoort, Nova Portus online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5472931044065" lon="4.77783531030831">
+    <name>De Woude,  't Kombof</name>
+    <desc>Locatie: Markervaart
+Passanten plaatsen: 10
+Vaste ligplaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/49151">
+      <text>De Woude,  't Kombof online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2560825640169" lon="5.0429812270555">
+    <name>Overmeer, jachthaven</name>
+    <desc>Locatie: Vecht
+Passanten plaatsen: 0
+Vaste ligplaatsen: 30
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/49261">
+      <text>Overmeer, jachthaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3919560256316" lon="4.67389791477035">
+    <name>Assema</name>
+    <desc>Locatie: Liede
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/49426">
+      <text>Assema online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3747253358643" lon="4.9236774553229">
+    <name>Amsterdam, Kattenburgervaart</name>
+    <desc>Locatie: Dijksgracht
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/49503">
+      <text>Amsterdam, Kattenburgervaart online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2535551530013" lon="4.71138121028123">
+    <name>Blauwe Beugel</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (oostelijk deel)
+Passanten plaatsen: 50
+Vaste ligplaatsen: 125
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/49620">
+      <text>Blauwe Beugel online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3331433930231" lon="5.22105472054873">
+    <name>Almere, haven te</name>
+    <desc>Locatie: Haven Almere
+Passanten plaatsen: 0
+Vaste ligplaatsen: 45
+Tankstation:      : Nee
+PhoneNumber: 036-5399911</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/49791">
+      <text>Almere, haven te online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.372073163286" lon="4.9252471588772">
+    <name>WSV De Oostvaarders</name>
+    <desc>Locatie: Wittenburgervaart
+Opmerking      : Boxen. 
+Passanten plaatsen: 0
+Vaste ligplaatsen: 80
+Tankstation:      : Nee
+PhoneNumber: 14020</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/49874">
+      <text>WSV De Oostvaarders online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1987060649177" lon="5.036106802965">
+    <name>Recreatiecentrum Mijnden</name>
+    <desc>Locatie: Westelijke Drecht
+Passanten plaatsen: 100
+Vaste ligplaatsen: 200
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/50085">
+      <text>Recreatiecentrum Mijnden online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9338758627699" lon="4.44885850496826">
+    <name>De Hudson</name>
+    <desc>Locatie: Schie-Schiekanaal
+Opmerking      : Diepte: KP-2,00m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 15
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/50672">
+      <text>De Hudson online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3333555134927" lon="5.07033539845483">
+    <name>Muiden, Stichting</name>
+    <desc>Locatie: Vecht
+Passanten plaatsen: 15
+Vaste ligplaatsen: 42
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/51310">
+      <text>Muiden, Stichting online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9130137875942" lon="4.80089841765545">
+    <name>De Kooy, jachthaven</name>
+    <desc>Locatie: Balgzandkanaal
+Passanten plaatsen: 0
+Vaste ligplaatsen: 24
+Tankstation:      : Nee
+PhoneNumber: 072 5828282</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/51782">
+      <text>De Kooy, jachthaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9130137875942" lon="4.80089841765545">
+    <name>De Kooy, jachthaven</name>
+    <desc>Locatie: Balgzandkanaal
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee
+PhoneNumber: 072 5828282</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/51788">
+      <text>De Kooy, jachthaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9625679384816" lon="4.78186368942261">
+    <name>Koninklijke Marine Jacht Club</name>
+    <desc>Locatie: Den Helder
+Passanten plaatsen: 25
+Vaste ligplaatsen: 45
+Tankstation:      : Ja
+VHF:     14</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/51874">
+      <text>Koninklijke Marine Jacht Club online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.0438347037698" lon="4.85805988311768">
+    <name>Waddenhaven Texel</name>
+    <desc>Locatie: Werkhaven
+Opmerking      : Diepte 2,4 m (LW) - 4,0 m (HW)
+Passanten plaatsen: 250
+Vaste ligplaatsen: 190
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/51976">
+      <text>Waddenhaven Texel online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1182019577068" lon="5.09129639253503">
+    <name>Utrecht, de Klop</name>
+    <desc>Locatie: Vecht
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/52124">
+      <text>Utrecht, de Klop online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1449907036337" lon="4.77582053977774">
+    <name>JH Akerboom</name>
+    <desc>Locatie: Gemeentevaart
+Passanten plaatsen: 0
+Vaste ligplaatsen: 25
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/52284">
+      <text>JH Akerboom online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0015826327096" lon="4.55310760971981">
+    <name>De Eendragt</name>
+    <desc>Locatie: Hennipsloot
+Opmerking      : Diepte: KP-1,75m/KP-1,25m.
+Passanten plaatsen: 20
+Vaste ligplaatsen: 200
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/52670">
+      <text>De Eendragt online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.6982135216894" lon="5.2888998013691">
+    <name>Buijshaven</name>
+    <desc>Locatie: Krabbershaven
+Opmerking      : Diepte 2,4-3,3 m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 190
+Tankstation:      : Nee
+PhoneNumber: 0228-360100</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/52681">
+      <text>Buijshaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8850699555125" lon="5.28572207827447">
+    <name>Achter 't veer</name>
+    <desc>Locatie: Linge
+Passanten plaatsen: 8
+Vaste ligplaatsen: 180
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/52925">
+      <text>Achter 't veer online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1833861109443" lon="4.49054765335469">
+    <name>JH Welgelegen </name>
+    <desc>Locatie: Zwanegat
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/54063">
+      <text>JH Welgelegen  online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3068549910382" lon="5.02528075339276">
+    <name>Industriehaven te Weesp</name>
+    <desc>Locatie: Smal Weesp
+Opmerking      : Diepte: KP-4,60m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 110
+Tankstation:      : Nee
+PhoneNumber: 0294-491391</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/54100">
+      <text>Industriehaven te Weesp online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.897746442291" lon="4.40103662969949">
+    <name>Spuihaven</name>
+    <desc>Locatie: Nieuwe Maas
+Opmerking      : Diepte: NAP-3,00m/NAP-2,50m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 120
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/54133">
+      <text>Spuihaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8551170264479" lon="4.65186810353771">
+    <name>Oostendam, haven te</name>
+    <desc>Locatie: Noord
+Opmerking      : Bevaarbaarheidsklasse: II. Diepte: NAP-1m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 54
+Tankstation:      : Nee
+PhoneNumber: 088-9743000</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/55380">
+      <text>Oostendam, haven te online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3922958190026" lon="4.67374264046941">
+    <name>Renautic</name>
+    <desc>Locatie: Liede
+Passanten plaatsen: 0
+Vaste ligplaatsen: 10
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/55487">
+      <text>Renautic online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3080113730148" lon="5.24295238073918">
+    <name>Huizen, jachthaven ADVH</name>
+    <desc>Locatie: Haven van Huizen
+Passanten plaatsen: 0
+Vaste ligplaatsen: 210
+Tankstation:      : Nee
+PhoneNumber: 035-5281911</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/55768">
+      <text>Huizen, jachthaven ADVH online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0972091461953" lon="4.26741600036621">
+    <name>2e Haven te Scheveningen</name>
+    <desc>Locatie: Tweedee Haven
+Passanten plaatsen: 70
+Vaste ligplaatsen: 292
+Tankstation:      : Ja
+VHF:     21
+PhoneNumber: 070-3539945</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/55782">
+      <text>2e Haven te Scheveningen online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2262219126805" lon="5.08506320677587">
+    <name>De Ankerplaats</name>
+    <desc>Locatie: Hilversumsch Kanaal
+Opmerking      : 3 invaarten.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/56143">
+      <text>De Ankerplaats online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9297009812211" lon="4.43880103425149">
+    <name>Fokhaven</name>
+    <desc>Locatie: Schie-Schiekanaal
+Opmerking      : Diepte: KP-2,20m/KP-1,25m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 150
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/56426">
+      <text>Fokhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.204042823584" lon="4.64908948879964">
+    <name>De Brasem</name>
+    <desc>Locatie: Braassemermeer
+Passanten plaatsen: 10
+Vaste ligplaatsen: 130
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/56492">
+      <text>De Brasem online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5160925714809" lon="4.7891959966105">
+    <name>'t Swaentje</name>
+    <desc>Locatie: Achterzaan of Binnenzaan
+Passanten plaatsen: 0
+Vaste ligplaatsen: 180
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/56663">
+      <text>'t Swaentje online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.6676041279076" lon="4.80230250016708">
+    <name>Bijvoet Boatservice</name>
+    <desc>Locatie: Kanaal Alkmaar (Omval) - Kolhorn
+Opmerking      : Maximum diepgang: 1,20m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 30
+Tankstation:      : Ja</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/57330">
+      <text>Bijvoet Boatservice online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1909823875216" lon="4.50328517649992">
+    <name>Jachterf Ouwehand</name>
+    <desc>Locatie: Grote Sloot
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/57579">
+      <text>Jachterf Ouwehand online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1774374174927" lon="4.62121364652147">
+    <name>Camping Wijde Aa</name>
+    <desc>Locatie: Wijde Aa
+Passanten plaatsen: 0
+Vaste ligplaatsen: 80
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/57774">
+      <text>Camping Wijde Aa online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7701864706865" lon="5.10403639567668">
+    <name>Medemblik, Westerhaven</name>
+    <desc>Locatie: Overlekerkanaal
+Opmerking      : Diepte: NAP-3,00m/NAP-2,50m. Havenkantoor.
+Passanten plaatsen: 20
+Vaste ligplaatsen: 150
+Tankstation:      : Nee
+PhoneNumber: 0227-546111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/58028">
+      <text>Medemblik, Westerhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2676283452327" lon="4.73850249211055">
+    <name>Jachtwerf De Overkant</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (oostelijk deel)
+Passanten plaatsen: 24
+Vaste ligplaatsen: 0
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/58086">
+      <text>Jachtwerf De Overkant online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7439883015267" lon="5.18330999478033">
+    <name>Andijk, Buurtjeshaven </name>
+    <desc>Locatie: Nieuwe Jachthaven
+Passanten plaatsen: 20
+Vaste ligplaatsen: 150
+Tankstation:      : Nee
+PhoneNumber: 0227-546111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/58216">
+      <text>Andijk, Buurtjeshaven  online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.6735374206841" lon="4.80984843984147">
+    <name>Broek op Langedijk, passantenhaven </name>
+    <desc>Locatie: Kanaal Alkmaar (Omval) - Kolhorn
+Opmerking      : Diepte: KP-2,50m.
+Passanten plaatsen: 20
+Vaste ligplaatsen: 0
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/58630">
+      <text>Broek op Langedijk, passantenhaven  online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8723742534567" lon="4.23767335951608">
+    <name>WSV De Waterman</name>
+    <desc>Locatie: Scheepvaartkanaal en Voedingskanaal
+Passanten plaatsen: 1
+Vaste ligplaatsen: 71
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/58682">
+      <text>WSV De Waterman online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9046168277572" lon="4.44883815010969">
+    <name>WV Oud Delfshaven</name>
+    <desc>Locatie: Middenkous
+Opmerking      : Diepte: KP-3,00m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee
+PhoneNumber: 010-4179111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/58751">
+      <text>WV Oud Delfshaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.403411924375" lon="4.66086387634277">
+    <name>Haarlem, jachthaven Schoteroog</name>
+    <desc>Locatie: Noorder Buiten-Spaarne
+Opmerking      : met bootlift
+Passanten plaatsen: 0
+Vaste ligplaatsen: 60
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/5979586">
+      <text>Haarlem, jachthaven Schoteroog online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9496120491262" lon="4.77819921677506">
+    <name>Spoorweghaven</name>
+    <desc>Locatie: Haven Westoever te Den Helder
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee
+PhoneNumber: 0223-671200</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/5979633">
+      <text>Spoorweghaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7015843560967" lon="5.29206891000357">
+    <name>Enkhuizen, Mensink Yachting</name>
+    <desc>Locatie: Oude Haven
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee
+VHF:     12</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/5979701">
+      <text>Enkhuizen, Mensink Yachting online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7677357019718" lon="5.09749529697138">
+    <name>Medemblik, ligplaats (2)</name>
+    <desc>Locatie: Overlekerkanaal
+Passanten plaatsen: 0
+Vaste ligplaatsen: 50
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/5979771">
+      <text>Medemblik, ligplaats (2) online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.8862005842399" lon="4.87456216701106">
+    <name>Jachthaven Amsteldiep</name>
+    <desc>Locatie: Amstelmeer
+Passanten plaatsen: 0
+Vaste ligplaatsen: 35
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/5979773">
+      <text>Jachthaven Amsteldiep online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9382941025203" lon="5.03795492155356">
+    <name>Waddenhaven</name>
+    <desc>Locatie: Den Oever
+Passanten plaatsen: 25
+Vaste ligplaatsen: 0
+Tankstation:      : Nee
+PhoneNumber: 088-3215000</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/5979917">
+      <text>Waddenhaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3771441116433" lon="4.67773219476878">
+    <name>De Liede</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (noordelijk gedeelte)
+Passanten plaatsen: 0
+Vaste ligplaatsen: 15
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/5980207">
+      <text>De Liede online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3105407537121" lon="5.24360511285816">
+    <name>Haven van Huizen</name>
+    <desc>Locatie: Haven van Huizen
+Opmerking      : De haven is in 2002 in gebruik genomen.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee
+PhoneNumber: 035-5281911</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/5980316">
+      <text>Haven van Huizen online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4062470420971" lon="4.66428019807675">
+    <name>Haarlemmer Jachtclub</name>
+    <desc>Locatie: Noorder Buiten-Spaarne
+Passanten plaatsen: 0
+Vaste ligplaatsen: 150
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/5980371">
+      <text>Haarlemmer Jachtclub online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9420545753923" lon="4.86176705220714">
+    <name>'t Wilgerak</name>
+    <desc>Locatie: Lek
+Opmerking      : Diepte: NAP-2,50m. Kadelengte: 200m. Steigers en boxen.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 80
+Tankstation:      : Nee
+PhoneNumber: 0182-389200</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7069242">
+      <text>'t Wilgerak online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0120040466563" lon="4.690545274303">
+    <name>Jachthaven WV Gouda</name>
+    <desc>Locatie: Kromme Gouwe
+Passanten plaatsen: 5
+Vaste ligplaatsen: 30
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7069334">
+      <text>Jachthaven WV Gouda online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9243596244411" lon="4.59572660853155">
+    <name>Krimpen aan den IJssel, haven te</name>
+    <desc>Locatie: Hollandsche IJssel
+Opmerking      : Diepte: NAP-2,50m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 20
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7069795">
+      <text>Krimpen aan den IJssel, haven te online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3807238010884" lon="4.9199669142485">
+    <name>Motorkanaal / Aeolus</name>
+    <desc>Locatie: Afgesloten-IJ, Binnen-IJ of IJ
+Opmerking      : Wijdte doorvaart: 8,0m. Steigers en boxen.
+Passanten plaatsen: 5
+Vaste ligplaatsen: 60
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7069811">
+      <text>Motorkanaal / Aeolus online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.902539104875" lon="4.55655312398449">
+    <name>WSV IJsselmonde</name>
+    <desc>Locatie: Nieuwe Maas
+Opmerking      : Diepte: NAP-3,80m/NAP-1,10m.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 195
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7069864">
+      <text>WSV IJsselmonde online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9617067142429" lon="5.28392529347911">
+    <name>Beusichem</name>
+    <desc>Locatie: Lek
+Opmerking      : Boxen. Diepte haven: NAP+1,0m.
+Passanten plaatsen: 20
+Vaste ligplaatsen: 100
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7069922">
+      <text>Beusichem online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.2355665363921" lon="4.96387340699839">
+    <name>Vinkeveen, jachthaven</name>
+    <desc>Locatie: Middenwetering, Vinkeveense Plassen
+Passanten plaatsen: 10
+Vaste ligplaatsen: 25
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7070000">
+      <text>Vinkeveen, jachthaven online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3801524984973" lon="4.96331877052706">
+    <name>Wachtplaats Schellingwoude</name>
+    <desc>Locatie: Buiten-IJ, Open-IJ
+Passanten plaatsen: 0
+Vaste ligplaatsen: 64
+Tankstation:      : Nee
+VHF:     60
+PhoneNumber: 020-5234500</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7070018">
+      <text>Wachtplaats Schellingwoude online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1757872066418" lon="4.61680232771781">
+    <name>Bungalowpark Wijde Aa</name>
+    <desc>Locatie: Wijde Aa
+Passanten plaatsen: 0
+Vaste ligplaatsen: 35
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7070054">
+      <text>Bungalowpark Wijde Aa online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1862743399412" lon="4.49112157813539">
+    <name>Warmonderhek</name>
+    <desc>Locatie: Haarlemmer Trekvaart, (traject: Leiden - Warmonderleede)
+Passanten plaatsen: 0
+Vaste ligplaatsen: 30
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7070067">
+      <text>Warmonderhek online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9041013275204" lon="4.74679684499279">
+    <name>Jachthaven Liesveld</name>
+    <desc>Locatie: Lek
+Opmerking      : Steigers.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 205
+Tankstation:      : Ja
+PhoneNumber: 0184-668600</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7070086">
+      <text>Jachthaven Liesveld online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9854206351348" lon="5.04857754567638">
+    <name>Keijzerskroon</name>
+    <desc>Locatie: Lek
+Passanten plaatsen: 20
+Vaste ligplaatsen: 60
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7070115">
+      <text>Keijzerskroon online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8923700909334" lon="4.63375782826915">
+    <name>WSV Smit</name>
+    <desc>Locatie: Lek
+Opmerking      : Diepte: NAP-2,50m. Steigers.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7070226">
+      <text>WSV Smit online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.929592298622" lon="4.61461758473888">
+    <name>'t Zandrak</name>
+    <desc>Locatie: Hollandsche IJssel
+Passanten plaatsen: 0
+Vaste ligplaatsen: 100
+Tankstation:      : Nee
+PhoneNumber: 010-2848688</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7070256">
+      <text>'t Zandrak online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.986715682907" lon="5.05973553517833">
+    <name>WSV De Peiler</name>
+    <desc>Locatie: Lek
+Opmerking      : Diepte: NAP-3,0m. Steigers en boxen.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 180
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7070328">
+      <text>WSV De Peiler online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9057196530077" lon="4.48111130564857">
+    <name>Veerhaven te Rotterdam</name>
+    <desc>Passanten plaatsen: 20
+Vaste ligplaatsen: 0
+Tankstation:      : Nee
+PhoneNumber: 010-4179111</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7070426">
+      <text>Veerhaven te Rotterdam online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4021101654081" lon="4.8823923767302">
+    <name>Amsterdam Marina</name>
+    <desc>Locatie: Afgesloten-IJ, Binnen-IJ of IJ
+Opmerking      : Jachthaven in aanleg (2012).
+Vaste ligplaatsen: 150
+Tankstation:      : Nee
+VHF:     4
+PhoneNumber: 020-5234500</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7070438">
+      <text>Amsterdam Marina online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9676562014082" lon="5.03063893178478">
+    <name>WSV Bolsweerd</name>
+    <desc>Locatie: Lek
+Opmerking      : Steigers (drijvend) en boxen.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 30
+Tankstation:      : Nee
+PhoneNumber: 0183-356500</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7070452">
+      <text>WSV Bolsweerd online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8912569811576" lon="4.2192175862509">
+    <name>Scoutcentrum Rozenburg</name>
+    <desc>Locatie: Blankenburgse Rak, Brielse Meer
+Vaste ligplaatsen: 40
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/7617553">
+      <text>Scoutcentrum Rozenburg online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.6728266511848" lon="4.81784822896495">
+    <name>Recreatiehaven Broekhorn</name>
+    <desc>Locatie: Langedijker Vaart
+Passanten plaatsen: 84
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/15367476">
+      <text>Recreatiehaven Broekhorn online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0343246936134" lon="4.93078276955842">
+    <name>Montfoort, haven te</name>
+    <desc>Locatie: Gekanaliseerde Hollandsche IJssel
+Vaste ligplaatsen: 10
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/15966134">
+      <text>Montfoort, haven te online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4055617515907" lon="4.67351603205135">
+    <name>Haarlemsche Jachtclub</name>
+    <desc>Locatie: Mooie Nel
+Passanten plaatsen: 12
+Vaste ligplaatsen: 150
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/16237936">
+      <text>Haarlemsche Jachtclub online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1613905651735" lon="4.41746950149536">
+    <name>Jachthaven MWSC (Marine Watersport Club)</name>
+    <desc>Locatie: Wassenaarse- of Zijlwatering
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/27587490">
+      <text>Jachthaven MWSC (Marine Watersport Club) online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.336909834263395" lon="4.620103687047958">
+    <name>Van Merlenhaven ViN-haven ViN(65144415)</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (westelijk gedeelte)
+Vaste ligplaatsen: 69
+Tankstation:      : Nee
+PhoneNumber: 023-5485630</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/39087988">
+      <text>Van Merlenhaven ViN-haven ViN(65144415) online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+</gpx>

@@ -1,0 +1,2877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:opencpn="http://www.opencpn.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="vwi_waypoints_generator.py -- https://github.com/marcelrv/OpenCPN-Waypoints">
+  <metadata>
+    <name>Zeeland Sluizen</name>
+    <desc>Zeeland sluis informatie incl. openings tijden based on RWS information</desc>
+    <author>
+      <name>Marcel Verpaalen</name>
+    </author>
+    <copyright >
+      <year>2022</year>
+      <license>CC BY-NC-SA 4.0</license>
+    </copyright>
+    <time>2023-03-24T16:00:46.705000Z</time>
+  </metadata>
+  <wpt lat="51.5966936427866" lon="4.99190211296081">
+    <name>Sluis II Tilburg</name>
+    <desc>Locatie: Wilhelminakanaal
+VHF:     18
+Contact PhoneNumber:088-7974825 (Bediening)
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+Periode 02-01 tot 02-01:
+   06:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 03-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 23-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 24-12 tot 24-12:
+   00:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+Periode 26-12 tot 26-12:
+Periode 27-12 tot 27-12:
+   00:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-12 tot 30-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 31-12 tot 31-12:
+   00:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/3308">
+      <text>Sluis II Tilburg online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.7927137428207" lon="4.76250886917114">
+    <name>Ottersluis</name>
+    <desc>Locatie: Otterkanaal
+Contact PhoneNumber:088-7972873
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+Periode 02-01 tot 31-03 (note: 1 werkdag tot 4 uur vooraf aanmelden bij de Biesboschsluis op nummer 088-7972931.):
+   09:00 - 16:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+Periode 01-04 tot 08-04:
+   09:00 - 10:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Vr, Za, Zo, excl. feestdagen. 
+   12:30 - 14:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   16:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   09:00 - 10:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Vr, Za, Zo, excl. feestdagen. 
+   12:30 - 14:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   16:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   09:00 - 10:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Vr, Za, Zo, excl. feestdagen. 
+   12:30 - 14:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   16:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   09:00 - 10:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Vr, Za, Zo, excl. feestdagen. 
+   12:30 - 14:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   16:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   09:00 - 10:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Vr, Za, Zo, excl. feestdagen. 
+   12:30 - 14:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   16:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 30-06:
+   09:00 - 10:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Vr, Za, Zo, excl. feestdagen. 
+   12:30 - 14:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   16:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 01-07 tot 31-08:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-09 tot 31-10:
+   09:00 - 10:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Vr, Za, Zo, excl. feestdagen. 
+   12:30 - 14:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   16:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 01-11 tot 24-12 (note: 1 werkdag tot 4 uur vooraf aanmelden bij de Biesboschsluis op nummer 088-7972931.):
+   09:00 - 16:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+Periode 26-12 tot 26-12:
+Periode 27-12 tot 31-12 (note: 1 werkdag tot 4 uur vooraf aanmelden bij de Biesboschsluis op nummer 088-7972931.):
+   09:00 - 16:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/6577">
+      <text>Ottersluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.773487895907" lon="4.18986797332764">
+    <name>Sluis Middelharnis</name>
+    <desc>Locatie: Buitenhaven
+VHF:     12
+Contact PhoneNumber:0187-482068
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 04-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-01 tot 29-02:
+   09:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. elke twee uur, laatste om 16:30 uur
+Periode 01-03 tot 31-03:
+   09:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. elke heel uur, laatste om 17:30
+Periode 01-04 tot 08-04:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. elke heel uur, laatst om 18:30 uur
+Periode 09-04 tot 09-04:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. elke heel uur, laatst om 18:30 uur
+Periode 10-04 tot 10-04:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. elke heel uur, laatst om 18:30 uur
+Periode 11-04 tot 26-04:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. elke heel uur, laatst om 18:30 uur
+Periode 27-04 tot 27-04:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. elke heel uur, laatst om 18:30 uur
+Periode 28-04 tot 30-04:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. elke heel uur, laatst om 18:30 uur
+Periode 01-05 tot 04-05:
+   08:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. Elk heel uur, laatste om 21:30uur
+Periode 05-05 tot 05-05:
+   08:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Elk heel uur, laatste om 21:30uur
+Periode 06-05 tot 17-05:
+   08:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. Elk heel uur, laatste om 21:30uur
+Periode 18-05 tot 18-05:
+   08:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Elk heel uur, laatste om 21:30uur
+Periode 19-05 tot 27-05:
+   08:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. Elk heel uur, laatste om 21:30uur
+Periode 28-05 tot 28-05:
+   08:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Elk heel uur, laatste om 21:30uur
+Periode 29-05 tot 29-05:
+   08:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Elk heel uur, laatste om 21:30uur
+Periode 30-05 tot 15-09:
+   08:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. Elk heel uur, laatste om 21:30uur
+Periode 16-09 tot 30-09:
+   09:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. Elk heel uur, laatste 19:30 uur
+Periode 01-10 tot 31-10:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. elke twee uur, laatst om 18:30 uur
+Periode 01-11 tot 21-12:
+   09:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. Elke twee uur, laatste om 16:30 uur
+Periode 22-12 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+
+Note: De jachthaven van Middelharnis is bereikbaar via een schutsluis. Bij een waterstand van 0,70 meter + N.A.P vindt schutten plaats op de hele uren (tijdens de openingstijden van de haven). De sluis is 45 meter lang en de drempel zit bij 0,00 meter NAP op 2.60 meter. De doorvaartbreedte bedraagt 6.90 meter.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/7378">
+      <text>Sluis Middelharnis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.3281943713262" lon="3.8171911239624">
+    <name>Westsluis Terneuzen</name>
+    <desc>Locatie: Kanaal Gent-Terneuzen
+VHF:     69 - 6
+Contact PhoneNumber:088-7970123
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+
+Note: Bij windkracht 8 bft. en meer worden de bruggen niet bediend. Schutbeperking bij een buitenwaterstand van NAP+4,0m en hoger.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/7960">
+      <text>Westsluis Terneuzen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.4481862823922" lon="4.23055171966553">
+    <name>Kreekraksluis</name>
+    <desc>Locatie: Voorhavens Kreekraksluizen, Schelde-Rijnverbinding
+VHF:     20
+Contact PhoneNumber:088-7974715
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-01 tot 01-01:
+   06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+   06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+
+Note: Oostelijke- of westelijke sluis: ma t/m za: 06.00 - 22.00 uur; Zon/fstd: 06.00 - 18.00 uur.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/9305">
+      <text>Kreekraksluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.6185767291493" lon="3.68483281027518">
+    <name>Roompotsluis</name>
+    <desc>Locatie: Binnenhaven Noordland, Roompotsluis
+VHF:     18
+Contact PhoneNumber:088-7970123
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 30-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-05 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 30-09:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-10 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+
+Note: Vaartuigen, m.u.v. recreatievaartuigen, met een lengte kleiner dan 20m, moeten hun voornemen om te worden geschut kenbaar maken via marifoonkanaal 18.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/9565">
+      <text>Roompotsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.6253923456881" lon="4.25536373909057">
+    <name>Benedensas</name>
+    <desc>Locatie: Buitenhaven, Steenbergsche Vliet
+Contact PhoneNumber:0167-502462
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+
+Note: Over het buitenhoofd van het Benedensas is een rolbrug die bediend kan worden door voetgangers, na start duurt het ca. 3 min. eer de brug gesloten is. De brug staat als regel open (totale tijd openen en sluiten ca. 15 min. en is volautomatisch).</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/10478">
+      <text>Benedensas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.5414756346209" lon="3.66738438606262">
+    <name>Sluis Veere</name>
+    <desc>Locatie: Kanaal door Walcheren
+VHF:     18
+Contact PhoneNumber:0800-2034
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 24/7
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 24/7
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 24/7
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 24/7
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 24/7
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 24/7
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 24/7
+Periode 28-04 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 24/7
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 24/7
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 24/7
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 24/7
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 24/7
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 24/7
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 24/7
+Periode 30-05 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 24/7
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 24/7
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 24/7
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 24/7
+
+Note: Bedientijden:
+Kijk voor actuele informatie over bedientijden op https://www.zeeland.nl/sluizen-en-bruggen/bedieningstijden-sluizen-en-bruggen of mail naar ncv@zeeland.nl.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/10512">
+      <text>Sluis Veere online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8043539419047" lon="4.87658858299255">
+    <name>Biesboschsluis</name>
+    <desc>Locatie: Vaarweg Spijkerboor-Werkendam
+Contact PhoneNumber:088-7972931
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+Periode 02-01 tot 31-03 (note: 1 werkdag tot 4 uur vooraf aanmelden bij de Biesboschsluis op nummer 088-7972931):
+   08:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+Periode 01-04 tot 08-04:
+   08:00 - 19:00: Vr, excl. feestdagen. 
+   08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Za, Zo, excl. feestdagen. 
+   11:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   14:30 - 15:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   17:30 - 19:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   08:00 - 19:00: Vr, excl. feestdagen. 
+   08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Za, Zo, excl. feestdagen. 
+   11:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   14:30 - 15:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   17:30 - 19:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   08:00 - 19:00: Vr, excl. feestdagen. 
+   08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Za, Zo, excl. feestdagen. 
+   11:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   14:30 - 15:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   17:30 - 19:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   08:00 - 19:00: Vr, excl. feestdagen. 
+   08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Za, Zo, excl. feestdagen. 
+   11:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   14:30 - 15:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   17:30 - 19:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   08:00 - 19:00: Vr, excl. feestdagen. 
+   08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Za, Zo, excl. feestdagen. 
+   11:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   14:30 - 15:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   17:30 - 19:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 30-06:
+   08:00 - 19:00: Vr, excl. feestdagen. 
+   08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Za, Zo, excl. feestdagen. 
+   11:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   14:30 - 15:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   17:30 - 19:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 01-07 tot 31-08:
+   08:00 - 20:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 19:00: Za, excl. feestdagen. 
+   10:00 - 19:00: Zo, excl. feestdagen. 
+Periode 01-09 tot 31-10:
+   08:00 - 19:00: Vr, excl. feestdagen. 
+   08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Za, Zo, excl. feestdagen. 
+   11:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   14:30 - 15:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   17:30 - 19:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 01-11 tot 24-12 (note: 1 werkdag tot 4 uur vooraf aanmelden bij de Biesboschsluis op nummer 088-7972931):
+   08:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+Periode 26-12 tot 26-12:
+Periode 27-12 tot 31-12 (note: 1 werkdag tot 4 uur vooraf aanmelden bij de Biesboschsluis op nummer 088-7972931):
+   08:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/11490">
+      <text>Biesboschsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.3343751365286" lon="3.82010936737061">
+    <name>Oostsluis Terneuzen</name>
+    <desc>Locatie: Toeleidingskanaal naar Oostsluis Terneuzen
+VHF:     18
+Contact PhoneNumber:088-7970123
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+
+Note: Schutbeperking bij een buitenwaterstand van NAP+4,0m en hoger. Bij een windkracht van 8 bft. en meer worden de bruggen niet bediend.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/12444">
+      <text>Oostsluis Terneuzen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.3348596565163" lon="3.81731986999512">
+    <name>Middensluis Terneuzen</name>
+    <desc>Locatie: Scheepsdienst Terneuzen
+VHF:     6
+Contact PhoneNumber:088-7970123
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+
+Note: Bij een windkracht van 8 bft. en meer worden de bruggen niet bediend.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/13242">
+      <text>Middensluis Terneuzen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8237215317349" lon="4.0394926071167">
+    <name>Goereesesluis</name>
+    <desc>Locatie: Deltageul, Haringvliet
+VHF:     20
+Contact PhoneNumber:088-7970961
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/13316">
+      <text>Goereesesluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.4428988905767" lon="3.59534025192261">
+    <name>Sluis Vlissingen</name>
+    <desc>Locatie: Kanaal door Walcheren
+VHF:     18
+Contact PhoneNumber:0800-2034.
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+
+Note: Schutbeperking bij een buitenwaterstand boven NAP+3,20m en bij een verval groter dan 3,25m tijdens eb.
+Bedientijden
+Kijk voor actuele informatie over bedientijden op https://www.zeeland.nl/sluizen-en-bruggen/bedieningstijden-sluizen-en-bruggen of mail naar ncv@zeeland.nl.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/16483">
+      <text>Sluis Vlissingen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.5969590239535" lon="4.37556266784668">
+    <name>Nieuw-Bovensas of Roosendaalsche Sas (sluis Bovensas)</name>
+    <desc>Locatie: Steenbergsche Vliet
+Contact PhoneNumber:0167-532657
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+
+Note: Over het buitenhoofd van het Benedensas is een rolbrug die bediend kan worden door voetgangers, na start duurt het ca. 3 min. eer de brug gesloten is. De brug staat als regel open (totale tijd openen en sluiten ca. 15 min. en is volautomatisch).</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/21824">
+      <text>Nieuw-Bovensas of Roosendaalsche Sas (sluis Bovensas) online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.537451727372" lon="3.92532706260681">
+    <name>Goesche Sas</name>
+    <desc>Locatie: Sas
+VHF:     18
+Contact PhoneNumber:0113-216744
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+   08:00 - 10:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04 (note: Geen bediening op 24 en 31 dec. na 18.00 uur, Kerstdagen en Nieuwjaarsdag geen bediening.):
+   06:00 - 20:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 10:00: Za, Zo, excl. feestdagen. 
+   16:00 - 18:00: Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 14-04 (note: Geen bediening op 24 en 31 dec. na 18.00 uur, Kerstdagen en Nieuwjaarsdag geen bediening.):
+   06:00 - 20:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 10:00: Za, Zo, excl. feestdagen. 
+   16:00 - 18:00: Za, Zo, excl. feestdagen. 
+Periode 15-04 tot 26-04:
+   06:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   06:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   06:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   06:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 14-06:
+   06:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: Za, Zo, excl. feestdagen. 
+Periode 15-06 tot 14-09:
+   06:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 20:00: Za, Zo, excl. feestdagen. 
+Periode 15-09 tot 14-10:
+   06:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: Za, Zo, excl. feestdagen. 
+Periode 15-10 tot 24-12 (note: Geen bediening op 24 en 31 dec. na 18.00 uur, Kerstdagen en Nieuwjaarsdag geen bediening.):
+   06:00 - 20:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 10:00: Za, Zo, excl. feestdagen. 
+   16:00 - 18:00: Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+   08:00 - 10:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   08:00 - 10:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12 (note: Geen bediening op 24 en 31 dec. na 18.00 uur, Kerstdagen en Nieuwjaarsdag geen bediening.):
+   06:00 - 20:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 10:00: Za, Zo, excl. feestdagen. 
+   16:00 - 18:00: Za, Zo, excl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/24514">
+      <text>Goesche Sas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.4556429127971" lon="4.01024580001831">
+    <name>Sluis Hansweert</name>
+    <desc>Locatie: Noorder Voorhaven, Kanaal door Zuid-Beveland
+VHF:     22
+Contact PhoneNumber:088-7974811
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+
+Note: Schutbeperking bij waterstanden van NAP+3,65m en NAP-2,70m.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/25235">
+      <text>Sluis Hansweert online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.6884723422822" lon="4.61401104927063">
+    <name>Sluis Roodevaart</name>
+    <desc>Locatie: Roode Vaart-Noord
+VHF:     22
+Contact PhoneNumber:0168-412346
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+Periode 02-01 tot 31-03:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:30 - 17:00: Za, excl. feestdagen. 
+Periode 01-04 tot 08-04:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:30 - 18:00: Za, excl. feestdagen. 
+   09:30 - 19:00: Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   09:30 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   09:30 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:30 - 18:00: Za, excl. feestdagen. 
+   09:30 - 19:00: Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   09:30 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:30 - 18:00: Za, excl. feestdagen. 
+   09:30 - 19:00: Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   09:30 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:30 - 18:00: Za, excl. feestdagen. 
+   09:30 - 19:00: Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   09:30 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:30 - 18:00: Za, excl. feestdagen. 
+   09:30 - 19:00: Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   09:30 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   09:30 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 30-06:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:30 - 18:00: Za, excl. feestdagen. 
+   09:30 - 19:00: Zo, excl. feestdagen. 
+Periode 01-07 tot 30-09:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 22:00: Za, Zo, excl. feestdagen. 
+Periode 01-10 tot 31-10:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 20:00: Za, Zo, excl. feestdagen. 
+Periode 01-11 tot 24-12:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:30 - 17:00: Za, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+Periode 26-12 tot 26-12:
+Periode 27-12 tot 31-12:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:30 - 17:00: Za, excl. feestdagen. 
+
+Note: De laatste schutting zal steeds een half uur voor sluitingstijd plaatsvinden, met dien verstande dat alleen van buiten naar binnen wordt geschut en de hefdeur aan de buitenzijde dan zal worden afgesloten. </desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/28489">
+      <text>Sluis Roodevaart online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.6524950533505" lon="4.37836289405823">
+    <name>Manderssluis</name>
+    <desc>Locatie: Dintel
+VHF:     20
+Contact PhoneNumber:+31 6 38839018
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 31-03:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-04 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+
+Note: Staat in het algemeen open, doorvaart wordt d.m.v. lichten geregeld. Gaat in bedrijf bij stroomsnelheden boven 75 cm/s. In de zomermaanden kan i.v.m. algenoverlast een schutregeling van toepassing zijn.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/32698">
+      <text>Manderssluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8270417786702" lon="4.97560501098633">
+    <name>Lingesluis Gorinchem</name>
+    <desc>Locatie: Linge
+Contact PhoneNumber:0183-659314
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 31-03 (note: Alleen op afroep, aanvragen op tel. 0183-659314.):
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-04 tot 08-04:
+   10:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 09-04 tot 09-04:
+   10:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   10:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   10:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-04 tot 27-04:
+   10:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 30-04:
+   10:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-05 tot 04-05:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 05-05 tot 05-05:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 18-05 tot 18-05:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-05 tot 28-05:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 30-09:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-10 tot 31-10:
+   10:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 24-12 (note: Alleen op afroep, aanvragen op tel. 0183-659314.):
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12 (note: Alleen op afroep, aanvragen op tel. 0183-659314.):
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+
+Note: Stremming sluis bij een waterstand op de rivier van  NAP+3m en hoger.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/35020">
+      <text>Lingesluis Gorinchem online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8215871384931" lon="4.82669413089752">
+    <name>Peulensluis</name>
+    <desc>Locatie: Buiten Giessen
+Contact PhoneNumber:0184-612391
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+Periode 02-01 tot 31-03 (note: Alleen op afroep, 24-uur tevoren, op werkdagen, aanvragen.):
+   08:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 12:00: Vr, Za, excl. feestdagen. 
+   13:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   13:00 - 15:00: Vr, Za, excl. feestdagen. 
+Periode 01-04 tot 08-04:
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   13:00 - 20:00: Vr, Za, excl. feestdagen. 
+   13:00 - 18:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   15:00 - 20:00: Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   13:00 - 20:00: Vr, Za, excl. feestdagen. 
+   13:00 - 18:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   15:00 - 20:00: Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   13:00 - 20:00: Vr, Za, excl. feestdagen. 
+   13:00 - 18:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   15:00 - 20:00: Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   13:00 - 20:00: Vr, Za, excl. feestdagen. 
+   13:00 - 18:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   15:00 - 20:00: Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   13:00 - 20:00: Vr, Za, excl. feestdagen. 
+   13:00 - 18:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   15:00 - 20:00: Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   08:00 - 12:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:00 - 21:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   08:00 - 12:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:00 - 21:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 31-05:
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   13:00 - 20:00: Vr, Za, excl. feestdagen. 
+   13:00 - 18:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   15:00 - 20:00: Zo, excl. feestdagen. 
+Periode 01-06 tot 31-08:
+   08:00 - 12:00: Vr, Za, Zo, excl. feestdagen. 
+   09:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   13:00 - 21:00: Vr, Za, Zo, excl. feestdagen. 
+   13:00 - 18:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 01-09 tot 31-10:
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   13:00 - 20:00: Vr, Za, excl. feestdagen. 
+   13:00 - 18:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   15:00 - 20:00: Zo, excl. feestdagen. 
+Periode 01-11 tot 24-12 (note: Alleen op afroep, 24-uur tevoren, op werkdagen, aanvragen.):
+   08:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 12:00: Vr, Za, excl. feestdagen. 
+   13:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   13:00 - 15:00: Vr, Za, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+Periode 26-12 tot 26-12:
+Periode 27-12 tot 31-12 (note: Alleen op afroep, 24-uur tevoren, op werkdagen, aanvragen.):
+   08:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 12:00: Vr, Za, excl. feestdagen. 
+   13:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   13:00 - 15:00: Vr, Za, excl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/37730">
+      <text>Peulensluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8372871509787" lon="4.97495055198669">
+    <name>Algemene Begraafplaatssluis</name>
+    <desc>Locatie: Merwedekanaal (bezuiden de Lek)
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+Periode 02-01 tot 31-03:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: Za, excl. feestdagen. 
+Periode 01-04 tot 08-04:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 19:00: Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 19:00: Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 19:00: Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 19:00: Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 19:00: Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 31-10:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 19:00: Za, Zo, excl. feestdagen. 
+Periode 01-11 tot 24-12:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: Za, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+Periode 26-12 tot 26-12:
+Periode 27-12 tot 31-12:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: Za, excl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/38243">
+      <text>Algemene Begraafplaatssluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.6614737195863" lon="4.15954828262329">
+    <name>Krammersluizen</name>
+    <desc>Locatie: Duwvaartsluizen Krammer
+VHF:     22
+Contact PhoneNumber:088-7974750
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+
+Note: Bij een windkracht van 7 bft. en meer wordt de brug niet bediend.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/39446">
+      <text>Krammersluizen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.6903754105466" lon="4.4084358215332">
+    <name>Volkeraksluizen</name>
+    <desc>Locatie: Voorhavens Volkeraksluizen
+VHF:     7,78,64
+Contact PhoneNumber:088-7974990 / fax 088-7974991
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+
+Note: De marifoonblokkanalen 7 (noordzijde) en 78 (zuidzijde) dienen uitsluitend voor afspraken over veilige navigatie; dit betreft de communicatie tussen schepen onderling en de aanwijzing van de kolk en de plaats daarin. Marifoonkanaal 64 is het administratief kanaal voor de scheepsgegevens inwinning (IVS).</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/42863">
+      <text>Volkeraksluizen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8232483299729" lon="4.13387417793274">
+    <name>Sluis Hellevoetsluis</name>
+    <desc>Locatie: Voornsche Kanaal
+Contact PhoneNumber:0181-312688 / fax: 0181-316045
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:45 - 16:46: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04 (note: 2e Paasdag wordt als zondag bediend. Laatste bedieningstijd van 24 en 31 december komt te vervallen.):
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:45 - 11:46: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   16:45 - 16:46: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 09-04 tot 09-04:
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   18:30 - 18:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   18:30 - 18:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 15-04 (note: 2e Paasdag wordt als zondag bediend. Laatste bedieningstijd van 24 en 31 december komt te vervallen.):
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:45 - 11:46: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   16:45 - 16:46: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 16-04 tot 26-04:
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   18:30 - 18:31: Vr, Za, Zo, incl. feestdagen. 
+Periode 27-04 tot 27-04:
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   18:30 - 18:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 30-04:
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   18:30 - 18:31: Vr, Za, Zo, incl. feestdagen. 
+Periode 01-05 tot 04-05 (note: 4 mei (de dag voor Hemelvaartsdag) wordt als zondag bediend.):
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   18:30 - 18:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   19:00 - 19:01: Vr, Za, Zo, incl. feestdagen. 
+   19:30 - 19:31: Vr, Za, Zo, incl. feestdagen. 
+Periode 05-05 tot 05-05:
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   18:30 - 18:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   19:00 - 19:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   19:30 - 19:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05 (note: 4 mei (de dag voor Hemelvaartsdag) wordt als zondag bediend.):
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   18:30 - 18:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   19:00 - 19:01: Vr, Za, Zo, incl. feestdagen. 
+   19:30 - 19:31: Vr, Za, Zo, incl. feestdagen. 
+Periode 18-05 tot 18-05:
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   18:30 - 18:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   19:00 - 19:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   19:30 - 19:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05 (note: 4 mei (de dag voor Hemelvaartsdag) wordt als zondag bediend.):
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   18:30 - 18:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   19:00 - 19:01: Vr, Za, Zo, incl. feestdagen. 
+   19:30 - 19:31: Vr, Za, Zo, incl. feestdagen. 
+Periode 28-05 tot 28-05:
+Periode 29-05 tot 29-05:
+Periode 30-05 tot 31-05 (note: 4 mei (de dag voor Hemelvaartsdag) wordt als zondag bediend.):
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   18:30 - 18:31: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   19:00 - 19:01: Vr, Za, Zo, incl. feestdagen. 
+   19:30 - 19:31: Vr, Za, Zo, incl. feestdagen. 
+Periode 01-06 tot 20-08 (note: Om 21.00 uur alleen richting Haringvliet. Om 21.30 uur alleen richting kanaal.):
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   18:30 - 18:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   19:30 - 19:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   20:30 - 20:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   21:00 - 21:01: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   21:30 - 21:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 21-08 tot 31-08:
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   18:30 - 18:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   19:30 - 19:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   20:00 - 20:01: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   20:30 - 20:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-09 tot 15-09 (note: Om 19.00 uur alleen richting Haringvliet. Om 19.30 uur alleen richting kanaal.):
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   18:30 - 18:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   19:00 - 19:01: Ma, Di, Wo, Do, excl. feestdagen. 
+   19:30 - 19:31: Ma, Di, Wo, Do, excl. feestdagen. 
+   19:30 - 19:31: Vr, Za, Zo, excl. feestdagen. 
+   20:00 - 20:01: Vr, Za, Zo, excl. feestdagen. 
+   20:30 - 20:31: Vr, Za, Zo, excl. feestdagen. 
+Periode 16-09 tot 30-09:
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   18:30 - 18:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   19:00 - 19:01: Vr, Za, Zo, excl. feestdagen. 
+   19:30 - 19:31: Vr, Za, Zo, excl. feestdagen. 
+Periode 01-10 tot 15-10:
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   09:15 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   11:00 - 11:01: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   11:30 - 11:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   16:00 - 16:01: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   16:30 - 16:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   18:30 - 18:31: Vr, Za, Zo, excl. feestdagen. 
+Periode 16-10 tot 24-12 (note: 2e Paasdag wordt als zondag bediend. Laatste bedieningstijd van 24 en 31 december komt te vervallen.):
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:45 - 11:46: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   16:45 - 16:46: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 25-12:
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:45 - 16:46: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:45 - 16:46: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12 (note: 2e Paasdag wordt als zondag bediend. Laatste bedieningstijd van 24 en 31 december komt te vervallen.):
+   08:15 - 08:16: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   10:15 - 10:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   11:45 - 11:46: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   13:15 - 13:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   15:15 - 15:16: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   16:45 - 16:46: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+
+Note: Bij openingstijden van 1 minuut is de eindtijd afhankelijk van het aanbod.
+Geen bediening:
+* Kerstdagen en Nieuwjaarsdag
+* Gedurende een periode van vorst.
+* Gedurende een periode van (verwachte-) hoge waterstand op het Haringvliet (NAP+1,10m en hoger) in het belang van het Waterschapsbeheer.
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/46107">
+      <text>Sluis Hellevoetsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.5102038785449" lon="4.17367815971375">
+    <name>Bergsediepsluis</name>
+    <desc>Locatie: Tholensche Gat - Zoommeerzijde
+Contact PhoneNumber:088-7970123
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 30-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-05 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 30-09:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-10 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+
+Note: Bij een windkracht van 7 bft. En meer worden de bruggen niet bediend.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/51819">
+      <text>Bergsediepsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.694125510534" lon="4.40121531486511">
+    <name>Jachtensluis Volkeraksluizen</name>
+    <desc>Locatie: Voorhavens Jachtensluis
+VHF:     18-64
+Contact PhoneNumber:088-7974990 / fax 088-7974991
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 31-03:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-04 tot 08-04 (note: Let op: van 1-5 tot en met 30-9 spitssluiting op werkdagen van de basculebrug over de oostelijke sluiskolk Volkeraksluizen van:):
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04 (note: Let op: van 1-5 tot en met 30-9 spitssluiting op werkdagen van de basculebrug over de oostelijke sluiskolk Volkeraksluizen van:):
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05 (note: Let op: van 1-5 tot en met 30-9 spitssluiting op werkdagen van de basculebrug over de oostelijke sluiskolk Volkeraksluizen van:):
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05 (note: Let op: van 1-5 tot en met 30-9 spitssluiting op werkdagen van de basculebrug over de oostelijke sluiskolk Volkeraksluizen van:):
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05 (note: Let op: van 1-5 tot en met 30-9 spitssluiting op werkdagen van de basculebrug over de oostelijke sluiskolk Volkeraksluizen van:):
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 31-10 (note: Let op: van 1-5 tot en met 30-9 spitssluiting op werkdagen van de basculebrug over de oostelijke sluiskolk Volkeraksluizen van:):
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/52078">
+      <text>Jachtensluis Volkeraksluizen online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.6481148294075" lon="4.83206391334534">
+    <name>Marksluis</name>
+    <desc>Locatie: Markkanaal
+VHF:     78
+Contact PhoneNumber:088-7974825 (Bediening)
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+Periode 02-01 tot 02-01 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
+   06:00 - 13:59: Za, excl. feestdagen. 
+   06:00 - 23:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   06:00 - 23:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   14:00 - 23:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+Periode 03-01 tot 31-03 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
+   00:00 - 23:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   00:00 - 23:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   00:00 - 05:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   00:00 - 13:59: Za, excl. feestdagen. 
+   06:00 - 23:59: Ma, excl. feestdagen. 
+   14:00 - 23:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+Periode 01-04 tot 08-04 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
+   00:00 - 23:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   00:00 - 05:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   00:00 - 15:59: Za, excl. feestdagen. 
+   00:00 - 08:59: Zo, excl. feestdagen. 
+   06:00 - 23:59: Ma, excl. feestdagen. 
+   09:00 - 16:59: Zo, excl. feestdagen. 
+   16:00 - 23:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   17:00 - 23:59: Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 08:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   09:00 - 15:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Let op bij een feestdag op ma 6-24u, op di-vr 0-24u, op za 0-16u, op zondag van 9-17u
+   16:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+Periode 10-04 tot 10-04:
+   00:00 - 08:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   09:00 - 15:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Let op bij een feestdag op ma 6-24u, op di-vr 0-24u, op za 0-16u, op zondag van 9-17u
+   16:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+Periode 11-04 tot 26-04 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
+   00:00 - 23:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   00:00 - 05:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   00:00 - 15:59: Za, excl. feestdagen. 
+   00:00 - 08:59: Zo, excl. feestdagen. 
+   06:00 - 23:59: Ma, excl. feestdagen. 
+   09:00 - 16:59: Zo, excl. feestdagen. 
+   16:00 - 23:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   17:00 - 23:59: Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 08:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   09:00 - 15:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Let op bij een feestdag op ma 6-24u, op di-vr 0-24u, op za 0-16u, op zondag van 9-17u
+   16:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+Periode 28-04 tot 04-05 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
+   00:00 - 23:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   00:00 - 05:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   00:00 - 15:59: Za, excl. feestdagen. 
+   00:00 - 08:59: Zo, excl. feestdagen. 
+   06:00 - 23:59: Ma, excl. feestdagen. 
+   09:00 - 16:59: Zo, excl. feestdagen. 
+   16:00 - 23:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   17:00 - 23:59: Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 08:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   09:00 - 15:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Let op bij een feestdag op ma 6-24u, op di-vr 0-24u, op za 0-16u, op zondag van 9-17u
+   16:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+Periode 06-05 tot 17-05 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
+   00:00 - 23:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   00:00 - 05:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   00:00 - 15:59: Za, excl. feestdagen. 
+   00:00 - 08:59: Zo, excl. feestdagen. 
+   06:00 - 23:59: Ma, excl. feestdagen. 
+   09:00 - 16:59: Zo, excl. feestdagen. 
+   16:00 - 23:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   17:00 - 23:59: Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 08:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   09:00 - 15:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Let op bij een feestdag op ma 6-24u, op di-vr 0-24u, op za 0-16u, op zondag van 9-17u
+   16:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+Periode 19-05 tot 27-05 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
+   00:00 - 23:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   00:00 - 05:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   00:00 - 15:59: Za, excl. feestdagen. 
+   00:00 - 08:59: Zo, excl. feestdagen. 
+   06:00 - 23:59: Ma, excl. feestdagen. 
+   09:00 - 16:59: Zo, excl. feestdagen. 
+   16:00 - 23:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   17:00 - 23:59: Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 08:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   09:00 - 15:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Let op bij een feestdag op ma 6-24u, op di-vr 0-24u, op za 0-16u, op zondag van 9-17u
+   16:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+Periode 29-05 tot 29-05:
+   00:00 - 08:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   09:00 - 15:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Let op bij een feestdag op ma 6-24u, op di-vr 0-24u, op za 0-16u, op zondag van 9-17u
+   16:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+Periode 30-05 tot 31-10 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
+   00:00 - 23:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   00:00 - 05:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   00:00 - 15:59: Za, excl. feestdagen. 
+   00:00 - 08:59: Zo, excl. feestdagen. 
+   06:00 - 23:59: Ma, excl. feestdagen. 
+   09:00 - 16:59: Zo, excl. feestdagen. 
+   16:00 - 23:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   17:00 - 23:59: Zo, excl. feestdagen. 
+Periode 01-11 tot 24-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
+   00:00 - 23:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   00:00 - 23:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   00:00 - 05:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   00:00 - 13:59: Za, excl. feestdagen. 
+   06:00 - 23:59: Ma, excl. feestdagen. 
+   14:00 - 23:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+Periode 25-12 tot 25-12:
+Periode 26-12 tot 26-12:
+Periode 27-12 tot 27-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
+   06:00 - 13:59: Za, excl. feestdagen. 
+   06:00 - 23:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   06:00 - 23:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   14:00 - 23:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+Periode 28-12 tot 31-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
+   00:00 - 23:59: Zo, excl. feestdagen. Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.
+   00:00 - 23:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   00:00 - 05:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   00:00 - 13:59: Za, excl. feestdagen. 
+   06:00 - 23:59: Ma, excl. feestdagen. 
+   14:00 - 23:59: Za, excl. feestdagen. Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.
+
+Note: Volledig bediend vanuit Bediencentrale Tilburg. Op overige tijden op aanvraag bij Bediencentrale Tilburg (088-7974825).</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/52689">
+      <text>Marksluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8306185065951" lon="4.96720433235168">
+    <name>Grote Merwedesluis</name>
+    <desc>Locatie: Merwedekanaal (bezuiden de Lek)
+VHF:     18
+Contact PhoneNumber:0183-633308 / fax 0183-634415
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+Periode 02-01 tot 31-03:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: Za, excl. feestdagen. 
+Periode 01-04 tot 08-04:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 19:00: Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 19:00: Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 19:00: Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 19:00: Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 19:00: Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 31-10:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 19:00: Za, Zo, excl. feestdagen. 
+Periode 01-11 tot 24-12:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: Za, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+Periode 26-12 tot 26-12:
+Periode 27-12 tot 31-12:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: Za, excl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/52971">
+      <text>Grote Merwedesluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8213119031227" lon="4.85834419727326">
+    <name>Steenenhoeksche Kanaalsluis (schutsluis Kolffgemaal)</name>
+    <desc>Locatie: Kanaal van Steenenhoek
+Contact PhoneNumber:0184-612139
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+Periode 02-01 tot 31-03:
+   09:00 - 09:45: Vr, Za, excl. feestdagen. 
+   09:00 - 17:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. bediening aanvragen op werkdagen minimaal 24 uur van te voren op nummer 0184-612139
+   15:15 - 16:00: Vr, Za, excl. feestdagen. 
+Periode 01-04 tot 08-04:
+   09:00 - 11:30: Za, Zo, incl. feestdagen. 
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   13:00 - 20:00: Vr, excl. feestdagen. 
+   13:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   17:00 - 20:00: Za, Zo, incl. feestdagen. 
+Periode 09-04 tot 09-04:
+   09:00 - 11:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   17:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   09:00 - 11:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   17:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   09:00 - 11:30: Za, Zo, incl. feestdagen. 
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   13:00 - 20:00: Vr, excl. feestdagen. 
+   13:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   17:00 - 20:00: Za, Zo, incl. feestdagen. 
+Periode 27-04 tot 27-04:
+   09:00 - 11:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   17:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   09:00 - 11:30: Za, Zo, incl. feestdagen. 
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   13:00 - 20:00: Vr, excl. feestdagen. 
+   13:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   17:00 - 20:00: Za, Zo, incl. feestdagen. 
+Periode 05-05 tot 05-05:
+   09:00 - 11:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   17:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   09:00 - 11:30: Za, Zo, incl. feestdagen. 
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   13:00 - 20:00: Vr, excl. feestdagen. 
+   13:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   17:00 - 20:00: Za, Zo, incl. feestdagen. 
+Periode 18-05 tot 18-05:
+   09:00 - 11:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   17:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   09:00 - 11:30: Za, Zo, incl. feestdagen. 
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   13:00 - 20:00: Vr, excl. feestdagen. 
+   13:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   17:00 - 20:00: Za, Zo, incl. feestdagen. 
+Periode 28-05 tot 28-05:
+   09:00 - 11:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   17:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   09:00 - 11:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   17:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 31-05:
+   09:00 - 11:30: Za, Zo, incl. feestdagen. 
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   13:00 - 20:00: Vr, excl. feestdagen. 
+   13:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   17:00 - 20:00: Za, Zo, incl. feestdagen. 
+Periode 01-06 tot 31-08:
+   09:00 - 11:30: Za, Zo, incl. feestdagen. 
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   13:00 - 19:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   13:00 - 21:00: Vr, excl. feestdagen. 
+   17:00 - 20:00: Za, Zo, incl. feestdagen. 
+Periode 01-09 tot 31-10:
+   09:00 - 11:30: Za, Zo, incl. feestdagen. 
+   09:00 - 12:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   13:00 - 20:00: Vr, excl. feestdagen. 
+   13:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   17:00 - 20:00: Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 24-12:
+   09:00 - 09:45: Vr, Za, excl. feestdagen. 
+   09:00 - 17:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. bediening aanvragen op werkdagen minimaal 24 uur van te voren op nummer 0184-612139
+   15:15 - 16:00: Vr, Za, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+Periode 26-12 tot 26-12:
+Periode 27-12 tot 31-12:
+   09:00 - 09:45: Vr, Za, excl. feestdagen. 
+   09:00 - 17:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. bediening aanvragen op werkdagen minimaal 24 uur van te voren op nummer 0184-612139
+   15:15 - 16:00: Vr, Za, excl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/55373">
+      <text>Steenenhoeksche Kanaalsluis (schutsluis Kolffgemaal) online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.6437142532202" lon="4.83968138694763">
+    <name>sluis I</name>
+    <desc>Locatie: Wilhelminakanaal
+VHF:     18
+Contact PhoneNumber:088-7974825 (Bediening)
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+Periode 02-01 tot 02-01:
+   06:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 03-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 23-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 24-12 tot 24-12:
+   00:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+Periode 26-12 tot 26-12:
+Periode 27-12 tot 27-12:
+   00:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 28-12 tot 30-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 31-12 tot 31-12:
+   00:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/55407">
+      <text>sluis I online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.7785638393415" lon="4.76235330104828">
+    <name>Spieringsluis</name>
+    <desc>Locatie: Gat van den Hardenhoek
+Contact PhoneNumber:088-7972930
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+Periode 02-01 tot 31-03 (note: 1 werkdag tot 4 uur vooraf aanmelden bij de Biesboschsluis op nummer  088-7972931.):
+   09:00 - 16:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+Periode 01-04 tot 08-04:
+   09:30 - 10:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Vr, Za, Zo, incl. feestdagen. 
+   12:30 - 14:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   16:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   09:30 - 10:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Vr, Za, Zo, incl. feestdagen. 
+   12:30 - 14:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   16:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   09:30 - 10:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Vr, Za, Zo, incl. feestdagen. 
+   12:30 - 14:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   16:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   09:30 - 10:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Vr, Za, Zo, incl. feestdagen. 
+   12:30 - 14:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   16:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   09:30 - 10:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Vr, Za, Zo, incl. feestdagen. 
+   12:30 - 14:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   16:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 30-06:
+   09:30 - 10:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Vr, Za, Zo, incl. feestdagen. 
+   12:30 - 14:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   16:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 01-07 tot 31-08:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-09 tot 31-10:
+   09:30 - 10:30: Ma, Di, Wo, Do, excl. feestdagen. 
+   10:00 - 19:00: Vr, Za, Zo, incl. feestdagen. 
+   12:30 - 14:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   16:00 - 17:00: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 01-11 tot 24-12 (note: 1 werkdag tot 4 uur vooraf aanmelden bij de Biesboschsluis op nummer  088-7972931.):
+   09:00 - 16:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+Periode 26-12 tot 26-12:
+Periode 27-12 tot 31-12 (note: 1 werkdag tot 4 uur vooraf aanmelden bij de Biesboschsluis op nummer  088-7972931.):
+   09:00 - 16:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/55884">
+      <text>Spieringsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.241297772071" lon="4.4026231533688">
+    <name>Royerssluis</name>
+    <desc>Locatie: Haven Antwerpen</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1306537">
+      <text>Royerssluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.27773" lon="4.33276">
+    <name>Boudewijnsluis</name>
+    <desc>Locatie: Haven Antwerpen</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1306558">
+      <text>Boudewijnsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2213427882987" lon="3.23386004864354">
+    <name>Dammepoortsluis</name>
+    <desc>Locatie: Kanaal Gent-Oostende (vak Brugge-Oostende)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1314293">
+      <text>Dammepoortsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2638085983989" lon="4.27885347184508">
+    <name>Kallosluis</name>
+    <desc>Locatie: Haven Antwerpen</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1323886">
+      <text>Kallosluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2213439515099" lon="3.23386305916823">
+    <name>Dammepoortsluis</name>
+    <desc>Locatie: Kanaal Gent-Oostende (vak Gent-Brugge)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1324494">
+      <text>Dammepoortsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2231035738978" lon="3.22331899554001">
+    <name>Verbindingssluis</name>
+    <desc>Locatie: Kanaal Brugge-Zeebrugge</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327192">
+      <text>Verbindingssluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2231035738978" lon="3.22331899554001">
+    <name>Verbindingssluis</name>
+    <desc>Locatie: Kanaal Brugge-Zeebrugge</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1327263">
+      <text>Verbindingssluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2876419069709" lon="4.54045787239742">
+    <name>sluis 7 Schoten</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1350799">
+      <text>sluis 7 Schoten online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2941172423629" lon="4.54959209547044">
+    <name>sluis 6 Schoten</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1350800">
+      <text>sluis 6 Schoten online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2502610631823" lon="4.50627668114638">
+    <name>sluis 9 Schoten</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1350803">
+      <text>sluis 9 Schoten online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2412629742182" lon="4.50177246998895">
+    <name>sluis 10 Schoten</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1350804">
+      <text>sluis 10 Schoten online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.3024464151085" lon="4.57017342726519">
+    <name>sluis 4 St.-Job-in't-Goor</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1350874">
+      <text>sluis 4 St.-Job-in't-Goor online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.3061670527929" lon="4.57937157390653">
+    <name>sluis 3 Brecht</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1350875">
+      <text>sluis 3 Brecht online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.3095777992033" lon="4.58779678522265">
+    <name>sluis 2 Brecht</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1350926">
+      <text>sluis 2 Brecht online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.3097337970477" lon="4.58818108175417">
+    <name>sluis 2 Brecht</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1350935">
+      <text>sluis 2 Brecht online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.3024464151085" lon="4.57017342726519">
+    <name>sluis 4 St.-Job-in't-Goor</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1350997">
+      <text>sluis 4 St.-Job-in't-Goor online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.3061670527929" lon="4.57937157390653">
+    <name>sluis 3 Brecht</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1351000">
+      <text>sluis 3 Brecht online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2876419069709" lon="4.54045787239742">
+    <name>sluis 7 Schoten</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1351117">
+      <text>sluis 7 Schoten online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2941172423629" lon="4.54959209547044">
+    <name>sluis 6 Schoten</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1351118">
+      <text>sluis 6 Schoten online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2705675632296" lon="4.51866408451335">
+    <name>sluis 8 Schoten</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1351200">
+      <text>sluis 8 Schoten online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.3290580747572" lon="4.77392684529348">
+    <name>sluis 1 Rijkevorsel</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1351299">
+      <text>sluis 1 Rijkevorsel online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2980062187681" lon="4.55918343368648">
+    <name>sluis 5 St.-Job-in't-Goor</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1351311">
+      <text>sluis 5 St.-Job-in't-Goor online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2980062187681" lon="4.55918343368648">
+    <name>sluis 5 St.-Job-in't-Goor</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1351404">
+      <text>sluis 5 St.-Job-in't-Goor online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2502610631823" lon="4.50627668114638">
+    <name>sluis 9 Schoten</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1351464">
+      <text>sluis 9 Schoten online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2705675632296" lon="4.51866408451335">
+    <name>sluis 8 Schoten</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1351465">
+      <text>sluis 8 Schoten online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2410154011734" lon="4.50164856733702">
+    <name>sluis 10 Schoten</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1351481">
+      <text>sluis 10 Schoten online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.3290580747572" lon="4.77392684529348">
+    <name>sluis 1 Rijkevorsel</name>
+    <desc>Locatie: Kanaal Dessel-Turnhout-Schoten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1351544">
+      <text>sluis 1 Rijkevorsel online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2019794018684" lon="4.98638080052849">
+    <name>Sluis 8 Geel</name>
+    <desc>Locatie: Kanaal Bocholt-Herentals</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1355275">
+      <text>Sluis 8 Geel online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2019794018684" lon="4.98638080052849">
+    <name>Sluis 8 Geel</name>
+    <desc>Locatie: Kanaal Bocholt-Herentals</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1355937">
+      <text>Sluis 8 Geel online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.226877487687" lon="4.53621942344223">
+    <name>Wijnegem duwvaartsas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1360853">
+      <text>Wijnegem duwvaartsas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2267707339951" lon="4.53844107184944">
+    <name>Wijnegem noordersas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361139">
+      <text>Wijnegem noordersas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.2266125091208" lon="4.5383143524818">
+    <name>Wijnegem middensas</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361155">
+      <text>Wijnegem middensas online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.226654221312" lon="4.53780023556508">
+    <name>sluis Wijnegem</name>
+    <desc>Locatie: Albertkanaal (BE)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1361570">
+      <text>sluis Wijnegem online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.235157236225" lon="4.4038788986535">
+    <name>Kattendijksluis</name>
+    <desc>Locatie: Haven Antwerpen</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/4660742">
+      <text>Kattendijksluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.275874717226" lon="4.3307511520743">
+    <name>Van Cauwelaertsluis</name>
+    <desc>Locatie: Haven Antwerpen</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/4693566">
+      <text>Van Cauwelaertsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.5439320736028" lon="3.86384010314941">
+    <name>Zandkreeksluis</name>
+    <desc>Locatie: Veerse Meer
+VHF:     18
+Contact PhoneNumber:088-7970123
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 30-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-05 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 30-09:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-10 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+
+Note: Bij een windkracht van 7 bft. en meer worden de bruggen niet bediend.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/7069282">
+      <text>Zandkreeksluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8105706624546" lon="4.78223919868469">
+    <name>Helsluis</name>
+    <desc>Locatie: Helkanaal
+Contact PhoneNumber:088-7972872
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+Periode 02-01 tot 31-03 (note: Bediening aanvragen bij de Biesboschsluis. Aanmelden minimaal 4 uur van tevoren..):
+   09:00 - 16:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+Periode 01-04 tot 08-04:
+   10:00 - 19:00: Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   14:30 - 15:30: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 09-04 tot 09-04:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   10:00 - 19:00: Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   14:30 - 15:30: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 27-04 tot 27-04:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   10:00 - 19:00: Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   14:30 - 15:30: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 05-05 tot 05-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   10:00 - 19:00: Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   14:30 - 15:30: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 18-05 tot 18-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   10:00 - 19:00: Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   14:30 - 15:30: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   10:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 30-06:
+   10:00 - 19:00: Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   14:30 - 15:30: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 01-07 tot 31-08:
+   09:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-09 tot 31-10:
+   10:00 - 19:00: Vr, Za, Zo, incl. feestdagen. 
+   11:00 - 12:00: Ma, Di, Wo, Do, excl. feestdagen. 
+   14:30 - 15:30: Ma, Di, Wo, Do, excl. feestdagen. 
+Periode 01-11 tot 24-12 (note: Bediening aanvragen bij de Biesboschsluis. Aanmelden minimaal 4 uur van tevoren..):
+   09:00 - 16:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+Periode 26-12 tot 26-12:
+Periode 27-12 tot 31-12 (note: Bediening aanvragen bij de Biesboschsluis. Aanmelden minimaal 4 uur van tevoren..):
+   09:00 - 16:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+
+Note: Stremming bij waterstanden in de sluis van NAP-0,30m of lager.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/7069289">
+      <text>Helsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.6668688093211" lon="4.09485340118408">
+    <name>Grevelingensluis</name>
+    <desc>Locatie: Grevelingensluis inclusief voorhavens
+VHF:     20
+Contact PhoneNumber:088-7970123
+
+Bedieningstijden
+Periode 01-01 tot 01-01:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 09-04 tot 09-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-04 tot 27-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 30-04:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-05 tot 04-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 05-05 tot 05-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 18-05 tot 18-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-05 tot 28-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 30-09:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-10 tot 24-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 25-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   00:00 - 23:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+
+Note: Bij een windkracht van 7 Bft. en hoger worden de bruggen niet bediend.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/7069661">
+      <text>Grevelingensluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.664978223504846" lon="4.160928465462347">
+    <name>Krammerjachtensluis</name>
+    <desc>Locatie: Jachtsluizen Krammer
+Contact PhoneNumber:088-7974752
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-01 tot 01-01:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-01 tot 08-04:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 09-04 tot 09-04:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 10-04 tot 10-04:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-04 tot 26-04:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-04 tot 27-04:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-04 tot 04-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 05-05 tot 05-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 06-05 tot 17-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 18-05 tot 18-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 19-05 tot 27-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-05 tot 28-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 29-05 tot 29-05:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 30-05 tot 24-12:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 25-12:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 26-12 tot 26-12:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 27-12 tot 31-12:
+   06:00 - 22:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+
+Note: Voor bediening van de sluis, telefonisch: 088-7974752 of bij meldpaal op wachtsteiger.</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/7069834">
+      <text>Krammerjachtensluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.279582212652" lon="4.2460564707529">
+    <name>Kieldrechtsluis</name>
+    <desc>Locatie: Deurganckdok</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/14674506">
+      <text>Kieldrechtsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8281740436452" lon="4.83336068094104">
+    <name>Damsluis</name>
+    <desc>Locatie: Buiten Giessen</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/23644615">
+      <text>Damsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.3462418880805" lon="4.2862343788147">
+    <name>Zandvlietsluis</name>
+    <desc>Locatie: Berendrechtsluis, vaarweg door</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/29672381">
+      <text>Zandvlietsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.3440571906713" lon="4.28555846214294">
+    <name>Berendrechtsluis</name>
+    <desc>Locatie: Berendrechtsluis, vaarweg door</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/29672401">
+      <text>Berendrechtsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+</gpx>

@@ -477,7 +477,10 @@ if __name__ == "__main__":
     print(f'Available countries in the database: {countries}')
 
     # create precooked regions and add an entry for each country found.
-    regions = [{'name': 'Friesland', 'from': [52.774726, 5.340259], 'to': [53.447370, 6.372974]}]
+    regions = [{'name': 'Friesland', 'from': [52.774726, 5.340259], 'to': [53.447370, 6.372974]},
+               {'name': 'Holland', 'from': [51.85, 3.20], 'to': [53.20, 5.30]},
+               {'name': 'Zeeland', 'from': [51.20, 3.20], 'to': [51.85, 5.00]}
+               ]
     for country in countries:
         regions.append({'name': country, 'country': country})
 
