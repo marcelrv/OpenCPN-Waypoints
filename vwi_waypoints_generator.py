@@ -396,11 +396,14 @@ def saveGPX(gpx, name):
     if waypoints == 0:
         print(f'GPX with {str(waypoints)} waypoints SKIPPED: {name}')
         return
-    fn = name + '.gpx'
-    f = open(fn, "w")
-    f.write(gpx.to_xml())
-    f.close()
-    print(f'GPX with {str(waypoints)} points exported to {fn}')
+    try:
+        fn = name + '.gpx'
+        f = open(fn, "w", encoding='utf-8')
+        f.write(gpx.to_xml())
+        f.close()
+        print(f'GPX with {str(waypoints)} points exported to {fn}')
+    except Exception as err:
+        print(f'Failed to create GPX with {str(waypoints)} points {fn}. Error occurred: {err}')
 
 
 if __name__ == "__main__":
@@ -426,7 +429,8 @@ if __name__ == "__main__":
     # comment below line to download all geotypes
     geotypes = ['bridge', 'operatingtimes', 'radiocallinpoint', 'lock',
                 'fairway', 'vinharbour', 'nwbharbour', 'berth', 'vtssector',
-                'touristharbour', 'exceptionalnavigationalstructure']
+                'touristharbour', 'exceptionalnavigationalstructure',
+                'administration']
 
     for geotype in geotypes:
         fn = workingFolder + geotype + 'Download.json'
@@ -450,6 +454,7 @@ if __name__ == "__main__":
     related.append({'vtssector': readJson(workingFolder + 'vtssectorDownload.json')})
     related.append({'exceptionalnavigationalstructure': readJson(
         workingFolder + 'exceptionalnavigationalstructureDownload.json')})
+    related.append({'administration': readJson(workingFolder + 'administrationDownload.json')})
 
     countries = ['NL']
     for bridge in bridges:
