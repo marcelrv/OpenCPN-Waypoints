@@ -84,12 +84,12 @@ def process_gml(input_filename, outName, field_mapping, icon_mapping, epsg=None)
         poFeature = poLayer.GetNextFeature()
         while poFeature is not None:
             poDefn = poFeature.GetDefnRef()
-            print("OGRFeature(%s):%ld" % (poDefn.GetName(), poFeature.GetFID()))
+            print("OGRFeature (%s): %ld" % (poDefn.GetName(), poFeature.GetFID()))
             outFeature = ogr.Feature(featureDefn)
             outFeature.SetFrom(poFeature)
             poDstGeometry: ogr.Geometry = outFeature.GetGeometryRef()
             if poDstGeometry is not None:
-                print('geometry input:       ', poDstGeometry)
+                print('Geometry input:       ', poDstGeometry)
                 srsReference: SpatialReference = poDstGeometry.GetSpatialReference()
                 if srsReference is None:
                     srsReference = source_epsg
@@ -97,7 +97,7 @@ def process_gml(input_filename, outName, field_mapping, icon_mapping, epsg=None)
                 poCT = CoordinateTransformation(srsReference, epsg4326)
                 if poCT is not None:
                     eErr = poDstGeometry.Transform(poCT)
-                    print('geometry converted:   ', poDstGeometry)
+                    print('Geometry converted:   ', poDstGeometry)
                     if eErr != 0:
                         print("Failed to reproject feature %d (geometry probably out of source or destination SRS)." %
                               poFeature.GetFID())
@@ -107,10 +107,10 @@ def process_gml(input_filename, outName, field_mapping, icon_mapping, epsg=None)
             for iField in range(poDefn.GetFieldCount()):
                 poFDefn = poDefn.GetFieldDefn(iField)
                 line = "  %s (%s) = " % (poFDefn.GetNameRef(), ogr.GetFieldTypeName(poFDefn.GetType()))
-                if poFeature.IsFieldSet(iField) and poFDefn.GetNameRef() in field_mapping:
+                if poFeature.IsFieldSet(iField) and poFDefn.GetNameRef().upper() in field_mapping:
                     try:
                         line = line + "%s" % (poFeature.GetFieldAsString(iField))
-                        map = field_mapping[poFDefn.GetNameRef()]
+                        map = field_mapping[poFDefn.GetNameRef().upper()]
                         value = poFeature.GetFieldAsString(iField)
 
                         if map['isDescription']:
