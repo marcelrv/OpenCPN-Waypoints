@@ -72,8 +72,8 @@ class BridgeInfo:
             if OperatingPeriod.get('Note') is not None and OperatingPeriod.get('Note') != "":
                 note = ' (note: ' + OperatingPeriod.get('Note') + ')'
             openingDescription += 'Periode ' + OperatingPeriod['Start'][2:] + '-' + OperatingPeriod['Start'][:2] + \
-                ' tot ' + OperatingPeriod['End'][2:] + '-' + OperatingPeriod['End'][:2] + note + ':\r\n' 
-            
+                ' tot ' + OperatingPeriod['End'][2:] + '-' + OperatingPeriod['End'][:2] + note + ':\r\n'
+
             for OperatingRule in sorted(OperatingPeriod['OperatingRules'], key=self.operatinghours_sort_key):
                 if OperatingRule.get('From') is not None and \
                         OperatingRule.get('To') is not None and OperatingRule.get('From') > 0:
@@ -193,7 +193,7 @@ class BridgeInfo:
             if radiopoint is not None:
                 description.append('VHF:     ' + ','.join(radiopoint.get('VhfChannels')))
             if geo_object.get('PhoneNumber') is not None:
-                description.append('Contact PhoneNumber:' + geo_object.get('PhoneNumber') )
+                description.append('Contact PhoneNumber:' + geo_object.get('PhoneNumber'))
             administration = find_related(geo_object, self.related, 'AdministrationId')
             if administration is not None and administration.get('PhoneNumber') is not None:
                 description.append('PhoneNumber: %s' % administration.get('PhoneNumber'))
