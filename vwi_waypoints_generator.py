@@ -68,8 +68,12 @@ class BridgeInfo:
         openings = self.find_id(self.operatingtimes, openingId)
         openingDescription = '\r\nBedieningstijden\r\n'
         for OperatingPeriod in openings.get('OperatingPeriods'):
+            note = ''
+            if OperatingPeriod.get('Note') is not None and OperatingPeriod.get('Note') != "":
+                note = ' (note: ' + OperatingPeriod.get('Note') + ')'
             openingDescription += 'Periode ' + OperatingPeriod['Start'][2:] + '-' + OperatingPeriod['Start'][:2] + \
-                ' tot ' + OperatingPeriod['End'][2:] + '-' + OperatingPeriod['End'][:2] + ':\r\n'
+                ' tot ' + OperatingPeriod['End'][2:] + '-' + OperatingPeriod['End'][:2] + note + ':\r\n' 
+            
             for OperatingRule in sorted(OperatingPeriod['OperatingRules'], key=self.operatinghours_sort_key):
                 if OperatingRule.get('From') is not None and \
                         OperatingRule.get('To') is not None and OperatingRule.get('From') > 0:
@@ -93,9 +97,12 @@ class BridgeInfo:
                 if OperatingRule.get('IsSunday'):
                     openingDescription += 'Zo, '
                 if OperatingRule.get('IsHoliday'):
-                    openingDescription += 'incl. feestdagen.\r\n'
+                    openingDescription += 'incl. feestdagen.'
                 else:
-                    openingDescription += 'excl. feestdagen.\r\n'
+                    openingDescription += 'excl. feestdagen.'
+                if OperatingRule.get('Note') is not None:
+                    openingDescription += ' ' + OperatingRule.get('Note')
+                openingDescription += '\r\n'
         if openings.get('Note') is not None:
             openingDescription += '\r\nNote: ' + openings.get('Note')
         return openingDescription
@@ -127,16 +134,16 @@ class BridgeInfo:
         if _UseScale:
             root = create_GPX_namespace(gpx, _ScaleMin)
 
-        for bridge in sorted(self.bridges, key=lambda r: r.get('Id')):
+        for geo_object in sorted(self.bridges, key=lambda r: r.get('Id')):
             gpx_wps = gpxpy.gpx.GPXWaypoint()
             # pnt = bridge["Geometry"].replace("POINT (", "").replace(")", "").split(" ")
-            pnt = add_coordinate(gpx_wps, bridge["Geometry"])
-            name = bridge["Name"]
-            radio_record = bridge
+            pnt = add_coordinate(gpx_wps, geo_object["Geometry"])
+            name = geo_object["Name"]
+            radio_record = geo_object
             if _UseScale:
                 gpx_wps.extensions.append(root)
             description = []
-            fairway_id = bridge.get('FairwayId')
+            fairway_id = geo_object.get('FairwayId')
             if fairway_id is not None:
                 fairway = self.find_id(self.fairway, fairway_id)
                 if fairway is not None:
@@ -144,9 +151,9 @@ class BridgeInfo:
             if geotype == 'lock':
                 gpx_wps.symbol = "Symbol-Spot-Magenta"
             elif 'harbour' in geotype:
-                vinHarbour = find_related(bridge, self.related, 'VinHarbourId')
-                nwbHarbour = find_related(bridge, self.related, 'NwbHarbourId')
-                berth = find_related(bridge, self.related, 'BerthId')
+                vinHarbour = find_related(geo_object, self.related, 'VinHarbourId')
+                nwbHarbour = find_related(geo_object, self.related, 'NwbHarbourId')
+                berth = find_related(geo_object, self.related, 'BerthId')
                 harbour = vinHarbour
                 if nwbHarbour is not None:
                     harbour = nwbHarbour
@@ -161,20 +168,20 @@ class BridgeInfo:
                 else:
                     if debugging:
                         print('harbourtype not processed %s - id %s : %s' %
-                              (geotype, bridge["Id"], bridge["Name"]))
+                              (geotype, geo_object["Id"], geo_object["Name"]))
                 gpx_wps.symbol = "Anchor"
-                short_stay_places = bridge.get('ShortStayPlaces')
+                short_stay_places = geo_object.get('ShortStayPlaces')
                 if (short_stay_places) is not None:
                     description.append('Passanten plaatsen: %d' % short_stay_places)
-                long_stay_places = bridge.get('LongStayPlaces')
+                long_stay_places = geo_object.get('LongStayPlaces')
                 if (long_stay_places) is not None:
                     description.append('Vaste ligplaatsen: %d' % long_stay_places)
-                if bridge.get('SuppliesFuel') is True:
+                if geo_object.get('SuppliesFuel') is True:
                     description.append('Tankstation:      : Ja')
                 else:
                     description.append('Tankstation:      : Nee')
             elif geotype == 'bridge':
-                if bridge.get('CanOpen') is True:
+                if geo_object.get('CanOpen') is True:
                     description.append('Type:    Bedienbare Brug')
                     gpx_wps.symbol = "Landmarks-Bridge2"
                 else:
@@ -185,19 +192,24 @@ class BridgeInfo:
             radiopoint = self.find_child(self.radiocallinpoint, radio_record.get('Id'))
             if radiopoint is not None:
                 description.append('VHF:     ' + ','.join(radiopoint.get('VhfChannels')))
-            if bridge.get('OperatingTimesId') is not None:
-                openingHours = self.get_openingHours(bridge.get('OperatingTimesId'))
+            if geo_object.get('PhoneNumber') is not None:
+                description.append('Contact PhoneNumber:' + geo_object.get('PhoneNumber') )
+            administration = find_related(geo_object, self.related, 'AdministrationId')
+            if administration is not None and administration.get('PhoneNumber') is not None:
+                description.append('PhoneNumber: %s' % administration.get('PhoneNumber'))
+            if geo_object.get('OperatingTimesId') is not None:
+                openingHours = self.get_openingHours(geo_object.get('OperatingTimesId'))
                 description.append(openingHours)
-            link_type = str(bridge['GeoType']).upper()
+            link_type = str(geo_object['GeoType']).upper()
             if 'HARBOUR' in link_type:
                 link_type = 'shipstation'
             gpx_wps.link = 'https://vaarweginformatie.nl/frp/main/#/geo/detail/' + link_type + '/' + \
-                str(bridge["Id"])
+                str(geo_object["Id"])
             gpx_wps.link_text = name + ' online info'
             gpx_wps.name = name
             gpx_wps.description = '\r\n'.join(description)
             country = region.get('country')
-            foreign_code = bridge.get('ForeignCode')
+            foreign_code = geo_object.get('ForeignCode')
             if foreign_code is not None:
                 foreign_code = foreign_code[:2]
                 if foreign_code == '65':  # hack as no country
