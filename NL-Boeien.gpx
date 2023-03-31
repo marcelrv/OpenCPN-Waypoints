@@ -29417,54 +29417,9 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.538802777369135" lon="5.856952778044636">
-    <name>JHR 2</name>
-    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
-model : spar Rood</desc>
-    <sym>1143</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.538155555978726" lon="5.857947222978249">
-    <name>JHR 3</name>
-    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
-model : spar Groen</desc>
-    <sym>1043</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.44556388852385" lon="5.804969444652844">
     <name>JHR 4</name>
     <desc>vaarweg : VELUWEMEER RECREATIE (RANDMEREN)
-model : spar Rood</desc>
-    <sym>1143</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.538402777817275" lon="5.858294444955248">
-    <name>JHR 4</name>
-    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
-model : spar Rood</desc>
-    <sym>1143</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.53777222228855" lon="5.859072221555978">
-    <name>JHR 5</name>
-    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
-model : spar Groen</desc>
-    <sym>1043</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.537988889086236" lon="5.859677777596323">
-    <name>JHR 6</name>
-    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -76280,7 +76235,6 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -77483,6 +77437,14 @@ model : spar Geel</desc>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
 model : spar Geel</desc>
     <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.068727777538165" lon="5.357175000009107">
+    <name>VF-WNB 20</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+model : Niet toegewezen Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87796,7 +87758,6 @@ licht type : LFl (long-flashing)
 licht periode : 8
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
