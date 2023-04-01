@@ -13602,15 +13602,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.54144999967055" lon="5.855569444631162">
-    <name>DM 1</name>
-    <desc>vaarweg : DRONTERMEER (RANDMEREN)
-model : spar Groen</desc>
-    <sym>1043</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.521636110792414" lon="5.857950000051762">
     <name>DM 16</name>
     <desc>vaarweg : DRONTERMEER (RANDMEREN)
@@ -13667,6 +13658,15 @@ model : spar Rood</desc>
     <desc>vaarweg : DRONTERMEER (RANDMEREN)
 model : spar Groen</desc>
     <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.54144999967055" lon="5.855569444631162">
+    <name>DM 1A</name>
+    <desc>vaarweg : DRONTERMEER (RANDMEREN)
+model : spar Groen</desc>
+    <sym>1043</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -13742,15 +13742,6 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.54151111134107" lon="5.856483332693751">
-    <name>DM 2</name>
-    <desc>vaarweg : DRONTERMEER (RANDMEREN)
-model : spar Rood</desc>
-    <sym>1143</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.503047222289204" lon="5.853586111769321">
     <name>DM 26</name>
     <desc>vaarweg : DRONTERMEER (RANDMEREN)
@@ -13783,6 +13774,15 @@ model : spar Rood</desc>
     <desc>vaarweg : DRONTERMEER (RANDMEREN)
 model : spar Groen</desc>
     <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.54151111134107" lon="5.856483332693751">
+    <name>DM 2A</name>
+    <desc>vaarweg : DRONTERMEER (RANDMEREN)
+model : spar Rood</desc>
+    <sym>1143</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -22458,7 +22458,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.99312222204408" lon="4.841997221730909">
+  <wpt lat="52.991569444382556" lon="4.841330556205924">
     <name>GVS 4</name>
     <desc>vaarweg : GAT VAN DE STIER
 licht type : Iso (isophased)
@@ -30681,6 +30681,166 @@ model : spar Geel</desc>
     <desc>vaarweg : AMER
 model : spar Groen</desc>
     <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.54256111123555" lon="5.857186111425212">
+    <name>KBD-A</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.542611110837605" lon="5.858072221498094">
+    <name>KBD-B</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.542119444177416" lon="5.857255556085228">
+    <name>KBD-C</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.54166944417525" lon="5.857311110824532">
+    <name>KBD-D</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.54121944463954" lon="5.857363888726572">
+    <name>KBD-E</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5407694444869" lon="5.857419444514681">
+    <name>KBD-F</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.54081111139112" lon="5.858302777866676">
+    <name>KBD-G</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.540319444838005" lon="5.857472222049826">
+    <name>KBD-H</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.539880555384414" lon="5.857541666140806">
+    <name>KBD-I</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.539430555583166" lon="5.857594444648358">
+    <name>KBD-J</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.53898055519675" lon="5.8576499994562">
+    <name>KBD-K</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.53853055528234" lon="5.857702777596957">
+    <name>KBD-L</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.538080555643326" lon="5.857758333512023">
+    <name>KBD-M</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.538122222500625" lon="5.858644444844277">
+    <name>KBD-N</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.53719166661572" lon="5.857880556185594">
+    <name>KBD-O</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.53629166659859" lon="5.857988888394718">
+    <name>KBD-P</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.535394444413846" lon="5.858113888409489">
+    <name>KBD-Q</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.53450277770675" lon="5.858222221988822">
+    <name>KBD-R</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.53360277758347" lon="5.858344444900544">
+    <name>KBD-S</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.533644444591" lon="5.85921388907701">
+    <name>KBD-T</name>
+    <desc>vaarweg : DRONTERMEER RECREATIE (RANDMEREN)
+model : stomp Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -46682,6 +46842,18 @@ licht periode : 5
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.38366388886711" lon="4.165566666086034">
+    <name>NVB-MA</name>
+    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+licht type : VQ (very quick-flashing)
+licht periode : 10
+lich kleur : Wit
+model : Pilaar Geel/zwart/geel</desc>
+    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -76633,7 +76805,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.419322222545176" lon="5.793841666730019">
+  <wpt lat="53.4193638887342" lon="5.794713889391326">
     <name>VA 7B</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Q (quick-flashing)
@@ -76678,7 +76850,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.418305555912305" lon="5.797175000156625">
+  <wpt lat="53.418455555316235" lon="5.797330555333772">
     <name>VA 9</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Iso (isophased)
@@ -83008,7 +83180,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.54688055579134" lon="5.855330556258085">
+  <wpt lat="52.54688055580638" lon="5.85549444436024">
     <name>VOM 38-JHL 1</name>
     <desc>vaarweg : VOSSEMEER (RANDMEREN)
 model : spar Rood/groen</desc>
