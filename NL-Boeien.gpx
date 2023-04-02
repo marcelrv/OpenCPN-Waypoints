@@ -27512,6 +27512,17 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.60530277791218" lon="5.657458332882798">
+    <name>HZR 4-SR 1</name>
+    <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+licht type : Q (quick-flashing)
+lich kleur : Rood
+model : spar Rood/groen</desc>
+    <sym>1252</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.59111666681483" lon="5.723519445129444">
     <name>HZR 5</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
@@ -46853,7 +46864,6 @@ licht type : VQ (very quick-flashing)
 licht periode : 10
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
-    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87212,6 +87222,15 @@ model : stomp Geel</desc>
     <desc>vaarweg : KETELMEER (RANDMEREN)
 model : stomp Geel</desc>
     <sym>5511</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.58914444422055" lon="5.768847222727746">
+    <name>WKM-E</name>
+    <desc>vaarweg : KETELMEER (RANDMEREN)
+model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
