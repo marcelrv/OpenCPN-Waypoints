@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-04-03T10:07:31.700000Z</time>
+    <time>2023-04-04T09:44:47.416000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -1042,13 +1042,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="53.1501588801456" lon="5.90220787232082">
-    <name>Meldpunt Rogsleatbrêge</name>
-    <desc>Naam:         Meldpunt Rogsleatbrêge
+    <name>Meldpunt Rogsleatbrêge / Rogslootbrug</name>
+    <desc>Naam:         Meldpunt Rogsleatbrêge / Rogslootbrug
 VHF:          80
 RadioStatus: RECOMMENDED
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/27249">
-      <text>Meldpunt Rogsleatbrêge online info</text>
+      <text>Meldpunt Rogsleatbrêge / Rogslootbrug online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -1167,13 +1167,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="52.9744959424677" lon="5.75699450180216">
-    <name>Meldpunt Brêge Noarder Alde Wei</name>
-    <desc>Naam:         Meldpunt Brêge Noarder Alde Wei
+    <name>Meldpunt Brêge Noarder Alde Wei / Brug Noorder Oudeweg</name>
+    <desc>Naam:         Meldpunt Brêge Noarder Alde Wei / Brug Noorder Oudeweg
 VHF:          80
 RadioStatus: RECOMMENDED
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/46966">
-      <text>Meldpunt Brêge Noarder Alde Wei online info</text>
+      <text>Meldpunt Brêge Noarder Alde Wei / Brug Noorder Oudeweg online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -1233,12 +1233,12 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="52.9457293790243" lon="5.78070224560518">
-    <name>Meldpunt Skarsterbrêge</name>
-    <desc>Naam:         Meldpunt Skarsterbrêge
+    <name>Meldpunt Skarsterbrêge / Scharsterbrug</name>
+    <desc>Naam:         Meldpunt Skarsterbrêge / Scharsterbrug
 VHF:          80
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/10138">
-      <text>Meldpunt Skarsterbrêge online info</text>
+      <text>Meldpunt Skarsterbrêge / Scharsterbrug online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -1361,6 +1361,19 @@ VHF:          20
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/34724">
       <text>Meldpunt Sylsterryd brêge (Zijlsterrydbrug) online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1713725600519" lon="5.8488517999649">
+    <name>Meldpunt Greijdanus brêge (fietsbrug)</name>
+    <desc>Naam:         Meldpunt Greijdanus brêge (fietsbrug)
+VHF:          80
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/5980249">
+      <text>Meldpunt Greijdanus brêge (fietsbrug) online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
