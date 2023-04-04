@@ -13602,6 +13602,17 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.54211666652147" lon="5.855575000045127">
+    <name>DM 1</name>
+    <desc>vaarweg : DRONTERMEER (RANDMEREN)
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.521636110792414" lon="5.857950000051762">
     <name>DM 16</name>
     <desc>vaarweg : DRONTERMEER (RANDMEREN)
@@ -13738,6 +13749,17 @@ model : spar Groen</desc>
     <desc>vaarweg : HEUSDENSCH KANAAL
 model : stomp Rood</desc>
     <sym>1103</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.542094444823775" lon="5.856636111745868">
+    <name>DM 2</name>
+    <desc>vaarweg : DRONTERMEER (RANDMEREN)
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
+model : stomp Rood</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -27518,7 +27540,6 @@ model : spar Groen</desc>
 licht type : Q (quick-flashing)
 lich kleur : Rood
 model : spar Rood/groen</desc>
-    <sym>1252</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -46604,6 +46625,39 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.33804722211061" lon="3.813691666503089">
+    <name>NST-A</name>
+    <desc>vaarweg : Kanaal Gent- Terneuzen
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.33756944467375" lon="3.812633333105566">
+    <name>NST-B</name>
+    <desc>vaarweg : Kanaal Gent- Terneuzen
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Geel
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.33613888893205" lon="3.812686111407674">
+    <name>NST-C</name>
+    <desc>vaarweg : Kanaal Gent- Terneuzen
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.32201944487295" lon="3.825444444978527">
     <name>NST-O</name>
     <desc>vaarweg : Kanaal Gent- Terneuzen
@@ -46622,17 +46676,6 @@ licht type : VQ (very quick-flashing)
 licht periode : 10
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.336052777628744" lon="3.81270833268582">
-    <name>NST</name>
-    <desc>vaarweg : Kanaal Gent- Terneuzen
-licht type : Fl (flashing)
-licht periode : 10
-lich kleur : Geel
-model : spar Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70313,6 +70356,39 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.541724999570015" lon="5.855252777924726">
+    <name>SRS-A</name>
+    <desc>vaarweg : DRONTERMEER (RANDMEREN)
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.54218611121291" lon="5.855444444856653">
+    <name>SRS-B</name>
+    <desc>vaarweg : DRONTERMEER (RANDMEREN)
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.54737222257365" lon="5.854208332877217">
+    <name>SRS-C</name>
+    <desc>vaarweg : DRONTERMEER (RANDMEREN)
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.54778055541358" lon="5.853958332938874">
+    <name>SRS-D</name>
+    <desc>vaarweg : VOSSEMEER (RANDMEREN)
+lich kleur : Geel
+model : spits Niet toegewezen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.406086110944464" lon="3.690927777249678">
     <name>SS 10</name>
     <desc>vaarweg : SCHAAR VAN DE SPIJKERPLAAT
@@ -87230,7 +87306,6 @@ model : stomp Geel</desc>
     <name>WKM-E</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
 model : spar Geel</desc>
-    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
