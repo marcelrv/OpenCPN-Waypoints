@@ -63548,15 +63548,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.52579999958961" lon="6.556466667144211">
-    <name>S-WNB 3</name>
-    <desc>vaarweg : SCHILD
-model : stomp Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.32119722221343" lon="5.237566666515951">
     <name>S-WNB</name>
     <desc>vaarweg : SLENK (WADDENZEE)
@@ -83423,6 +83414,50 @@ model : spar Rood/wit repeterend</desc>
     <desc>vaarweg : VAARWATER NAAR OOSTMAHORN
 model : spar Rood/wit repeterend</desc>
     <sym>1551</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.42783888909351" lon="3.450352778110389">
+    <name>VR-A</name>
+    <desc>vaarweg : WIELINGEN
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.42675277733395" lon="3.450358333360069">
+    <name>VR-B</name>
+    <desc>vaarweg : WIELINGEN
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.47151944400539" lon="3.329269444654006">
+    <name>VR-C</name>
+    <desc>vaarweg : WIELINGEN
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.47046388931167" lon="3.329283332884641">
+    <name>VR-D</name>
+    <desc>vaarweg : WIELINGEN
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
