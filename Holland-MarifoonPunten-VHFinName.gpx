@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-04-11T06:52:02.838000Z</time>
+    <time>2023-04-12T05:44:01.981000Z</time>
   </metadata>
   <wpt lat="52.42482997873" lon="4.83723118322086">
     <name>VHF 4</name>
@@ -619,9 +619,9 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="52.0465141353114" lon="5.10387514412526">
-    <name>VHF 84</name>
+    <name>VHF 78</name>
     <desc>Naam:         Meldpunt Zuidersluis Nieuwegein
-VHF:          84
+VHF:          78
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/6816">
       <text>Meldpunt Zuidersluis Nieuwegein online info</text>
@@ -4319,11 +4319,13 @@ Opmerking: Diepte aflopend naar KP-7,00m.</desc>
   </wpt>
   <wpt lat="51.9019733859554" lon="4.51957247815453">
     <name>VHF 21</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R3085)
+    <desc>Naam:         Meldpunt Nieuwe Maas, Steenplaat, ankerplaats
 VHF:          21
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Geen afmeervoorziening.
+Alleen voor ankeren en Spudpalen</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/35654">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R3085) online info</text>
+      <text>Meldpunt Nieuwe Maas, Steenplaat, ankerplaats online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4398,11 +4400,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.8665910668882" lon="4.30068597018352">
     <name>VHF 62</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R48087)
+    <desc>Naam:         Meldpunt Rotterdam, kegelplaats
 VHF:          62
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/36684">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R48087) online info</text>
+      <text>Meldpunt Rotterdam, kegelplaats online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4424,11 +4426,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9206710458627" lon="4.25164141735547">
     <name>VHF 68</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R48069)
+    <desc>Naam:         Meldpunt Maassluis, Haringkade
 VHF:          68
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/36775">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R48069) online info</text>
+      <text>Meldpunt Maassluis, Haringkade online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4437,11 +4439,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="52.9487549346727" lon="4.77638326137026">
     <name>VHF 14</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R54738)
+    <desc>Naam:         Meldpunt Den Helder, Handelskade
 VHF:          14
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Gem Havendienst</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/36975">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R54738) online info</text>
+      <text>Meldpunt Den Helder, Handelskade online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4463,11 +4466,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="52.4770736720236" lon="4.66136631036815">
     <name>VHF 71</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R52806)
+    <desc>Naam:         Meldpunt Beverwijk Nieuwekade 22-30
 VHF:          71
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Terminal, categorie: Binnenvaart, ligplaatscode: BVNIE ( Overslag)</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/37493">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R52806) online info</text>
+      <text>Meldpunt Beverwijk Nieuwekade 22-30 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4489,11 +4493,13 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="52.3949681927127" lon="4.82110166526531">
     <name>VHF 4</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R53807)
+    <desc>Naam:         Meldpunt Mainhaven Newob Steiger
 VHF:          4
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Voor Zee en binnenvaart
+Code; MANWB</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/37679">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R53807) online info</text>
+      <text>Meldpunt Mainhaven Newob Steiger online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4528,11 +4534,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="52.4627557869363" lon="4.65606506999874">
     <name>VHF 3</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R52908)
+    <desc>Naam:         Meldpunt Velsen CMF
 VHF:          3
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Ligplaatsenbeleid RWS, categorie: Zee- en binnenvaart, ligplaatscode: VECMF( Overslag)</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/38160">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R52908) online info</text>
+      <text>Meldpunt Velsen CMF online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4647,11 +4654,11 @@ Opmerking: Haven alleen toegangkelijk met toestemming  van verkeerscentrale te H
   </wpt>
   <wpt lat="52.9317992149087" lon="5.04561083381319">
     <name>VHF 20</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R47407)
+    <desc>Naam:         Meldpunt Wachtplaats Stevinsluis - Voorhaven 1
 VHF:          20
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/39585">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R47407) online info</text>
+      <text>Meldpunt Wachtplaats Stevinsluis - Voorhaven 1 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4660,11 +4667,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.8964246483468" lon="4.3933925465262">
     <name>VHF 63</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R12006)
+    <desc>Naam:         Meldpunt Pernis, Pernisse Hoofd, calamiteitensteiger
 VHF:          63
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Steiger.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/40042">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R12006) online info</text>
+      <text>Meldpunt Pernis, Pernisse Hoofd, calamiteitensteiger online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4686,11 +4694,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="52.4162470846272" lon="4.81226921081543">
     <name>VHF 4</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R51090)
+    <desc>Naam:         Meldpunt Westhaven WZ Coldstores B.V.
 VHF:          4
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/40211">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R51090) online info</text>
+      <text>Meldpunt Westhaven WZ Coldstores B.V. online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4712,11 +4720,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="52.3823648238839" lon="4.95707804892974">
     <name>VHF 60</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R11217)
+    <desc>Naam:         Meldpunt Ligplaats Noordersluis - Palen ten westen Noord
 VHF:          60
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Tussenruimte tussen de palen is 25 meter. Diepgang tot 2,5 meter.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/40522">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R11217) online info</text>
+      <text>Meldpunt Ligplaats Noordersluis - Palen ten westen Noord online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4725,11 +4734,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9084078541982" lon="4.51679210184227">
     <name>VHF 21</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R47648)
+    <desc>Naam:         Meldpunt Rotterdam, Buitenbassinweg, steiger DWL2
 VHF:          21
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Steiger.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/40695">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R47648) online info</text>
+      <text>Meldpunt Rotterdam, Buitenbassinweg, steiger DWL2 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4765,11 +4775,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="52.7003250858404" lon="5.29724437866023">
     <name>VHF 12</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R12211)
+    <desc>Naam:         Meldpunt Enkhuizen, Nieuwe Harlingersteiger
 VHF:          12
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/41085">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R12211) online info</text>
+      <text>Meldpunt Enkhuizen, Nieuwe Harlingersteiger online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4778,11 +4788,13 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="52.4135273436534" lon="4.84358188022706">
     <name>VHF 4</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R51172)
+    <desc>Naam:         Meldpunt Jan van Riebeeckhaven steiger 10
 VHF:          4
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Voor zee- en binnenvaart
+Code; RBS10</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/41122">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R51172) online info</text>
+      <text>Meldpunt Jan van Riebeeckhaven steiger 10 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4857,11 +4869,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.900381884148" lon="4.44620891388548">
     <name>VHF 60</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R55854)
+    <desc>Naam:         Meldpunt NIEUWE MAAS  BARTEL 1
 VHF:          60
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/41574">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R55854) online info</text>
+      <text>Meldpunt NIEUWE MAAS  BARTEL 1 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4870,11 +4882,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9146510524767" lon="4.49126417362172">
     <name>VHF 81</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R47656)
+    <desc>Naam:         Meldpunt NIEUWE MAAS  EILAND 4
 VHF:          81
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/41825">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R47656) online info</text>
+      <text>Meldpunt NIEUWE MAAS  EILAND 4 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4936,11 +4948,11 @@ Opmerking:  </desc>
   </wpt>
   <wpt lat="51.9188883380598" lon="4.24971464784651">
     <name>VHF 68</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R11782)
+    <desc>Naam:         Meldpunt Maassluis, Haven
 VHF:          68
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/42455">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R11782) online info</text>
+      <text>Meldpunt Maassluis, Haven online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5057,11 +5069,13 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="52.4613068418496" lon="4.5861514529595">
     <name>VHF 12</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R13393)
+    <desc>Naam:         Meldpunt Vissershaven Halkade
 VHF:          12
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Terminal, categorie: Zee- en binnenvaart, ligplaatscode: VHHAL ( Overslag)
+/Havenkantoor.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/43670">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R13393) online info</text>
+      <text>Meldpunt Vissershaven Halkade online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5137,11 +5151,12 @@ Opmerking: Boeienspannen  55 en 56</desc>
   </wpt>
   <wpt lat="52.3684145568055" lon="4.9989216788269">
     <name>VHF 18 60</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R11227)
+    <desc>Naam:         Meldpunt Ligplaats Durgerdam Buiten IJ - Palen Oost Kegel
 VHF:          18 60
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Drie palen op onderling 40 meter afstand.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/44420">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R11227) online info</text>
+      <text>Meldpunt Ligplaats Durgerdam Buiten IJ - Palen Oost Kegel online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5176,11 +5191,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9188614039418" lon="4.24968554346183">
     <name>VHF 68</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R11783)
+    <desc>Naam:         Meldpunt Maassluis, Govert van Wijnkade
 VHF:          68
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/44608">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R11783) online info</text>
+      <text>Meldpunt Maassluis, Govert van Wijnkade online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5294,11 +5309,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.905932060592" lon="4.46443597186964">
     <name>VHF 22</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R11069)
+    <desc>Naam:         Meldpunt Parkhaven, ligplaats bedrijfsschepen
 VHF:          22
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/45297">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R11069) online info</text>
+      <text>Meldpunt Parkhaven, ligplaats bedrijfsschepen online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5411,11 +5426,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9102383984128" lon="4.51641747356438">
     <name>VHF 21</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R47646)
+    <desc>Naam:         Meldpunt NIEUWE MAAS  DWL 3
 VHF:          21
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Steiger.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/46188">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R47646) online info</text>
+      <text>Meldpunt NIEUWE MAAS  DWL 3 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5463,11 +5479,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.8794761291676" lon="4.44912219628267">
     <name>VHF 60</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R55879)
+    <desc>Naam:         Meldpunt WAALH ZZ  3
 VHF:          60
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Steiger.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/46702">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R55879) online info</text>
+      <text>Meldpunt WAALH ZZ  3 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5489,11 +5506,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="52.3824182323906" lon="4.94081152401889">
     <name>VHF 60</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R11215)
+    <desc>Naam:         Meldpunt Ligplaats Slik - Remming Zuid Kegel
 VHF:          60
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Er mag twee breed worden afgemeerd.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/47387">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R11215) online info</text>
+      <text>Meldpunt Ligplaats Slik - Remming Zuid Kegel online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5517,11 +5535,11 @@ Buyshaven is particuliere jachthaven.</desc>
   </wpt>
   <wpt lat="51.8674548913164" lon="4.32295668120787">
     <name>VHF 62</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R11877)
+    <desc>Naam:         Meldpunt Rotterdam, ACR bv.
 VHF:          62
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/47665">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R11877) online info</text>
+      <text>Meldpunt Rotterdam, ACR bv. online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5569,11 +5587,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.937242892" lon="4.17973561100007">
     <name>VHF 65</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R11871)
+    <desc>Naam:         Meldpunt CALANDK CALDIC WEST BINNEN WEST
 VHF:          65
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/47903">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R11871) online info</text>
+      <text>Meldpunt CALANDK CALDIC WEST BINNEN WEST online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5595,11 +5613,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9137583530386" lon="4.51364656211506">
     <name>VHF 81</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R9922)
+    <desc>Naam:         Meldpunt NIEUWE MAAS  FEYE 2
 VHF:          81
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/48293">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R9922) online info</text>
+      <text>Meldpunt NIEUWE MAAS  FEYE 2 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5608,11 +5626,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9057631392054" lon="4.55437607811804">
     <name>VHF 21</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R47634)
+    <desc>Naam:         Meldpunt Rotterdam, Merode 2, ankerplaats
 VHF:          21
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/48434">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R47634) online info</text>
+      <text>Meldpunt Rotterdam, Merode 2, ankerplaats online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5662,11 +5680,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.8795583857988" lon="4.44906366414301">
     <name>VHF 60</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R55883)
+    <desc>Naam:         Meldpunt Rotterdam, ligplaats Waal 4
 VHF:          60
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Duwbotensteiger.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/48977">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R55883) online info</text>
+      <text>Meldpunt Rotterdam, ligplaats Waal 4 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5701,11 +5720,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9535867994843" lon="4.1295680771541">
     <name>VHF 66</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R48169)
+    <desc>Naam:         Meldpunt Rotterdam, Europoort, Beneluxhaven, EBS
 VHF:          66
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/49206">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R48169) online info</text>
+      <text>Meldpunt Rotterdam, Europoort, Beneluxhaven, EBS online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5727,11 +5746,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="53.0399040509877" lon="4.85174197612618">
     <name>VHF 12</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R12165)
+    <desc>Naam:         Meldpunt Oudeschild, ligplaats
 VHF:          12
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/49268">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R12165) online info</text>
+      <text>Meldpunt Oudeschild, ligplaats online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5889,11 +5908,12 @@ Opmerking: Invaartverbod voor de duur van 3 jaar - Jachthaven in aanleg.</desc>
   </wpt>
   <wpt lat="52.417835" lon="4.85418">
     <name>VHF 4</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R53456)
+    <desc>Naam:         Meldpunt Zijkanaal H Vrede Container Terminal
 VHF:          4
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Portaalkraan over vaarwater, wijdte 15,45m, hoogte KP+8,40m.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/50680">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R53456) online info</text>
+      <text>Meldpunt Zijkanaal H Vrede Container Terminal online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5955,11 +5975,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9180915381326" lon="4.50229950344845">
     <name>VHF 81</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R55838)
+    <desc>Naam:         Meldpunt NIEUWE MAAS  RHIJNSPOOR 2
 VHF:          81
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/51326">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R55838) online info</text>
+      <text>Meldpunt NIEUWE MAAS  RHIJNSPOOR 2 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5982,11 +6002,11 @@ Opmerking:  </desc>
   </wpt>
   <wpt lat="51.9125961355671" lon="4.49764194495537">
     <name>VHF 81</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R9956)
+    <desc>Naam:         Meldpunt Rotterdam, Stieltjesstraat
 VHF:          81
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/51509">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R9956) online info</text>
+      <text>Meldpunt Rotterdam, Stieltjesstraat online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6061,11 +6081,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.8895384054119" lon="4.36700181254151">
     <name>VHF 63</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R47972)
+    <desc>Naam:         Meldpunt 2E PET  STG 0
 VHF:          63
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/52949">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R47972) online info</text>
+      <text>Meldpunt 2E PET  STG 0 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6074,11 +6094,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9153855661787" lon="4.50264703035559">
     <name>VHF 81</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R9954)
+    <desc>Naam:         Meldpunt Rotterdam, ligplaats Koning 3
 VHF:          81
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/53183">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R9954) online info</text>
+      <text>Meldpunt Rotterdam, ligplaats Koning 3 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6087,11 +6107,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9263740475602" lon="4.20652968834922">
     <name>VHF 66</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R9822)
+    <desc>Naam:         Meldpunt Rotterdam, Europoort, boeien 78-84
 VHF:          66
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/53254">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R9822) online info</text>
+      <text>Meldpunt Rotterdam, Europoort, boeien 78-84 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6126,11 +6146,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.913973399" lon="4.22104477800002">
     <name>VHF 65</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R11870)
+    <desc>Naam:         Meldpunt CALANDK VOPAK STG
 VHF:          65
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: GLN-Nummer: 8719331011204</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/53880">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R11870) online info</text>
+      <text>Meldpunt CALANDK VOPAK STG online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6139,11 +6160,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9180149763297" lon="4.50286017289045">
     <name>VHF 81</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R9928)
+    <desc>Naam:         Meldpunt Rotterdam, ligplaats Antwerp 1
 VHF:          81
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/53934">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R9928) online info</text>
+      <text>Meldpunt Rotterdam, ligplaats Antwerp 1 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6231,11 +6252,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.917820499522" lon="4.50383118692594">
     <name>VHF 81</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R9926)
+    <desc>Naam:         Meldpunt Rotterdam, ligplaats Rhijnspoorkade 1
 VHF:          81
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/55018">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R9926) online info</text>
+      <text>Meldpunt Rotterdam, ligplaats Rhijnspoorkade 1 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6285,11 +6306,11 @@ Opmerking:  </desc>
   </wpt>
   <wpt lat="51.9448686010001" lon="4.12648916200004">
     <name>VHF 66</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R11873)
+    <desc>Naam:         Meldpunt BENELUXH STENALINE NOORD
 VHF:          66
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/55441">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R11873) online info</text>
+      <text>Meldpunt BENELUXH STENALINE NOORD online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6298,11 +6319,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="52.3821397628101" lon="4.94841706178158">
     <name>VHF 60</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R52049)
+    <desc>Naam:         Meldpunt Oranjewerf Binnenkant Dok
 VHF:          60
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/55566">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R52049) online info</text>
+      <text>Meldpunt Oranjewerf Binnenkant Dok online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6311,11 +6332,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9512137899876" lon="4.15779468728564">
     <name>VHF 66</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R9826)
+    <desc>Naam:         Meldpunt Rotterdam, Europoort, autosteiger
 VHF:          66
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Havennr. 5711.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/55600">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R9826) online info</text>
+      <text>Meldpunt Rotterdam, Europoort, autosteiger online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6324,11 +6346,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9453233728663" lon="4.12932960853006">
     <name>VHF 66</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R48180)
+    <desc>Naam:         Meldpunt Rotterdam, Europoort, Beneluxhaven, P &amp; O
 VHF:          66
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/55780">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R48180) online info</text>
+      <text>Meldpunt Rotterdam, Europoort, Beneluxhaven, P &amp; O online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6377,11 +6399,12 @@ Opmerking: Steigers.</desc>
   </wpt>
   <wpt lat="51.8713093840631" lon="4.31241445169383">
     <name>VHF 61</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R9766)
+    <desc>Naam:         Meldpunt Rotterdam, 3e Petroleumhaven, kegelplaats
 VHF:          61
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Diepte: NAP-4,50m.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/55941">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R9766) online info</text>
+      <text>Meldpunt Rotterdam, 3e Petroleumhaven, kegelplaats online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6403,11 +6426,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9377089504087" lon="4.06172786104393">
     <name>VHF 66</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R48161)
+    <desc>Naam:         Meldpunt Rotterdam, Europoort, EMO
 VHF:          66
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Diepte NAP-22,90m/NAP-20,90m.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/56319">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R48161) online info</text>
+      <text>Meldpunt Rotterdam, Europoort, EMO online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6469,11 +6493,13 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="52.4583092922404" lon="4.59440383680678">
     <name>VHF 12 16</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R11152)
+    <desc>Naam:         Meldpunt Vissershaven K.N.R.M.
 VHF:          12 16
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Terminal, categorie: Binnenvaart, ligplaatscode: VHNRM ( Overslag)
+/Havenkantoor.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/56778">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R11152) online info</text>
+      <text>Meldpunt Vissershaven K.N.R.M. online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6534,11 +6560,13 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="52.0340846004403" lon="5.11491281371918">
     <name>VHF 66</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R10881)
+    <desc>Naam:         Meldpunt Ligplaats Nieuwegein - K2 Betonnenblok Kegel
 VHF:          66
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Melden bij verkeerspost Wijk bij Duurstede. 
+Adres: Vulcopse Kanaaldijk, 3439 LS Nieuwegein.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/57111">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R10881) online info</text>
+      <text>Meldpunt Ligplaats Nieuwegein - K2 Betonnenblok Kegel online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6613,11 +6641,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9133571173831" lon="4.24525558458113">
     <name>VHF 80</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R31125)
+    <desc>Naam:         Meldpunt Rozenburg, veersteiger
 VHF:          80
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/57634">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R31125) online info</text>
+      <text>Meldpunt Rozenburg, veersteiger online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6639,11 +6667,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.9027461357148" lon="4.47570660473372">
     <name>VHF 81</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R9946)
+    <desc>Naam:         Meldpunt Rotterdam, Parkkade
 VHF:          81
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/58004">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R9946) online info</text>
+      <text>Meldpunt Rotterdam, Parkkade online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6665,11 +6693,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="52.40839390134" lon="4.81608867645264">
     <name>VHF 4</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R51094)
+    <desc>Naam:         Meldpunt Westhaven Kade Koopman
 VHF:          4
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Ro-ro kade aanwezig.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/58660">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R51094) online info</text>
+      <text>Meldpunt Westhaven Kade Koopman online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6772,11 +6801,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.924250879138" lon="4.17028041474296">
     <name>VHF 10</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R65302)
+    <desc>Naam:         Meldpunt Rotterdam, Hartelspud
 VHF:          10
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/7069618">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R65302) online info</text>
+      <text>Meldpunt Rotterdam, Hartelspud online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6785,11 +6814,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.8884452457117" lon="4.44271270586063">
     <name>VHF 60</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R65261)
+    <desc>Naam:         Meldpunt Rotterdam, boeien 26 en 27
 VHF:          60
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/7069694">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R65261) online info</text>
+      <text>Meldpunt Rotterdam, boeien 26 en 27 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6811,11 +6840,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.8868516069508" lon="4.37831806865015">
     <name>VHF 63</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R65274)
+    <desc>Naam:         Meldpunt Pernis, boei 50
 VHF:          63
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/7070167">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R65274) online info</text>
+      <text>Meldpunt Pernis, boei 50 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6824,11 +6853,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.8881882492731" lon="4.44289531213939">
     <name>VHF 60</name>
-    <desc>Naam:         Meldpunt (Radio Calling-In Point) ViN(R65259)
+    <desc>Naam:         Meldpunt Rotterdam, Waalhaven boei 29
 VHF:          60
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/7070305">
-      <text>Meldpunt (Radio Calling-In Point) ViN(R65259) online info</text>
+      <text>Meldpunt Rotterdam, Waalhaven boei 29 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
