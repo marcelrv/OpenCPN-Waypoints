@@ -9,7 +9,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <bounds minlat="50.78076666705064" maxlat="54.336177778017614" minlon="0.775994444318318" maxlon="7.20723333303639">
+    <bounds minlat="50.78076666705064" maxlat="54.336177778017614" minlon="2.723188888767299" maxlon="7.20723333303639">
     </bounds>
   </metadata>
   <wpt lat="51.67119999975445" lon="4.092716667347069">
@@ -13911,7 +13911,7 @@ model : spar Groen</desc>
   <wpt lat="52.538513888771" lon="5.856786111484622">
     <name>DM 4-JHR 1</name>
     <desc>vaarweg : DRONTERMEER (RANDMEREN)
-model : spar Rood/groen</desc>
+model : spar Rood</desc>
     <sym>1261</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -43256,7 +43256,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.95970277802342" lon="5.778472222232373">
+  <wpt lat="51.959638888550536" lon="5.778875000220658">
     <name>NDR 10</name>
     <desc>vaarweg : NEDERRIJN
 model : spar Rood</desc>
@@ -43265,7 +43265,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.96093888904355" lon="5.790644444280796">
+  <wpt lat="51.96020555513716" lon="5.789025000572216">
     <name>NDR 11</name>
     <desc>vaarweg : NEDERRIJN
 model : spar Groen</desc>
@@ -43286,7 +43286,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.95974722264118" lon="5.781813888567438">
+  <wpt lat="51.959638888988096" lon="5.781638889627172">
     <name>NDR 12</name>
     <desc>vaarweg : NEDERRIJN
 model : spar Rood</desc>
@@ -43307,7 +43307,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.96010000027869" lon="5.784588889450582">
+  <wpt lat="51.96003611141014" lon="5.784449999875569">
     <name>NDR 14</name>
     <desc>vaarweg : NEDERRIJN
 model : spar Rood</desc>
@@ -43514,7 +43514,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.959961110979535" lon="0.775994444318318">
+  <wpt lat="51.95989999989585" lon="5.776097222593048">
     <name>NDR 8B</name>
     <desc>vaarweg : NEDERRIJN
 model : spar Rood</desc>
@@ -70097,6 +70097,17 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.50927777755173" lon="4.220027777456083">
+    <name>SRK 45</name>
+    <desc>vaarweg : SCHELDE RIJN KANAAL
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spar Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.519816666610225" lon="4.221916666367232">
     <name>SRK 46</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
@@ -89294,6 +89305,14 @@ model : Pilaar Zwart/geel/zwart</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.341822222074235" lon="5.064983333088401">
+    <name>Wrak-N</name>
+    <desc>vaarweg : MUIDEN (MARKERMEER)
+model : spar Zwart/geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.34126666646538" lon="5.065527777083334">
     <name>Wrak-O</name>
     <desc>vaarweg : MUIDEN (MARKERMEER)
@@ -90766,6 +90785,16 @@ model : stomp Geel</desc>
     <name>ZINK-D</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
 model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.40192222258801" lon="3.449536111216832">
+    <name>ZINK-N</name>
+    <desc>vaarweg : WIELINGEN
+licht type : Q (quick-flashing)
+lich kleur : Wit
+model : Pilaar Zwart/geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
