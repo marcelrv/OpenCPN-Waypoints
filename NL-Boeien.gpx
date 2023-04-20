@@ -43273,7 +43273,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.96020555513716" lon="5.789025000572216">
+  <wpt lat="51.960222222549895" lon="5.7886527773126">
     <name>NDR 11</name>
     <desc>vaarweg : NEDERRIJN
 model : spar Groen</desc>
@@ -48733,29 +48733,11 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.81791388869399" lon="4.6631916662795">
-    <name>O 57</name>
-    <desc>vaarweg : OUDE MAAS
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.393930555402804" lon="5.493883332642406">
     <name>O 58</name>
     <desc>vaarweg : OOSTEROM
 model : spar Rood</desc>
     <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.81896944425213" lon="4.665500000562267">
-    <name>O 59</name>
-    <desc>vaarweg : OUDE MAAS
-model : spar Groen</desc>
-    <sym>1043</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -90833,17 +90815,6 @@ model : Pilaar Geel/zwart/geel</desc>
   </wpt>
   <wpt lat="52.8428055558876" lon="4.659711111332383">
     <name>ZINK-W 2</name>
-    <desc>vaarweg : NOORDZEE
-licht type : VQ (very quick-flashing)
-licht periode : 10
-lich kleur : Wit
-model : Pilaar Geel/zwart/geel</desc>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.76512777795529" lon="4.630638889184463">
-    <name>ZINK-W</name>
     <desc>vaarweg : NOORDZEE
 licht type : VQ (very quick-flashing)
 licht periode : 10
