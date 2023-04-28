@@ -7362,6 +7362,14 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.36588055527502" lon="5.006116666614577">
+    <name>BIJ-J</name>
+    <desc>vaarweg : PAMPUS (MARKERMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.366102778166045" lon="5.008069445076338">
     <name>BIJ-K</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
@@ -7403,6 +7411,14 @@ model : spar Geel</desc>
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.36761944430492" lon="5.016572221935631">
+    <name>BIJ-P</name>
+    <desc>vaarweg : PAMPUS (MARKERMEER)
 model : spar Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -7468,6 +7484,38 @@ model : spar Geel</desc>
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.366686111007056" lon="5.027958333035097">
+    <name>BIJ-X</name>
+    <desc>vaarweg : PAMPUS (MARKERMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.36578055537757" lon="5.029080555723258">
+    <name>BIJ-Y</name>
+    <desc>vaarweg : PAMPUS (MARKERMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.36394722214288" lon="5.029697222294827">
+    <name>BIJ-Z-A</name>
+    <desc>vaarweg : PAMPUS (MARKERMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.36297777795318" lon="5.004127777977179">
+    <name>BIJ-Z-B</name>
+    <desc>vaarweg : PAMPUS (MARKERMEER)
 model : spar Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -31009,7 +31057,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.40208611097905" lon="5.653469444174331">
+  <wpt lat="53.40199444420153" lon="5.654297222054166">
     <name>KB 19</name>
     <desc>vaarweg : KROMME BALG
 model : spar Groen</desc>
@@ -31438,7 +31486,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.40199444420153" lon="5.654297222054166">
+  <wpt lat="52.68723888884011" lon="5.289622222144938">
     <name>KG 19</name>
     <desc>vaarweg : KRABBERSGAT (MARKERMEER)
 model : spar Groen</desc>
@@ -77538,7 +77586,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.419438889292415" lon="5.794794443909058">
+  <wpt lat="53.419677777862454" lon="5.794572222915118">
     <name>VA 7B</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Q (quick-flashing)
@@ -77585,7 +77633,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.41848888863744" lon="5.797388888272819">
+  <wpt lat="53.41871666653198" lon="5.797519443767419">
     <name>VA 9</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Iso (isophased)
