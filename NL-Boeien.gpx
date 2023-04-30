@@ -17117,7 +17117,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.70674444459806" lon="5.432372222645585">
+  <wpt lat="52.70963055523459" lon="5.436627777666398">
     <name>EZ-C</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 licht type : Iso (isophased)
@@ -17129,7 +17129,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.672822221911865" lon="5.491169444779803">
+  <wpt lat="52.679180555477174" lon="5.498486111447774">
     <name>EZ-D</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 licht type : Iso (isophased)
@@ -76104,117 +76104,6 @@ model : spar Rood</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 model : spar Groen</desc>
     <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.705808333313456" lon="5.448177778437722">
-    <name>UDO-A</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spits Geel</desc>
-    <sym>5502</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.7079638891791" lon="5.451538889288734">
-    <name>UDO-B</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spits Geel</desc>
-    <sym>5502</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.7058749998942" lon="5.4550916672911">
-    <name>UDO-C</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.70379444400922" lon="5.451780555884162">
-    <name>UDO-D</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.70161666694204" lon="5.45544444496973">
-    <name>UDO-E</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-licht type : LFl (long-flashing)
-licht periode : 10
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5542</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.70370000044161" lon="5.458919444285157">
-    <name>UDO-F</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-licht type : LFl (long-flashing)
-licht periode : 10
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5542</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.700552777970636" lon="5.464308333067907">
-    <name>UDO-G</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.698499999859564" lon="5.460877778394219">
-    <name>UDO-H</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.695297222557365" lon="5.466327777872303">
-    <name>UDO-I</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spits Geel</desc>
-    <sym>5502</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.69746111131546" lon="5.46976388845145">
-    <name>UDO-J</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spits Geel</desc>
-    <sym>5502</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
