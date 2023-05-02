@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-05-01T13:15:37.469016Z</time>
+    <time>2023-05-02T13:21:01.790243Z</time>
   </metadata>
   <wpt lat="52.966346" lon="5.515595">
     <name>FL16A Hammigegreft (Damwand)</name>
@@ -1639,26 +1639,6 @@ Aansluiting fietsnetwerk    False
 Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                    True
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.043962" lon="5.808054">
-    <name>SN05 Henshuisterdeelwest (Damwand)</name>
-    <desc>Naam          Henshuisterdeelwest
-Vaarwater                    Deel
-Lengte aanleg                  53
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid          False
-Aansluiting wandelnetwerk   False
-Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
 Kanovoorziening             False
@@ -8103,40 +8083,20 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.836752" lon="5.955597">
+  <wpt lat="52.835733" lon="5.95611">
     <name>TJ09A Merriemaden (Steiger)</name>
     <desc>Naam                  Merriemaden
 Vaarwater                DE LENDE
-Lengte aanleg                  20
+Lengte aanleg                  24
 Walverbinding                True
 Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
+Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.835733" lon="5.95611">
-    <name>TJ09B Merriemaden (Steiger)</name>
-    <desc>Naam                  Merriemaden
-Vaarwater                DE LENDE
-Lengte aanleg                  20
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
+Kanovoorziening              True
 </desc>
     <sym>Service-Dock</sym>
     <extensions>
@@ -8144,35 +8104,15 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.835028" lon="5.956483">
-    <name>TJ09C Merriemaden (Steiger)</name>
+    <name>TJ09B Merriemaden (Steiger)</name>
     <desc>Naam                  Merriemaden
 Vaarwater                DE LENDE
-Lengte aanleg                  20
+Lengte aanleg                  24
 Walverbinding                True
 Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
+Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.835544" lon="5.950918">
-    <name>TJ09D Merriemaden (Steiger)</name>
-    <desc>Naam                  Merriemaden
-Vaarwater                DE LENDE
-Lengte aanleg                  20
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -8184,35 +8124,15 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.835733" lon="5.950456">
-    <name>TJ09E Merriemaden (Steiger)</name>
+    <name>TJ09C Merriemaden (Steiger)</name>
     <desc>Naam                  Merriemaden
 Vaarwater                DE LENDE
-Lengte aanleg                  20
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.845665" lon="5.97709">
-    <name>TJ10A De Sas (Steiger)</name>
-    <desc>Naam                       De Sas
-Vaarwater                DE LENDE
-Lengte aanleg                  20
+Lengte aanleg                  24
 Walverbinding                True
 Fietsmogelijkheid            True
 Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -8224,19 +8144,19 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.845969" lon="5.97734">
-    <name>TJ10B De Sas (Steiger)</name>
+    <name>TJ10A De Sas (Steiger)</name>
     <desc>Naam                       De Sas
 Vaarwater                DE LENDE
-Lengte aanleg                  20
+Lengte aanleg                  28
 Walverbinding                True
 Fietsmogelijkheid            True
 Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
-Kanovoorziening             False
+Kanovoorziening              True
 </desc>
     <sym>Service-Dock</sym>
     <extensions>
@@ -8244,16 +8164,15 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.846155" lon="5.976924">
-    <name>TJ10C De Sas (Steiger)</name>
+    <name>TJ10B De Sas (Steiger)</name>
     <desc>Naam                       De Sas
 Vaarwater                DE LENDE
-Tijdelijk buiten gebruik {'reason': 'Gestremd wegens onderhoud. ', 'detour': None, 'from': '14/06/2022', 'to': '31/12/2099'}
-Lengte aanleg                  40
+Lengte aanleg                  32
 Walverbinding                True
 Fietsmogelijkheid            True
 Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -8265,96 +8184,15 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.848632" lon="5.980605">
-    <name>TJ11A Stroomdal (Steiger)</name>
+    <name>TJ11 Stroomdal (Steiger)</name>
     <desc>Naam                    Stroomdal
 Vaarwater                DE LENDE
-Lengte aanleg                  20
+Lengte aanleg                  28
 Walverbinding                True
 Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
+Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.848888" lon="5.982065">
-    <name>TJ11B Stroomdal (Steiger)</name>
-    <desc>Naam                    Stroomdal
-Vaarwater                DE LENDE
-Lengte aanleg                  30
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.852352" lon="6.013692">
-    <name>TJ12 Lindevallei (Steiger)</name>
-    <desc>Naam                  Lindevallei
-Vaarwater                DE LENDE
-Lengte aanleg                  20
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.89853" lon="5.804541">
-    <name>TJ14B Tsjkeple (Steiger)</name>
-    <desc>Naam                     Tsjkeple
-Vaarwater               TSJûKEMAR
-Container open in winterperiode True
-Lengte aanleg                  50
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                    True
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.900113" lon="5.804506">
-    <name>TJ14C Tsjkeple (Steiger)</name>
-    <desc>Naam                     Tsjkeple
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  50
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -8366,8 +8204,8 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.899742" lon="5.805039">
-    <name>TJ14D Tsjkeple (Steiger)</name>
-    <desc>Naam                     Tsjkeple
+    <name>TJ14C Tsjûkepôle (Steiger)</name>
+    <desc>Naam                   Tsjûkepôle
 Vaarwater               TSJûKEMAR
 Lengte aanleg                  50
 Walverbinding                True
@@ -8473,12 +8311,12 @@ Kanovoorziening             False
     <name>TJ16 Blesserbrug (Steiger)</name>
     <desc>Naam                  Blesserbrug
 Vaarwater                DE LENDE
-Lengte aanleg                  20
+Lengte aanleg                  24
 Walverbinding                True
-Fietsmogelijkheid           False
+Fietsmogelijkheid            True
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -9032,15 +8870,15 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.83613" lon="5.949522">
-    <name>TJ09F Merriemaden (Steiger)</name>
+    <name>TJ09D Merriemaden (Steiger)</name>
     <desc>Naam                  Merriemaden
 Vaarwater                DE LENDE
-Lengte aanleg                  20
+Lengte aanleg                  24
 Walverbinding                True
 Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
+Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -11622,7 +11460,7 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.898953" lon="5.803233">
-    <name>TJ14G Tsjkeple (Tuigsteiger)</name>
+    <name>TJ14B Tsjkeple (Tuigsteiger)</name>
     <desc>Naam                     Tsjkeple
 Vaarwater               TSJûKEMAR
 Lengte aanleg                  40
