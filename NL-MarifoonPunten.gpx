@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-05-04T05:57:47.650000Z</time>
+    <time>2023-05-05T12:45:17.306000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -1200,7 +1200,7 @@ Opmerking: Steiger.</desc>
     <desc>Naam:         Meldpunt Vissershaven Trawlerkade ZZ West
 VHF:          12
 RadioTraffic: TWO_WAY
-Opmerking: Terminal, categorie: Zee- en binnenvaart, ligplaatscode: VHZZW ( Overslag)</desc>
+Opmerking: Zee- en binnenvaart</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/6190">
       <text>Meldpunt Vissershaven Trawlerkade ZZ West online info</text>
     </link>
@@ -3656,7 +3656,7 @@ RadioTraffic: TWO_WAY</desc>
     <desc>Naam:         Meldpunt Vissershaven Felison Terminal
 VHF:          12
 RadioTraffic: TWO_WAY
-Opmerking: Terminal, categorie: Zee- en binnenvaart, ligplaatscode: VHTER ( Overslag)</desc>
+Opmerking: Zee- en binnenvaart</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/16367">
       <text>Meldpunt Vissershaven Felison Terminal online info</text>
     </link>
@@ -6162,7 +6162,7 @@ RadioTraffic: TWO_WAY</desc>
     <desc>Naam:         Meldpunt Vissershaven Steigers
 VHF:          12
 RadioTraffic: TWO_WAY
-Opmerking: Steigers.</desc>
+Opmerking: Binnenvaart</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/26556">
       <text>Meldpunt Vissershaven Steigers online info</text>
     </link>
@@ -9412,7 +9412,8 @@ RadioTraffic: TWO_WAY</desc>
     <name>Meldpunt Westhaven WZ Coldstores B.V.</name>
     <desc>Naam:         Meldpunt Westhaven WZ Coldstores B.V.
 VHF:          4
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Zee- en binnenvaart</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/40211">
       <text>Meldpunt Westhaven WZ Coldstores B.V. online info</text>
     </link>
@@ -10237,8 +10238,7 @@ RadioTraffic: TWO_WAY</desc>
     <desc>Naam:         Meldpunt Vissershaven Halkade
 VHF:          12
 RadioTraffic: TWO_WAY
-Opmerking: Terminal, categorie: Zee- en binnenvaart, ligplaatscode: VHHAL ( Overslag)
-/Havenkantoor.</desc>
+Opmerking: Zee- en binnenvaart</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/43670">
       <text>Meldpunt Vissershaven Halkade online info</text>
     </link>
@@ -11205,20 +11205,6 @@ Opmerking: Steiger.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.3807433914315" lon="4.89953094718658">
-    <name>Meldpunt Amsterdam, De Ruyterkade, steiger 14</name>
-    <desc>Naam:         Meldpunt Amsterdam, De Ruyterkade, steiger 14
-VHF:          4
-RadioTraffic: TWO_WAY
-Opmerking: Ponton.</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/48667">
-      <text>Meldpunt Amsterdam, De Ruyterkade, steiger 14 online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.661876617326" lon="4.17313390719023">
     <name>Meldpunt Krammersluizen, ligplaats</name>
     <desc>Naam:         Meldpunt Krammersluizen, ligplaats
@@ -11729,7 +11715,7 @@ Opmerking: Invaartverbod voor de duur van 3 jaar - Jachthaven in aanleg.</desc>
     <desc>Naam:         Meldpunt Zijkanaal H Vrede Container Terminal
 VHF:          4
 RadioTraffic: TWO_WAY
-Opmerking: Portaalkraan over vaarwater, wijdte 15,45m, hoogte KP+8,40m.</desc>
+Opmerking: Binnenvaart</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/50680">
       <text>Meldpunt Zijkanaal H Vrede Container Terminal online info</text>
     </link>
@@ -13146,8 +13132,7 @@ RadioTraffic: TWO_WAY</desc>
     <desc>Naam:         Meldpunt Vissershaven K.N.R.M.
 VHF:          12 16
 RadioTraffic: TWO_WAY
-Opmerking: Terminal, categorie: Binnenvaart, ligplaatscode: VHNRM ( Overslag)
-/Havenkantoor.</desc>
+Opmerking: Binnenvaart</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/56778">
       <text>Meldpunt Vissershaven K.N.R.M. online info</text>
     </link>
@@ -13573,7 +13558,7 @@ Opmerking: Steigers (drijvend).</desc>
     <desc>Naam:         Meldpunt Westhaven Kade Koopman
 VHF:          4
 RadioTraffic: TWO_WAY
-Opmerking: Ro-ro kade aanwezig.</desc>
+Opmerking: Zee- en binnenvaart</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/58660">
       <text>Meldpunt Westhaven Kade Koopman online info</text>
     </link>
