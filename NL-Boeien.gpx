@@ -7353,22 +7353,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.36588055527502" lon="5.006116666614577">
-    <name>BIJ-J</name>
-    <desc>vaarweg : PAMPUS (MARKERMEER)
-model : spar Geel</desc>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.366102778166045" lon="5.008069445076338">
-    <name>BIJ-K</name>
-    <desc>vaarweg : PAMPUS (MARKERMEER)
-model : spar Geel</desc>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.366341666294026" lon="5.010019444228205">
     <name>BIJ-L</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
@@ -55231,7 +55215,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.46664999999647" lon="6.439877778170405">
+  <wpt lat="53.46848888874149" lon="6.435252778444693">
     <name>PW 4</name>
     <desc>vaarweg : PIETERBUREN WAD
 model : spar Rood</desc>
@@ -55264,7 +55248,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.468330555164954" lon="6.44278055592278">
+  <wpt lat="53.471602777757056" lon="6.43879444468898">
     <name>PW 6</name>
     <desc>vaarweg : PIETERBUREN WAD
 model : spar Rood</desc>
@@ -61521,7 +61505,7 @@ model : spar Groen/rood</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : ton Rood/wit</desc>
+model : bol Rood/wit repeterend</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61529,8 +61513,7 @@ model : ton Rood/wit</desc>
   <wpt lat="51.381041666898234" lon="4.090047222477731">
     <name>REC-B</name>
     <desc>vaarweg : SCHAAR VAN VALKENISSE
-model : spar Rood/wit</desc>
-    <sym>3201</sym>
+model : spar Rood/wit repeterend</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61538,8 +61521,7 @@ model : spar Rood/wit</desc>
   <wpt lat="51.37614444400855" lon="4.091155555058588">
     <name>REC-C</name>
     <desc>vaarweg : SCHAAR VAN VALKENISSE
-model : spar Niet toegewezen</desc>
-    <sym>3201</sym>
+model : spar Rood/wit repeterend</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -77165,6 +77147,18 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.40541388911649" lon="5.826747222296431">
+    <name>VA 25</name>
+    <desc>vaarweg : VEERBOOT ROUTE AMELAND
+licht type : Iso (isophased)
+licht periode : 8
+lich kleur : Groen
+model : spar Groen</desc>
+    <sym>1045</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.40209166688153" lon="5.843583333285025">
     <name>VA 26</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
@@ -77557,7 +77551,6 @@ model : spar Groen</desc>
     <name>VALKENISSE</name>
     <desc>vaarweg : SCHAAR VAN VALKENISSE
 model : Pilaar Geel/zwart/geel</desc>
-    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -90490,6 +90483,18 @@ model : spar Rood</desc>
     <desc>vaarweg : ZWANENDIEP (RANDMEREN)
 model : spar Rood</desc>
     <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.545486111398944" lon="3.87943611094949">
+    <name>Z 9</name>
+    <desc>vaarweg : ZANDKREEK
+licht type : LFl (long-flashing)
+licht periode : 8
+lich kleur : Groen
+model : spar Groen</desc>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
