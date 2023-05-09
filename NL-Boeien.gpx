@@ -7353,6 +7353,22 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.36588055527502" lon="5.006116666614577">
+    <name>BIJ-J</name>
+    <desc>vaarweg : PAMPUS (MARKERMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.366102778166045" lon="5.008069445076338">
+    <name>BIJ-K</name>
+    <desc>vaarweg : PAMPUS (MARKERMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.366341666294026" lon="5.010019444228205">
     <name>BIJ-L</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
@@ -7488,7 +7504,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.36297777795318" lon="5.004127777977179">
+  <wpt lat="52.3629777778125" lon="5.029072221634297">
     <name>BIJ-Z-B</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
 model : spar Geel</desc>
@@ -42698,7 +42714,7 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.904483333233756" lon="4.264833333962411">
+  <wpt lat="51.90483333312415" lon="4.265233333163886">
     <name>MT-F</name>
     <desc>vaarweg : NIEUWE WATERWEG
 licht type : Fl (flashing)
@@ -42710,7 +42726,7 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.901694444481194" lon="4.270761111398329">
+  <wpt lat="51.90236666650856" lon="4.271466666168722">
     <name>MT-G</name>
     <desc>vaarweg : NIEUWE WATERWEG
 licht type : Fl (flashing)
@@ -77154,7 +77170,6 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -90494,7 +90509,6 @@ licht type : LFl (long-flashing)
 licht periode : 8
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
