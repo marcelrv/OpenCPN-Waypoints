@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-05-11T09:56:11.040000Z</time>
+    <time>2023-05-11T17:50:37.758000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -17455,6 +17455,58 @@ VHF:          64
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/35375414">
       <text>Meldpunt Roggebotbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.90839881961924" lon="4.448497295379639">
+    <name>Meldpunt Piet Heynsbrug</name>
+    <desc>Naam:         Meldpunt Piet Heynsbrug
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/44274">
+      <text>Meldpunt Piet Heynsbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.90623900084347" lon="4.449587203744158">
+    <name>Meldpunt VOC brug</name>
+    <desc>Naam:         Meldpunt VOC brug
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/45746">
+      <text>Meldpunt VOC brug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.906258149440674" lon="4.448290094733238">
+    <name>Meldpunt Mouterbrug</name>
+    <desc>Naam:         Meldpunt Mouterbrug
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/5740">
+      <text>Meldpunt Mouterbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9079129916193" lon="4.450232684612274">
+    <name>Meldpunt Achterhavenbrug</name>
+    <desc>Naam:         Meldpunt Achterhavenbrug
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/58215">
+      <text>Meldpunt Achterhavenbrug online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
