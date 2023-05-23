@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-05-22T08:05:51.073000Z</time>
+    <time>2023-05-23T12:35:05.995000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>VHF 20</name>
@@ -2680,11 +2680,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.8085257408401" lon="5.45362698317436">
     <name>VHF 22</name>
-    <desc>Naam:         Meldpunt Prinses Maxima Sluizen
+    <desc>Naam:         Meldpunt Prinses Maxima Sluizen (Sluis Lith)
 VHF:          22
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/12784">
-      <text>Meldpunt Prinses Maxima Sluizen online info</text>
+      <text>Meldpunt Prinses Maxima Sluizen (Sluis Lith) online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6809,11 +6809,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.968008788736" lon="5.31665120143057">
     <name>VHF 22</name>
-    <desc>Naam:         Meldpunt Prinses Irenesluis
+    <desc>Naam:         Meldpunt Prinses Irenesluizen (Sluis Wijk)
 VHF:          22
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/28860">
-      <text>Meldpunt Prinses Irenesluis online info</text>
+      <text>Meldpunt Prinses Irenesluizen (Sluis Wijk) online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -7564,12 +7564,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.8943" lon="5.459054">
     <name>VHF 18</name>
-    <desc>Naam:         Meldpunt Prins Bernhardsluis
+    <desc>Naam:         Meldpunt Prins Bernhardsluizen (Sluis Tiel)
 VHF:          18
 RadioStatus: MANDATORY
 RadioTraffic: INBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/31663">
-      <text>Meldpunt Prins Bernhardsluis online info</text>
+      <text>Meldpunt Prins Bernhardsluizen (Sluis Tiel) online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -14739,12 +14739,12 @@ RadioTraffic: INBOUND</desc>
   </wpt>
   <wpt lat="51.914168" lon="5.443949">
     <name>VHF 18</name>
-    <desc>Naam:         Meldpunt Prins Bernhardsluis
+    <desc>Naam:         Meldpunt Prins Bernhardsluizen (Sluis Tiel)
 VHF:          18
 RadioStatus: MANDATORY
 RadioTraffic: OUTBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/31663">
-      <text>Meldpunt Prins Bernhardsluis online info</text>
+      <text>Meldpunt Prins Bernhardsluizen (Sluis Tiel) online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -17546,6 +17546,175 @@ VHF:          22
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/26891197">
       <text>Meldpunt Zwethbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9133448335965" lon="4.49885845184326">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Koningshavenbrug De Hef
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/4418">
+      <text>Meldpunt Koningshavenbrug De Hef online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9089790622102" lon="4.49438452720642">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Spoorweghavenbrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/1021568">
+      <text>Meldpunt Spoorweghavenbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9202589377101" lon="4.49979637338344">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Boerengatbrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/7069625">
+      <text>Meldpunt Boerengatbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9124247618327" lon="4.48330079433888">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Nieuwe Leuvebrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54446">
+      <text>Meldpunt Nieuwe Leuvebrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9152417350074" lon="4.48676595632342">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Rederijbrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/49513">
+      <text>Meldpunt Rederijbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9206081206224" lon="4.50537979306034">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Admiraliteitsbrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/53950">
+      <text>Meldpunt Admiraliteitsbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9166651913482" lon="4.48890517336396">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Ibisbrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/7070181">
+      <text>Meldpunt Ibisbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9186859130934" lon="4.49218801488658">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Jan Kuitenbrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/5957">
+      <text>Meldpunt Jan Kuitenbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9176404956154" lon="4.48790900409222">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Grote Wijnbrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/6214666">
+      <text>Meldpunt Grote Wijnbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9178204113393" lon="4.49064241577878">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Verlengde Willemsbrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/17582">
+      <text>Meldpunt Verlengde Willemsbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.89853489351884" lon="4.538036063822801">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Ben Schopbrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/39949931">
+      <text>Meldpunt Ben Schopbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.91792176482025" lon="4.48947701621364">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Puntbrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/39949922">
+      <text>Meldpunt Puntbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.91708185948656" lon="4.485220387832669">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Regentessebrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/39949917">
+      <text>Meldpunt Regentessebrug online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
