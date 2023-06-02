@@ -20370,7 +20370,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.36383888847537" lon="6.078958332792685">
+  <wpt lat="52.36383333363617" lon="6.078800000405647">
     <name>GIJ 48</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Rood</desc>
@@ -62742,15 +62742,6 @@ model : spits Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.853450000066125" lon="5.873588888214852">
-    <name>RW 14</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : stomp Rood/wit repeterend</desc>
-    <sym>1552</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.872024999618866" lon="5.932800000174849">
     <name>RW 15</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
@@ -62783,15 +62774,6 @@ model : stomp Rood/wit repeterend</desc>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : spits Groen/wit repeterend</desc>
     <sym>1502</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.86214444428542" lon="5.950161110750205">
-    <name>RW 18</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : stomp Rood/wit repeterend</desc>
-    <sym>1552</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -62834,15 +62816,6 @@ model : stomp Rood/wit repeterend</desc>
   </wpt>
   <wpt lat="51.856005555649794" lon="5.972433332909158">
     <name>RW 26</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : stomp Rood/wit repeterend</desc>
-    <sym>1552</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.85896111137727" lon="5.97848055612264">
-    <name>RW 28</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : stomp Rood/wit repeterend</desc>
     <sym>1552</sym>
@@ -84095,7 +84068,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.425913889078984" lon="3.400027777367395">
+  <wpt lat="51.425913889156114" lon="3.400119443874622">
     <name>VR-C</name>
     <desc>vaarweg : WIELINGEN
 licht type : Fl (flashing)
@@ -88398,7 +88371,6 @@ model : spar Geel</desc>
     <name>WNB</name>
     <desc>vaarweg : MOSSELGAATJE
 model : spar Geel</desc>
-    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
