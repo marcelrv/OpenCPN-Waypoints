@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-06-06T12:30:16.495000Z</time>
+    <time>2023-06-07T12:51:38.634000Z</time>
   </metadata>
   <wpt lat="53.0240104564255" lon="7.13930010795593">
     <name>Vlagtweddersluis</name>
@@ -276,12 +276,10 @@ Buiten het vaarseizoen kan alleen gebeld worden met het hoofdkantoor via nummer 
 
 Bedieningstijden
 Periode 01-05 tot 30-09 (note: Alleen op afroep, 24-uur tevoren, tijdens kantooruren, aangevraagd op tel. 050-3188500.):
-   23:00 - 22:59: Zo, incl. feestdagen. Geen bediening
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. Alleen op afroep
    12:00 - 15:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. Alleen op afroep
    16:30 - 18:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. Alleen op afroep
 Periode 01-10 tot 30-04 (note: Alleen op afroep, 24-uur tevoren, tijdens kantooruren, aangevraagd op tel. 050-3188500.):
-   23:00 - 22:59: Zo, incl. feestdagen. Geen bediening
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. Alleen op afroep
    12:00 - 15:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. Alleen op afroep
 </desc>
@@ -1134,8 +1132,8 @@ Periode 01-01 tot 31-03:
 Periode 01-04 tot 31-10:
    07:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 01-11 tot 31-12:
-   07:00 - 16:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    07:00 - 09:00: Za, Zo, excl. feestdagen. 
+   07:00 - 16:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    14:00 - 16:00: Za, Zo, excl. feestdagen. 
 
 Note: Brugopening minimaal een uur tevoren aanvragen bij Havendienst gemeente Vlaardingen, tel: 010-2484333, of marifoonkanaal 20.
@@ -1936,6 +1934,8 @@ Periode 31-12 tot 01-01:
     <desc>Locatie: Winsumerdiep
 
 Bedieningstijden
+Periode 01-01 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 </desc>
@@ -3377,7 +3377,6 @@ Periode 28-05 tot 31-10:
    06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    08:00 - 18:00: Zo, incl. feestdagen. 
 Periode 01-11 tot 31-03 (note: De Reitdiepbrug te Zoutkamp wordt op zondagen bediend tussen 12:30 en 13:30, muv Kerstdagen en Nieuwjaarsdag,):
-   23:00 - 22:59: incl. feestdagen. 
    06:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 
 Note: Sluis te Lammerburen staat (in het algemeen) open. Alle bruggen en sluizen vanaf de Dorkwerdersluis tot Lauwersoog worden op afstand bediend vanuit de centrale post Lauwersoog. Telefoonnummer: 0519-349043.</desc>
@@ -4146,10 +4145,14 @@ VHF:     22
 Contact PhoneNumber:088-7974811
 
 Bedieningstijden
-Periode 01-01 tot 31-12:
-   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
-Periode 01-01 tot 31-12:
-   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-01 tot 31-12 (note: één sluis (Westkolk)en twee bruggen worden bediend . Het effect is mogelijk
+langere wachttijden voor beroeps- en recreatievaart.):
+   05:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   16:00 - 21:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-01 tot 31-12 (note: één sluis (Westkolk)en twee bruggen worden bediend . Het effect is mogelijk
+langere wachttijden voor beroeps- en recreatievaart.):
+   05:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:00 - 21:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: Tussen 6.00 en 9.00 uur en 17.00 en 22.00 uur is 1 kolk i.p.v. 2 kolken beschikbaar.
 
@@ -4558,8 +4561,8 @@ Bedieningstijden
 Periode 16-04 tot 15-10:
    09:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 16-10 tot 15-04:
-   08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
    08:00 - 16:00: incl. feestdagen. Minimaal 24 uur van tevoren aanvragen op telefoonnummer: 06-53374186.
+   08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/28388">
       <text>Haukessluis online info</text>
@@ -5247,12 +5250,12 @@ Periode 01-01 tot 01-01 (note: Op Nieuwjaarsdag geen bediening):
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 02-01 tot 02-01 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
    05:00 - 12:59: Za, excl. feestdagen. 
-   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    13:00 - 22:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
 Periode 03-01 tot 31-03 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
-   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 12:59: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -5261,16 +5264,16 @@ Periode 01-04 tot 31-10 (note: Sluis of brug wordt vanuit de Bediencentrale Tilb
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 14:59: Za, excl. feestdagen. 
-   23:00 - 07:59: Zo, excl. feestdagen. 
    23:00 - 07:59: incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   23:00 - 07:59: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 15:59: Zo, excl. feestdagen. 
    08:00 - 14:59: incl. feestdagen. Let op bij een feestdag op ma 6-24u, op di-vr 0-24u, op za 0-16u, op zondag van 9-17u
    15:00 - 22:59: Za, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    16:00 - 22:59: Zo, excl. feestdagen. 
 Periode 01-11 tot 24-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
-   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 12:59: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -5279,12 +5282,12 @@ Periode 25-12 tot 26-12 (note: Kerstdagen geen bediening):
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 27-12 tot 27-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
    05:00 - 12:59: Za, excl. feestdagen. 
-   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    13:00 - 22:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
 Periode 28-12 tot 31-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
-   23:00 - 22:59: Zo, excl. feestdagen. Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 12:59: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -6195,8 +6198,8 @@ Contact PhoneNumber:088-7974540
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
-   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Recreatievaart mag wel meeliften.
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    15:00 - 17:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Recreatievaart mag wel meeliften
@@ -6764,8 +6767,8 @@ Periode 01-09 tot 15-09 (note: Om 19.00 uur alleen richting Haringvliet. Om 19.3
    15:30 - 15:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
    17:30 - 17:31: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
    18:00 - 18:01: Ma, Di, Wo, Do, excl. feestdagen. 
-   18:30 - 18:31: Ma, Di, Wo, Do, excl. feestdagen. 
    18:30 - 18:31: Vr, Za, Zo, excl. feestdagen. 
+   18:30 - 18:31: Ma, Di, Wo, Do, excl. feestdagen. 
    19:00 - 19:01: Vr, Za, Zo, excl. feestdagen. 
    19:30 - 19:31: Vr, Za, Zo, excl. feestdagen. 
 Periode 16-09 tot 30-09:
@@ -7562,12 +7565,12 @@ Periode 01-01 tot 01-01 (note: Op Nieuwjaarsdag geen bediening):
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 02-01 tot 02-01 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
    05:00 - 12:59: Za, excl. feestdagen. 
-   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    13:00 - 22:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
 Periode 03-01 tot 31-03 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
-   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 12:59: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -7576,16 +7579,16 @@ Periode 01-04 tot 31-10 (note: Sluis of brug wordt vanuit de Bediencentrale Tilb
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 14:59: Za, excl. feestdagen. 
-   23:00 - 07:59: Zo, excl. feestdagen. 
    23:00 - 07:59: incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   23:00 - 07:59: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 15:59: Zo, excl. feestdagen. 
    08:00 - 14:59: incl. feestdagen. Let op bij een feestdag op ma 6-24u, op di-vr 0-24u, op za 0-16u, op zondag van 9-17u
    15:00 - 22:59: Za, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    16:00 - 22:59: Zo, excl. feestdagen. 
 Periode 01-11 tot 24-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
-   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 12:59: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -7594,12 +7597,12 @@ Periode 25-12 tot 26-12 (note: Kerstdagen geen bediening):
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 27-12 tot 27-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
    05:00 - 12:59: Za, excl. feestdagen. 
-   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    13:00 - 22:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
 Periode 28-12 tot 31-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
-   23:00 - 22:59: Zo, excl. feestdagen. Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 12:59: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -7924,7 +7927,6 @@ Periode 28-05 tot 31-10:
    06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    08:00 - 18:00: Zo, incl. feestdagen. 
 Periode 01-11 tot 31-03 (note: De Reitdiepbrug te Zoutkamp wordt op zondagen bediend tussen 12:30 en 13:30, muv Kerstdagen en Nieuwjaarsdag,):
-   23:00 - 22:59: incl. feestdagen. 
    06:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 
 Note: Sluis te Lammerburen staat (in het algemeen) open. Alle bruggen en sluizen vanaf de Dorkwerdersluis tot Lauwersoog worden op afstand bediend vanuit de centrale post Lauwersoog. Telefoonnummer: 0519-349043.</desc>
@@ -8230,15 +8232,17 @@ Periode 25-12 tot 02-01:
     </extensions>
   </wpt>
   <wpt lat="53.2502448570452" lon="6.58124506473541">
-    <name>Stad en Lande</name>
+    <name>Sluis Stad en Lande</name>
     <desc>Locatie: Boterdiep
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
-   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   23:00 - 23:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-01 tot 31-12:
+   23:00 - 23:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/740256">
-      <text>Stad en Lande online info</text>
+      <text>Sluis Stad en Lande online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
@@ -8395,8 +8399,8 @@ Op zaterdag en zondag bediening aanwezig.
 Houd rekening met aanrijtijd of enige vertraging.
 ):
    09:00 - 22:59: incl. feestdagen. 
-   09:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    09:00 - 21:00: Za, Zo, excl. feestdagen. 
+   09:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 01-05 tot 31-10:
    09:00 - 21:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 01-11 tot 31-03 (note: De sluis wordt bediend op afspraak. 
@@ -8483,8 +8487,8 @@ Periode 01-01 tot 31-03:
 Periode 01-04 tot 31-10:
    07:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 01-11 tot 31-12:
-   07:00 - 16:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    07:00 - 09:00: Za, Zo, excl. feestdagen. 
+   07:00 - 16:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    14:00 - 16:00: Za, Zo, excl. feestdagen. 
 
 Note: Brugopening minimaal een uur tevoren aanvragen bij Havendienst gemeente Vlaardingen, tel: 010-2484333, of marifoonkanaal 20.
@@ -8854,12 +8858,12 @@ Periode 01-01 tot 01-01 (note: Op Nieuwjaarsdag geen bediening):
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 02-01 tot 02-01 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
    05:00 - 12:59: Za, excl. feestdagen. 
-   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    13:00 - 22:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
 Periode 03-01 tot 31-03 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
-   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 12:59: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -8868,16 +8872,16 @@ Periode 01-04 tot 31-10 (note: Sluis of brug wordt vanuit de Bediencentrale Tilb
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 14:59: Za, excl. feestdagen. 
-   23:00 - 07:59: Zo, excl. feestdagen. 
    23:00 - 07:59: incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   23:00 - 07:59: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 15:59: Zo, excl. feestdagen. 
    08:00 - 14:59: incl. feestdagen. Let op bij een feestdag op ma 6-24u, op di-vr 0-24u, op za 0-16u, op zondag van 9-17u
    15:00 - 22:59: Za, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    16:00 - 22:59: Zo, excl. feestdagen. 
 Periode 01-11 tot 24-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
-   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 12:59: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -8886,12 +8890,12 @@ Periode 25-12 tot 26-12 (note: Kerstdagen geen bediening):
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 27-12 tot 27-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
    05:00 - 12:59: Za, excl. feestdagen. 
-   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    13:00 - 22:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
 Periode 28-12 tot 31-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
-   23:00 - 22:59: Zo, excl. feestdagen. Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 12:59: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -9009,12 +9013,12 @@ Periode 01-01 tot 01-01 (note: Op Nieuwjaarsdag geen bediening):
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 02-01 tot 02-01 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
    05:00 - 12:59: Za, excl. feestdagen. 
-   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    13:00 - 22:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
 Periode 03-01 tot 31-03 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
-   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 12:59: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -9023,16 +9027,16 @@ Periode 01-04 tot 31-10 (note: Sluis of brug wordt vanuit de Bediencentrale Tilb
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 14:59: Za, excl. feestdagen. 
-   23:00 - 07:59: Zo, excl. feestdagen. 
    23:00 - 07:59: incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   23:00 - 07:59: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 15:59: Zo, excl. feestdagen. 
    08:00 - 14:59: incl. feestdagen. Let op bij een feestdag op ma 6-24u, op di-vr 0-24u, op za 0-16u, op zondag van 9-17u
    15:00 - 22:59: Za, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    16:00 - 22:59: Zo, excl. feestdagen. 
 Periode 01-11 tot 24-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
-   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 12:59: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -9041,12 +9045,12 @@ Periode 25-12 tot 26-12 (note: Kerstdagen geen bediening):
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 27-12 tot 27-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
    05:00 - 12:59: Za, excl. feestdagen. 
-   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    13:00 - 22:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
 Periode 28-12 tot 31-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
-   23:00 - 22:59: Zo, excl. feestdagen. Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 12:59: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -9206,12 +9210,12 @@ Periode 01-01 tot 01-01 (note: Op Nieuwjaarsdag geen bediening):
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 02-01 tot 02-01 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
    05:00 - 12:59: Za, excl. feestdagen. 
-   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    13:00 - 22:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
 Periode 03-01 tot 31-03 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
-   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 12:59: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -9220,16 +9224,16 @@ Periode 01-04 tot 31-10 (note: Sluis of brug wordt vanuit de Bediencentrale Tilb
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 14:59: Za, excl. feestdagen. 
-   23:00 - 07:59: Zo, excl. feestdagen. 
    23:00 - 07:59: incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
+   23:00 - 07:59: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 15:59: Zo, excl. feestdagen. 
    08:00 - 14:59: incl. feestdagen. Let op bij een feestdag op ma 6-24u, op di-vr 0-24u, op za 0-16u, op zondag van 9-17u
    15:00 - 22:59: Za, incl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    16:00 - 22:59: Zo, excl. feestdagen. 
 Periode 01-11 tot 24-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
-   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 12:59: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -9238,12 +9242,12 @@ Periode 25-12 tot 26-12 (note: Kerstdagen geen bediening):
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 27-12 tot 27-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
    05:00 - 12:59: Za, excl. feestdagen. 
-   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 22:59: Zo, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    13:00 - 22:59: Za, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
 Periode 28-12 tot 31-12 (note: Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.):
-   23:00 - 22:59: Zo, excl. feestdagen. Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. Sluis of brug wordt vanuit de Bediencentrale Tilburg (BCT) wordt bediend. Buiten bedientijden enkel bediening op aanvraag via BCT.
    23:00 - 04:59: Ma, excl. feestdagen. Bediening op aanvraag mogelijk via Bediencentrale Tilburg
    23:00 - 12:59: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -9552,11 +9556,11 @@ Contact PhoneNumber:(0182) 51 60 19
 
 Bedieningstijden
 Periode 09-04 tot 15-04 (note: 24 uur van tevoren aanvragen: 0182-516019):
-   08:45 - 08:50: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
    08:45 - 08:50: incl. feestdagen. 
+   08:45 - 08:50: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
    10:40 - 10:45: incl. feestdagen. 
-   13:50 - 13:55: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
    13:50 - 13:55: incl. feestdagen. 
+   13:50 - 13:55: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 16-04 tot 30-08:
    08:45 - 08:50: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    10:40 - 10:45: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -10442,8 +10446,8 @@ Periode 16-04 tot 15-10:
    08:00 - 12:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    13:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 16-10 tot 15-04 (note: Bediening tijdens daglicht. ):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/35573496">
       <text>Jispersluis online info</text>
@@ -10651,8 +10655,8 @@ Periode 16-04 tot 15-10:
    16:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 16-10 tot 15-04 (note: 
 ):
-   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
    23:00 - 22:59: incl. feestdagen. Op afspraak 24 uur van te voren via telnr 06-12574017.
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/37053965">
       <text>Vrouwenverdrietsluis online info</text>
@@ -10674,10 +10678,10 @@ Periode 01-01 tot 31-12:
    16:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   07:30 - 09:00: Za, Zo, excl. feestdagen. 
    07:30 - 09:00: incl. feestdagen. 
-   16:00 - 18:00: Za, Zo, excl. feestdagen. 
+   07:30 - 09:00: Za, Zo, excl. feestdagen. 
    16:00 - 18:00: incl. feestdagen. 
+   16:00 - 18:00: Za, Zo, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/37054073">
       <text>Weelsluis (Westzanersluis) online info</text>
