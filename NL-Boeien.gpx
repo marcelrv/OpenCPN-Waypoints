@@ -37978,7 +37978,7 @@ model : bol Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.39110277754741" lon="4.166683333789464">
+  <wpt lat="51.397797222229585" lon="4.20928888875332">
     <name>MEET B</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 model : spar Geel</desc>
@@ -42746,7 +42746,7 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.90483333312415" lon="4.265233333163886">
+  <wpt lat="51.904483333233756" lon="4.264833333962411">
     <name>MT-F</name>
     <desc>vaarweg : NIEUWE WATERWEG
 licht type : Fl (flashing)
@@ -42758,7 +42758,7 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.90236666650856" lon="4.271466666168722">
+  <wpt lat="51.90169999962368" lon="4.270783333147214">
     <name>MT-G</name>
     <desc>vaarweg : NIEUWE WATERWEG
 licht type : Fl (flashing)
@@ -49965,7 +49965,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.50788333327782" lon="3.457036111758229">
+  <wpt lat="51.50549722195736" lon="3.462002777417139">
     <name>OG 10</name>
     <desc>vaarweg : OOSTGAT
 licht type : Iso (isophased)
@@ -50203,6 +50203,17 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.52627777798882" lon="3.429919443776057">
+    <name>OG 6A</name>
+    <desc>vaarweg : OOSTGAT
+licht type : Iso (isophased)
+licht periode : 8
+lich kleur : Rood
+model : Niet toegewezen Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.54592222212788" lon="3.414524999732626">
     <name>OG 7</name>
     <desc>vaarweg : OOSTGAT
@@ -50214,7 +50225,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.52107777774724" lon="3.433994443783253">
+  <wpt lat="51.520130555870374" lon="3.435369445064286">
     <name>OG 8</name>
     <desc>vaarweg : OOSTGAT
 licht type : VQ (very quick-flashing)
@@ -91545,6 +91556,17 @@ licht type : VQ (very quick-flashing)
 licht periode : 10
 lich kleur : Wit
 model : spar Geel/zwart/geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.551572222401" lon="3.434074999763505">
+    <name>ZINK-WKP</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Q (quick-flashing)
+licht periode : 15
+lich kleur : Wit
+model : Pilaar Geel/zwart/geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
