@@ -49947,6 +49947,18 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.989199999786756" lon="3.978549999893561">
+    <name>ODAS MV</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spits Geel</desc>
+    <sym>3301</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.47431666645984" lon="4.206383333463442">
     <name>OE-A</name>
     <desc>vaarweg : OOSTERSCHELDE
