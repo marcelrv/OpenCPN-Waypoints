@@ -92716,26 +92716,8 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.662125000235676" lon="4.105811111686637">
-    <name>ZG 2A</name>
-    <desc>vaarweg : ZUID GREVELINGEN
-model : stomp Rood</desc>
-    <sym>1101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.662625000057524" lon="4.106419444380522">
     <name>ZG 3</name>
-    <desc>vaarweg : ZUID GREVELINGEN
-model : spits Groen</desc>
-    <sym>1001</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.66365277779993" lon="4.1042055549216">
-    <name>ZG 3A</name>
     <desc>vaarweg : ZUID GREVELINGEN
 model : spits Groen</desc>
     <sym>1001</sym>
@@ -92752,7 +92734,16 @@ model : bol Rood/groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.66425555542514" lon="4.1027527783988">
+  <wpt lat="51.662125000235676" lon="4.105811111686637">
+    <name>ZG 4</name>
+    <desc>vaarweg : ZUID GREVELINGEN
+model : stomp Rood</desc>
+    <sym>1101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.66365277779993" lon="4.1042055549216">
     <name>ZG 5</name>
     <desc>vaarweg : ZUID GREVELINGEN
 model : spits Groen</desc>
@@ -92761,8 +92752,17 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.66425555542514" lon="4.1027527783988">
+    <name>ZG 7</name>
+    <desc>vaarweg : ZUID GREVELINGEN
+model : spits Groen</desc>
+    <sym>1001</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.664174999889916" lon="4.100144444962802">
-    <name>ZG 6</name>
+    <name>ZG 8</name>
     <desc>vaarweg : ZUID GREVELINGEN
 model : stomp Rood</desc>
     <sym>1101</sym>
@@ -92771,7 +92771,7 @@ model : stomp Rood</desc>
     </extensions>
   </wpt>
   <wpt lat="51.66453611123109" lon="4.100294444853328">
-    <name>ZG 7</name>
+    <name>ZG 9</name>
     <desc>vaarweg : ZUID GREVELINGEN
 model : spits Groen</desc>
     <sym>1001</sym>
