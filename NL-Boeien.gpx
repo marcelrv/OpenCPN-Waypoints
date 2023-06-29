@@ -31158,18 +31158,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.45024166628846" lon="4.229736110951486">
-    <name>K 2</name>
-    <desc>vaarweg : SCHELDE RIJN KANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5201</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.6650777780854" lon="4.133988889592725">
     <name>K 2</name>
     <desc>vaarweg : KRAMMER
@@ -31272,18 +31260,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.45051388906883" lon="4.229777778268622">
-    <name>K 4</name>
-    <desc>vaarweg : SCHELDE RIJN KANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5201</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.6670833332966" lon="4.142194444727512">
     <name>K 4</name>
     <desc>vaarweg : KRAMMER
@@ -31310,18 +31286,6 @@ licht periode : 5
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.45084722261656" lon="4.22994722260295">
-    <name>K 6</name>
-    <desc>vaarweg : SCHELDE RIJN KANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -33642,6 +33606,17 @@ licht type : Q (quick-flashing)
 lich kleur : Groen
 model : spar Groen/rood</desc>
     <sym>1212</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.83972222240856" lon="5.671797221575872">
+    <name>KL 10</name>
+    <desc>vaarweg : KANAAL LEMMER (IJSSELMEER)
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
+model : spar Rood</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
