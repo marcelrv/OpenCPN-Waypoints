@@ -42775,6 +42775,28 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.63619999986838" lon="3.750850000124156">
+    <name>MP E</name>
+    <desc>vaarweg : NOORDZEE
+licht type : VQ (very quick-flashing)
+licht periode : 5
+lich kleur : Wit
+model : Pilaar Zwart/geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.602866666349605" lon="3.746699999997576">
+    <name>MP W</name>
+    <desc>vaarweg : NOORDZEE
+licht type : very quick-flash plus long- fl
+licht periode : 10
+lich kleur : Wit
+model : Pilaar Geel/zwart/geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.764752777820256" lon="4.222861111189087">
     <name>MP</name>
     <desc>vaarweg : HARINGVLIET
@@ -79060,7 +79082,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.419733333070326" lon="5.792197222740072">
+  <wpt lat="53.41983888911633" lon="5.792619444112137">
     <name>VA 7B</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Iso (isophased)
@@ -79072,7 +79094,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.41986111143886" lon="5.794558332623226">
+  <wpt lat="53.42002222212338" lon="5.794530555228003">
     <name>VA 7C</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Iso (isophased)
@@ -79083,7 +79105,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.41967222181955" lon="5.7963472226587">
+  <wpt lat="53.41985555530295" lon="5.796094445014146">
     <name>VA 7D</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Q (quick-flashing)
@@ -79106,7 +79128,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.4202111108813" lon="5.791611111538165">
+  <wpt lat="53.42027222250819" lon="5.791811111713396">
     <name>VA 8A</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : LFl (long-flashing)
@@ -79118,7 +79140,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.42025833363967" lon="5.796005555135461">
+  <wpt lat="53.4206722222977" lon="5.795605555822937">
     <name>VA 8B</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Iso (isophased)
@@ -79130,7 +79152,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.41878055555471" lon="5.797561110767769">
+  <wpt lat="53.41888888856034" lon="5.79754444444499">
     <name>VA 9</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Iso (isophased)
@@ -85593,54 +85615,6 @@ model : spar Rood/wit repeterend</desc>
     <desc>vaarweg : VAARWATER NAAR OOSTMAHORN
 model : spar Rood/wit repeterend</desc>
     <sym>1551</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.43646944433817" lon="3.334558332983673">
-    <name>VR-A</name>
-    <desc>vaarweg : WIELINGEN
-licht type : Fl (flashing)
-licht periode : 20
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5301</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.43539444489108" lon="3.334527777251914">
-    <name>VR-B</name>
-    <desc>vaarweg : WIELINGEN
-licht type : Fl (flashing)
-licht periode : 20
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5301</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.425913889156114" lon="3.400119443874622">
-    <name>VR-C</name>
-    <desc>vaarweg : WIELINGEN
-licht type : Fl (flashing)
-licht periode : 20
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5301</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.42483611081792" lon="3.400111111732008">
-    <name>VR-D</name>
-    <desc>vaarweg : WIELINGEN
-licht type : Fl (flashing)
-licht periode : 20
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5301</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -95032,7 +95006,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.42228888917979" lon="5.793333332862695">
+  <wpt lat="53.4221861110826" lon="5.794386111156591">
     <name>ZS 1A</name>
     <desc>vaarweg : ZUIDERSPRUIT AMELAND
 model : spar Groen</desc>
