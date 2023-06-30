@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-06-29T06:03:17.586000Z</time>
+    <time>2023-06-30T10:17:13.394000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -6022,7 +6022,7 @@ Periode 01-11 tot 31-03 (note: Bediening op aanvraag via 058  -  29 25 888.  Opt
     </extensions>
   </wpt>
   <wpt lat="53.1916894964182" lon="5.76006291449884">
-    <name>Harinxmakanaalspoorbrug</name>
+    <name>Harinxmakanaalspoorbrug (Spoorbrug HRM)</name>
     <desc>Locatie: Van Harinxmakanaal
 Type:    Bedienbare Brug
 VHF:     22
@@ -6291,7 +6291,7 @@ Periode 12-12 tot 31-12:
 
 Note: Openingen tussen 06:00 en 21:00 uur.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/32929">
-      <text>Harinxmakanaalspoorbrug online info</text>
+      <text>Harinxmakanaalspoorbrug (Spoorbrug HRM) online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -7094,24 +7094,12 @@ Type:    Vaste Brug</desc>
   <wpt lat="53.1698287612667" lon="5.42204260826111">
     <name>Balklandbrug</name>
     <desc>Locatie: Harlingervaart
-Type:    Bedienbare Brug
-VHF:     11
-
-Bedieningstijden
-Periode 01-04 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-Periode 01-11 tot 31-03:
-   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-
-Note: 01 april t/m 31 oktober: 
-Bediening op aanvraag via 06 - 53 75 25 87.
-01 november t/m 31 maart: 
-Geen bediening.</desc>
+Type:    Vaste Brug
+VHF:     11</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/38496">
       <text>Balklandbrug online info</text>
     </link>
-    <sym>Landmarks-Bridge2</sym>
+    <sym>Landmarks-Bridge1</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -11991,11 +11979,11 @@ Note: In betreffende periodes: Bediening op aanvraag via 058  -  29 25 888.  Opt
     </extensions>
   </wpt>
   <wpt lat="53.0134620033234" lon="5.68642124533653">
-    <name>Viaduct A7</name>
+    <name>Viaduct A7 Sneek</name>
     <desc>Locatie: Boeresloot
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/27672350">
-      <text>Viaduct A7 online info</text>
+      <text>Viaduct A7 Sneek online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -14846,6 +14834,30 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/39843415">
       <text>Abbemawier (Landbouwbrug) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.06255861722002" lon="5.506576448699434">
+    <name>Brug in Oude Rijksweg</name>
+    <desc>Locatie: Makkumervaart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/40977107">
+      <text>Brug in Oude Rijksweg online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.06497060496193" lon="5.450333654853238">
+    <name>Brug in Meerswal</name>
+    <desc>Locatie: Skraarder Feart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/40977121">
+      <text>Brug in Meerswal online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
