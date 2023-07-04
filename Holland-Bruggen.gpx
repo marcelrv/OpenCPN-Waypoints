@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-07-03T12:41:54.946000Z</time>
+    <time>2023-07-04T12:14:17.231000Z</time>
   </metadata>
   <wpt lat="52.8349518997784" lon="4.81026448308057">
     <name>Brug over Zeesluis Oudesluis</name>
@@ -25737,7 +25737,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.2748540796464" lon="5.12409906790367">
+  <wpt lat="52.274875606233906" lon="5.124088584270794">
     <name>Erfgooiersbrug</name>
     <desc>Locatie: Karnemelksloot naar Naarden
 Type:    Vaste Brug</desc>
@@ -29051,6 +29051,39 @@ Type:    Vaste Brug</desc>
       <text>Doctor Meijer de Hondbrug (Brugnr 257) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3851930652979" lon="4.910676330437127">
+    <name>Hollandse Iepbrug (Brugnr 2240)</name>
+    <desc>Locatie: Noordhollandsch Kanaal
+Type:    Bedienbare Brug
+Contact PhoneNumber:14020
+
+Bedieningstijden
+Periode 07-04 tot 07-04:
+   08:30 - 16:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 08-04 tot 24-12:
+   05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:30 - 16:30: Za, Zo, incl. feestdagen. 
+   17:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+Periode 25-12 tot 25-12:
+   05:00 - 06:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   08:30 - 16:30: Za, Zo, excl. feestdagen. 
+   17:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+Periode 26-12 tot 06-04:
+   05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:30 - 16:30: Za, Zo, incl. feestdagen. 
+   17:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/41033743">
+      <text>Hollandse Iepbrug (Brugnr 2240) online info</text>
+    </link>
+    <sym>Landmarks-Bridge2</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
