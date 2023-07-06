@@ -21425,10 +21425,11 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.00833333378887" lon="6.113033332906574">
+  <wpt lat="52.00083333357216" lon="6.113033332713123">
     <name>GIJ 69B-A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Groen</desc>
+    <sym>1043</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -78605,15 +78606,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.40345000021286" lon="5.818299999899062">
-    <name>VA 18</name>
-    <desc>vaarweg : VEERBOOT ROUTE AMELAND
-model : spar Rood</desc>
-    <sym>1143</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.404666666614666" lon="5.821583332711369">
     <name>VA 18A</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
@@ -79075,6 +79067,7 @@ model : spar Groen</desc>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Iso (isophased)
 licht periode : 8
+lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
     <extensions>
@@ -79132,6 +79125,7 @@ model : spar Rood</desc>
     <name>VA 8C</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Q (quick-flashing)
+lich kleur : Rood
 model : spar Rood</desc>
     <sym>1145</sym>
     <extensions>
