@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-07-05T17:31:28.165000Z</time>
+    <time>2023-07-07T12:27:22.268000Z</time>
   </metadata>
   <wpt lat="52.42482997873" lon="4.83723118322086">
     <name>VHF 4</name>
@@ -8334,6 +8334,19 @@ VHF:          71
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VINHARBOUR/40435908">
       <text>Meldpunt Overnachtingshaven Bergambacht online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3851930652979" lon="4.910676330437127">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Hollandse Iepbrug (Brugnr 2240)
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/41033743">
+      <text>Meldpunt Hollandse Iepbrug (Brugnr 2240) online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
