@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-07-12T09:57:46.967000Z</time>
+    <time>2023-07-13T06:46:20.568000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -947,7 +947,7 @@ RadioTraffic: INBOUND</desc>
   <wpt lat="52.6899178221313" lon="6.2610204857418">
     <name>Meldpunt Rogatsluis</name>
     <desc>Naam:         Meldpunt Rogatsluis
-VHF:          18,84
+VHF:          78
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/4925">
       <text>Meldpunt Rogatsluis online info</text>
@@ -1132,7 +1132,7 @@ RadioTraffic: TWO_WAY</desc>
   <wpt lat="52.7122424690517" lon="6.45484683511178">
     <name>Meldpunt Tweelandenbrug</name>
     <desc>Naam:         Meldpunt Tweelandenbrug
-VHF:          18 - 84
+VHF:          18
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/5838">
       <text>Meldpunt Tweelandenbrug online info</text>
@@ -2509,7 +2509,7 @@ Opmerking: Wachtplaats Oransjesluizen</desc>
   <wpt lat="52.713213441138" lon="6.43698731410618">
     <name>Meldpunt Nieuwebrugsluis</name>
     <desc>Naam:         Meldpunt Nieuwebrugsluis
-VHF:          18 - 84
+VHF:          18
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/12330">
       <text>Meldpunt Nieuwebrugsluis online info</text>
@@ -4545,7 +4545,7 @@ RadioTraffic: TWO_WAY</desc>
   <wpt lat="52.6895711726248" lon="6.8540903302989">
     <name>Meldpunt Stieltjeskanaalsluis</name>
     <desc>Naam:         Meldpunt Stieltjeskanaalsluis
-VHF:          18, 84
+VHF:          78
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/19938">
       <text>Meldpunt Stieltjeskanaalsluis online info</text>
@@ -5040,7 +5040,7 @@ RadioTraffic: TWO_WAY</desc>
   <wpt lat="52.712619835856" lon="6.44804505361367">
     <name>Meldpunt Vlinderbrug</name>
     <desc>Naam:         Meldpunt Vlinderbrug
-VHF:          18 - 84
+VHF:          18
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/22223">
       <text>Meldpunt Vlinderbrug online info</text>
@@ -5231,7 +5231,7 @@ RadioTraffic: TWO_WAY</desc>
   <wpt lat="52.6899162239083" lon="6.26087223440698">
     <name>Meldpunt Brug over benedenhoofd Rogatsluis</name>
     <desc>Naam:         Meldpunt Brug over benedenhoofd Rogatsluis
-VHF:          18 - 84
+VHF:          78
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/22701">
       <text>Meldpunt Brug over benedenhoofd Rogatsluis online info</text>
@@ -17727,6 +17727,318 @@ VHF:          20
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/41033743">
       <text>Meldpunt Hollandse Iepbrug (Brugnr 2240) online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1676443301461" lon="6.58961892127991">
+    <name>Meldpunt Meerwegbrug</name>
+    <desc>Naam:         Meldpunt Meerwegbrug
+VHF:          78
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/30470">
+      <text>Meldpunt Meerwegbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.139572964604724" lon="6.604692935943603">
+    <name>Meldpunt Oosterbroeksebrug</name>
+    <desc>Naam:         Meldpunt Oosterbroeksebrug
+VHF:          78
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/4466">
+      <text>Meldpunt Oosterbroeksebrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.12467187781658" lon="6.6058409214019775">
+    <name>Meldpunt Brug de Punt</name>
+    <desc>Naam:         Meldpunt Brug de Punt
+VHF:          78
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/36250">
+      <text>Meldpunt Brug de Punt online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.11703422417773" lon="6.604827046394347">
+    <name>Meldpunt Brug over benedenhoofd sluis De Punt</name>
+    <desc>Naam:         Meldpunt Brug over benedenhoofd sluis De Punt
+VHF:          78
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42957">
+      <text>Meldpunt Brug over benedenhoofd sluis De Punt online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1167846835436" lon="6.60484313964844">
+    <name>Meldpunt Sluis De Punt</name>
+    <desc>Naam:         Meldpunt Sluis De Punt
+VHF:          78
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/31522">
+      <text>Meldpunt Sluis De Punt online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.0959098579087" lon="6.59878134727478">
+    <name>Meldpunt Sluis Vries</name>
+    <desc>Naam:         Meldpunt Sluis Vries
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/4411">
+      <text>Meldpunt Sluis Vries online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.096281119539015" lon="6.599032133817673">
+    <name>Meldpunt Brug over benedenhoofd sluis Vries</name>
+    <desc>Naam:         Meldpunt Brug over benedenhoofd sluis Vries
+VHF:          78
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/55760">
+      <text>Meldpunt Brug over benedenhoofd sluis Vries online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.07926749190639" lon="6.592537164688109">
+    <name>Meldpunt Vriezerbrug</name>
+    <desc>Naam:         Meldpunt Vriezerbrug
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/45653">
+      <text>Meldpunt Vriezerbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.048476949184845" lon="6.608389019966125">
+    <name>Meldpunt Oudemolensebrug</name>
+    <desc>Naam:         Meldpunt Oudemolensebrug
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/22653">
+      <text>Meldpunt Oudemolensebrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.03723719042071" lon="6.60640686750412">
+    <name>Meldpunt Taarlosebrug</name>
+    <desc>Naam:         Meldpunt Taarlosebrug
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/25304">
+      <text>Meldpunt Taarlosebrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.0197059253328" lon="6.60125970840454">
+    <name>Meldpunt Enkeerdbrug (fiets-/voetbrug)</name>
+    <desc>Naam:         Meldpunt Enkeerdbrug (fiets-/voetbrug)
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/52672">
+      <text>Meldpunt Enkeerdbrug (fiets-/voetbrug) online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.012810067504" lon="6.60062938928604">
+    <name>Meldpunt Lonerbrug</name>
+    <desc>Naam:         Meldpunt Lonerbrug
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/2284">
+      <text>Meldpunt Lonerbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.0220873219083" lon="6.57103657722473">
+    <name>Meldpunt Sluis Peelo</name>
+    <desc>Naam:         Meldpunt Sluis Peelo
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/45937">
+      <text>Meldpunt Sluis Peelo online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.679263247998136" lon="6.162296086549758">
+    <name>Meldpunt Staphorster Grote Stouwe</name>
+    <desc>Naam:         Meldpunt Staphorster Grote Stouwe
+VHF:          78
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/58545">
+      <text>Meldpunt Staphorster Grote Stouwe online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.679541586311" lon="6.34135365486145">
+    <name>Meldpunt Ossesluis</name>
+    <desc>Naam:         Meldpunt Ossesluis
+VHF:          78
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/52521">
+      <text>Meldpunt Ossesluis online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7215140084532" lon="6.518565230103377">
+    <name>Meldpunt Krakeelbrug</name>
+    <desc>Naam:         Meldpunt Krakeelbrug
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/740224">
+      <text>Meldpunt Krakeelbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.728058400569" lon="6.50358907214669">
+    <name>Meldpunt Edisonbrug</name>
+    <desc>Naam:         Meldpunt Edisonbrug
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/58420">
+      <text>Meldpunt Edisonbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7151454164638" lon="6.86286496657516">
+    <name>Meldpunt Kerkbrug Nieuw-Amsterdam</name>
+    <desc>Naam:         Meldpunt Kerkbrug Nieuw-Amsterdam
+VHF:          78
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/9717">
+      <text>Meldpunt Kerkbrug Nieuw-Amsterdam online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.696883440930606" lon="6.866958364835226">
+    <name>Meldpunt Drieklapsbrug</name>
+    <desc>Naam:         Meldpunt Drieklapsbrug
+VHF:          78
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/3693">
+      <text>Meldpunt Drieklapsbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7134464426941" lon="6.88254670707465">
+    <name>Meldpunt Westerveenschebrug</name>
+    <desc>Naam:         Meldpunt Westerveenschebrug
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/55099">
+      <text>Meldpunt Westerveenschebrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7107099658596" lon="6.91479385994892">
+    <name>Meldpunt Ericasluis</name>
+    <desc>Naam:         Meldpunt Ericasluis
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/21962">
+      <text>Meldpunt Ericasluis online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.70980964077404" lon="6.925430260612303">
+    <name>Meldpunt Ericasebrug</name>
+    <desc>Naam:         Meldpunt Ericasebrug
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/29575">
+      <text>Meldpunt Ericasebrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.70845156234108" lon="6.940849870516103">
+    <name>Meldpunt Oosterveenschebrug</name>
+    <desc>Naam:         Meldpunt Oosterveenschebrug
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/2976">
+      <text>Meldpunt Oosterveenschebrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7240298691483" lon="6.96842193603516">
+    <name>Meldpunt Oranjesluis</name>
+    <desc>Naam:         Meldpunt Oranjesluis
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/16178">
+      <text>Meldpunt Oranjesluis online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
