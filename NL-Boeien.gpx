@@ -9908,6 +9908,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87866,16 +87867,7 @@ model : spar Zwart/geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.42378888923823" lon="5.642975000285438">
-    <name>WA-OOST</name>
-    <desc>vaarweg : WESTGAT (AMELAND)
-model : spar Zwart/geel/zwart</desc>
-    <sym>2133</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.423247222085664" lon="5.635047222384935">
+  <wpt lat="53.42653611078726" lon="5.627897222482497">
     <name>WA-WEST 1</name>
     <desc>vaarweg : WESTGAT (AMELAND)
 licht type : Q (quick-flashing)
@@ -91610,8 +91602,6 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="51.549891666662056" lon="3.908305555975521">
     <name>Z 10</name>
     <desc>vaarweg : ZANDKREEK
-licht type : LFl (long-flashing)
-licht periode : 5
 model : spar Rood</desc>
     <sym>1105</sym>
     <extensions>
@@ -91641,9 +91631,6 @@ model : stomp Rood</desc>
   <wpt lat="51.54891388857762" lon="3.890730555269187">
     <name>Z 11</name>
     <desc>vaarweg : ZANDKREEK
-licht type : LFl (long-flashing)
-licht periode : 5
-lich kleur : Groen
 model : spar Groen</desc>
     <sym>1005</sym>
     <extensions>
@@ -91804,6 +91791,7 @@ model : spits Groen</desc>
     <desc>vaarweg : ZANDKREEK
 licht type : Iso (isophased)
 licht periode : 4
+lich kleur : Rood
 model : spar Rood</desc>
     <sym>1145</sym>
     <extensions>
@@ -91940,6 +91928,7 @@ model : spar Groen</desc>
     <desc>vaarweg : ZANDKREEK
 licht type : Iso (isophased)
 licht periode : 4
+lich kleur : Rood
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
