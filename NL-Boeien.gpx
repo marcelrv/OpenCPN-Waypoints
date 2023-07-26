@@ -42843,7 +42843,7 @@ model : stomp Rood</desc>
 licht type : VQ (very quick-flashing)
 licht periode : 5
 lich kleur : Wit
-model : Pilaar Zwart/geel/zwart</desc>
+model : Pilaar Geel/zwart/geel</desc>
     <sym>2123</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -55888,6 +55888,18 @@ model : spar Geel</desc>
     <desc>vaarweg : VAARWATER LANGS DE PAULINAPOLDER
 model : spar Geel</desc>
     <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.35333888907824" lon="3.755102778004805">
+    <name>PP D</name>
+    <desc>vaarweg : VAARWATER LANGS DE PAULINAPOLDER
+licht type : Fl (flashing)
+licht periode : 10
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5301</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -71967,6 +71979,7 @@ model : spar Rood/groen repeterend</desc>
     <name>SR 0-A</name>
     <desc>vaarweg : MAAS
 model : stomp Geel</desc>
+    <sym>5511</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -71975,7 +71988,7 @@ model : stomp Geel</desc>
     <name>SR 0</name>
     <desc>vaarweg : MAAS
 model : stomp Geel</desc>
-    <sym>3001</sym>
+    <sym>5511</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -71987,7 +72000,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : stomp Geel</desc>
-    <sym>3500</sym>
+    <sym>5512</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -71999,7 +72012,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : stomp Geel</desc>
-    <sym>3701</sym>
+    <sym>5512</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72008,7 +72021,7 @@ model : stomp Geel</desc>
     <name>SR 14</name>
     <desc>vaarweg : MAAS
 model : stomp Geel</desc>
-    <sym>3001</sym>
+    <sym>5511</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72017,6 +72030,7 @@ model : stomp Geel</desc>
     <name>SR 16</name>
     <desc>vaarweg : MAAS
 model : stomp Geel</desc>
+    <sym>5511</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72028,7 +72042,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : stomp Geel</desc>
-    <sym>3701</sym>
+    <sym>5511</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72040,7 +72054,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : stomp Geel</desc>
-    <sym>3500</sym>
+    <sym>5512</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72052,7 +72066,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : stomp Geel</desc>
-    <sym>3701</sym>
+    <sym>5512</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72064,7 +72078,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : stomp Geel</desc>
-    <sym>3701</sym>
+    <sym>5512</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -85660,6 +85674,54 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.43646944433817" lon="3.334558332983673">
+    <name>VR-A</name>
+    <desc>vaarweg : WIELINGEN
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5301</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.43539444489108" lon="3.334527777251914">
+    <name>VR-B</name>
+    <desc>vaarweg : WIELINGEN
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5301</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.425913889156114" lon="3.400119443874622">
+    <name>VR-C</name>
+    <desc>vaarweg : WIELINGEN
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5301</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.42483611081792" lon="3.400111111732008">
+    <name>VR-D</name>
+    <desc>vaarweg : WIELINGEN
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5301</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.2974166667248" lon="5.103433334017547">
     <name>VS 10</name>
     <desc>vaarweg : VLIESLOOT
@@ -87935,6 +87997,7 @@ licht type : quick-flash plus long- flash
 licht periode : 15
 lich kleur : Wit
 model : Pilaar Geel/zwart</desc>
+    <sym>2233</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -89012,6 +89075,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Rood
 model : stomp Rood</desc>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -89392,6 +89456,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Groen
 model : spits Groen</desc>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
