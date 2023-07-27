@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-07-14T21:18:09.518000Z</time>
+    <time>2023-07-26T16:27:02.712000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>VHF 20</name>
@@ -1374,6 +1374,19 @@ VHF:          80
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/5980249">
       <text>Meldpunt Greydanus brêge (fietsbrug) online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.8852444388042" lon="5.36049127578735">
+    <name>VHF 74</name>
+    <desc>Naam:         Meldpunt Kleine Koebrug
+VHF:          74
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/19961715">
+      <text>Meldpunt Kleine Koebrug online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
