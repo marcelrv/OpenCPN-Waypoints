@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-08-02T11:52:39.892000Z</time>
+    <time>2023-08-03T05:48:36.440000Z</time>
   </metadata>
   <wpt lat="53.1790311589639" lon="5.41965093758831">
     <name>Tsjerk Hiddessluizen</name>
@@ -1268,6 +1268,22 @@ Periode 01-01 tot 31-12 (note: Zelfbediening):
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/39506925">
       <text>Dillesluis (schutsluis) online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.05692418993857" lon="5.9762755036354065">
+    <name>Schouwstraslûs (schutsluis)</name>
+    <desc>Locatie: Skipsleat
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/41406380">
+      <text>Schouwstraslûs (schutsluis) online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
