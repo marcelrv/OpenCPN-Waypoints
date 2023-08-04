@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-08-03T05:48:36.440000Z</time>
+    <time>2023-08-04T10:29:39.583000Z</time>
   </metadata>
   <wpt lat="53.1790311589639" lon="5.41965093758831">
     <name>Tsjerk Hiddessluizen</name>
@@ -1284,6 +1284,22 @@ Periode 01-01 tot 31-12:
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/41406380">
       <text>Schouwstraslûs (schutsluis) online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.0987401838035" lon="5.948192775249481">
+    <name>Noordersluis de Veenhoop (schutsluis)</name>
+    <desc>Locatie: Polderhoofdkanaal
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/41426829">
+      <text>Noordersluis de Veenhoop (schutsluis) online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
