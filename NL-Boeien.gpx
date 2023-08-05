@@ -72695,7 +72695,7 @@ model : spits Geel</desc>
   </wpt>
   <wpt lat="52.54737222257365" lon="5.854208332877217">
     <name>SRS-C</name>
-    <desc>vaarweg : DRONTERMEER (RANDMEREN)
+    <desc>vaarweg : VOSSEMEER (RANDMEREN)
 model : spits Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -93275,6 +93275,7 @@ licht type : Q (quick-flashing)
 licht periode : 15
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
+    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
