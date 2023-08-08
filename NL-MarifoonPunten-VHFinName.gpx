@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-08-07T06:06:38.227000Z</time>
+    <time>2023-08-08T09:33:23.210000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>VHF 20</name>
@@ -253,7 +253,7 @@ In haven bevindt zich een bunkerschip.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.3856268304553" lon="4.64629423558396">
+  <wpt lat="52.38555927653766" lon="4.646385312080382">
     <name>VHF 18</name>
     <desc>Naam:         Meldpunt Spaarnespoorbrug
 VHF:          18
@@ -4555,7 +4555,7 @@ RadioTraffic: TWO_WAY</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.3952599805373" lon="4.6514597364968">
+  <wpt lat="52.39522022061357" lon="4.651502966880798">
     <name>VHF 18</name>
     <desc>Naam:         Meldpunt Waarderbrug (Brugnr 2)
 VHF:          18
@@ -18039,6 +18039,110 @@ VHF:          18
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/9858">
       <text>Meldpunt Brug Oude Wetering online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.402685307219144" lon="4.656803011894225">
+    <name>VHF 18</name>
+    <desc>Naam:         Meldpunt Schoterbrug (Brugnr 1)
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/19372">
+      <text>Meldpunt Schoterbrug (Brugnr 1) online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3881675418381" lon="4.65269923210144">
+    <name>VHF 18</name>
+    <desc>Naam:         Meldpunt Figeebrug (Brugnr 2A)
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/21972629">
+      <text>Meldpunt Figeebrug (Brugnr 2A) online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.38291253712043" lon="4.642994999885559">
+    <name>VHF 18</name>
+    <desc>Naam:         Meldpunt Catharijnebrug (Brugnr 4)
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54182">
+      <text>Meldpunt Catharijnebrug (Brugnr 4) online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.380160621754" lon="4.64117914438248">
+    <name>VHF 18</name>
+    <desc>Naam:         Meldpunt Gravestenenbrug (Brugnr 5)
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/12589">
+      <text>Meldpunt Gravestenenbrug (Brugnr 5) online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.37933844914264" lon="4.638242125511168">
+    <name>VHF 18</name>
+    <desc>Naam:         Meldpunt Melkbrug (Brugnr 6)
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/21252">
+      <text>Meldpunt Melkbrug (Brugnr 6) online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.37687857578152" lon="4.640199467539787">
+    <name>VHF 19</name>
+    <desc>Naam:         Meldpunt Langebrug (Brugnr 7)
+VHF:          19
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/37035">
+      <text>Meldpunt Langebrug (Brugnr 7) online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.371432864432" lon="4.64003384113312">
+    <name>VHF 18</name>
+    <desc>Naam:         Meldpunt Buitenrustbrug (Brugnr 8)
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/51012">
+      <text>Meldpunt Buitenrustbrug (Brugnr 8) online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.354051062062" lon="4.63591416981508">
+    <name>VHF 18</name>
+    <desc>Naam:         Meldpunt Schouwbroekerbrug (Brugnr 9)
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/28191">
+      <text>Meldpunt Schouwbroekerbrug (Brugnr 9) online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
