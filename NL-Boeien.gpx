@@ -18712,6 +18712,17 @@ model : Pilaar Geel/zwart/geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.466374999743906" lon="4.582780555031787">
+    <name>FP-E</name>
+    <desc>vaarweg : HAVEN IJMUIDEN
+licht type : Q (quick-flashing)
+licht periode : 10
+lich kleur : Wit
+model : Pilaar Zwart/geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.42173333355672" lon="5.98119722273249">
     <name>FW 11</name>
     <desc>vaarweg : FRIESCHE WAD
@@ -79116,30 +79127,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.42228888923211" lon="5.793091666637674">
-    <name>VA 7A</name>
-    <desc>vaarweg : VEERBOOT ROUTE AMELAND
-licht type : Iso (isophased)
-licht periode : 8
-lich kleur : Groen
-model : spar Groen</desc>
-    <sym>1045</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.420808333468415" lon="5.795272221876808">
-    <name>VA 7B</name>
-    <desc>vaarweg : VEERBOOT ROUTE AMELAND
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Groen
-model : spar Groen</desc>
-    <sym>1045</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.41999722230482" lon="5.796258333051671">
     <name>VA 7C</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
@@ -79148,6 +79135,17 @@ licht periode : 8
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.42001111147033" lon="5.797597222508612">
+    <name>VA 8</name>
+    <desc>vaarweg : VEERBOOT ROUTE AMELAND
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
+model : spar Rood</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
