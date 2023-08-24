@@ -36961,8 +36961,11 @@ model : spar Rood</desc>
   <wpt lat="51.990966666418785" lon="5.063408333902148">
     <name>L 63</name>
     <desc>vaarweg : LEK
-model : spar Groen</desc>
-    <sym>1041</sym>
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : ton Groen</desc>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -92496,15 +92499,6 @@ model : spar Rood</desc>
     <desc>vaarweg : ZWOLSCHEDIEP (RANDMEREN)
 model : spar Groen</desc>
     <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.90131111086298" lon="4.546355555536397">
-    <name>ZD 1</name>
-    <desc>vaarweg : ZUIDDIEP
-model : spar Groen</desc>
-    <sym>1043</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
