@@ -28405,6 +28405,14 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.81783611077296" lon="4.159897221718829">
+    <name>HV 6A</name>
+    <desc>vaarweg : HARINGVLIET
+model : spar Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.815863889255276" lon="4.138966667297554">
     <name>HV 7</name>
     <desc>vaarweg : HARINGVLIET
@@ -41908,6 +41916,14 @@ licht periode : 4
 lich kleur : Rood
 model : stomp Rood</desc>
     <sym>1105</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.30586388915086" lon="6.096436111255669">
+    <name>ML 45</name>
+    <desc>vaarweg : MAAS
+model : spits Groen</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -63414,6 +63430,7 @@ model : stomp Geel</desc>
     <name>RP-A</name>
     <desc>vaarweg : DOMBURGER RASSEN
 model : Niet toegewezen Geel</desc>
+    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -63422,6 +63439,7 @@ model : Niet toegewezen Geel</desc>
     <name>RP-B</name>
     <desc>vaarweg : DOMBURGER RASSEN
 model : spar Geel</desc>
+    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -63430,6 +63448,7 @@ model : spar Geel</desc>
     <name>RP-C</name>
     <desc>vaarweg : DOMBURGER RASSEN
 model : spar Geel</desc>
+    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -63438,6 +63457,7 @@ model : spar Geel</desc>
     <name>RP-D</name>
     <desc>vaarweg : DOMBURGER RASSEN
 model : spar Geel</desc>
+    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72009,15 +72029,6 @@ model : spar Geel</desc>
   </wpt>
   <wpt lat="51.74662222222843" lon="3.782716667330607">
     <name>SR-E</name>
-    <desc>vaarweg : BROUWERSHAVENSCHE GAT
-model : spar Geel</desc>
-    <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.746741666814216" lon="3.772938889206123">
-    <name>SR-F</name>
     <desc>vaarweg : BROUWERSHAVENSCHE GAT
 model : spar Geel</desc>
     <sym>5101</sym>
@@ -96059,38 +96070,6 @@ model : stomp Geel</desc>
     <desc>vaarweg : OOSTGAT
 model : stomp Geel</desc>
     <sym>3500</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.823466666862416" lon="5.303400000484076">
-    <name>kmr 930.430</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : spits Groen</desc>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.82341666630387" lon="5.299000000292692">
-    <name>kmr 930.700</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : spits Groen</desc>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.82316666666871" lon="5.295333332689681">
-    <name>kmr 931.130</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : spits Groen</desc>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.822566666226315" lon="5.290500000417203">
-    <name>kmr 931.380</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : spits Groen</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
