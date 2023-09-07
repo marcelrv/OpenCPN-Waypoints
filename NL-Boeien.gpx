@@ -28394,15 +28394,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.81783611077296" lon="4.159897221718829">
-    <name>HV 6A</name>
-    <desc>vaarweg : HARINGVLIET
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.815863889255276" lon="4.138966667297554">
     <name>HV 7</name>
     <desc>vaarweg : HARINGVLIET
@@ -66164,6 +66155,7 @@ model : spar Geel</desc>
     <name>SB-NBW 6</name>
     <desc>vaarweg : STEILEBANK (IJSSELMEER)
 model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -93194,6 +93186,7 @@ model : spar Geel/zwart/geel</desc>
 licht type : VQ (very quick-flashing)
 lich kleur : Wit
 model : spar Zwart/geel</desc>
+    <sym>2033</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -93229,6 +93222,7 @@ licht type : VQ (very quick-flashing)
 licht periode : 10
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
+    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
