@@ -48247,20 +48247,8 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.33778611107378" lon="3.812902777269606">
-    <name>NST-A</name>
-    <desc>vaarweg : Kanaal Gent- Terneuzen
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5301</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.33669444448495" lon="3.81250555614187">
-    <name>NST-B</name>
+    <name>NST-A</name>
     <desc>vaarweg : Kanaal Gent- Terneuzen
 licht type : Iso (isophased)
 licht periode : 4
@@ -48272,7 +48260,7 @@ model : stomp Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.33368888844572" lon="3.814244444206094">
-    <name>NST-C</name>
+    <name>NST-B</name>
     <desc>vaarweg : Kanaal Gent- Terneuzen
 licht type : Iso (isophased)
 licht periode : 4
@@ -67907,7 +67895,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32714999954805" lon="5.163705556097034">
+  <wpt lat="53.32696944406856" lon="5.163605556261524">
     <name>SG 4</name>
     <desc>vaarweg : SCHUITENGAT
 model : spar Rood</desc>
@@ -67967,7 +67955,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.325905555697794" lon="5.169405555684897">
+  <wpt lat="53.32573888909571" lon="5.169322222260177">
     <name>SG 6</name>
     <desc>vaarweg : SCHUITENGAT
 model : spar Rood</desc>
@@ -67997,7 +67985,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32511388921368" lon="5.168911111713513">
+  <wpt lat="53.32494722182019" lon="5.168805555349721">
     <name>SG 7</name>
     <desc>vaarweg : SCHUITENGAT
 model : spar Groen</desc>
@@ -77764,7 +77752,7 @@ model : stomp Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.88279444422348" lon="5.748552778375008">
+  <wpt lat="51.88291388922224" lon="5.745641666619318">
     <name>Ton 892.825L</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : spits Groen</desc>
@@ -93196,18 +93184,6 @@ model : spar Zwart/geel</desc>
     <desc>vaarweg : NOORDZEE
 licht type : Q (quick-flashing)
 licht periode : 15
-lich kleur : Wit
-model : Pilaar Geel/zwart/geel</desc>
-    <sym>2323</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.83074166675265" lon="4.658366666325603">
-    <name>ZINK-W 2</name>
-    <desc>vaarweg : NOORDZEE
-licht type : VQ (very quick-flashing)
-licht periode : 10
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
     <sym>2323</sym>
