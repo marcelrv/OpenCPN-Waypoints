@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-09-12T14:43:55.396000Z</time>
+    <time>2023-09-15T05:26:29.840000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -4805,8 +4805,8 @@ Contact PhoneNumber:0519-349043
 Bedieningstijden
 Periode 01-04 tot 26-04:
    06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
-   07:30 - 19:00: incl. feestdagen. Voor Pasen en Pinksteren kunnen afwijkende tijden gelden.
    07:30 - 19:00: Zo, excl. feestdagen. 
+   07:30 - 19:00: incl. feestdagen. Voor Pasen en Pinksteren kunnen afwijkende tijden gelden.
 Periode 27-04 tot 30-04:
    06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
    07:30 - 19:00: Zo, excl. feestdagen. 
@@ -6858,9 +6858,9 @@ Type:    Bedienbare Brug
 
 Bedieningstijden
 Periode 01-04 tot 31-03:
-   04:15 - 21:15: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Openingstijden: Half uur voor zonsondergang en een half uur na zonsopkomst. Dit geldt het gehele jaar, behalve bij ijsgang. Dan is de brug gesloten. 
+   04:15 - 21:15: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Openingstijden: Half uur voor zonsondergang en een half uur na zonsopkomst. Dit geldt voor alle dagen van de week het gehele jaar. Behalve bij ijsgang, dan is de brug gesloten.
 
-Note: Bediening middels drukknop.</desc>
+Note: Bediening middels een drukknop.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/36544">
       <text>Nijelamerbrug online info</text>
     </link>
@@ -14785,6 +14785,78 @@ Type:    Vaste Brug</desc>
       <text>Sipke Casteleinbrêge online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.0808008" lon="5.987575">
+    <name>Brug naar Kanaeldyk 15</name>
+    <desc>Locatie: Polderhoofdkanaal
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/41983441">
+      <text>Brug naar Kanaeldyk 15 online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.0837095" lon="5.9812174">
+    <name>Brug in de Krúswei</name>
+    <desc>Locatie: Polderhoofdkanaal
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/41983486">
+      <text>Brug in de Krúswei online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.0881963" lon="5.9713629">
+    <name>Brug naar Kanaeldyk 16</name>
+    <desc>Locatie: Polderhoofdkanaal
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/41983613">
+      <text>Brug naar Kanaeldyk 16 online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.092909" lon="5.9610046">
+    <name>Brug naar Kanaeldyk 6</name>
+    <desc>Locatie: Polderhoofdkanaal
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/41983719">
+      <text>Brug naar Kanaeldyk 6 online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.0970678" lon="5.9518719">
+    <name>Brug in de Drachtster Heawei</name>
+    <desc>Locatie: Polderhoofdkanaal
+Type:    Bedienbare Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/41983765">
+      <text>Brug in de Drachtster Heawei online info</text>
+    </link>
+    <sym>Landmarks-Bridge2</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.0988881" lon="5.9478482">
+    <name>Brug in de Slûswei</name>
+    <desc>Locatie: Polderhoofdkanaal
+Type:    Bedienbare Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/41983845">
+      <text>Brug in de Slûswei online info</text>
+    </link>
+    <sym>Landmarks-Bridge2</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
