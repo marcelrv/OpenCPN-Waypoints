@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-09-15T14:12:50.842000Z</time>
+    <time>2023-09-19T12:22:27.359000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -18145,6 +18145,19 @@ VHF:          18
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/28191">
       <text>Meldpunt Schouwbroekerbrug (Brugnr 9) online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.3156687" lon="5.9351231">
+    <name>Meldpunt Hogebrug of Klaarkampsterbrug</name>
+    <desc>Naam:         Meldpunt Hogebrug of Klaarkampsterbrug
+VHF:          80
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/46247">
+      <text>Meldpunt Hogebrug of Klaarkampsterbrug online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
