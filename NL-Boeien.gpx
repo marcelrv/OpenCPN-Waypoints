@@ -69927,6 +69927,15 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.49542777738738" lon="6.416322222837362">
+    <name>SP 14-EB 7</name>
+    <desc>vaarweg : SPRUIT
+model : spar Rood/groen/rood</desc>
+    <sym>1371</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.77911666698124" lon="3.958366666056329">
     <name>SP 14</name>
     <desc>vaarweg : GREVELINGEN
@@ -69946,19 +69955,10 @@ model : spar Rood</desc>
     </extensions>
   </wpt>
   <wpt lat="53.47626944411444" lon="6.440572222728644">
-    <name>SP 14</name>
+    <name>SP 14A</name>
     <desc>vaarweg : SPRUIT
 model : spar Rood</desc>
     <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.49542777738738" lon="6.416322222837362">
-    <name>SP 14A-EB 7</name>
-    <desc>vaarweg : SPRUIT
-model : spar Rood/groen/rood</desc>
-    <sym>1371</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
