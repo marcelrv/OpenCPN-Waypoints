@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-09-26T12:58:38.502000Z</time>
+    <time>2023-09-27T11:36:57.539000Z</time>
   </metadata>
   <wpt lat="51.5966936427866" lon="4.99190211296081">
     <name>Sluis II Tilburg</name>
@@ -119,7 +119,7 @@ Note: Bij windkracht 8 bft. en meer worden de bruggen niet bediend. Schutbeperki
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.4481862823922" lon="4.23055171966553">
+  <wpt lat="51.4495" lon="4.229398">
     <name>Kreekraksluis</name>
     <desc>Locatie: Voorhavens Kreekraksluizen, Schelde-Rijnverbinding
 VHF:     20
@@ -564,7 +564,7 @@ Note: Bij een windkracht van 7 bft. en meer wordt de brug niet bediend.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.6903754105466" lon="4.4084358215332">
+  <wpt lat="51.690057" lon="4.406489">
     <name>Volkeraksluizen</name>
     <desc>Locatie: Voorhavens Volkeraksluizen
 VHF:     7,78,64
@@ -1408,10 +1408,33 @@ Note: Voor bediening van de sluis, telefonisch: 088-7974752 of bij meldpaal op w
     </extensions>
   </wpt>
   <wpt lat="51.8281740436452" lon="4.83336068094104">
-    <name>Damsluis</name>
-    <desc>Locatie: Buiten Giessen</desc>
+    <name>Damsluis Hardinxveld-Giessendam</name>
+    <desc>Locatie: Buiten Giessen
+VHF:     18
+
+Bedieningstijden
+Periode 01-01 tot 09-04:
+   05:00 - 19:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   07:00 - 15:00: Za, excl. feestdagen. 
+Periode 10-04 tot 14-04:
+   05:00 - 19:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   07:00 - 15:00: Za, excl. feestdagen. 
+Periode 15-04 tot 15-04:
+   05:00 - 20:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   07:00 - 15:00: Za, excl. feestdagen. 
+Periode 16-04 tot 27-05:
+   05:00 - 19:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   07:00 - 15:00: Za, excl. feestdagen. 
+Periode 28-05 tot 28-05:
+   05:00 - 19:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   07:00 - 15:00: Za, excl. feestdagen. 
+Periode 29-05 tot 31-12:
+   05:00 - 19:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   07:00 - 15:00: Za, excl. feestdagen. 
+
+Note: Zon en feestdagen geen bediening.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/23644615">
-      <text>Damsluis online info</text>
+      <text>Damsluis Hardinxveld-Giessendam online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
