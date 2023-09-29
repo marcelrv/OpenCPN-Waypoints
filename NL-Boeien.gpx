@@ -47677,6 +47677,17 @@ model : Pilaar Geel/zwart/geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.321566666275515" lon="3.825236110387995">
+    <name>NST-Z</name>
+    <desc>vaarweg : Kanaal Gent- Terneuzen
+licht type : VQ (very quick-flashing)
+licht periode : 0.6
+lich kleur : Wit
+model : Pilaar Geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.66225000003614" lon="4.350922222201872">
     <name>NV 10</name>
     <desc>vaarweg : NOORD VOLKERAK
@@ -86171,6 +86182,7 @@ licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Geel
 model : bol Geel</desc>
+    <sym>4201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -91447,6 +91459,39 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.46519444440995" lon="4.603313888472562">
+    <name>ZE-A</name>
+    <desc>vaarweg : NOORDZEEKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.46482222255154" lon="4.604269444744652">
+    <name>ZE-B</name>
+    <desc>vaarweg : NOORDZEEKANAAL
+licht type : Fl (flashing)
+licht periode : 10
+lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.46450277765648" lon="4.603313888900619">
+    <name>ZE-C</name>
+    <desc>vaarweg : NOORDZEEKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.660999999842524" lon="4.106300000704329">
     <name>ZG 2</name>
     <desc>vaarweg : ZUID GREVELINGEN
@@ -94219,6 +94264,28 @@ model : spar Groen</desc>
     <desc>vaarweg : ZUIDERSPRUIT AMELAND
 model : spar Groen</desc>
     <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.46384444480791" lon="4.599152778224378">
+    <name>ZS-A</name>
+    <desc>vaarweg : NOORDZEEKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.46385277761266" lon="4.600855555195452">
+    <name>ZS-B</name>
+    <desc>vaarweg : NOORDZEEKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
