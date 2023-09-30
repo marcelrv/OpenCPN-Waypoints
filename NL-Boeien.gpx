@@ -47653,7 +47653,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.32201944487295" lon="3.825444444978527">
+  <wpt lat="51.32466944433811" lon="3.824072221647599">
     <name>NST-O</name>
     <desc>vaarweg : Kanaal Gent- Terneuzen
 licht type : VQ (very quick-flashing)
@@ -47665,7 +47665,7 @@ model : Pilaar Zwart/geel/zwart</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.32173611127087" lon="3.823552778394424">
+  <wpt lat="51.324275000419085" lon="3.821452777272472">
     <name>NST-W</name>
     <desc>vaarweg : Kanaal Gent- Terneuzen
 licht type : VQ (very quick-flashing)
@@ -47680,10 +47680,11 @@ model : Pilaar Geel/zwart/geel</desc>
   <wpt lat="51.321566666275515" lon="3.825236110387995">
     <name>NST-Z</name>
     <desc>vaarweg : Kanaal Gent- Terneuzen
-licht type : VQ (very quick-flashing)
-licht periode : 0.6
+licht type : very quick-flash plus long- fl
+licht periode : 10
 lich kleur : Wit
 model : Pilaar Geel/zwart</desc>
+    <sym>2231</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -86155,17 +86156,6 @@ model : bol Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="54.07423888871617" lon="4.00949722234119">
-    <name>W-A</name>
-    <desc>vaarweg : NOORDZEE
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : bol Geel</desc>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.85318055531018" lon="5.856477778140344">
     <name>W-B</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
@@ -91466,6 +91456,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -91477,6 +91468,7 @@ licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -91488,6 +91480,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -94275,6 +94268,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -94286,6 +94280,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
