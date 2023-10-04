@@ -5418,22 +5418,22 @@ model : bol Groen/rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.35729444430498" lon="4.963122222933779">
-    <name>AK 11</name>
-    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
-model : spits Groen</desc>
-    <sym>1001</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.367936110984424" lon="4.956344444224831">
-    <name>AK 1A-ZS 2</name>
+    <name>AK 1-ZS 2</name>
     <desc>vaarweg : AMSTERDAM-RIJNKANAAL
 licht type : Q (quick-flashing)
 lich kleur : Groen
 model : bol Groen/rood</desc>
     <sym>1202</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.35729444430498" lon="4.963122222933779">
+    <name>AK 11</name>
+    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
+model : spits Groen</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -21318,7 +21318,7 @@ model : spar Rood/groen/rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.44372777758906" lon="6.159147221861865">
+  <wpt lat="53.44316944402526" lon="6.158911110720443">
     <name>GL 11</name>
     <desc>vaarweg : GLINDER
 licht type : Iso (isophased)
@@ -21411,7 +21411,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.44329722208492" lon="6.157619444490808">
+  <wpt lat="53.44317777790722" lon="6.157811111189629">
     <name>GL 8</name>
     <desc>vaarweg : GLINDER
 licht type : Iso (isophased)
@@ -28582,7 +28582,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.3743333335399" lon="4.952466667235544">
+  <wpt lat="52.374505555198304" lon="4.953013888461389">
     <name>IJ 21</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
 model : spar Groen</desc>
@@ -28591,7 +28591,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.373950000312455" lon="4.952650000453357">
+  <wpt lat="52.37373611094297" lon="4.953927777723129">
     <name>IJ 23</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
 model : spar Groen</desc>
@@ -28600,7 +28600,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.373655555171744" lon="4.952927777448622">
+  <wpt lat="52.37300000019487" lon="4.954950000319872">
     <name>IJ 25</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
 licht type : Iso (isophased)
@@ -47673,18 +47673,6 @@ licht periode : 10
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
     <sym>2323</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.321566666275515" lon="3.825236110387995">
-    <name>NST-Z</name>
-    <desc>vaarweg : Kanaal Gent- Terneuzen
-licht type : very quick-flash plus long- fl
-licht periode : 10
-lich kleur : Wit
-model : Pilaar Geel/zwart</desc>
-    <sym>2231</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -77907,7 +77895,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.41893055570262" lon="5.797661110475201">
+  <wpt lat="53.41925555548247" lon="5.79727499972221">
     <name>VA 9</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Iso (isophased)
@@ -91919,7 +91907,7 @@ model : Pilaar Geel/zwart/geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.122708332924994" lon="4.26004444429801">
+  <wpt lat="52.11712500041733" lon="4.251911111580946">
     <name>ZINK-W 2A</name>
     <desc>vaarweg : NOORDZEE
 licht type : VQ (very quick-flashing)
