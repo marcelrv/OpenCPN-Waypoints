@@ -5407,22 +5407,22 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.35729444430498" lon="4.963122222933779">
-    <name>AK 11</name>
-    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
-model : spits Groen</desc>
-    <sym>1001</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.367936110984424" lon="4.956344444224831">
-    <name>AK 1A-ZS 2</name>
+    <name>AK 1-ZS 2</name>
     <desc>vaarweg : AMSTERDAM-RIJNKANAAL
 licht type : Q (quick-flashing)
 lich kleur : Groen
 model : bol Groen/rood</desc>
     <sym>1202</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.35729444430498" lon="4.963122222933779">
+    <name>AK 11</name>
+    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
+model : spits Groen</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -25897,6 +25897,94 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.24993611148478" lon="6.786863889235283">
+    <name>HH 10</name>
+    <desc>vaarweg : Twentekanalen
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.24993611148478" lon="6.786863889235283">
+    <name>HH 11</name>
+    <desc>vaarweg : Twentekanalen
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.24993611148478" lon="6.786863889235283">
+    <name>HH 12</name>
+    <desc>vaarweg : Twentekanalen
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.24993611148478" lon="6.786863889235283">
+    <name>HH 1</name>
+    <desc>vaarweg : Twentekanalen
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.24993611148478" lon="6.786863889235283">
+    <name>HH 2</name>
+    <desc>vaarweg : Twentekanalen
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.24993611148478" lon="6.786863889235283">
+    <name>HH 3</name>
+    <desc>vaarweg : Twentekanalen
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.24993611148478" lon="6.786863889235283">
+    <name>HH 5</name>
+    <desc>vaarweg : Twentekanalen
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.24993611148478" lon="6.786863889235283">
+    <name>HH 6</name>
+    <desc>vaarweg : Twentekanalen
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.24993611148478" lon="6.786863889235283">
+    <name>HH 7</name>
+    <desc>vaarweg : Twentekanalen
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.24993611148478" lon="6.786863889235283">
+    <name>HH 8</name>
+    <desc>vaarweg : Twentekanalen
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.24993611148478" lon="6.786863889235283">
+    <name>HH 9</name>
+    <desc>vaarweg : Twentekanalen
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.960944444429614" lon="4.640186111697179">
     <name>HIJ 10</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
@@ -28580,7 +28668,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.37373611094297" lon="4.953927777723129">
+  <wpt lat="52.37373611129205" lon="4.953947221723948">
     <name>IJ 23</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
 model : spar Groen</desc>
@@ -46201,7 +46289,7 @@ model : spits Groen</desc>
 licht type : LFl (long-flashing)
 licht periode : 5
 model : stomp Rood</desc>
-    <sym>1103</sym>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -75232,15 +75320,6 @@ model : stomp Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.24550277760458" lon="6.816872222247402">
-    <name>TKW 106</name>
-    <desc>vaarweg : Twentekanalen
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.24550277760458" lon="6.816872222247402">
     <name>TKW 107</name>
     <desc>vaarweg : Twentekanalen
 model : stomp Geel</desc>
@@ -75384,15 +75463,6 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.309880555395544" lon="6.633699999493164">
-    <name>TKW 2</name>
-    <desc>vaarweg : Twentekanalen
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.31230277752775" lon="6.632727777277434">
     <name>TKW 26</name>
     <desc>vaarweg : Twentekanalen
@@ -75404,15 +75474,6 @@ model : stomp Geel</desc>
   </wpt>
   <wpt lat="52.31230277752775" lon="6.632727777277434">
     <name>TKW 27</name>
-    <desc>vaarweg : Twentekanalen
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.31230277752775" lon="6.632727777277434">
-    <name>TKW 28</name>
     <desc>vaarweg : Twentekanalen
 model : stomp Geel</desc>
     <sym>5511</sym>
@@ -75681,15 +75742,6 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.312038888566" lon="6.632886110605644">
-    <name>TKW 5</name>
-    <desc>vaarweg : Twentekanalen
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.24170277812898" lon="6.651383333860406">
     <name>TKW 56</name>
     <desc>vaarweg : Twentekanalen
@@ -75753,15 +75805,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.32638055572142" lon="6.628213889052228">
-    <name>TKW 63</name>
-    <desc>vaarweg : Twentekanalen
-model : spits Geel</desc>
-    <sym>5501</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.3264444443646" lon="6.6280499993616">
     <name>TKW 64</name>
     <desc>vaarweg : Twentekanalen
@@ -75798,15 +75841,6 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.33031388855343" lon="6.626119445021811">
-    <name>TKW 67</name>
-    <desc>vaarweg : Twentekanalen
-model : spits Geel</desc>
-    <sym>5501</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.331611110745285" lon="6.62546666688888">
     <name>TKW 68</name>
     <desc>vaarweg : Twentekanalen
@@ -75836,15 +75870,6 @@ model : spits Geel</desc>
   </wpt>
   <wpt lat="52.31220555545887" lon="6.632313889138143">
     <name>TKW 71</name>
-    <desc>vaarweg : Twentekanalen
-model : spits Geel</desc>
-    <sym>5501</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.31220555545887" lon="6.632313889138143">
-    <name>TKW 72</name>
     <desc>vaarweg : Twentekanalen
 model : spits Geel</desc>
     <sym>5501</sym>
@@ -75908,15 +75933,6 @@ model : spits Geel</desc>
   </wpt>
   <wpt lat="52.24793055541691" lon="6.682002778232425">
     <name>TKW 78</name>
-    <desc>vaarweg : Twentekanalen
-model : spits Geel</desc>
-    <sym>5501</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.24793055541691" lon="6.682002778232425">
-    <name>TKW 79</name>
     <desc>vaarweg : Twentekanalen
 model : spits Geel</desc>
     <sym>5501</sym>
@@ -76025,15 +76041,6 @@ model : spits Geel</desc>
   </wpt>
   <wpt lat="52.312147222251376" lon="6.632708333433087">
     <name>TKW 93</name>
-    <desc>vaarweg : Twentekanalen
-model : spits Geel</desc>
-    <sym>5501</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.312147222251376" lon="6.632708333433087">
-    <name>TKW 94</name>
     <desc>vaarweg : Twentekanalen
 model : spits Geel</desc>
     <sym>5501</sym>
@@ -91138,7 +91145,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.636869444266765" lon="6.017058333209055">
+  <wpt lat="52.63709722265703" lon="6.017183333725435">
     <name>ZD 15</name>
     <desc>vaarweg : ZWOLSCHEDIEP (RANDMEREN)
 model : spar Groen</desc>
@@ -91177,7 +91184,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.636438889051384" lon="6.020436111047395">
+  <wpt lat="52.63661111099237" lon="6.02050555492284">
     <name>ZD 17</name>
     <desc>vaarweg : ZWOLSCHEDIEP (RANDMEREN)
 model : spar Groen</desc>
