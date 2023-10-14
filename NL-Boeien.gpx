@@ -6589,30 +6589,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.960622222219676" lon="4.088711110617881">
-    <name>B A</name>
-    <desc>vaarweg : HOOFD VAARWEGENNET
-licht type : Fl (flashing)
-licht periode : 3
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.96001944485615" lon="4.088447222873079">
-    <name>B B</name>
-    <desc>vaarweg : HOOFD VAARWEGENNET
-licht type : Fl (flashing)
-licht periode : 3
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.74168888882144" lon="3.633680555959219">
     <name>B Z</name>
     <desc>vaarweg : NOORDZEE
@@ -80763,15 +80739,6 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.024911111045604" lon="5.080930554907376">
-    <name>VL 2A</name>
-    <desc>vaarweg : VLIETER
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.282249999731825" lon="4.659991667039587">
     <name>VL 3</name>
     <desc>vaarweg : VLIELAND STELSEL (NZ)
@@ -94968,6 +94935,22 @@ model : stomp Geel</desc>
     <desc>vaarweg : OOSTGAT
 model : stomp Geel</desc>
     <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.853380555773875" lon="5.415236111435263">
+    <name>kmr 918.700R</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.85190555554448" lon="5.414647221516391">
+    <name>kmr 918.900R</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+model : stomp Rood</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
