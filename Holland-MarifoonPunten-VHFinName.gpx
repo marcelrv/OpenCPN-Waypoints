@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-10-18T09:52:13.811000Z</time>
+    <time>2023-10-18T14:02:46.161000Z</time>
   </metadata>
   <wpt lat="52.42482997873" lon="4.83723118322086">
     <name>VHF 4</name>
@@ -5216,9 +5216,9 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="52.4389953209071" lon="4.82608180008175">
-    <name>VHF 81</name>
+    <name>VHF 20</name>
     <desc>Naam:         Meldpunt Wilhelminasluis Zaandam
-VHF:          81
+VHF:          20
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/44764">
       <text>Meldpunt Wilhelminasluis Zaandam online info</text>
@@ -5839,9 +5839,9 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="52.4388705140379" lon="4.8262023280102">
-    <name>VHF 81</name>
+    <name>VHF 20</name>
     <desc>Naam:         Meldpunt Wilhelminabrug Zaandam
-VHF:          81
+VHF:          20
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/50554">
       <text>Meldpunt Wilhelminabrug Zaandam online info</text>
@@ -8440,6 +8440,19 @@ VHF:          18
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/28191">
       <text>Meldpunt Schouwbroekerbrug (Brug 9) online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.6758530801018" lon="4.74845945835114">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Rekervlotbrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/5979868">
+      <text>Meldpunt Rekervlotbrug online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
