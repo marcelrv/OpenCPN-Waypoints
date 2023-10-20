@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-10-18T14:02:46.161000Z</time>
+    <time>2023-10-20T09:33:03.579000Z</time>
   </metadata>
   <wpt lat="52.2507194217856" lon="4.56760162786651">
     <name>WV Lisse (1)</name>
@@ -14792,6 +14792,19 @@ Tankstation:      : Nee
 PhoneNumber: 14023</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/39087988">
       <text>Van Merlenhaven ViN-haven ViN(65144415) online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.171833" lon="7.097003">
+    <name>Haven Beersterdiep Beerta</name>
+    <desc>Locatie: Blauwediep
+Tankstation:      : Nee
+PhoneNumber: 0597-482000</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/42681121">
+      <text>Haven Beersterdiep Beerta online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
