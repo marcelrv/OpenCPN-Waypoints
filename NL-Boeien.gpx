@@ -28185,6 +28185,17 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.32303611084476" lon="3.91399444472005">
+    <name>HZ-PA 1</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.34125833327546" lon="3.919902778121224">
     <name>HZ-PA 2</name>
     <desc>vaarweg : NOORDZEE
@@ -28196,13 +28207,24 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.34061944473029" lon="3.999805556019838">
-    <name>HZ-PA 4</name>
+  <wpt lat="52.33330833324895" lon="4.003280556128926">
+    <name>HZ-PA 3</name>
     <desc>vaarweg : NOORDZEE
 licht type : Iso (isophased)
 licht periode : 8
-lich kleur : Rood
-model : stomp Rood</desc>
+lich kleur : Groen
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.34733888883904" lon="4.125166666880604">
+    <name>HZ-PA 5</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spits Groen</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -28218,8 +28240,30 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.359200000218834" lon="4.228213888698212">
+    <name>HZ-PA 7</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Iso (isophased)
+licht periode : 8
+lich kleur : Groen
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.37148611118007" lon="4.237747222273716">
     <name>HZ-PA 8</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Iso (isophased)
+licht periode : 8
+lich kleur : Rood
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.34061944473029" lon="3.999805556019838">
+    <name>HZ-PA4</name>
     <desc>vaarweg : NOORDZEE
 licht type : Iso (isophased)
 licht periode : 8
@@ -36436,7 +36480,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : ton Groen</desc>
-    <sym>1005</sym>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87740,40 +87784,6 @@ model : Pilaar Geel/zwart/geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.374666666650896" lon="4.241666667038751">
-    <name>WF-HZ-1E</name>
-    <desc>vaarweg : NOORDZEE
-licht type : VQ (very quick-flashing)
-licht periode : 5
-lich kleur : Wit
-model : Pilaar Zwart/geel/zwart</desc>
-    <sym>2123</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.395127778188105" lon="4.044377777978565">
-    <name>WF-HZ-1N</name>
-    <desc>vaarweg : NOORDZEE
-licht type : VQ (very quick-flashing)
-lich kleur : Wit
-model : Pilaar Zwart/geel</desc>
-    <sym>2023</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.4291666666538" lon="4.233499999635587">
-    <name>WF-HZ-2N</name>
-    <desc>vaarweg : NOORDZEE
-licht type : VQ (very quick-flashing)
-lich kleur : Wit
-model : Pilaar Zwart/geel</desc>
-    <sym>2023</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.7666666664779" lon="2.849999999277604">
     <name>WFB 1</name>
     <desc>vaarweg : NOORDZEE
@@ -90787,7 +90797,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.44658611101991" lon="6.077261110918672">
+  <wpt lat="53.44649444481635" lon="6.077069443983445">
     <name>Z 2</name>
     <desc>vaarweg : ZOUTKAMPERLAAG
 licht type : VQ (very quick-flashing)
