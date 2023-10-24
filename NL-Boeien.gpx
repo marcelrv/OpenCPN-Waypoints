@@ -20128,6 +20128,14 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.69586666634213" lon="4.089063888284099">
+    <name>GH1A-HM2</name>
+    <desc>vaarweg : GREVELINGEN
+model : bol Groen/rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.52571111086286" lon="5.958555554989899">
     <name>GIJ 10</name>
     <desc>vaarweg : GELDERSE IJSSEL
@@ -23853,6 +23861,14 @@ model : spar Rood</desc>
     <desc>vaarweg : GREVELINGEN
 model : stomp Rood</desc>
     <sym>1101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.73891111130527" lon="4.023608333564225">
+    <name>H 16A</name>
+    <desc>vaarweg : GREVELINGEN
+model : stomp Rood</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -76707,6 +76723,30 @@ model : spits Groen</desc>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : spits Groen</desc>
     <sym>1003</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.89661666633383" lon="5.664366666421103">
+    <name>Ton 899.050R</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.89686666626978" lon="5.660450000359647">
+    <name>Ton 899.300R</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.897166666221366" lon="5.657583333857841">
+    <name>Ton 899.500R</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+model : stomp Rood</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
