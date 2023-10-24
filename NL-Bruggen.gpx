@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-10-20T09:33:03.579000Z</time>
+    <time>2023-10-24T11:32:36.890000Z</time>
   </metadata>
   <wpt lat="53.0759321679316" lon="7.14846917281973">
     <name>Vriescheloosterbrug</name>
@@ -5465,8 +5465,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag. is de bediening
    08:00 - 18:00: incl. feestdagen. Bediening als op zondag.
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-03 (note: Op werkdagen voor en na feestdag. is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -8080,8 +8080,8 @@ Contact PhoneNumber:0223-652129
 
 Bedieningstijden
 Periode 01-01 tot 31-12 (note: De brug wordt in principe niet bediend binnen de spertijden. Ontheffing voor passage binnen de spertijden kan worden aangevraagd op VHF 62 en wordt alleen toegekend aan geladen binnenvaartschepen, die aantoonbaar gebonden zijn aan een getijpoort.):
-   23:00 - 06:00: Vr, excl. feestdagen. 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   23:00 - 06:00: Vr, excl. feestdagen. 
    23:00 - 05:45: Ma, Di, Wo, Do, excl. feestdagen. 
    07:15 - 07:25: Ma, Di, Wo, Do, Vr, excl. feestdagen. eenmalige opening van max 10 minuten
    07:45 - 22:59: Vr, excl. feestdagen. 
@@ -9494,23 +9494,41 @@ Type:    Bedienbare Brug
 VHF:     80
 
 Bedieningstijden
+Periode 01-01 tot 31-03:
+   23:00 - 22:59: incl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 16:00: Zo, excl. feestdagen. 
 Periode 01-04 tot 26-04:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 19:00: Zo, incl. feestdagen. 
-Periode 27-04 tot 27-05:
+Periode 27-04 tot 17-05:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 19:00: Zo, excl. feestdagen. 
+Periode 18-05 tot 27-05:
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, incl. feestdagen. 
    08:00 - 19:00: Zo, excl. feestdagen. 
 Periode 28-05 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 19:00: Zo, incl. feestdagen. 
-Periode 01-11 tot 31-03:
+Periode 01-11 tot 23-12:
    23:00 - 22:59: incl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
+Periode 24-12 tot 24-12:
+   05:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 30-12:
+   23:00 - 22:59: incl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 16:00: Zo, excl. feestdagen. 
+Periode 31-12 tot 31-12:
+   05:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: Oudejaarsdag (31-12), de dag voor 1e Kerstdag (24-12) en Hemelvaartsdag sluiting als zaterdag avond, behalve als dit op zondag valt.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/9064">
@@ -11810,38 +11828,38 @@ Contact PhoneNumber:050-3164911
 
 Bedieningstijden
 Periode 01-04 tot 10-04:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Zo, incl. feestdagen. 
 Periode 11-04 tot 11-04:
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. bediening als op maandag
 Periode 12-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Zo, incl. feestdagen. 
 Periode 27-04 tot 27-05:
-   23:00 - 22:59: Di, Wo, Do, Vr, incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, incl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 28-05 tot 29-05:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Zo, incl. feestdagen. 
 Periode 30-05 tot 30-05:
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. bediening als op maandag
 Periode 31-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Zo, incl. feestdagen. 
 Periode 01-11 tot 31-03:
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
-   23:00 - 19:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
 
@@ -12020,8 +12038,8 @@ Contact PhoneNumber:0348-417394
 
 Bedieningstijden
 Periode 09-04 tot 15-04 (note: Voor afroep, aanvragen op tel. 14 0348, 24 uur van te voren.):
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    09:00 - 17:00: incl. feestdagen. 
 Periode 16-04 tot 27-05:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -12040,8 +12058,8 @@ Periode 01-09 tot 15-10:
    08:00 - 17:00: Za, excl. feestdagen. 
    09:00 - 17:00: Zo, excl. feestdagen. 
 Periode 16-10 tot 08-04 (note: Voor afroep, aanvragen op tel. 14 0348, 24 uur van te voren.):
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Tel nr brugwachter, 0348-428692.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/11233">
@@ -12337,8 +12355,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag. is de bediening
    08:00 - 18:00: incl. feestdagen. Bediening als op zondag.
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-03 (note: Op werkdagen voor en na feestdag. is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -12783,24 +12801,19 @@ Type:    Vaste Brug</desc>
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-01 tot 09-04 (note: Aanvraag bediening Wolddiepbrug kan via website HTTPS://beterbediend.rws.nl
-Bediening Kuzemerbalk is aan te vragen bij het Waterschap Noorderzijlvest: 050-048911
-Sebaldebuursterklap is om veiligheidsredenen voorlopig niet bedienbaar.):
+Periode 01-01 tot 09-04:
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 10-04 tot 27-05 (note: Aanvraag bediening Wolddiepbrug kan via website HTTPS://beterbediend.rws.nl
-Bediening Kuzemerbalk is aan te vragen bij het Waterschap Noorderzijlvest: 050-048911
-Sebaldebuursterklap is om veiligheidsredenen voorlopig niet bedienbaar.):
+Periode 10-04 tot 27-05:
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 28-05 tot 28-05 (note: Aanvraag bediening Wolddiepbrug kan via website HTTPS://beterbediend.rws.nl
-Bediening Kuzemerbalk is aan te vragen bij het Waterschap Noorderzijlvest: 050-048911
-Sebaldebuursterklap is om veiligheidsredenen voorlopig niet bedienbaar.):
+Periode 28-05 tot 28-05:
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 29-05 tot 31-12 (note: Aanvraag bediening Wolddiepbrug kan via website HTTPS://beterbediend.rws.nl
-Bediening Kuzemerbalk is aan te vragen bij het Waterschap Noorderzijlvest: 050-048911
-Sebaldebuursterklap is om veiligheidsredenen voorlopig niet bedienbaar.):
+Periode 29-05 tot 31-12:
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
-Note: Op doordeweekse dagen tijdens spitsuren mag de brug niet bediend worden.</desc>
+Note: Op doordeweekse dagen tijdens spitsuren mag de brug niet bediend worden.
+Aanvraag bediening Wolddiepbrug kan via website HTTPS://beterbediend.rws.nl
+Bediening Kuzemerbalk is aan te vragen bij het Waterschap Noorderzijlvest: 050-048911.
+Sebaldebuursterklap is om veiligheidsredenen voorlopig niet bedienbaar.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/11785">
       <text>Sebalderbuursterklap online info</text>
     </link>
@@ -13412,23 +13425,23 @@ Contact PhoneNumber:010-4857900 / 06-13903145
 
 Bedieningstijden
 Periode 01-01 tot 09-04:
-   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    17:45 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 10-04 tot 27-05:
-   23:00 - 06:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 06:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    17:45 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 Periode 28-05 tot 28-05:
-   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    17:45 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 29-05 tot 31-12:
-   23:00 - 06:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 06:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    17:45 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
@@ -14219,23 +14232,41 @@ Type:    Bedienbare Brug
 VHF:     80
 
 Bedieningstijden
+Periode 01-01 tot 31-03:
+   23:00 - 22:59: incl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 16:00: Zo, excl. feestdagen. 
 Periode 01-04 tot 26-04:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 19:00: Zo, incl. feestdagen. 
-Periode 27-04 tot 27-05:
+Periode 27-04 tot 17-05:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 19:00: Zo, excl. feestdagen. 
+Periode 18-05 tot 27-05:
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, incl. feestdagen. 
    08:00 - 19:00: Zo, excl. feestdagen. 
 Periode 28-05 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 19:00: Zo, incl. feestdagen. 
-Periode 01-11 tot 31-03:
+Periode 01-11 tot 23-12:
    23:00 - 22:59: incl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
+Periode 24-12 tot 24-12:
+   05:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 30-12:
+   23:00 - 22:59: incl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 16:00: Zo, excl. feestdagen. 
+Periode 31-12 tot 31-12:
+   05:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: Oudejaarsdag (31-12), de dag voor 1e Kerstdag (24-12) en Hemelvaartsdag sluiting als zaterdag avond, behalve als dit op zondag valt.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/13556">
@@ -14939,14 +14970,14 @@ Contact PhoneNumber:010-2484333
 
 Bedieningstijden
 Periode 01-01 tot 31-03:
-   07:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    07:00 - 09:00: Za, Zo, incl. feestdagen. 
+   07:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    14:00 - 16:00: Za, Zo, incl. feestdagen. 
 Periode 01-04 tot 31-10:
    07:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 01-11 tot 31-12:
-   07:00 - 16:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    07:00 - 09:00: Za, Zo, excl. feestdagen. 
+   07:00 - 16:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    14:00 - 16:00: Za, Zo, excl. feestdagen. 
 
 Note: Brugopening minimaal een uur tevoren aanvragen bij Havendienst gemeente Vlaardingen, tel: 010-2484333, of marifoonkanaal 20.
@@ -17588,8 +17619,8 @@ Contact PhoneNumber:050-3131933
 
 Bedieningstijden
 Periode 01-01 tot 31-03 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -17638,8 +17669,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag is de bediening 
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.
 ):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -22943,8 +22974,8 @@ Contact PhoneNumber:088-7973480
 
 Bedieningstijden
 Periode 01-01 tot 31-12 (note: Brugopening om de 20 minuten. Op het hele uur, 20 min over en 40 minuten over.):
-   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
@@ -23455,24 +23486,19 @@ Type:    Vaste Brug</desc>
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-01 tot 09-04 (note: Aanvraag bediening Wolddiepbrug kan via website HTTPS://beterbediend.rws.nl
-Bediening Kuzemerbalk is aan te vragen bij het Waterschap Noorderzijlvest: 050-048911
-Sebaldebuursterklap is om veiligheidsredenen voorlopig niet bedienbaar.):
+Periode 01-01 tot 09-04:
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 10-04 tot 27-05 (note: Aanvraag bediening Wolddiepbrug kan via website HTTPS://beterbediend.rws.nl
-Bediening Kuzemerbalk is aan te vragen bij het Waterschap Noorderzijlvest: 050-048911
-Sebaldebuursterklap is om veiligheidsredenen voorlopig niet bedienbaar.):
+Periode 10-04 tot 27-05:
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 28-05 tot 28-05 (note: Aanvraag bediening Wolddiepbrug kan via website HTTPS://beterbediend.rws.nl
-Bediening Kuzemerbalk is aan te vragen bij het Waterschap Noorderzijlvest: 050-048911
-Sebaldebuursterklap is om veiligheidsredenen voorlopig niet bedienbaar.):
+Periode 28-05 tot 28-05:
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 29-05 tot 31-12 (note: Aanvraag bediening Wolddiepbrug kan via website HTTPS://beterbediend.rws.nl
-Bediening Kuzemerbalk is aan te vragen bij het Waterschap Noorderzijlvest: 050-048911
-Sebaldebuursterklap is om veiligheidsredenen voorlopig niet bedienbaar.):
+Periode 29-05 tot 31-12:
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
-Note: Op doordeweekse dagen tijdens spitsuren mag de brug niet bediend worden.</desc>
+Note: Op doordeweekse dagen tijdens spitsuren mag de brug niet bediend worden.
+Aanvraag bediening Wolddiepbrug kan via website HTTPS://beterbediend.rws.nl
+Bediening Kuzemerbalk is aan te vragen bij het Waterschap Noorderzijlvest: 050-048911.
+Sebaldebuursterklap is om veiligheidsredenen voorlopig niet bedienbaar.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/22291">
       <text>Fiets-/voetbrug Kuzemerbalk online info</text>
     </link>
@@ -24598,30 +24624,31 @@ Type:    Bedienbare Brug
 VHF:     9
 
 Bedieningstijden
-Periode 10-04 tot 30-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 10-04 tot 30-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
-Periode 01-05 tot 27-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-05 tot 27-05:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 28-05 tot 28-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 28-05 tot 28-05:
    08:00 - 11:00: Za, Zo, incl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    12:00 - 15:00: Za, Zo, incl. feestdagen. 
    16:30 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 29-05 tot 30-09 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 29-05 tot 30-09:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 01-10 tot 09-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-10 tot 09-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 
-Note: Bellen via: 14 050.</desc>
+Note: Bellen via: 14 050.
+Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/22874">
       <text>Zernikebrug online info</text>
     </link>
@@ -25568,24 +25595,19 @@ Type:    Bedienbare Brug
 Contact PhoneNumber:050-3164911
 
 Bedieningstijden
-Periode 01-01 tot 09-04 (note: Aanvraag bediening Wolddiepbrug kan via website HTTPS://beterbediend.rws.nl
-Bediening Kuzemerbalk is aan te vragen bij het Waterschap Noorderzijlvest: 050-048911
-Sebaldebuursterklap is om veiligheidsredenen voorlopig niet bedienbaar.):
+Periode 01-01 tot 09-04:
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 10-04 tot 27-05 (note: Aanvraag bediening Wolddiepbrug kan via website HTTPS://beterbediend.rws.nl
-Bediening Kuzemerbalk is aan te vragen bij het Waterschap Noorderzijlvest: 050-048911
-Sebaldebuursterklap is om veiligheidsredenen voorlopig niet bedienbaar.):
+Periode 10-04 tot 27-05:
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 28-05 tot 28-05 (note: Aanvraag bediening Wolddiepbrug kan via website HTTPS://beterbediend.rws.nl
-Bediening Kuzemerbalk is aan te vragen bij het Waterschap Noorderzijlvest: 050-048911
-Sebaldebuursterklap is om veiligheidsredenen voorlopig niet bedienbaar.):
+Periode 28-05 tot 28-05:
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 29-05 tot 31-12 (note: Aanvraag bediening Wolddiepbrug kan via website HTTPS://beterbediend.rws.nl
-Bediening Kuzemerbalk is aan te vragen bij het Waterschap Noorderzijlvest: 050-048911
-Sebaldebuursterklap is om veiligheidsredenen voorlopig niet bedienbaar.):
+Periode 29-05 tot 31-12:
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
-Note: Op doordeweekse dagen tijdens spitsuren mag de brug niet bediend worden.</desc>
+Note: Op doordeweekse dagen tijdens spitsuren mag de brug niet bediend worden.
+Aanvraag bediening Wolddiepbrug kan via website HTTPS://beterbediend.rws.nl
+Bediening Kuzemerbalk is aan te vragen bij het Waterschap Noorderzijlvest: 050-048911.
+Sebaldebuursterklap is om veiligheidsredenen voorlopig niet bedienbaar.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/23526">
       <text>Wolddiepbrug online info</text>
     </link>
@@ -26303,30 +26325,31 @@ Type:    Bedienbare Brug
 VHF:     9
 
 Bedieningstijden
-Periode 10-04 tot 30-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 10-04 tot 30-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
-Periode 01-05 tot 27-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-05 tot 27-05:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 28-05 tot 28-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 28-05 tot 28-05:
    08:00 - 11:00: Za, Zo, incl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    12:00 - 15:00: Za, Zo, incl. feestdagen. 
    16:30 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 29-05 tot 30-09 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 29-05 tot 30-09:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 01-10 tot 09-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-10 tot 09-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 
-Note: Bellen via: 14 050.</desc>
+Note: Bellen via: 14 050.
+Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/24188">
       <text>Julianabrug Groningen online info</text>
     </link>
@@ -26369,8 +26392,8 @@ VHF:     20
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
-   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Recreatievaart mag wel meeliften.
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    15:00 - 17:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Recreatievaart mag wel meeliften
@@ -27217,23 +27240,41 @@ Type:    Bedienbare Brug
 VHF:     80
 
 Bedieningstijden
+Periode 01-01 tot 31-03:
+   23:00 - 22:59: incl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 16:00: Zo, excl. feestdagen. 
 Periode 01-04 tot 26-04:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 19:00: Zo, incl. feestdagen. 
-Periode 27-04 tot 27-05:
+Periode 27-04 tot 17-05:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 19:00: Zo, excl. feestdagen. 
+Periode 18-05 tot 27-05:
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, incl. feestdagen. 
    08:00 - 19:00: Zo, excl. feestdagen. 
 Periode 28-05 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 19:00: Zo, incl. feestdagen. 
-Periode 01-11 tot 31-03:
+Periode 01-11 tot 23-12:
    23:00 - 22:59: incl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
+Periode 24-12 tot 24-12:
+   05:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 30-12:
+   23:00 - 22:59: incl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 16:00: Zo, excl. feestdagen. 
+Periode 31-12 tot 31-12:
+   05:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: Oudejaarsdag (31-12), de dag voor 1e Kerstdag (24-12) en Hemelvaartsdag sluiting als zaterdag avond, behalve als dit op zondag valt.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/25132">
@@ -28164,8 +28205,8 @@ Periode 01-09 tot 31-10:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-03:
    07:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
-   08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 16:00: Za, excl. feestdagen. 
+   08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: In betreffende periodes: Bediening op aanvraag via 058 -  29 25 888.  Optie 4 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.
@@ -28340,19 +28381,21 @@ VHF:     64
 Contact PhoneNumber:0519-349043
 
 Bedieningstijden
-Periode 01-04 tot 26-04:
+Periode 01-04 tot 09-04:
    06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
-   07:30 - 19:00: incl. feestdagen. Voor Pasen en Pinksteren kunnen afwijkende tijden gelden.
-   07:30 - 19:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 30-04:
+   07:30 - 19:00: Zo, incl. feestdagen. 
+Periode 10-04 tot 30-04:
    06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
    07:30 - 19:00: Zo, excl. feestdagen. 
 Periode 01-05 tot 27-05:
    06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
    07:00 - 19:00: Zo, excl. feestdagen. 
-Periode 28-05 tot 30-09:
+Periode 28-05 tot 28-05:
    06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    07:00 - 19:00: Zo, incl. feestdagen. 
+Periode 29-05 tot 30-09:
+   06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
+   07:00 - 19:00: Zo, excl. feestdagen. 
 Periode 01-10 tot 31-10:
    06:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    07:30 - 19:00: Zo, excl. feestdagen. 
@@ -28361,9 +28404,9 @@ Periode 01-11 tot 31-03:
    06:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
 
-Note: Brug Robbengatsluis: spertijden 20 minuten voor vertrek
+Note: Brug Robbengatsluis: Spertijden 20 minuten voor vertrek.
 veerboot.
-Robbengatsluis: laatste schutting start uiterlijk een half uur voor einde bedieningstijd.</desc>
+Robbengatsluis: Laatste schutting start uiterlijk een half uur voor einde bedieningstijd.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/26301">
       <text>Brug over de Robbengatsluis online info</text>
     </link>
@@ -29516,8 +29559,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag. is de bediening
    08:00 - 18:00: incl. feestdagen. Bediening als op zondag.
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-03 (note: Op werkdagen voor en na feestdag. is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -30068,8 +30111,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag. is de bediening
    08:00 - 18:00: incl. feestdagen. Bediening als op zondag.
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-03 (note: Op werkdagen voor en na feestdag. is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -30456,9 +30499,9 @@ Contact PhoneNumber:06-52737545
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
+   08:30 - 08:45: Za, excl. feestdagen. Op afroep 24 uur van te voren: 06-52737545
    08:30 - 08:45: incl. feestdagen. 
    08:30 - 08:45: Ma, Di, Wo, Do, Vr, Zo, excl. feestdagen. Op afroep 24 uur van te voren: 06-52737545
-   08:30 - 08:45: Za, excl. feestdagen. Op afroep 24 uur van te voren: 06-52737545
    15:30 - 15:45: incl. feestdagen. 
    15:30 - 15:45: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. Op afroep 24 uur van te voren: 06-52737545
 </desc>
@@ -31075,8 +31118,8 @@ Contact PhoneNumber:050-5410097
 
 Bedieningstijden
 Periode 01-01 tot 31-03 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -31125,8 +31168,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag is de bediening 
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.
 ):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -31986,8 +32029,8 @@ Contact PhoneNumber:050-5410097
 
 Bedieningstijden
 Periode 01-01 tot 31-03 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -32036,8 +32079,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag is de bediening 
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.
 ):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -35648,8 +35691,8 @@ VHF:     9
 
 Bedieningstijden
 Periode 01-01 tot 31-03 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -35698,8 +35741,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag is de bediening 
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.
 ):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -36942,11 +36985,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.5822047095468" lon="6.65794446536058">
-    <name>Brug Hardenberg</name>
+    <name>De Westeindigerdijkbrug</name>
     <desc>Locatie: Kanaal Almelo-De Haandrik
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/33118">
-      <text>Brug Hardenberg online info</text>
+      <text>De Westeindigerdijkbrug online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -37401,23 +37444,41 @@ Type:    Bedienbare Brug
 VHF:     80
 
 Bedieningstijden
+Periode 01-01 tot 31-03:
+   23:00 - 22:59: incl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 16:00: Zo, excl. feestdagen. 
 Periode 01-04 tot 26-04:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 19:00: Zo, incl. feestdagen. 
-Periode 27-04 tot 27-05:
+Periode 27-04 tot 17-05:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 19:00: Zo, excl. feestdagen. 
+Periode 18-05 tot 27-05:
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, incl. feestdagen. 
    08:00 - 19:00: Zo, excl. feestdagen. 
 Periode 28-05 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 19:00: Zo, incl. feestdagen. 
-Periode 01-11 tot 31-03:
+Periode 01-11 tot 23-12:
    23:00 - 22:59: incl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
+Periode 24-12 tot 24-12:
+   05:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 30-12:
+   23:00 - 22:59: incl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 16:00: Zo, excl. feestdagen. 
+Periode 31-12 tot 31-12:
+   05:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: Oudejaarsdag (31-12), de dag voor 1e Kerstdag (24-12) en Hemelvaartsdag sluiting als zaterdag avond, behalve als dit op zondag valt.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/33555">
@@ -37701,8 +37762,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag. is de bediening
    08:00 - 18:00: incl. feestdagen. Bediening als op zondag.
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-03 (note: Op werkdagen voor en na feestdag. is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -37905,30 +37966,31 @@ Type:    Bedienbare Brug
 VHF:     9
 
 Bedieningstijden
-Periode 10-04 tot 30-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 10-04 tot 30-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
-Periode 01-05 tot 27-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-05 tot 27-05:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 28-05 tot 28-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 28-05 tot 28-05:
    08:00 - 11:00: Za, Zo, incl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    12:00 - 15:00: Za, Zo, incl. feestdagen. 
    16:30 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 29-05 tot 30-09 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 29-05 tot 30-09:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 01-10 tot 09-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-10 tot 09-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 
-Note: Bellen via: 14 050.</desc>
+Note: Bellen via: 14 050.
+Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/34008">
       <text>Van Iddekingebrug online info</text>
     </link>
@@ -39105,8 +39167,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag. is de bediening
    08:00 - 18:00: incl. feestdagen. Bediening als op zondag.
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-03 (note: Op werkdagen voor en na feestdag. is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -39862,49 +39924,49 @@ VHF:     18
 Contact PhoneNumber:088-7974334
 
 Bedieningstijden
-Periode 01-04 tot 09-04:
+Periode 01-04 tot 09-04 (note: De eerste opening van de Ketelbrug is om 09:30 uur, en vervolgens binnen de aangegeven bedientijden op 10 voor het hele en 10 voor het halve uur.):
    08:30 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:30 - 19:30: Za, Zo, incl. feestdagen. 
    17:30 - 19:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 10-04 tot 27-05:
+Periode 10-04 tot 27-05 (note: De eerste opening van de Ketelbrug is om 09:30 uur, en vervolgens binnen de aangegeven bedientijden op 10 voor het hele en 10 voor het halve uur.):
    08:30 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    08:30 - 19:30: Za, Zo, excl. feestdagen. 
    17:30 - 19:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 28-05 tot 28-05:
+Periode 28-05 tot 28-05 (note: De eerste opening van de Ketelbrug is om 09:30 uur, en vervolgens binnen de aangegeven bedientijden op 10 voor het hele en 10 voor het halve uur.):
    08:30 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:30 - 19:30: Za, Zo, incl. feestdagen. 
    17:30 - 19:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 29-05 tot 31-10:
+Periode 29-05 tot 31-10 (note: De eerste opening van de Ketelbrug is om 09:30 uur, en vervolgens binnen de aangegeven bedientijden op 10 voor het hele en 10 voor het halve uur.):
    08:30 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    08:30 - 19:30: Za, Zo, excl. feestdagen. 
    17:30 - 19:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 Periode 01-11 tot 31-03 (note: Aanvraag bediening kan via website https://beterbediend.rws.nl.  Aanvragen min. 2 uur, maxi. 24 uur van tevoren. Op 24 en 31 dec. bediening als op zondag.):
    08:30 - 08:35: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
    08:50 - 08:55: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
-   09:20 - 09:25: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
    09:20 - 09:25: Za, Zo, excl. feestdagen. Op afroep. 
-   09:50 - 09:55: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
+   09:20 - 09:25: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
    09:50 - 09:55: Za, Zo, excl. feestdagen. Op afroep. 
-   10:20 - 10:25: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
+   09:50 - 09:55: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
    10:20 - 10:25: Za, Zo, excl. feestdagen. Op afroep. 
-   10:50 - 10:55: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
+   10:20 - 10:25: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
    10:50 - 10:55: Za, Zo, excl. feestdagen. Op afroep. 
-   11:20 - 11:25: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
+   10:50 - 10:55: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
    11:20 - 11:25: Za, Zo, excl. feestdagen. Op afroep. 
-   11:50 - 11:55: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
+   11:20 - 11:25: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
    11:50 - 11:55: Za, Zo, excl. feestdagen. Op afroep. 
-   12:20 - 12:25: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
+   11:50 - 11:55: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
    12:20 - 12:25: Za, Zo, excl. feestdagen. Op afroep. 
-   12:50 - 12:55: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
+   12:20 - 12:25: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
    12:50 - 12:55: Za, Zo, excl. feestdagen. Op afroep. 
-   13:20 - 13:25: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
+   12:50 - 12:55: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
    13:20 - 13:25: Za, Zo, excl. feestdagen. Op afroep. 
-   13:50 - 13:55: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
+   13:20 - 13:25: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
    13:50 - 13:55: Za, Zo, excl. feestdagen. Op afroep. 
-   14:20 - 14:25: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
+   13:50 - 13:55: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
    14:20 - 14:25: Za, Zo, excl. feestdagen. Op afroep. 
-   14:50 - 14:55: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
+   14:20 - 14:25: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
    14:50 - 14:55: Za, Zo, excl. feestdagen. Op afroep. 
+   14:50 - 14:55: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/35198">
       <text>Ketelbrug Swifterbant online info</text>
@@ -41043,30 +41105,31 @@ Type:    Bedienbare Brug
 VHF:     9
 
 Bedieningstijden
-Periode 10-04 tot 30-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 10-04 tot 30-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
-Periode 01-05 tot 27-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-05 tot 27-05:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 28-05 tot 28-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 28-05 tot 28-05:
    08:00 - 11:00: Za, Zo, incl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    12:00 - 15:00: Za, Zo, incl. feestdagen. 
    16:30 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 29-05 tot 30-09 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 29-05 tot 30-09:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 01-10 tot 09-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-10 tot 09-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 
-Note: Bellen via: 14 050.</desc>
+Note: Bellen via: 14 050.
+Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/36946">
       <text>Parkbrug Groningen online info</text>
     </link>
@@ -43495,13 +43558,13 @@ Periode 01-01 tot 09-04:
 
    08:27 - 08:32: Ma, Di, Wo, Do, Vr, excl. feestdagen. Voor noordgaand vaarverkeer.
    08:57 - 09:02: Ma, Di, Wo, Do, Vr, excl. feestdagen. Voor zuidgaand vaarverkeer.
-   11:27 - 11:32: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    11:27 - 11:32: Za, Zo, incl. feestdagen. Voor noordgaand vaarverkeer.
+   11:27 - 11:32: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    12:27 - 12:32: Ma, Di, Wo, Do, Vr, excl. feestdagen. Voor noordgaand vaarverkeer.
    12:57 - 13:02: Za, Zo, incl. feestdagen. Voor zuidgaand vaarverkeer.
    13:57 - 14:02: Ma, Di, Wo, Do, Vr, excl. feestdagen. Voor zuidgaand vaarverkeer.
-   17:57 - 18:02: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    17:57 - 18:02: Za, Zo, incl. feestdagen. Voor noordgaand vaarverkeer.
+   17:57 - 18:02: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:57 - 19:02: Za, Zo, incl. feestdagen. Voor zuidgaand vaarverkeer.
    19:01 - 19:06: Ma, Di, Wo, Do, Vr, excl. feestdagen. Voor noordgaand vaarverkeer.
    19:31 - 19:36: Ma, Di, Wo, Do, Vr, excl. feestdagen. Voor zuidgaand vaarverkeer.
@@ -43514,13 +43577,13 @@ Periode 10-04 tot 27-05:
 
    08:27 - 08:32: Ma, Di, Wo, Do, Vr, incl. feestdagen. Voor noordgaand vaarverkeer.
    08:57 - 09:02: Ma, Di, Wo, Do, Vr, incl. feestdagen. Voor zuidgaand vaarverkeer.
-   11:27 - 11:32: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    11:27 - 11:32: Za, Zo, excl. feestdagen. Voor noordgaand vaarverkeer.
+   11:27 - 11:32: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:27 - 12:32: Ma, Di, Wo, Do, Vr, incl. feestdagen. Voor noordgaand vaarverkeer.
    12:57 - 13:02: Za, Zo, excl. feestdagen. Voor zuidgaand vaarverkeer.
    13:57 - 14:02: Ma, Di, Wo, Do, Vr, incl. feestdagen. Voor zuidgaand vaarverkeer.
-   17:57 - 18:02: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    17:57 - 18:02: Za, Zo, excl. feestdagen. Voor noordgaand vaarverkeer.
+   17:57 - 18:02: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    18:57 - 19:02: Za, Zo, excl. feestdagen. Voor zuidgaand vaarverkeer.
    19:01 - 19:06: Ma, Di, Wo, Do, Vr, incl. feestdagen. Voor noordgaand vaarverkeer.
    19:31 - 19:36: Ma, Di, Wo, Do, Vr, incl. feestdagen. Voor zuidgaand vaarverkeer.
@@ -43533,13 +43596,13 @@ Periode 28-05 tot 28-05:
 
    08:27 - 08:32: Ma, Di, Wo, Do, Vr, excl. feestdagen. Voor noordgaand vaarverkeer.
    08:57 - 09:02: Ma, Di, Wo, Do, Vr, excl. feestdagen. Voor zuidgaand vaarverkeer.
-   11:27 - 11:32: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    11:27 - 11:32: Za, Zo, incl. feestdagen. Voor noordgaand vaarverkeer.
+   11:27 - 11:32: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    12:27 - 12:32: Ma, Di, Wo, Do, Vr, excl. feestdagen. Voor noordgaand vaarverkeer.
    12:57 - 13:02: Za, Zo, incl. feestdagen. Voor zuidgaand vaarverkeer.
    13:57 - 14:02: Ma, Di, Wo, Do, Vr, excl. feestdagen. Voor zuidgaand vaarverkeer.
-   17:57 - 18:02: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    17:57 - 18:02: Za, Zo, incl. feestdagen. Voor noordgaand vaarverkeer.
+   17:57 - 18:02: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:57 - 19:02: Za, Zo, incl. feestdagen. Voor zuidgaand vaarverkeer.
    19:01 - 19:06: Ma, Di, Wo, Do, Vr, excl. feestdagen. Voor noordgaand vaarverkeer.
    19:31 - 19:36: Ma, Di, Wo, Do, Vr, excl. feestdagen. Voor zuidgaand vaarverkeer.
@@ -43552,13 +43615,13 @@ Periode 29-05 tot 31-12:
 
    08:27 - 08:32: Ma, Di, Wo, Do, Vr, incl. feestdagen. Voor noordgaand vaarverkeer.
    08:57 - 09:02: Ma, Di, Wo, Do, Vr, incl. feestdagen. Voor zuidgaand vaarverkeer.
-   11:27 - 11:32: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    11:27 - 11:32: Za, Zo, excl. feestdagen. Voor noordgaand vaarverkeer.
+   11:27 - 11:32: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:27 - 12:32: Ma, Di, Wo, Do, Vr, incl. feestdagen. Voor noordgaand vaarverkeer.
    12:57 - 13:02: Za, Zo, excl. feestdagen. Voor zuidgaand vaarverkeer.
    13:57 - 14:02: Ma, Di, Wo, Do, Vr, incl. feestdagen. Voor zuidgaand vaarverkeer.
-   17:57 - 18:02: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    17:57 - 18:02: Za, Zo, excl. feestdagen. Voor noordgaand vaarverkeer.
+   17:57 - 18:02: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    18:57 - 19:02: Za, Zo, excl. feestdagen. Voor zuidgaand vaarverkeer.
    19:01 - 19:06: Ma, Di, Wo, Do, Vr, incl. feestdagen. Voor noordgaand vaarverkeer.
    19:31 - 19:36: Ma, Di, Wo, Do, Vr, incl. feestdagen. Voor zuidgaand vaarverkeer.
@@ -44172,8 +44235,8 @@ Periode 16-04 tot 04-05:
    14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    16:00 - 16:01: Ma, Di, Wo, Do, incl. feestdagen. Alleen richting Haringvliet.
-   16:15 - 16:16: Ma, Di, Wo, Do, incl. feestdagen. Alleen richting Kanaal door Voorne.
    16:15 - 16:16: Vr, Za, Zo, excl. feestdagen. 
+   16:15 - 16:16: Ma, Di, Wo, Do, incl. feestdagen. Alleen richting Kanaal door Voorne.
    17:15 - 17:16: Vr, Za, Zo, excl. feestdagen. 
    18:00 - 18:01: Vr, Za, Zo, excl. feestdagen. Alleen richting Kanaal door Voorne.
 Periode 05-05 tot 17-05:
@@ -44187,8 +44250,8 @@ Periode 05-05 tot 17-05:
    14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    16:00 - 16:01: Ma, Di, Wo, Do, excl. feestdagen. Alleen richting Haringvliet.
-   16:15 - 16:16: Ma, Di, Wo, Do, excl. feestdagen. Alleen richting Kanaal door Voorne.
    16:15 - 16:16: Vr, Za, Zo, incl. feestdagen. 
+   16:15 - 16:16: Ma, Di, Wo, Do, excl. feestdagen. Alleen richting Kanaal door Voorne.
    17:15 - 17:16: Vr, Za, Zo, incl. feestdagen. 
    18:00 - 18:01: Vr, Za, Zo, incl. feestdagen. Alleen richting Kanaal door Voorne.
 Periode 18-05 tot 27-05:
@@ -44202,8 +44265,8 @@ Periode 18-05 tot 27-05:
    14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    16:00 - 16:01: Ma, Di, Wo, Do, incl. feestdagen. Alleen richting Haringvliet.
-   16:15 - 16:16: Ma, Di, Wo, Do, incl. feestdagen. Alleen richting Kanaal door Voorne.
    16:15 - 16:16: Vr, Za, Zo, excl. feestdagen. 
+   16:15 - 16:16: Ma, Di, Wo, Do, incl. feestdagen. Alleen richting Kanaal door Voorne.
    17:15 - 17:16: Vr, Za, Zo, excl. feestdagen. 
    18:00 - 18:01: Vr, Za, Zo, excl. feestdagen. Alleen richting Kanaal door Voorne.
 Periode 28-05 tot 28-05:
@@ -44217,8 +44280,8 @@ Periode 28-05 tot 28-05:
    14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    16:00 - 16:01: Ma, Di, Wo, Do, excl. feestdagen. Alleen richting Haringvliet.
-   16:15 - 16:16: Ma, Di, Wo, Do, excl. feestdagen. Alleen richting Kanaal door Voorne.
    16:15 - 16:16: Vr, Za, Zo, incl. feestdagen. 
+   16:15 - 16:16: Ma, Di, Wo, Do, excl. feestdagen. Alleen richting Kanaal door Voorne.
    17:15 - 17:16: Vr, Za, Zo, incl. feestdagen. 
    18:00 - 18:01: Vr, Za, Zo, incl. feestdagen. Alleen richting Kanaal door Voorne.
 Periode 29-05 tot 31-05:
@@ -44232,8 +44295,8 @@ Periode 29-05 tot 31-05:
    14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    16:00 - 16:01: Ma, Di, Wo, Do, incl. feestdagen. Alleen richting Haringvliet.
-   16:15 - 16:16: Ma, Di, Wo, Do, incl. feestdagen. Alleen richting Kanaal door Voorne.
    16:15 - 16:16: Vr, Za, Zo, excl. feestdagen. 
+   16:15 - 16:16: Ma, Di, Wo, Do, incl. feestdagen. Alleen richting Kanaal door Voorne.
    17:15 - 17:16: Vr, Za, Zo, excl. feestdagen. 
    18:00 - 18:01: Vr, Za, Zo, excl. feestdagen. Alleen richting Kanaal door Voorne.
 Periode 01-06 tot 31-08:
@@ -44262,8 +44325,8 @@ Periode 01-09 tot 15-10:
    14:15 - 14:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
    15:15 - 15:16: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
    16:00 - 16:01: Ma, Di, Wo, Do, excl. feestdagen. Alleen richting Haringvliet.
-   16:15 - 16:16: Ma, Di, Wo, Do, excl. feestdagen. Alleen richting Kanaal door Voorne.
    16:15 - 16:16: Vr, Za, Zo, excl. feestdagen. 
+   16:15 - 16:16: Ma, Di, Wo, Do, excl. feestdagen. Alleen richting Kanaal door Voorne.
    17:15 - 17:16: Vr, Za, Zo, excl. feestdagen. 
    18:00 - 18:01: Vr, Za, Zo, excl. feestdagen. Alleen richting Kanaal door Voorne.
 Periode 16-10 tot 08-04:
@@ -45948,8 +46011,8 @@ Contact PhoneNumber:050-5410097
 
 Bedieningstijden
 Periode 01-01 tot 31-03 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -45998,8 +46061,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag is de bediening 
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.
 ):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -46875,8 +46938,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag. is de bediening
    08:00 - 18:00: incl. feestdagen. Bediening als op zondag.
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-03 (note: Op werkdagen voor en na feestdag. is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -47325,30 +47388,31 @@ Type:    Bedienbare Brug
 VHF:     9
 
 Bedieningstijden
-Periode 10-04 tot 30-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 10-04 tot 30-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
-Periode 01-05 tot 27-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-05 tot 27-05:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 28-05 tot 28-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 28-05 tot 28-05:
    08:00 - 11:00: Za, Zo, incl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    12:00 - 15:00: Za, Zo, incl. feestdagen. 
    16:30 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 29-05 tot 30-09 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 29-05 tot 30-09:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 01-10 tot 09-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-10 tot 09-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 
-Note: Bellen via: 14 050.</desc>
+Note: Bellen via: 14 050.
+Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42713">
       <text>Eelderbrug online info</text>
     </link>
@@ -47916,23 +47980,41 @@ Type:    Bedienbare Brug
 VHF:     22
 
 Bedieningstijden
+Periode 01-01 tot 31-03:
+   23:00 - 22:59: incl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 16:00: Zo, excl. feestdagen. 
 Periode 01-04 tot 26-04:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 19:00: Zo, incl. feestdagen. 
-Periode 27-04 tot 27-05:
+Periode 27-04 tot 17-05:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 19:00: Zo, excl. feestdagen. 
+Periode 18-05 tot 27-05:
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, incl. feestdagen. 
    08:00 - 19:00: Zo, excl. feestdagen. 
 Periode 28-05 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 19:00: Zo, incl. feestdagen. 
-Periode 01-11 tot 31-03:
+Periode 01-11 tot 23-12:
    23:00 - 22:59: incl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
+Periode 24-12 tot 24-12:
+   05:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 30-12:
+   23:00 - 22:59: incl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 16:00: Zo, excl. feestdagen. 
+Periode 31-12 tot 31-12:
+   05:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: Oudejaarsdag (31-12), de dag voor 1e Kerstdag (24-12) en Hemelvaartsdag sluiting als zaterdag avond, behalve als dit op zondag valt.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43114">
@@ -49062,8 +49144,8 @@ Contact PhoneNumber:050-5410097
 
 Bedieningstijden
 Periode 01-01 tot 31-03 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -49112,8 +49194,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag is de bediening 
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.
 ):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -51516,8 +51598,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag. is de bediening
    08:00 - 18:00: incl. feestdagen. Bediening als op zondag.
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-03 (note: Op werkdagen voor en na feestdag. is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -55312,30 +55394,31 @@ Type:    Bedienbare Brug
 VHF:     9
 
 Bedieningstijden
-Periode 10-04 tot 30-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 10-04 tot 30-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
-Periode 01-05 tot 27-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-05 tot 27-05:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 28-05 tot 28-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 28-05 tot 28-05:
    08:00 - 11:00: Za, Zo, incl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    12:00 - 15:00: Za, Zo, incl. feestdagen. 
    16:30 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 29-05 tot 30-09 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 29-05 tot 30-09:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 01-10 tot 09-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-10 tot 09-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 
-Note: Bellen via: 14 050.</desc>
+Note: Bellen via: 14 050.
+Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/49056">
       <text>Van Ketwich Verschuurbrug online info</text>
     </link>
@@ -56219,8 +56302,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag. is de bediening
    08:00 - 18:00: incl. feestdagen. Bediening als op zondag.
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-03 (note: Op werkdagen voor en na feestdag. is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -56781,23 +56864,41 @@ Type:    Bedienbare Brug
 VHF:     80
 
 Bedieningstijden
+Periode 01-01 tot 31-03:
+   23:00 - 22:59: incl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 16:00: Zo, excl. feestdagen. 
 Periode 01-04 tot 26-04:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 19:00: Zo, incl. feestdagen. 
-Periode 27-04 tot 27-05:
+Periode 27-04 tot 17-05:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 19:00: Zo, excl. feestdagen. 
+Periode 18-05 tot 27-05:
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, incl. feestdagen. 
    08:00 - 19:00: Zo, excl. feestdagen. 
 Periode 28-05 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 19:00: Zo, incl. feestdagen. 
-Periode 01-11 tot 31-03:
+Periode 01-11 tot 23-12:
    23:00 - 22:59: incl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:00: Za, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
+Periode 24-12 tot 24-12:
+   05:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 30-12:
+   23:00 - 22:59: incl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   05:00 - 19:00: Za, excl. feestdagen. 
+   08:00 - 16:00: Zo, excl. feestdagen. 
+Periode 31-12 tot 31-12:
+   05:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: Oudejaarsdag (31-12), de dag voor 1e Kerstdag (24-12) en Hemelvaartsdag sluiting als zaterdag avond, behalve als dit op zondag valt.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/50848">
@@ -59945,8 +60046,8 @@ Periode 01-09 tot 31-10:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-03:
    07:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
-   08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 16:00: Za, excl. feestdagen. 
+   08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: In betreffende periodes: Bediening op aanvraag via 058 -  29 25 888.  Optie 4 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.
@@ -60331,14 +60432,14 @@ Contact PhoneNumber:010-2484333
 
 Bedieningstijden
 Periode 01-01 tot 31-03:
-   07:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    07:00 - 09:00: Za, Zo, incl. feestdagen. 
+   07:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    14:00 - 16:00: Za, Zo, incl. feestdagen. 
 Periode 01-04 tot 31-10:
    07:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 01-11 tot 31-12:
-   07:00 - 16:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    07:00 - 09:00: Za, Zo, excl. feestdagen. 
+   07:00 - 16:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    14:00 - 16:00: Za, Zo, excl. feestdagen. 
 
 Note: Brugopening minimaal een uur tevoren aanvragen bij Havendienst gemeente Vlaardingen, tel: 010-2484333, of marifoonkanaal 20.
@@ -61349,12 +61450,12 @@ Periode 28-05 tot 31-05 (note: Geen bediening op 1e Paasdag en/of 1e Pinksterdag
    17:30 - 18:15: Zo, excl. feestdagen. 
    18:45 - 19:15: incl. feestdagen. 
 Periode 01-06 tot 31-08 (note: Geen bediening op 1e Pinksterdag.):
-   08:00 - 09:00: Ma, Di, Wo, excl. feestdagen. Op afroep via 06 - 11 80 91 63
    08:00 - 09:00: Vr, Za, excl. feestdagen. 
+   08:00 - 09:00: Ma, Di, Wo, excl. feestdagen. Op afroep via 06 - 11 80 91 63
    13:00 - 15:00: Vr, excl. feestdagen. 
    13:00 - 15:00: Ma, Di, Wo, excl. feestdagen. Op afroep via 06 - 11 80 91 63
-   16:30 - 17:30: Ma, Di, Wo, excl. feestdagen. Op afroep via 06 - 11 80 91 63
    16:30 - 17:30: Do, Vr, excl. feestdagen. 
+   16:30 - 17:30: Ma, Di, Wo, excl. feestdagen. Op afroep via 06 - 11 80 91 63
    17:00 - 17:30: Za, excl. feestdagen. Op afroep via 06 - 11 80 91 63
    18:45 - 19:15: Zo, excl. feestdagen. 
 Periode 01-09 tot 30-09:
@@ -61894,8 +61995,8 @@ VHF:     22
 
 Bedieningstijden
 Periode 01-01 tot 31-03 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -61944,8 +62045,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag is de bediening 
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.
 ):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -62427,8 +62528,8 @@ Periode 01-01 tot 09-04 (note: Op werkdagen spitssluiting:
    06:07 - 06:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    06:37 - 06:46: Za, Zo, incl. feestdagen. 
    07:07 - 07:16: Za, Zo, incl. feestdagen. 
-   07:37 - 07:46: Ma, Di, Wo, Do, Vr, excl. feestdagen. Blauwe Golf:  Recreatievaart richting Vlissingen.
    07:37 - 07:46: Za, Zo, incl. feestdagen. 
+   07:37 - 07:46: Ma, Di, Wo, Do, Vr, excl. feestdagen. Blauwe Golf:  Recreatievaart richting Vlissingen.
    08:07 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    08:37 - 08:46: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    09:07 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -62479,8 +62580,8 @@ Periode 10-04 tot 27-05 (note: Op werkdagen spitssluiting:
    06:07 - 06:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    06:37 - 06:46: Za, Zo, excl. feestdagen. 
    07:07 - 07:16: Za, Zo, excl. feestdagen. 
-   07:37 - 07:46: Ma, Di, Wo, Do, Vr, incl. feestdagen. Blauwe Golf:  Recreatievaart richting Vlissingen.
    07:37 - 07:46: Za, Zo, excl. feestdagen. 
+   07:37 - 07:46: Ma, Di, Wo, Do, Vr, incl. feestdagen. Blauwe Golf:  Recreatievaart richting Vlissingen.
    08:07 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    08:37 - 08:46: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    09:07 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -62531,8 +62632,8 @@ Periode 28-05 tot 28-05 (note: Op werkdagen spitssluiting:
    06:07 - 06:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    06:37 - 06:46: Za, Zo, incl. feestdagen. 
    07:07 - 07:16: Za, Zo, incl. feestdagen. 
-   07:37 - 07:46: Ma, Di, Wo, Do, Vr, excl. feestdagen. Blauwe Golf:  Recreatievaart richting Vlissingen.
    07:37 - 07:46: Za, Zo, incl. feestdagen. 
+   07:37 - 07:46: Ma, Di, Wo, Do, Vr, excl. feestdagen. Blauwe Golf:  Recreatievaart richting Vlissingen.
    08:07 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    08:37 - 08:46: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    09:07 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -62583,8 +62684,8 @@ Periode 29-05 tot 31-12 (note: Op werkdagen spitssluiting:
    06:07 - 06:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    06:37 - 06:46: Za, Zo, excl. feestdagen. 
    07:07 - 07:16: Za, Zo, excl. feestdagen. 
-   07:37 - 07:46: Ma, Di, Wo, Do, Vr, incl. feestdagen. Blauwe Golf:  Recreatievaart richting Vlissingen.
    07:37 - 07:46: Za, Zo, excl. feestdagen. 
+   07:37 - 07:46: Ma, Di, Wo, Do, Vr, incl. feestdagen. Blauwe Golf:  Recreatievaart richting Vlissingen.
    08:07 - 08:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    08:37 - 08:46: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    09:07 - 09:16: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -63558,8 +63659,8 @@ VHF:     20
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
-   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   23:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    06:00 - 08:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Recreatievaart mag wel meeliften.
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    15:00 - 17:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Recreatievaart mag wel meeliften
@@ -63672,14 +63773,14 @@ Contact PhoneNumber:010-2484333
 
 Bedieningstijden
 Periode 01-01 tot 31-03:
-   07:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    07:00 - 09:00: Za, Zo, incl. feestdagen. 
+   07:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    14:00 - 16:00: Za, Zo, incl. feestdagen. 
 Periode 01-04 tot 31-10:
    07:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 01-11 tot 31-12:
-   07:00 - 16:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    07:00 - 09:00: Za, Zo, excl. feestdagen. 
+   07:00 - 16:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    14:00 - 16:00: Za, Zo, excl. feestdagen. 
 
 Note: Brugopening minimaal een uur tevoren aanvragen bij Havendienst gemeente Vlaardingen, tel: 010-2484333, of marifoonkanaal 20.
@@ -63876,30 +63977,31 @@ Type:    Bedienbare Brug
 VHF:     9
 
 Bedieningstijden
-Periode 10-04 tot 30-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 10-04 tot 30-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
-Periode 01-05 tot 27-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-05 tot 27-05:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 28-05 tot 28-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 28-05 tot 28-05:
    08:00 - 11:00: Za, Zo, incl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    12:00 - 15:00: Za, Zo, incl. feestdagen. 
    16:30 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 29-05 tot 30-09 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 29-05 tot 30-09:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 01-10 tot 09-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-10 tot 09-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 
-Note: Bellen via: 14 050.</desc>
+Note: Bellen via: 14 050.
+Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/56832">
       <text>Oosterhavenbrug online info</text>
     </link>
@@ -64999,24 +65101,24 @@ Contact PhoneNumber:010-4365405
 
 Bedieningstijden
 Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 22:59: Ma, excl. feestdagen. 
    10:00 - 18:00: Zo, incl. feestdagen. 
 Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, Vr, incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, incl. feestdagen. 
    03:00 - 22:59: Ma, excl. feestdagen. 
    10:00 - 18:00: Zo, excl. feestdagen. 
 Periode 05-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 22:59: Ma, excl. feestdagen. 
    10:00 - 18:00: Zo, incl. feestdagen. 
 Periode 01-11 tot 31-03:
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
-   23:00 - 19:00: Za, excl. feestdagen. 
    03:00 - 22:59: Ma, excl. feestdagen. 
 
 Note: Spertijden 1e Parkhavenbrug en 1e Coolhavenbrug : Maandag t/m Vrijdag : 07:15-08:30 uur en 16:30-18:00 uur.
@@ -66306,30 +66408,31 @@ Type:    Bedienbare Brug
 VHF:     9
 
 Bedieningstijden
-Periode 10-04 tot 30-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 10-04 tot 30-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
-Periode 01-05 tot 27-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-05 tot 27-05:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 28-05 tot 28-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 28-05 tot 28-05:
    08:00 - 11:00: Za, Zo, incl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    12:00 - 15:00: Za, Zo, incl. feestdagen. 
    16:30 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 29-05 tot 30-09 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 29-05 tot 30-09:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 01-10 tot 09-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-10 tot 09-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 
-Note: Bellen via: 14 050.</desc>
+Note: Bellen via: 14 050.
+Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/740892">
       <text>Berlagebrug Groningen online info</text>
     </link>
@@ -66359,38 +66462,38 @@ Contact PhoneNumber:050-3164911
 
 Bedieningstijden
 Periode 01-04 tot 10-04:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Zo, incl. feestdagen. 
 Periode 11-04 tot 11-04:
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. bediening als op maandag
 Periode 12-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Zo, incl. feestdagen. 
 Periode 27-04 tot 27-05:
-   23:00 - 22:59: Di, Wo, Do, Vr, incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, incl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 28-05 tot 29-05:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Zo, incl. feestdagen. 
 Periode 30-05 tot 30-05:
    05:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. bediening als op maandag
 Periode 31-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Zo, incl. feestdagen. 
 Periode 01-11 tot 31-03:
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
-   23:00 - 19:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
 
@@ -69036,8 +69139,8 @@ VHF:     22
 
 Bedieningstijden
 Periode 01-01 tot 31-03 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -69086,8 +69189,8 @@ Periode 31-05 tot 31-10 (note: Op werkdagen voor en na feestdag is de bediening 
    08:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Op werkdagen voor en na feestdag is de bediening als op zat. resp. ma.
 ):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
@@ -69493,30 +69596,31 @@ Type:    Bedienbare Brug
 VHF:     9
 
 Bedieningstijden
-Periode 10-04 tot 30-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 10-04 tot 30-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
-Periode 01-05 tot 27-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-05 tot 27-05:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 28-05 tot 28-05 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 28-05 tot 28-05:
    08:00 - 11:00: Za, Zo, incl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    12:00 - 15:00: Za, Zo, incl. feestdagen. 
    16:30 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 29-05 tot 30-09 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 29-05 tot 30-09:
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    12:00 - 15:00: Za, Zo, excl. feestdagen. 
    16:30 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 01-10 tot 09-04 (note: Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.):
+Periode 01-10 tot 09-04:
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 
-Note: Bellen via: 14 050.</desc>
+Note: Bellen via: 14 050.
+Recreatieschippers op doorvaart door de stad Groningen moeten er rekening mee houden dat ze daar vóór 14:00 uur bij de eerste brug aankomen. Dan kunnen schippers alle bruggen in de stad die middag nog passeren.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/15598268">
       <text>Zaanbrug Groningen online info</text>
     </link>
@@ -76841,10 +76945,10 @@ Contact PhoneNumber:06 83027914
 Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   07:30 - 09:00: incl. feestdagen. 
    07:30 - 09:00: Za, Zo, excl. feestdagen. 
-   16:00 - 18:00: incl. feestdagen. 
+   07:30 - 09:00: incl. feestdagen. 
    16:00 - 18:00: Za, Zo, excl. feestdagen. 
+   16:00 - 18:00: incl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/37054081">
       <text>Weelsluisbrug (Westzanersluisbrug) online info</text>
@@ -79380,6 +79484,114 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42692603">
       <text>Meerbrug (Brug 308) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.17283773245461" lon="7.0973993092775345">
+    <name>Buitenlandenstraat Beerta</name>
+    <desc>Locatie: Blauwediep
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42712700">
+      <text>Buitenlandenstraat Beerta online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.175383146408166" lon="7.100603207945823">
+    <name>Bredelaan Beerta</name>
+    <desc>Locatie: Blauwediep
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42712721">
+      <text>Bredelaan Beerta online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.16892033290824" lon="7.186723574995994">
+    <name>Houten fietsbrug Houwingaham</name>
+    <desc>Locatie: Vereenigd- of B.L. Tijdenskanaal
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42712897">
+      <text>Houten fietsbrug Houwingaham online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.22118032937891" lon="6.983780600130556">
+    <name>Hoogholtje Nieuwe Kanaal</name>
+    <desc>Locatie: Termunterzijldiep
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42712908">
+      <text>Hoogholtje Nieuwe Kanaal online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.168859855551005" lon="7.090398073196411">
+    <name>Betonbrug Beerta</name>
+    <desc>Locatie: Blauwediep
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42712934">
+      <text>Betonbrug Beerta online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.19649173241518" lon="6.994130909442901">
+    <name>Koediepstil</name>
+    <desc>Locatie: Oltambtmeer
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42713085">
+      <text>Koediepstil online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.19733531406493" lon="7.013043165206908">
+    <name>Kloostertil</name>
+    <desc>Locatie: Oltambtmeer
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42713218">
+      <text>Kloostertil online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1988890676748" lon="7.023578882217408">
+    <name>Eendrachtstil</name>
+    <desc>Locatie: Oltambtmeer
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42713229">
+      <text>Eendrachtstil online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.198623388536106" lon="7.031329125165938">
+    <name>Hefbrug Midwolda</name>
+    <desc>Locatie: Oltambtmeer
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42713245">
+      <text>Hefbrug Midwolda online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
