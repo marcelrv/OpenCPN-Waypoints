@@ -13737,6 +13737,17 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.90662777791242" lon="4.363938888933149">
+    <name>DFDS</name>
+    <desc>vaarweg : NIEUWE MAAS
+licht type : Fl (flashing)
+licht periode : 3
+lich kleur : Geel
+model : Niet toegewezen Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.393361111049224" lon="5.676638888369878">
     <name>DG 1-VH 50</name>
     <desc>vaarweg : DANTZIGGAT
