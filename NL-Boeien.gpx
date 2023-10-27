@@ -13744,6 +13744,7 @@ licht type : Fl (flashing)
 licht periode : 3
 lich kleur : Geel
 model : Niet toegewezen Geel</desc>
+    <sym>5512</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48004,7 +48005,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.33669444448495" lon="3.81250555614187">
+  <wpt lat="51.33813055561192" lon="3.811980555883955">
     <name>NST-A</name>
     <desc>vaarweg : Kanaal Gent- Terneuzen
 licht type : Iso (isophased)
@@ -84931,7 +84932,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="53.24829444459374" lon="6.307686110561475">
-    <name>VSK 5</name>
+    <name>VSK 1</name>
     <desc>vaarweg : VAN STARKENBORGHKANAAL
 licht type : Iso (isophased)
 licht periode : 4
@@ -84943,7 +84944,7 @@ model : spits Groen</desc>
     </extensions>
   </wpt>
   <wpt lat="53.249088888846465" lon="6.315477778509633">
-    <name>VSK 7</name>
+    <name>VSK 3</name>
     <desc>vaarweg : VAN STARKENBORGHKANAAL
 licht type : Iso (isophased)
 licht periode : 4
