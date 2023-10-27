@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-10-26T10:33:11.314000Z</time>
+    <time>2023-10-26T14:27:14.836000Z</time>
   </metadata>
   <wpt lat="53.0759321679316" lon="7.14846917281973">
     <name>Vriescheloosterbrug</name>
@@ -8080,8 +8080,8 @@ Contact PhoneNumber:0223-652129
 
 Bedieningstijden
 Periode 01-01 tot 31-12 (note: De brug wordt in principe niet bediend binnen de spertijden. Ontheffing voor passage binnen de spertijden kan worden aangevraagd op VHF 62 en wordt alleen toegekend aan geladen binnenvaartschepen, die aantoonbaar gebonden zijn aan een getijpoort.):
-   23:00 - 06:00: Vr, excl. feestdagen. 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   23:00 - 06:00: Vr, excl. feestdagen. 
    23:00 - 05:45: Ma, Di, Wo, Do, excl. feestdagen. 
    07:15 - 07:25: Ma, Di, Wo, Do, Vr, excl. feestdagen. eenmalige opening van max 10 minuten
    07:45 - 22:59: Vr, excl. feestdagen. 
@@ -9907,9 +9907,9 @@ Periode 03-09 tot 30-09:
 Periode 01-10 tot 31-10:
    23:00 - 22:59: Ma, Di, Wo, Do, excl. feestdagen. Op verzoek tegen bijzonder tarief
 €50,-
+   08:00 - 10:00: Vr, excl. feestdagen. €6,-
    08:00 - 10:00: Za, excl. feestdagen. 
 €6,-
-   08:00 - 10:00: Vr, excl. feestdagen. €6,-
 Periode 01-11 tot 31-03:
    23:00 - 22:59: Za, excl. feestdagen. Op afspraak minimaal een week van te voren
 € 6,-
@@ -19039,7 +19039,7 @@ Note: Bij windkracht 8 bft. en meer worden de bruggen niet bediend. Schutbeperki
     </extensions>
   </wpt>
   <wpt lat="52.7162290884498" lon="6.85018801979856">
-    <name>Veenbrug</name>
+    <name>Schooldijkbrug</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
 Contact PhoneNumber:0528-265560
@@ -19099,7 +19099,7 @@ Hoofdpost Stieltjeskanaalsluis, telefoonnummer 0591-551849. b.g.g. Vaarwegtelefo
 Note: Hoofdpost Stieltjeskanaalsluis, telefoonnummer 0591-551849. b.g.g. Vaarwegtelefoon 0592-365775.
 VHF 20, 78 of 22.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/18162">
-      <text>Veenbrug online info</text>
+      <text>Schooldijkbrug online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -25534,7 +25534,8 @@ Periode 06-06 tot 31-10:
 Periode 01-11 tot 31-03:
    10:00 - 10:05: incl. feestdagen. Bediening op aanvraag, minimaal 2 uur voor bediening via website https://beterbediend.rws.nl.
 
-Note: De Haringvlietbrug wordt niet bediend vanaf windkracht 7.</desc>
+Note: Let op: Berichten aan de scheepvaart (BAS) onder Berichten overrulen de aangegeven bedientijden onder Bedientijden.
+De Haringvlietbrug wordt niet bediend vanaf windkracht 7.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/23422">
       <text>Haringvlietbrug (beweegbaar) online info</text>
     </link>
@@ -46459,7 +46460,7 @@ Periode 16-09 tot 14-05:
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.7166314832402" lon="6.84776874427391">
+  <wpt lat="52.71663321726652" lon="6.847860384841623">
     <name>Spoorbrug Veenoord</name>
     <desc>Locatie: Verlengde Hoogeveensche Vaart
 Type:    Bedienbare Brug
