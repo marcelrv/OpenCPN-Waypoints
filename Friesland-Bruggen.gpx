@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-10-26T14:27:14.836000Z</time>
+    <time>2023-10-27T18:13:29.490000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -15102,6 +15102,18 @@ Periode 16-09 tot 14-05 (note: Geen bediening.):
       <text>Brug in de Geawei online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.181178" lon="5.428388">
+    <name>Brug Harlingerstraatweg</name>
+    <desc>Locatie: Ried
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42828570">
+      <text>Brug Harlingerstraatweg online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
