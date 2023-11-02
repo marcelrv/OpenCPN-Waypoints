@@ -15249,6 +15249,46 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.45536111139665" lon="3.961288888549494">
+    <name>DV Z</name>
+    <desc>vaarweg : MIDDELGAT
+model : spar Geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.44962777765992" lon="3.990722221811069">
+    <name>DVV A</name>
+    <desc>vaarweg : MIDDELGAT
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.44708611112582" lon="3.994616666441845">
+    <name>DVV B</name>
+    <desc>vaarweg : MIDDELGAT
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.44613055528885" lon="3.992594444974663">
+    <name>DVV C</name>
+    <desc>vaarweg : MIDDELGAT
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.449169444047016" lon="3.989111111323498">
+    <name>DVV D</name>
+    <desc>vaarweg : MIDDELGAT
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.947522221865235" lon="2.998938888968987">
     <name>DW</name>
     <desc>vaarweg : NOORDZEE
@@ -16062,6 +16102,17 @@ licht periode : 10
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
     <sym>2323</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.22230555524108" lon="6.59835000021078">
+    <name>EK 1</name>
+    <desc>vaarweg : EEMSKANAAL
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spits Groen</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -25594,6 +25645,27 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.825677777981426" lon="4.047555555901643">
+    <name>HD-A</name>
+    <desc>vaarweg : HARINGVLIET
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.82555555555961" lon="4.048230556080419">
+    <name>HD-B</name>
+    <desc>vaarweg : HARINGVLIET
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.82555555555961" lon="4.048230556080419">
     <name>HD-B</name>
     <desc>vaarweg : HARINGVLIET
@@ -25608,6 +25680,24 @@ model : spar Geel</desc>
   </wpt>
   <wpt lat="51.826994444184905" lon="4.050252777453704">
     <name>HD-C</name>
+    <desc>vaarweg : HARINGVLIET
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.826994444184905" lon="4.050252777453704">
+    <name>HD-C</name>
+    <desc>vaarweg : HARINGVLIET
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.82836388896129" lon="4.052155555096178">
+    <name>HD-D</name>
     <desc>vaarweg : HARINGVLIET
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -25636,6 +25726,27 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.82976666705652" lon="4.054030555645526">
+    <name>HD-E</name>
+    <desc>vaarweg : HARINGVLIET
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.831211111268345" lon="4.056002778059626">
+    <name>HD-F</name>
+    <desc>vaarweg : HARINGVLIET
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.831211111268345" lon="4.056002778059626">
     <name>HD-F</name>
     <desc>vaarweg : HARINGVLIET
@@ -25654,8 +25765,41 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.83268888867812" lon="4.057744444261344">
+    <name>HD-G</name>
+    <desc>vaarweg : HARINGVLIET
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.8341805554648" lon="4.059450000503915">
     <name>HD-H</name>
+    <desc>vaarweg : HARINGVLIET
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8341805554648" lon="4.059450000503915">
+    <name>HD-H</name>
+    <desc>vaarweg : HARINGVLIET
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.83598611075129" lon="4.0593472227475">
+    <name>HD-I</name>
     <desc>vaarweg : HARINGVLIET
 licht type : Fl (flashing)
 licht periode : 5
@@ -80797,6 +80941,7 @@ model : stomp Rood</desc>
     <name>VL 2A</name>
     <desc>vaarweg : VLIETER
 model : spar Rood</desc>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
