@@ -26099,6 +26099,14 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.24993611148478" lon="6.786863889235283">
+    <name>HH 4</name>
+    <desc>vaarweg : Twentekanalen
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.24993611148478" lon="6.786863889235283">
     <name>HH 5</name>
     <desc>vaarweg : Twentekanalen
 model : spits Geel</desc>
@@ -57973,7 +57981,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.6520555551119" lon="4.278697221998293">
+  <wpt lat="51.651886111363126" lon="4.278819445117376">
     <name>R-62</name>
     <desc>vaarweg : NOORD VOLKERAK
 model : spar Geel</desc>
@@ -58063,7 +58071,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.65927777779454" lon="4.311030555700301">
+  <wpt lat="51.65902222209509" lon="4.311272221720579">
     <name>R-78</name>
     <desc>vaarweg : NOORD VOLKERAK
 model : spar Geel</desc>
@@ -91754,30 +91762,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.46482222255154" lon="4.604269444744652">
-    <name>ZE-B</name>
-    <desc>vaarweg : NOORDZEEKANAAL
-licht type : Fl (flashing)
-licht periode : 10
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5201</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.46450277765648" lon="4.603313888900619">
-    <name>ZE-C</name>
-    <desc>vaarweg : NOORDZEEKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5201</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.660999999842524" lon="4.106300000704329">
     <name>ZG 2</name>
     <desc>vaarweg : ZUID GREVELINGEN
@@ -92220,6 +92204,17 @@ licht periode : 10
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
     <sym>2323</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.55025277811465" lon="3.431013888969744">
+    <name>ZINK-WKP</name>
+    <desc>vaarweg : OOSTGAT
+licht type : Q (quick-flashing)
+licht periode : 15
+lich kleur : Wit
+model : Pilaar Geel/zwart/geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
