@@ -21070,7 +21070,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.01968333323353" lon="6.13029999994654">
+  <wpt lat="52.01965833356131" lon="6.130563889641471">
     <name>GIJ 60B</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Rood</desc>
@@ -21079,7 +21079,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.01816111086836" lon="6.129019445032656">
+  <wpt lat="52.01809722257424" lon="6.129422222226324">
     <name>GIJ 60C</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Rood</desc>
@@ -21088,7 +21088,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.0166666668015" lon="6.128183334081449">
+  <wpt lat="52.01668055535996" lon="6.128258334056436">
     <name>GIJ 60D</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Rood</desc>
@@ -21454,7 +21454,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.44317777790722" lon="6.157811111189629">
+  <wpt lat="53.4422861112592" lon="6.156788888186453">
     <name>GL 8</name>
     <desc>vaarweg : GLINDER
 licht type : Iso (isophased)
@@ -22952,6 +22952,22 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.46236666656079" lon="6.189900000217905">
+    <name>GS 11A</name>
+    <desc>vaarweg : GROOTE SIEGE
+model : spar Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.46288333302404" lon="6.192333333454092">
+    <name>GS 11B</name>
+    <desc>vaarweg : GROOTE SIEGE
+model : spar Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.46664722216255" lon="6.197961110960581">
     <name>GS 12</name>
     <desc>vaarweg : GROOTE SIEGE
@@ -22997,6 +23013,9 @@ model : spar Groen</desc>
   <wpt lat="53.44861944429025" lon="6.170611111714304">
     <name>GS 1</name>
     <desc>vaarweg : GROOTE SIEGE
+licht type : Iso (isophased)
+licht periode : 2
+lich kleur : Groen
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -23059,15 +23078,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.459666666271126" lon="6.181080555035396">
-    <name>GS 4A-R 1</name>
-    <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
-model : spar Rood/groen/rood</desc>
-    <sym>1371</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.45338611133984" lon="6.177097221994694">
     <name>GS 5</name>
     <desc>vaarweg : GROOTE SIEGE
@@ -23080,14 +23090,46 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.460449999765196" lon="6.182116666047669">
-    <name>GS 6</name>
+  <wpt lat="53.4551000002166" lon="6.179016666983481">
+    <name>GS 5A</name>
     <desc>vaarweg : GROOTE SIEGE
-licht type : Iso (isophased)
-licht periode : 4
+model : spar Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.45706666625006" lon="6.180633333806613">
+    <name>GS 5B</name>
+    <desc>vaarweg : GROOTE SIEGE
+model : spar Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.45963333376537" lon="6.181166667094965">
+    <name>GS 6-R 1</name>
+    <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
+licht type : Fl (flashing)
+licht periode : 10
 lich kleur : Rood
+model : spar Rood/groen/rood</desc>
+    <sym>1371</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.461383333426696" lon="6.183483333764933">
+    <name>GS 6A</name>
+    <desc>vaarweg : GROOTE SIEGE
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.46246666667033" lon="6.18576666648033">
+    <name>GS 6B</name>
+    <desc>vaarweg : GROOTE SIEGE
+model : spar Rood</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -23104,7 +23146,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.46253333370856" lon="6.186683333580396">
+  <wpt lat="53.46283333317659" lon="6.187633332680875">
     <name>GS 8</name>
     <desc>vaarweg : GROOTE SIEGE
 licht type : Fl (flashing)
@@ -26102,6 +26144,7 @@ model : spits Geel</desc>
     <name>HH 4</name>
     <desc>vaarweg : Twentekanalen
 model : stomp Geel</desc>
+    <sym>3001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48139,30 +48182,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.325188889028205" lon="3.820802777186301">
-    <name>NST 2</name>
-    <desc>vaarweg : Kanaal Gent- Terneuzen
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3801</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.32347222224362" lon="3.822158332626871">
-    <name>NST 4</name>
-    <desc>vaarweg : Kanaal Gent- Terneuzen
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3801</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.33813055561192" lon="3.811980555883955">
     <name>NST-A</name>
     <desc>vaarweg : Kanaal Gent- Terneuzen
@@ -53818,15 +53837,6 @@ model : spar Geel</desc>
   </wpt>
   <wpt lat="53.23767222179175" lon="5.201938888945106">
     <name>PG-I</name>
-    <desc>vaarweg : BLAUWE SLENK
-model : spar Geel</desc>
-    <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.236244444376325" lon="5.207486111201664">
-    <name>PG-J</name>
     <desc>vaarweg : BLAUWE SLENK
 model : spar Geel</desc>
     <sym>5101</sym>
@@ -91750,18 +91760,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.46519444440995" lon="4.603313888472562">
-    <name>ZE-A</name>
-    <desc>vaarweg : NOORDZEEKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5201</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.660999999842524" lon="4.106300000704329">
     <name>ZG 2</name>
     <desc>vaarweg : ZUID GREVELINGEN
@@ -92215,6 +92213,7 @@ licht type : Q (quick-flashing)
 licht periode : 15
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
+    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
