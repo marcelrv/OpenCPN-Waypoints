@@ -22956,6 +22956,7 @@ model : spar Groen</desc>
     <name>GS 11A</name>
     <desc>vaarweg : GROOTE SIEGE
 model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -22964,6 +22965,7 @@ model : spar Groen</desc>
     <name>GS 11B</name>
     <desc>vaarweg : GROOTE SIEGE
 model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -23094,6 +23096,7 @@ model : spar Groen</desc>
     <name>GS 5A</name>
     <desc>vaarweg : GROOTE SIEGE
 model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -23102,6 +23105,7 @@ model : spar Groen</desc>
     <name>GS 5B</name>
     <desc>vaarweg : GROOTE SIEGE
 model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -23122,6 +23126,7 @@ model : spar Rood/groen/rood</desc>
     <name>GS 6A</name>
     <desc>vaarweg : GROOTE SIEGE
 model : spar Rood</desc>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -23130,6 +23135,7 @@ model : spar Rood</desc>
     <name>GS 6B</name>
     <desc>vaarweg : GROOTE SIEGE
 model : spar Rood</desc>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -53848,6 +53854,7 @@ model : spar Geel</desc>
     <name>PG-J</name>
     <desc>vaarweg : BLAUWE SLENK
 model : spar Geel</desc>
+    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -75680,7 +75687,7 @@ model : spar Rood</desc>
     <name>TK 3</name>
     <desc>vaarweg : Kanaal Gent- Terneuzen
 licht type : Iso (isophased)
-licht periode : 2
+licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
@@ -93477,7 +93484,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32280000020496" lon="4.993516666663313">
+  <wpt lat="53.32311666690632" lon="4.993500000284746">
     <name>ZS 3</name>
     <desc>vaarweg : ZUIDER STORTEMELK
 licht type : Q (quick-flashing)
@@ -93518,7 +93525,7 @@ model : spar Rood</desc>
   <wpt lat="53.3210388885773" lon="5.009502777179335">
     <name>ZS 3A</name>
     <desc>vaarweg : ZUIDER STORTEMELK
-licht type : Fl (flashing)
+licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Groen
 model : spits Groen</desc>
@@ -93530,8 +93537,7 @@ model : spits Groen</desc>
   <wpt lat="53.31527222225113" lon="5.009552777517349">
     <name>ZS 3B</name>
     <desc>vaarweg : ZUIDER STORTEMELK
-licht type : LFl (long-flashing)
-licht periode : 8
+licht type : VQ (very quick-flashing)
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1005</sym>
@@ -93559,10 +93565,10 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.326386110723654" lon="5.020411111028238">
+  <wpt lat="53.32461666696238" lon="5.01798333345243">
     <name>ZS 4A</name>
     <desc>vaarweg : ZUIDER STORTEMELK
-licht type : Fl (flashing)
+licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Rood
 model : stomp Rood</desc>
@@ -93571,11 +93577,10 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.319011111232115" lon="5.018430555695914">
+  <wpt lat="53.319283332898564" lon="5.018033332900186">
     <name>ZS 4B</name>
     <desc>vaarweg : ZUIDER STORTEMELK
-licht type : LFl (long-flashing)
-licht periode : 8
+licht type : VQ (very quick-flashing)
 lich kleur : Rood
 model : stomp Rood</desc>
     <sym>1105</sym>
