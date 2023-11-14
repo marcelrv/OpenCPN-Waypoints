@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-11-10T14:01:57.941000Z</time>
+    <time>2023-11-14T11:01:47.121000Z</time>
   </metadata>
   <wpt lat="51.5966936427866" lon="4.99190211296081">
     <name>Sluis II Tilburg</name>
@@ -1465,6 +1465,18 @@ Note: Zon- en feestdagen geen bediening.</desc>
     <desc>Locatie: Berendrechtsluis, vaarweg door</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/29672401">
       <text>Berendrechtsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.32871718855759" lon="3.819390535354614">
+    <name>Nieuwe Sluis Terneuzen</name>
+    <desc>Locatie: Kanaal Gent-Terneuzen
+Contact PhoneNumber:088-7974960</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/43026503">
+      <text>Nieuwe Sluis Terneuzen online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>

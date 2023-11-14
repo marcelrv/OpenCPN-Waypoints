@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-11-10T14:01:57.941000Z</time>
+    <time>2023-11-14T11:01:47.121000Z</time>
   </metadata>
   <wpt lat="51.5893192695988" lon="4.65443776811514">
     <name>Slickbrug</name>
@@ -5365,6 +5365,30 @@ Periode 16-04 tot 15-04:
       <text>Amaliabrug Dordrecht online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.32726911715241" lon="3.820281028747558">
+    <name>Brug over buitenhoofd Nieuwe Sluis Terneuzen</name>
+    <desc>Locatie: Kanaal Gent-Terneuzen
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43039781">
+      <text>Brug over buitenhoofd Nieuwe Sluis Terneuzen online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.331733857118536" lon="3.8175773620605464">
+    <name>Brug over binnenhoofd Nieuwe Sluis Terneuzen</name>
+    <desc>Locatie: Westbuitenhaven, Kanaal van Gent naar Terneuzen
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43039810">
+      <text>Brug over binnenhoofd Nieuwe Sluis Terneuzen online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>

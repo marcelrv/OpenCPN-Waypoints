@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-11-10T14:01:57.941000Z</time>
+    <time>2023-11-14T11:01:47.121000Z</time>
   </metadata>
   <wpt lat="53.0759321679316" lon="7.14846917281973">
     <name>Vriescheloosterbrug</name>
@@ -9874,9 +9874,9 @@ Periode 03-09 tot 30-09:
 Periode 01-10 tot 31-10:
    23:00 - 22:59: Ma, Di, Wo, Do, excl. feestdagen. Op verzoek tegen bijzonder tarief
 €50,-
+   08:00 - 10:00: Vr, excl. feestdagen. €6,-
    08:00 - 10:00: Za, excl. feestdagen. 
 €6,-
-   08:00 - 10:00: Vr, excl. feestdagen. €6,-
 Periode 01-11 tot 31-03:
    23:00 - 22:59: Za, excl. feestdagen. Op afspraak minimaal een week van te voren
 € 6,-
@@ -11087,7 +11087,7 @@ Aanmeldtijd voor een brugopening is tot 15 min voor einde bedientijd.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.3672227285848" lon="4.93226824732677">
+  <wpt lat="52.367241503069124" lon="4.9321489222620585">
     <name>Spoorbrug Amsterdam (Nieuwe Vaart)</name>
     <desc>Locatie: Nieuwe Vaart
 Type:    Vaste Brug</desc>
@@ -15784,7 +15784,8 @@ Bedieningstijden
 Periode 01-03 tot 31-03 (note: Alleen op afroep, ma t/m vrijdag min 1 uur vooraf aanvragen via marifoonkanaal 9 of op tel. 0227-541686. Za/zo/fd minimaal 1 dag van te voren aanvragen.):
    07:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 01-04 tot 15-10:
-   07:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   07:00 - 19:00: incl. feestdagen. 
+   07:00 - 18:30: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 16-10 tot 30-11:
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 01-12 tot 29-02:
@@ -74895,11 +74896,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.3722797528478" lon="4.90595072507858">
-    <name>Montelbaansbrug</name>
+    <name>Montelbaansbrug (Brug 280)</name>
     <desc>Locatie: Waalseilandgracht
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/32466392">
-      <text>Montelbaansbrug online info</text>
+      <text>Montelbaansbrug (Brug 280) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -76902,10 +76903,10 @@ Contact PhoneNumber:06 83027914
 Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   07:30 - 09:00: incl. feestdagen. 
    07:30 - 09:00: Za, Zo, excl. feestdagen. 
-   16:00 - 18:00: incl. feestdagen. 
+   07:30 - 09:00: incl. feestdagen. 
    16:00 - 18:00: Za, Zo, excl. feestdagen. 
+   16:00 - 18:00: incl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/37054081">
       <text>Weelsluisbrug (Westzanersluisbrug) online info</text>
@@ -80199,6 +80200,234 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43009315">
       <text>Kaap de Goede Hoopbrug (Brug 256) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.37200983241323" lon="4.902515877147378">
+    <name>Brug Korte Koningsstraat overspant Krom Boomssloot (Brug 292)</name>
+    <desc>Locatie: Krom Boomssloot
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43025571">
+      <text>Brug Korte Koningsstraat overspant Krom Boomssloot (Brug 292) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.372470224529565" lon="4.902774775391663">
+    <name>Brug zuidkade Recht Boomssloot over Krom Boomssloot (Brug 295)</name>
+    <desc>Locatie: Krom Boomssloot
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43025596">
+      <text>Brug zuidkade Recht Boomssloot over Krom Boomssloot (Brug 295) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.396444" lon="4.997197">
+    <name>Jan Marsisbrug (Brug 309)</name>
+    <desc>Locatie: Buiten-IJ, Open-IJ
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43025615">
+      <text>Jan Marsisbrug (Brug 309) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.339333" lon="4.913861">
+    <name>Zuidergasfabriekbrug</name>
+    <desc>Locatie: Amstel
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43025756">
+      <text>Zuidergasfabriekbrug online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.38556159570686" lon="4.888330865715034">
+    <name>Galgenbrug (Brug 315)</name>
+    <desc>Locatie: Bickersgracht N.
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43025766">
+      <text>Galgenbrug (Brug 315) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.376236" lon="4.837322">
+    <name>Camera Obscurabrug (Brug 322)</name>
+    <desc>Locatie: Erasmusgracht
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43025995">
+      <text>Camera Obscurabrug (Brug 322) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.36739789095154" lon="4.918719865345336">
+    <name>Armand Sunierbrug (Brug 327)</name>
+    <desc>Locatie: Entrepotdok
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43026053">
+      <text>Armand Sunierbrug (Brug 327) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.366536" lon="4.932306">
+    <name>Brug tussen Zeeburgerpad en Zeeburgerdijk (Brug 328)</name>
+    <desc>Locatie: Nieuwe Vaart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43026079">
+      <text>Brug tussen Zeeburgerpad en Zeeburgerdijk (Brug 328) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.36723040276249" lon="4.932497609515849">
+    <name>Brug oosterlijk van Cruquiusspoorbrug over Nieuwevaart (Brug 332)</name>
+    <desc>Locatie: Nieuwe Vaart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43026223">
+      <text>Brug oosterlijk van Cruquiusspoorbrug over Nieuwevaart (Brug 332) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.346936" lon="4.950144">
+    <name>Heinz Stuybrug (Brug 334)</name>
+    <desc>Locatie: Weespertrekvaart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43026324">
+      <text>Heinz Stuybrug (Brug 334) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.347181" lon="4.95055">
+    <name>Johnny Repbrug (Brug 2184)</name>
+    <desc>Locatie: Weespertrekvaart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43026434">
+      <text>Johnny Repbrug (Brug 2184) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.35362641426457" lon="4.938978124446292">
+    <name>Jaap Kruizingabrug (Brug 335)</name>
+    <desc>Locatie: Ringvaart Watergraafsmeer
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43026449">
+      <text>Jaap Kruizingabrug (Brug 335) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.354839" lon="4.941019">
+    <name>Hans Lipperheybrug (Brug 336)</name>
+    <desc>Locatie: Ringvaart Watergraafsmeer
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43026462">
+      <text>Hans Lipperheybrug (Brug 336) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.377936781745035" lon="4.988288367221686">
+    <name>Wezenbrug (Brug 339)</name>
+    <desc>Locatie: Buiten-IJ, Open-IJ
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43026480">
+      <text>Wezenbrug (Brug 339) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.39328507202478" lon="4.994169366548249">
+    <name>Bierstekerspostbrug (Brug 343)</name>
+    <desc>Locatie: Buiten-IJ, Open-IJ
+Type:    Bedienbare Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43039456">
+      <text>Bierstekerspostbrug (Brug 343) online info</text>
+    </link>
+    <sym>Landmarks-Bridge2</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.347789230235804" lon="4.941456285318963">
+    <name>Brug in Teslastraat over Watergraafsmeer (Brug 333)</name>
+    <desc>Locatie: Ringvaart Watergraafsmeer
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43039478">
+      <text>Brug in Teslastraat over Watergraafsmeer (Brug 333) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.406556" lon="4.963658">
+    <name>Postje van Gerrit Vreeling brug (Brug 351)</name>
+    <desc>Locatie: Noordhollandsch Kanaal
+Type:    Bedienbare Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43039503">
+      <text>Postje van Gerrit Vreeling brug (Brug 351) online info</text>
+    </link>
+    <sym>Landmarks-Bridge2</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.32726911715241" lon="3.820281028747558">
+    <name>Brug over buitenhoofd Nieuwe Sluis Terneuzen</name>
+    <desc>Locatie: Kanaal Gent-Terneuzen
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43039781">
+      <text>Brug over buitenhoofd Nieuwe Sluis Terneuzen online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.331733857118536" lon="3.8175773620605464">
+    <name>Brug over binnenhoofd Nieuwe Sluis Terneuzen</name>
+    <desc>Locatie: Westbuitenhaven, Kanaal van Gent naar Terneuzen
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43039810">
+      <text>Brug over binnenhoofd Nieuwe Sluis Terneuzen online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
