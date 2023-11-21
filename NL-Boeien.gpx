@@ -2991,6 +2991,14 @@ model : spar Rood/groen repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.762230555394325" lon="3.979149999609414">
+    <name>51A</name>
+    <desc>vaarweg : GREVELINGEN
+model : spar Rood/wit repeterend</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.5499499999356" lon="3.826283333186227">
     <name>52 SGVM</name>
     <desc>vaarweg : VEERSE MEER
@@ -21241,7 +21249,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.99931388922025" lon="6.111833332747903">
+  <wpt lat="51.99879722195438" lon="6.111277777088619">
     <name>GIJ 69C</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Groen</desc>
@@ -76008,6 +76016,14 @@ model : spits Groen</desc>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spits Groen</desc>
     <sym>1001</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.864186110996606" lon="5.883855556287871">
+    <name>Ton 881.750R</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+model : stomp Rood/wit repeterend</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
