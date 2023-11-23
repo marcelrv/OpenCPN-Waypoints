@@ -2995,6 +2995,7 @@ model : spar Rood/groen repeterend</desc>
     <name>51A</name>
     <desc>vaarweg : GREVELINGEN
 model : spar Rood/wit repeterend</desc>
+    <sym>1562</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -21087,7 +21088,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.01809722257424" lon="6.129422222226324">
+  <wpt lat="52.01990277771023" lon="6.131180555542114">
     <name>GIJ 60C</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Rood</desc>
@@ -21096,7 +21097,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.01668055535996" lon="6.128258334056436">
+  <wpt lat="52.019869444320015" lon="6.131352777186419">
     <name>GIJ 60D</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Rood</desc>
@@ -51480,7 +51481,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.834338888576994" lon="5.392127777422991">
+  <wpt lat="51.83449722250577" lon="5.391497221566115">
     <name>OPH-A</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : stomp Geel</desc>
@@ -51489,7 +51490,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.8346555557594" lon="5.39267500015962">
+  <wpt lat="51.834766666255454" lon="5.391480555723671">
     <name>OPH-B</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : stomp Geel</desc>
@@ -75717,6 +75718,7 @@ licht type : Iso (isophased)
 licht periode : 2
 lich kleur : Groen
 model : spar Groen</desc>
+    <sym>1047</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -76024,6 +76026,7 @@ model : spits Groen</desc>
     <name>Ton 881.750R</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : stomp Rood/wit repeterend</desc>
+    <sym>1552</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -84799,7 +84802,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.814194444877764" lon="5.190002777533998">
+  <wpt lat="51.814194444163995" lon="5.187452777330654">
     <name>W 24</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
