@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-11-23T11:59:10.655000Z</time>
+    <time>2023-11-24T11:22:43.093000Z</time>
   </metadata>
   <wpt lat="52.8349518997784" lon="4.81026448308057">
     <name>Brug over Zeesluis Oudesluis</name>
@@ -6507,7 +6507,7 @@ Periode 01-01 tot 29-12:
 Periode 30-12 tot 31-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 
-Note: Wordt via contact met de Volkeraksluizen bediend via 088 7974990 met een notice van 4 uur. (VHF 22)</desc>
+Note: Wordt via contact met de Volkeraksluizen bediend via 088 7974990 met een notice van 4 uur (VHF 22).</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/15339">
       <text>Harmsenbrug online info</text>
     </link>
@@ -18099,7 +18099,7 @@ Periode 16-10 tot 08-04:
    09:00 - 16:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    13:00 - 15:00: Zo, excl. feestdagen. 
 
-Note: Bedienaar bereikbaar, tel 06 18191429</desc>
+Note: Bedienaar bereikbaar via tel 06 18191429.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43426">
       <text>Brug Nieuwerbrug online info</text>
     </link>
@@ -22795,7 +22795,7 @@ Periode 16-10 tot 08-04 (note: aanmelden op verzoek op 06-22503252 ten minste 24
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.04533534583" lon="4.34262442400026">
+  <wpt lat="52.04531992306147" lon="4.342649364843965">
     <name>Steenplaetsbrug</name>
     <desc>Locatie: Haven van Rijswijk
 Type:    Bedienbare Brug
@@ -23479,7 +23479,7 @@ Note: Bediening op afstand vanaf bediencentrale Leidschendam.</desc>
     </extensions>
   </wpt>
   <wpt lat="52.3050511347978" lon="5.02341278287203">
-    <name>De Uitkomst</name>
+    <name>Brug De Uitkomst</name>
     <desc>Locatie: Smal Weesp
 Type:    Bedienbare Brug
 Contact PhoneNumber:0900-9394
@@ -23515,7 +23515,7 @@ Periode 01-11 tot 31-03 (note: Alleen op afroep voor beroepsvaart, tijdens de va
    15:30 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/53711">
-      <text>De Uitkomst online info</text>
+      <text>Brug De Uitkomst online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -32891,6 +32891,59 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43183396">
       <text>Hannah Arendtbrug (Brug 622) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.380542" lon="4.810128">
+    <name>Brug in de Nannie van Wehlstraat (Brug 626)</name>
+    <desc>Locatie: Burg. van Tienhovengracht
+Type:    Bedienbare Brug
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43201179">
+      <text>Brug in de Nannie van Wehlstraat (Brug 626) online info</text>
+    </link>
+    <sym>Landmarks-Bridge2</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.383301832384035" lon="4.812088478483928">
+    <name>Brug Antony Moddermanstraat - Ruys de Beerenbrouckstraat (Brug 627)</name>
+    <desc>Locatie: Burg. van Tienhovengracht
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43201221">
+      <text>Brug Antony Moddermanstraat - Ruys de Beerenbrouckstraat (Brug 627) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.378808" lon="4.828397">
+    <name>Hester van Lennepbrug (Brug 628)</name>
+    <desc>Locatie: Burg. van Tienhovengracht
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43201261">
+      <text>Hester van Lennepbrug (Brug 628) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.37200688423627" lon="4.8120259586949015">
+    <name>Mary Wollstonecraftbrug (Brug 630)</name>
+    <desc>Locatie: Burg. van Tienhovengracht
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43201290">
+      <text>Mary Wollstonecraftbrug (Brug 630) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
