@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-11-28T10:46:51.800000Z</time>
+    <time>2023-11-29T09:36:52.330000Z</time>
   </metadata>
   <wpt lat="52.8349518997784" lon="4.81026448308057">
     <name>Brug over Zeesluis Oudesluis</name>
@@ -18687,16 +18687,7 @@ VHF:     22
 Contact PhoneNumber:088-7985132
 
 Bedieningstijden
-Periode 27-04 tot 27-05 (note: Op 24 en 31 dec, op werkdagen bediening tot 15.30 uur.):
-   05:00 - 05:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   05:00 - 11:00: Za, excl. feestdagen. 
-   08:00 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   17:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-Periode 28-05 tot 26-04 (note: Op 24 en 31 dec, op werkdagen bediening tot 15.30 uur.):
-   05:00 - 05:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 11:00: Za, excl. feestdagen. 
-   08:00 - 14:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   17:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+Periode 01-01 tot 31-12:
 
 Note: Let op: De brug is voor langere tijd niet bedienbaar. Dit kan mogelijk duren tot groot onderhoud in 2026!
 
@@ -32921,7 +32912,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.380542" lon="4.810128">
+  <wpt lat="52.38054203358311" lon="4.810129583639195">
     <name>Brug in de Nannie van Wehlstraat (Brug 626)</name>
     <desc>Locatie: Burg. van Tienhovengracht
 Type:    Bedienbare Brug
@@ -33004,6 +32995,30 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43272625">
       <text>Brug in Albardagracht overspant Siergracht (Brug 651) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.35971666749239" lon="4.848882127571413">
+    <name>Duizendste Brug (Brug 684)</name>
+    <desc>Locatie: Postjeswetering
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43285910">
+      <text>Duizendste Brug (Brug 684) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3588" lon="4.817539">
+    <name>Karel van het Revebrug (Brug 676)</name>
+    <desc>Locatie: Hoekenesgracht
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43285965">
+      <text>Karel van het Revebrug (Brug 676) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
