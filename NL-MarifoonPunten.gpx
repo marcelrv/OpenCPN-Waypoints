@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-11-29T16:46:31.787000Z</time>
+    <time>2023-12-01T11:05:53.340000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -6551,19 +6551,6 @@ Opmerking: Maximum ligtijd 30 minuten. Tevens calamiteitensteiger.
 Autoafzetsteiger</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/27831">
       <text>Meldpunt Autoafzetplaats Betonnensteiger Zuider IJdijk online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.7729076495488" lon="6.08636512413737">
-    <name>Meldpunt Heerenbrug</name>
-    <desc>Naam:         Meldpunt Heerenbrug
-VHF:          20
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/27995">
-      <text>Meldpunt Heerenbrug online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -18171,6 +18158,19 @@ VHF:          20
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/5979868">
       <text>Meldpunt Rekervlotbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1429251351562" lon="5.66760018467903">
+    <name>Meldpunt Brêge Baard</name>
+    <desc>Naam:         Meldpunt Brêge Baard
+VHF:          80
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/21524">
+      <text>Meldpunt Brêge Baard online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
