@@ -31111,7 +31111,6 @@ model : spar Rood</desc>
     <desc>vaarweg : KRAMMER
 licht type : LFl (long-flashing)
 licht periode : 5
-lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
     <extensions>
@@ -31139,6 +31138,9 @@ model : spar Rood</desc>
   <wpt lat="51.66739999955631" lon="4.153216667360094">
     <name>K 7</name>
     <desc>vaarweg : KRAMMER
+licht type : Iso (isophased)
+licht periode : 8
+lich kleur : Groen
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -35056,7 +35058,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.60814444474971" lon="3.977544443994678">
+  <wpt lat="51.60788611139928" lon="3.977355555984105">
     <name>KTR 4</name>
     <desc>vaarweg : KEETEN-MASTGAT-ZIJPE
 model : spar Rood/wit repeterend</desc>
@@ -35065,7 +35067,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.60500833300482" lon="3.986888889236081">
+  <wpt lat="51.6055027775262" lon="3.98716944503077">
     <name>KTR 6</name>
     <desc>vaarweg : KEETEN-MASTGAT-ZIJPE
 model : spar Rood/wit repeterend</desc>
