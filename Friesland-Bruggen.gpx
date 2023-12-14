@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2023-12-13T11:38:20.536000Z</time>
+    <time>2023-12-14T12:02:19.867000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -15155,6 +15155,18 @@ Periode 16-09 tot 14-05:
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42828570">
       <text>Brug Harlingerstraatweg online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.00133202010312" lon="5.721737891435621">
+    <name>Brug in Sjuwedyk</name>
+    <desc>Locatie: Nauwe Geau
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43687240">
+      <text>Brug in Sjuwedyk online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
