@@ -20932,6 +20932,14 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.09230555565584" lon="6.211400000623505">
+    <name>GIJ 58 C</name>
+    <desc>vaarweg : GELDERSE IJSSEL
+model : spar Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.19297222183133" lon="6.157194444712777">
     <name>GIJ 58</name>
     <desc>vaarweg : GELDERSE IJSSEL
@@ -48887,7 +48895,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.35701388888134" lon="5.37855277717946">
+  <wpt lat="53.35794722263857" lon="5.375494443985991">
     <name>O 15-NB 12</name>
     <desc>vaarweg : NOORDER BALGEN
 model : spar Groen/rood/groen</desc>
@@ -49380,7 +49388,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.359747222429014" lon="5.383452778087605">
+  <wpt lat="53.357500000256465" lon="5.381952778008887">
     <name>O 26</name>
     <desc>vaarweg : OOSTEROM
 model : spar Rood</desc>
@@ -65143,6 +65151,28 @@ model : spar Geel</desc>
     <desc>vaarweg : MAAS
 model : stomp Geel</desc>
     <sym>5511</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.93780555552978" lon="4.105000000222707">
+    <name>SB-C</name>
+    <desc>vaarweg : HARTELKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.93724166709231" lon="4.109002777912986">
+    <name>SB-D</name>
+    <desc>vaarweg : HARTELKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
