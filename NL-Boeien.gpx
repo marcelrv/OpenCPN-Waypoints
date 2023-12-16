@@ -20936,6 +20936,7 @@ model : spar Groen</desc>
     <name>GIJ 58 C</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Rood</desc>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -52950,7 +52951,7 @@ model : spar Geel/zwart/geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.8902250000928" lon="5.459038889390675">
+  <wpt lat="51.890886111226116" lon="5.457669443861221">
     <name>PBS 1</name>
     <desc>vaarweg : AMSTERDAM-RIJNKANAAL
 licht type : Iso (isophased)
@@ -52962,7 +52963,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.890661111300496" lon="5.459158332951227">
+  <wpt lat="51.891080555225216" lon="5.45771111119284">
     <name>PBS 3</name>
     <desc>vaarweg : AMSTERDAM-RIJNKANAAL
 licht type : Iso (isophased)
@@ -52974,7 +52975,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.89108333354995" lon="5.459019444884584">
+  <wpt lat="51.89135555583554" lon="5.458030554972084">
     <name>PBS 5</name>
     <desc>vaarweg : AMSTERDAM-RIJNKANAAL
 licht type : Iso (isophased)
@@ -65162,6 +65163,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -65173,6 +65175,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
