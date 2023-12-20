@@ -75981,6 +75981,14 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.88404722200468" lon="5.4421861118299">
+    <name>Ton 914.750R</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+model : stomp Rood/wit repeterend</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.38345000036936" lon="4.93856666735099">
     <name>U</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
@@ -93575,30 +93583,6 @@ model : spar Groen</desc>
     <desc>vaarweg : ZUIDERSPRUIT AMELAND
 model : spar Groen</desc>
     <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.46384444480791" lon="4.599152778224378">
-    <name>ZS-A</name>
-    <desc>vaarweg : NOORDZEEKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5201</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.46385277761266" lon="4.600855555195452">
-    <name>ZS-B</name>
-    <desc>vaarweg : NOORDZEEKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
