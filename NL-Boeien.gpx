@@ -9500,6 +9500,17 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.87297222230884" lon="6.040180556127558">
+    <name>BRW-PKN</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+licht type : Iso (isophased)
+licht periode : 2
+lich kleur : Wit
+model : bol Rood/groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.257327777920885" lon="5.156227777826655">
     <name>BS 1-IN 2</name>
     <desc>vaarweg : BLAUWE SLENK
@@ -26700,6 +26711,16 @@ model : spar Rood</desc>
     <desc>vaarweg : MAAS
 model : spar Groen</desc>
     <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.88978611113424" lon="5.463077777695189">
+    <name>HL ARK</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+licht type : F (fixed)
+lich kleur : Groen
+model : spits Groen</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
