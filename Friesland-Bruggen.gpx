@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-01-05T15:10:26.861000Z</time>
+    <time>2024-01-09T18:28:46.870000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -56,13 +56,13 @@ Periode 31-03 tot 31-03:
    15:56 - 16:03: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    16:24 - 16:34: Za, excl. feestdagen. 
    16:26 - 16:33: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   16:56 - 17:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:56 - 17:03: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    17:24 - 17:34: Za, excl. feestdagen. 
    17:26 - 17:33: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   17:56 - 18:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   17:56 - 18:03: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    18:24 - 18:34: Za, excl. feestdagen. 
    18:26 - 18:33: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   18:56 - 19:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   18:56 - 19:03: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    19:26 - 19:33: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    19:56 - 20:03: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    20:26 - 20:33: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -432,13 +432,13 @@ Periode 11-12 tot 30-03:
    15:56 - 16:03: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
    16:24 - 16:34: Za, excl. feestdagen. 
    16:26 - 16:33: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   16:56 - 17:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   16:56 - 17:03: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
    17:24 - 17:34: Za, excl. feestdagen. 
    17:26 - 17:33: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   17:56 - 18:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   17:56 - 18:03: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
    18:24 - 18:34: Za, excl. feestdagen. 
    18:26 - 18:33: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   18:56 - 19:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   18:56 - 19:03: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
    19:26 - 19:33: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    19:56 - 20:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    20:26 - 20:33: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
@@ -1110,8 +1110,8 @@ Periode 20-05 tot 24-12:
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
 Periode 25-12 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 21:00: Za, excl. feestdagen. 
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -2431,10 +2431,10 @@ VHF:     11
 Contact PhoneNumber:06 53 75 25 87
 
 Bedieningstijden
-Periode 23-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-Periode 01-11 tot 22-03:
+Periode 01-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 29-02:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: 01 april t/m 31 oktober: 
@@ -2914,8 +2914,8 @@ Periode 20-05 tot 24-12:
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
 Periode 25-12 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 21:00: Za, excl. feestdagen. 
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -3058,7 +3058,7 @@ Type:    Bedienbare Brug
 VHF:     78
 
 Bedieningstijden
-Periode 23-03 tot 18-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 23-03 tot 18-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Koningsdag en Hemelvaartsdag reguliere bediening):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -3068,7 +3068,7 @@ Koningsdag en Hemelvaartsdag reguliere bediening):
    16:15 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 19-05 tot 31-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 19-05 tot 31-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Koningsdag en Hemelvaartsdag reguliere bediening):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -3079,7 +3079,7 @@ Koningsdag en Hemelvaartsdag reguliere bediening):
    16:15 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
@@ -3087,7 +3087,7 @@ Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaar
    12:00 - 15:15: Za, Zo, excl. feestdagen. 
    16:15 - 19:00: Za, Zo, excl. feestdagen. 
    17:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
@@ -3097,7 +3097,7 @@ Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitslu
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 01-11 tot 22-03 (note: Ma t/m vr: 06:00 - 07:00 en 18:00 - 19:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
-ma t/m vr: 09:00 - 16:00 en za: 09:00 - 17:00: Op afroep via 06 - 11 80 91 63
+ma t/m vr: 09:00 - 16:00 en za: 09:00 - 17:00: Op afroep via 058 - 29 25 888
 (beide bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Oudejaarsdag (31-12) en de dag voor 1e Kerstdag (24-12) sluiting als zaterdagavond behalve als dit op zondag valt.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -3427,8 +3427,8 @@ Periode 20-05 tot 24-12:
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
 Periode 25-12 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 21:00: Za, excl. feestdagen. 
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -3992,7 +3992,7 @@ Type:    Bedienbare Brug
 VHF:     78
 
 Bedieningstijden
-Periode 23-03 tot 18-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 23-03 tot 18-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Koningsdag en Hemelvaartsdag reguliere bediening):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -4002,7 +4002,7 @@ Koningsdag en Hemelvaartsdag reguliere bediening):
    16:15 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 19-05 tot 31-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 19-05 tot 31-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Koningsdag en Hemelvaartsdag reguliere bediening):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -4013,7 +4013,7 @@ Koningsdag en Hemelvaartsdag reguliere bediening):
    16:15 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
@@ -4021,7 +4021,7 @@ Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaar
    12:00 - 15:15: Za, Zo, excl. feestdagen. 
    16:15 - 19:00: Za, Zo, excl. feestdagen. 
    17:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
@@ -4031,7 +4031,7 @@ Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitslu
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 01-11 tot 22-03 (note: Ma t/m vr: 06:00 - 07:00 en 18:00 - 19:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
-ma t/m vr: 09:00 - 16:00 en za: 09:00 - 17:00: Op afroep via 06 - 11 80 91 63
+ma t/m vr: 09:00 - 16:00 en za: 09:00 - 17:00: Op afroep via 058 - 29 25 888
 (beide bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Oudejaarsdag (31-12) en de dag voor 1e Kerstdag (24-12) sluiting als zaterdagavond behalve als dit op zondag valt.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -4530,10 +4530,10 @@ Type:    Vaste Brug</desc>
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 23-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-Periode 01-11 tot 22-03:
+Periode 01-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 29-02:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: 01 april t/m 31 oktober: 
@@ -4685,8 +4685,8 @@ Za: 19-20 uur: Uitsluitend bediening voor beroepsvaart.
 Zo: 19-20 uur: Uitsluitend bediening voor beroepsvaart.):
    05:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   15:00 - 17:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    15:00 - 17:00: Za, Zo, incl. feestdagen. 
+   15:00 - 17:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    17:00 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 20:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Za, Zo, incl. feestdagen. 
@@ -5999,8 +5999,8 @@ Periode 20-05 tot 24-12:
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
 Periode 25-12 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 21:00: Za, excl. feestdagen. 
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -6516,10 +6516,10 @@ Periode 16-09 tot 14-05:
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 23-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-Periode 01-11 tot 22-03:
+Periode 01-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 29-02:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: 01 april t/m 31 oktober: 
@@ -6920,8 +6920,8 @@ Periode 20-05 tot 24-12:
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
 Periode 25-12 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 21:00: Za, excl. feestdagen. 
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -7085,10 +7085,10 @@ Type:    Vaste Brug</desc>
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 23-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-Periode 01-11 tot 22-03:
+Periode 01-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 29-02:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: 01 april t/m 31 oktober: 
@@ -7377,8 +7377,8 @@ Periode 20-05 tot 24-12:
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
 Periode 25-12 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 21:00: Za, excl. feestdagen. 
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -7423,10 +7423,10 @@ Type:    Vaste Brug</desc>
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 23-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-Periode 01-11 tot 22-03:
+Periode 01-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 29-02:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: 01 april t/m 31 oktober: 
@@ -7698,10 +7698,10 @@ Type:    Vaste Brug</desc>
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 23-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-Periode 01-11 tot 22-03:
+Periode 01-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 29-02:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: 01 april t/m 31 oktober: 
@@ -7773,7 +7773,7 @@ Type:    Bedienbare Brug
 VHF:     78
 
 Bedieningstijden
-Periode 23-03 tot 18-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 23-03 tot 18-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Koningsdag en Hemelvaartsdag reguliere bediening):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -7783,7 +7783,7 @@ Koningsdag en Hemelvaartsdag reguliere bediening):
    16:15 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 19-05 tot 31-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 19-05 tot 31-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Koningsdag en Hemelvaartsdag reguliere bediening):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -7794,7 +7794,7 @@ Koningsdag en Hemelvaartsdag reguliere bediening):
    16:15 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
@@ -7802,7 +7802,7 @@ Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaar
    12:00 - 15:15: Za, Zo, excl. feestdagen. 
    16:15 - 19:00: Za, Zo, excl. feestdagen. 
    17:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
@@ -7812,7 +7812,7 @@ Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitslu
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 01-11 tot 22-03 (note: Ma t/m vr: 06:00 - 07:00 en 18:00 - 19:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
-ma t/m vr: 09:00 - 16:00 en za: 09:00 - 17:00: Op afroep via 06 - 11 80 91 63
+ma t/m vr: 09:00 - 16:00 en za: 09:00 - 17:00: Op afroep via 058 - 29 25 888
 (beide bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Oudejaarsdag (31-12) en de dag voor 1e Kerstdag (24-12) sluiting als zaterdagavond behalve als dit op zondag valt.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -7861,7 +7861,7 @@ Type:    Bedienbare Brug
 VHF:     78
 
 Bedieningstijden
-Periode 23-03 tot 18-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 23-03 tot 18-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Koningsdag en Hemelvaartsdag reguliere bediening):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -7871,7 +7871,7 @@ Koningsdag en Hemelvaartsdag reguliere bediening):
    16:15 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 19-05 tot 31-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 19-05 tot 31-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Koningsdag en Hemelvaartsdag reguliere bediening):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -7882,7 +7882,7 @@ Koningsdag en Hemelvaartsdag reguliere bediening):
    16:15 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
@@ -7890,7 +7890,7 @@ Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaar
    12:00 - 15:15: Za, Zo, excl. feestdagen. 
    16:15 - 19:00: Za, Zo, excl. feestdagen. 
    17:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
@@ -7900,7 +7900,7 @@ Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitslu
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 01-11 tot 22-03 (note: Ma t/m vr: 06:00 - 07:00 en 18:00 - 19:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
-ma t/m vr: 09:00 - 16:00 en za: 09:00 - 17:00: Op afroep via 06 - 11 80 91 63
+ma t/m vr: 09:00 - 16:00 en za: 09:00 - 17:00: Op afroep via 058 - 29 25 888
 (beide bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Oudejaarsdag (31-12) en de dag voor 1e Kerstdag (24-12) sluiting als zaterdagavond behalve als dit op zondag valt.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -9182,8 +9182,8 @@ Periode 20-05 tot 24-12:
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
 Periode 25-12 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 21:00: Za, excl. feestdagen. 
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -9339,10 +9339,10 @@ Periode 16-09 tot 08-05:
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 23-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-Periode 01-11 tot 22-03:
+Periode 01-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 29-02:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: 01 april t/m 31 oktober: 
@@ -9743,8 +9743,8 @@ Periode 20-05 tot 24-12:
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
 Periode 25-12 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 21:00: Za, excl. feestdagen. 
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -10182,7 +10182,7 @@ Type:    Bedienbare Brug
 VHF:     20
 
 Bedieningstijden
-Periode 23-03 tot 18-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 23-03 tot 18-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Koningsdag en Hemelvaartsdag reguliere bediening):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -10192,7 +10192,7 @@ Koningsdag en Hemelvaartsdag reguliere bediening):
    16:15 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 19-05 tot 31-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 19-05 tot 31-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Koningsdag en Hemelvaartsdag reguliere bediening):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -10203,7 +10203,7 @@ Koningsdag en Hemelvaartsdag reguliere bediening):
    16:15 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
@@ -10211,7 +10211,7 @@ Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaar
    12:00 - 15:15: Za, Zo, excl. feestdagen. 
    16:15 - 19:00: Za, Zo, excl. feestdagen. 
    17:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
@@ -10221,8 +10221,8 @@ Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitslu
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 01-11 tot 22-03 (note: Ma t/m vr: 06:00 - 07:30 en 18:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
-Za: 09:00 - 17:00: Op afroep via 06 - 11 80 91 63
-(beide bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
+Za: 09:00 - 17:00: Op afroep via 058 - 29 25 888
+(bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Oudejaarsdag (31-12) en de dag voor 1e Kerstdag (24-12) sluiting als zaterdagavond behalve als dit op zondag valt.):
    05:00 - 06:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 11:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -10370,8 +10370,8 @@ Periode 20-05 tot 24-12:
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
 Periode 25-12 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 21:00: Za, excl. feestdagen. 
    05:00 - 21:00: Zo, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -10397,16 +10397,16 @@ Periode 15-03 tot 22-03:
    08:00 - 09:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep via 06 - 11 80 91 63
    13:00 - 14:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Op afroep via 06 - 11 80 91 63
 Periode 23-03 tot 18-05 (note: Geen bediening op 1e Paasdag en/of 1e Pinksterdag.):
-   08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen. Op afroep via 06 - 11 80 91 63.
    08:00 - 09:00: Vr, Za, excl. feestdagen. 
+   08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen. Op afroep via 06 - 11 80 91 63.
    13:00 - 15:00: Vr, excl. feestdagen. 
    13:00 - 15:00: Ma, Di, Wo, Do, excl. feestdagen. Op afroep via 06 - 11 80 91 63.
    16:30 - 17:30: Vr, excl. feestdagen. 
    16:30 - 17:30: Ma, Di, Wo, Do, excl. feestdagen. Op afroep via 06 - 11 80 91 63.
    17:30 - 18:15: Zo, incl. feestdagen. 
 Periode 19-05 tot 31-05 (note: Geen bediening op 1e Paasdag en/of 1e Pinksterdag.):
-   08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen. Op afroep via 06 - 11 80 91 63.
    08:00 - 09:00: Vr, Za, excl. feestdagen. 
+   08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen. Op afroep via 06 - 11 80 91 63.
    13:00 - 15:00: Vr, excl. feestdagen. 
    13:00 - 15:00: Ma, Di, Wo, Do, excl. feestdagen. Op afroep via 06 - 11 80 91 63.
    16:30 - 17:30: Vr, excl. feestdagen. 
@@ -10414,8 +10414,8 @@ Periode 19-05 tot 31-05 (note: Geen bediening op 1e Paasdag en/of 1e Pinksterdag
    17:30 - 18:15: Zo, excl. feestdagen. 
    18:45 - 19:15: incl. feestdagen. 
 Periode 01-06 tot 31-08 (note: Geen bediening op 1e Pinksterdag.):
-   08:00 - 09:00: Ma, Di, Wo, excl. feestdagen. Op afroep via 06 - 11 80 91 63
    08:00 - 09:00: Vr, Za, excl. feestdagen. 
+   08:00 - 09:00: Ma, Di, Wo, excl. feestdagen. Op afroep via 06 - 11 80 91 63
    13:00 - 15:00: Vr, excl. feestdagen. 
    13:00 - 15:00: Ma, Di, Wo, excl. feestdagen. Op afroep via 06 - 11 80 91 63
    16:30 - 17:30: Do, Vr, excl. feestdagen. 
@@ -10423,8 +10423,8 @@ Periode 01-06 tot 31-08 (note: Geen bediening op 1e Pinksterdag.):
    17:00 - 17:30: Za, excl. feestdagen. Op afroep via 06 - 11 80 91 63
    18:45 - 19:15: Zo, excl. feestdagen. 
 Periode 01-09 tot 30-09:
-   08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen. Op afroep via 06 - 11 80 91 63
    08:00 - 09:00: Vr, Za, excl. feestdagen. 
+   08:00 - 09:00: Ma, Di, Wo, Do, excl. feestdagen. Op afroep via 06 - 11 80 91 63
    13:00 - 15:00: Vr, excl. feestdagen. 
    13:00 - 15:00: Ma, Di, Wo, Do, excl. feestdagen. Op afroep via 06 - 11 80 91 63
    16:30 - 17:30: Vr, excl. feestdagen. 
@@ -11222,10 +11222,10 @@ Periode 01-11 tot 22-03 (note: Bediening op aanvraag via 058 - 29 25 888 optie 4
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 23-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-Periode 01-11 tot 22-03:
+Periode 01-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 29-02:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: 01 april t/m 31 oktober: 
@@ -11341,7 +11341,7 @@ Type:    Bedienbare Brug
 VHF:     78
 
 Bedieningstijden
-Periode 23-03 tot 18-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 23-03 tot 18-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Koningsdag en Hemelvaartsdag reguliere bediening):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -11351,7 +11351,7 @@ Koningsdag en Hemelvaartsdag reguliere bediening):
    16:15 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 19-05 tot 31-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 19-05 tot 31-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Koningsdag en Hemelvaartsdag reguliere bediening):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -11362,7 +11362,7 @@ Koningsdag en Hemelvaartsdag reguliere bediening):
    16:15 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
@@ -11370,7 +11370,7 @@ Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaar
    12:00 - 15:15: Za, Zo, excl. feestdagen. 
    16:15 - 19:00: Za, Zo, excl. feestdagen. 
    17:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
@@ -11380,7 +11380,7 @@ Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitslu
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 01-11 tot 22-03 (note: Ma t/m vr: 06:00 - 07:00 en 18:00 - 19:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
-ma t/m vr: 09:00 - 16:00 en za: 09:00 - 17:00: Op afroep via 06 - 11 80 91 63
+ma t/m vr: 09:00 - 16:00 en za: 09:00 - 17:00: Op afroep via 058 - 29 25 888
 (beide bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Oudejaarsdag (31-12) en de dag voor 1e Kerstdag (24-12) sluiting als zaterdagavond behalve als dit op zondag valt.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -11589,10 +11589,10 @@ Type:    Vaste Brug</desc>
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 23-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-Periode 01-11 tot 22-03:
+Periode 01-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 29-02:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: 01 april t/m 31 oktober: 
@@ -11890,10 +11890,10 @@ Periode 01-11 tot 22-03 (note: Op 24 en 31 dec. bediening als op zaterdag, tenzi
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 23-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-Periode 01-11 tot 22-03:
+Periode 01-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 29-02:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: 01 april t/m 31 oktober: 
@@ -13826,10 +13826,10 @@ Type:    Bedienbare Brug
 VHF:     11
 
 Bedieningstijden
-Periode 23-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
-   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Alleen op afroep
-Periode 01-11 tot 22-03:
+Periode 01-03 tot 31-10 (note: Bediening op aanvraag via 06 - 53 75 25 87.):
+   08:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+   12:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 29-02:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: 01 april t/m 31 oktober: 
@@ -14851,7 +14851,7 @@ Type:    Vaste Brug</desc>
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 23-03 tot 18-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 23-03 tot 18-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Koningsdag en Hemelvaartsdag reguliere bediening):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -14861,7 +14861,7 @@ Koningsdag en Hemelvaartsdag reguliere bediening):
    16:15 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 19-05 tot 31-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 19-05 tot 31-05 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Koningsdag en Hemelvaartsdag reguliere bediening):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -14872,7 +14872,7 @@ Koningsdag en Hemelvaartsdag reguliere bediening):
    16:15 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
@@ -14880,7 +14880,7 @@ Periode 01-06 tot 31-08 (note: Ma t/m vr: 06:00 - 07:00: Uitsluitend beroepsvaar
    12:00 - 15:15: Za, Zo, excl. feestdagen. 
    16:15 - 19:00: Za, Zo, excl. feestdagen. 
    17:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 06 - 11 80 91 63
+Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 11:00: Za, Zo, excl. feestdagen. 
@@ -14890,7 +14890,7 @@ Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitslu
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 01-11 tot 22-03 (note: Ma t/m vr: 06:00 - 07:00 en 18:00 - 19:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
-ma t/m vr: 09:00 - 16:00 en za: 09:00 - 17:00: Op afroep via 06 - 11 80 91 63
+ma t/m vr: 09:00 - 16:00 en za: 09:00 - 17:00: Op afroep via 058 - 29 25 888
 (beide bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Oudejaarsdag (31-12) en de dag voor 1e Kerstdag (24-12) sluiting als zaterdagavond behalve als dit op zondag valt.):
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
