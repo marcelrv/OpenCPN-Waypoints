@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-01-15T15:24:04.831000Z</time>
+    <time>2024-01-17T10:56:04.815000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -4677,8 +4677,8 @@ Za: 19-20 uur: Uitsluitend bediening voor beroepsvaart.
 Zo: 19-20 uur: Uitsluitend bediening voor beroepsvaart.):
    05:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   15:00 - 17:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    15:00 - 17:00: Za, Zo, incl. feestdagen. 
+   15:00 - 17:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    17:00 - 18:00: Za, Zo, incl. feestdagen. 
    17:00 - 20:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Za, Zo, incl. feestdagen. 
@@ -6364,10 +6364,12 @@ Note: Opening op verzoek. Tussen 1 april en 31 oktober wordt de brug dagelijks o
 Type:    Bedienbare Brug
 
 Bedieningstijden
-Periode 01-01 tot 31-12:
-   09:00 - 15:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Zie opmerking
+Periode 25-12 tot 25-12:
+   09:00 - 11:00: Wo, incl. feestdagen. Zie opmerking
+Periode 26-12 tot 24-12:
+   09:00 - 11:00: Wo, excl. feestdagen. Zie opmerking
 
-Note: Bediening op aanvraag uitsluitend voor schepen die  vwb afmetingen niet via een andere route kunnen. Bediening aanvragen minimaal 5 werkdagen van te voren bij Centrale Post IJsselmeer 088 – 797 33 00</desc>
+Note: Bediening op aanvraag op woensdagen tussen 10.00 en 12.00 uitsluitend voor schepen die  vwb afmetingen niet via een andere route kunnen. Bediening aanvragen minimaal 7 dagen van te voren via https://beterbediend.rws.nl</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/31217">
       <text>Fonejachtbrug online info</text>
     </link>
