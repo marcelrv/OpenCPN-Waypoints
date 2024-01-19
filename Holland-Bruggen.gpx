@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-01-18T11:46:37.219000Z</time>
+    <time>2024-01-18T15:26:14.743000Z</time>
   </metadata>
   <wpt lat="52.8349518997784" lon="4.81026448308057">
     <name>Brug over Zeesluis Oudesluis</name>
@@ -36677,6 +36677,18 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/46807985">
       <text>Gevlebrug (Brug 2430) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.37705598965533" lon="4.90339457988739">
+    <name>Oudezijds Armsteegbrug (Brug 228)</name>
+    <desc>Locatie: Open Havenfront
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/46831240">
+      <text>Oudezijds Armsteegbrug (Brug 228) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
