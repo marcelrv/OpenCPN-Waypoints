@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-01-19T17:47:11.669000Z</time>
+    <time>2024-01-23T09:44:30.664000Z</time>
   </metadata>
   <wpt lat="52.2507194217856" lon="4.56760162786651">
     <name>WV Lisse (1)</name>
@@ -355,13 +355,13 @@ Tankstation:      : Nee</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.8604152829159" lon="4.99868848233891">
+  <wpt lat="51.860625465845146" lon="4.998739063739776">
     <name>De Gors, Arkel</name>
     <desc>Locatie: Linge
-Opmerking      : -
-Passanten plaatsen: 0
-Vaste ligplaatsen: 50
-Tankstation:      : Nee</desc>
+Passanten plaatsen: 7
+Vaste ligplaatsen: 108
+Tankstation:      : Nee
+PhoneNumber: 0183-564036</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/3153">
       <text>De Gors, Arkel online info</text>
     </link>
@@ -4212,20 +4212,6 @@ Vaste ligplaatsen: 70
 Tankstation:      : Ja</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/19457">
       <text>Aquanaut online info</text>
-    </link>
-    <sym>Anchor</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.8606888336118" lon="4.99820971691828">
-    <name>De Gors</name>
-    <desc>Locatie: Linge
-Passanten plaatsen: 0
-Vaste ligplaatsen: 90
-Tankstation:      : Nee</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/19489">
-      <text>De Gors online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
