@@ -9634,7 +9634,7 @@ licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1141</sym>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -65186,6 +65186,7 @@ licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5542</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -76082,6 +76083,7 @@ model : spar Rood</desc>
     <name>UD 7</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -83622,7 +83624,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1045</sym>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -83996,7 +83998,7 @@ model : spar Rood</desc>
     <name>VS 22</name>
     <desc>vaarweg : VLIESLOOT
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -84005,7 +84007,7 @@ model : spar Rood</desc>
     <name>VS 24</name>
     <desc>vaarweg : VLIESLOOT
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
