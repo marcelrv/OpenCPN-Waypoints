@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-01-25T17:27:57.235000Z</time>
+    <time>2024-01-29T06:32:58.381000Z</time>
   </metadata>
   <wpt lat="52.42482997873" lon="4.83723118322086">
     <name>Meldpunt Zaanhaven</name>
@@ -8026,19 +8026,6 @@ RadioTraffic: INBOUND</desc>
       <text>Meldpunt Zuidersluis Almere online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.49009983265864" lon="4.801272153854369">
-    <name>Meldpunt Tijdelijke Zaanbrug</name>
-    <desc>Naam:         Meldpunt Tijdelijke Zaanbrug
-VHF:          20
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/37148690">
-      <text>Meldpunt Tijdelijke Zaanbrug online info</text>
-    </link>
-    <sym>Info-Info</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
