@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-02-05T17:34:38.420000Z</time>
+    <time>2024-02-07T12:27:11.091000Z</time>
   </metadata>
   <wpt lat="52.8349518997784" lon="4.81026448308057">
     <name>Brug over Zeesluis Oudesluis</name>
@@ -3715,8 +3715,8 @@ Contact PhoneNumber:0223-652129
 
 Bedieningstijden
 Periode 01-01 tot 31-12 (note: De brug wordt in principe niet bediend binnen de spertijden. Ontheffing voor passage binnen de spertijden kan worden aangevraagd op VHF 62 en wordt alleen toegekend aan geladen binnenvaartschepen, die aantoonbaar gebonden zijn aan een getijpoort.):
-   23:00 - 22:59: Za, Zo, incl. feestdagen. 
    23:00 - 06:00: Vr, excl. feestdagen. 
+   23:00 - 22:59: Za, Zo, incl. feestdagen. 
    23:00 - 05:45: Ma, Di, Wo, Do, excl. feestdagen. 
    07:15 - 07:25: Ma, Di, Wo, Do, Vr, excl. feestdagen. eenmalige opening van max 10 minuten
    07:45 - 22:59: Vr, excl. feestdagen. 
@@ -29479,7 +29479,7 @@ Periode 01-11 tot 30-03 (note: 24 en 31 december bediening tot 16:00):
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.3836549654254" lon="4.74498409927239">
+  <wpt lat="52.383742225183966" lon="4.7447066196764345">
     <name>Bietenbrug</name>
     <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (noordelijk gedeelte)
 Type:    Bedienbare Brug
@@ -34623,11 +34623,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.36219181699291" lon="4.860082996184918">
-    <name>Cornelis ritterbrug (Brug 145)</name>
+    <name>Cornelis Ritterbrug (Brug 145)</name>
     <desc>Locatie: Jacob van Lennepkanaal
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/42980760">
-      <text>Cornelis ritterbrug (Brug 145) online info</text>
+      <text>Cornelis Ritterbrug (Brug 145) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -34923,11 +34923,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.36723040276249" lon="4.932497609515849">
-    <name>Brug oosterlijk van Cruquiusspoorbrug over Nieuwevaart (Brug 332)</name>
+    <name>Brug in de Cruquiuskade over de Nieuwevaart (Brug 332)</name>
     <desc>Locatie: Nieuwe Vaart
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43026223">
-      <text>Brug oosterlijk van Cruquiusspoorbrug over Nieuwevaart (Brug 332) online info</text>
+      <text>Brug in de Cruquiuskade over de Nieuwevaart (Brug 332) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -35367,11 +35367,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.348772" lon="4.860131">
-    <name>Herman van den eerenbeemtbrug (Brug 411)</name>
+    <name>Herman van den Eerenbeemtbrug (Brug 411)</name>
     <desc>Locatie: Noorder Amstelkanaal
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/43080740">
-      <text>Herman van den eerenbeemtbrug (Brug 411) online info</text>
+      <text>Herman van den Eerenbeemtbrug (Brug 411) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -37177,6 +37177,138 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/52932270">
       <text>Gerrie Mührenbrug (Brug 2235) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.344631" lon="4.827211">
+    <name>Rita Reysbrug (Brug 1866)</name>
+    <desc>Locatie: Slotervaart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54046215">
+      <text>Rita Reysbrug (Brug 1866) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.342700624946474" lon="4.825191069521678">
+    <name>Pia Beckbrug (Brug 1868)</name>
+    <desc>Locatie: Slotervaart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54046303">
+      <text>Pia Beckbrug (Brug 1868) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.353053" lon="4.773253">
+    <name>Brug tussen Matterhorn en La Meye (Brug 1869)</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (noordelijk gedeelte)
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54046320">
+      <text>Brug tussen Matterhorn en La Meye (Brug 1869) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.352328" lon="4.776214">
+    <name>Brug in Pilatis bij De Alpen (Brug 1870)</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (noordelijk gedeelte)
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54046361">
+      <text>Brug in Pilatis bij De Alpen (Brug 1870) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.352" lon="4.775894">
+    <name>Brug in Presnella bij De Alpen (Brug 1871)</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (noordelijk gedeelte)
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54046374">
+      <text>Brug in Presnella bij De Alpen (Brug 1871) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.350408" lon="4.781011">
+    <name>Brug in de Nisserstraat bij De Alpen (Brug 1879)</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (noordelijk gedeelte)
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54046392">
+      <text>Brug in de Nisserstraat bij De Alpen (Brug 1879) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.350094" lon="4.780642">
+    <name>Brug in de Allenstraat bij De Alpen (Brug 1880)</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (noordelijk gedeelte)
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54046449">
+      <text>Brug in de Allenstraat bij De Alpen (Brug 1880) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.349767" lon="4.782658">
+    <name>Brug in de Inarisstraat bij De Alpen (Brug 1881)</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (noordelijk gedeelte)
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54046538">
+      <text>Brug in de Inarisstraat bij De Alpen (Brug 1881) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.349410689646504" lon="4.782303906977175">
+    <name>Brug in de Kölpinstraat bij De Alpen (Brug 1882)</name>
+    <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (noordelijk gedeelte)
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54046594">
+      <text>Brug in de Kölpinstraat bij De Alpen (Brug 1882) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.364828" lon="4.881464">
+    <name>Melkfabriekbrug (Brug 1900)</name>
+    <desc>Locatie: Lijnbaansgracht
+Type:    Bedienbare Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54046736">
+      <text>Melkfabriekbrug (Brug 1900) online info</text>
+    </link>
+    <sym>Landmarks-Bridge2</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.38548052361983" lon="4.804368102941225">
+    <name>Brug in het Brettenpad bij de Australiëhavenweg (Brug 1913)</name>
+    <desc>Locatie: Moezelhaven
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54046834">
+      <text>Brug in het Brettenpad bij de Australiëhavenweg (Brug 1913) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
