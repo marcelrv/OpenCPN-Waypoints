@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-02-07T12:27:11.091000Z</time>
+    <time>2024-02-09T12:50:29.151000Z</time>
   </metadata>
   <wpt lat="53.1790311589639" lon="5.41965093758831">
     <name>Tsjerk Hiddessluizen</name>
@@ -1460,6 +1460,28 @@ Periode 01-01 tot 31-12:
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/41610676">
       <text>Sluis Falomster Feart (schutsluis) online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.375247528499585" lon="6.161535680294037">
+    <name>Krûmsterhaad (schutsluis)</name>
+    <desc>Locatie: Nije Feart</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/54097251">
+      <text>Krûmsterhaad (schutsluis) online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.32902263011482" lon="6.007295921444893">
+    <name>Oosterverlaat (schutsluis)</name>
+    <desc>Locatie: Súd Ie</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/54097293">
+      <text>Oosterverlaat (schutsluis) online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>

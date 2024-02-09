@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-02-07T12:27:11.091000Z</time>
+    <time>2024-02-09T12:50:29.151000Z</time>
   </metadata>
   <wpt lat="52.8349518997784" lon="4.81026448308057">
     <name>Brug over Zeesluis Oudesluis</name>
@@ -1437,7 +1437,7 @@ Note: Alleen opening in de nacht, gekoppeld aan de Staande Mast Route.</desc>
     </extensions>
   </wpt>
   <wpt lat="52.090002124737" lon="4.9547058223693">
-    <name>Haanwijkerschutsluis (voetbrug)</name>
+    <name>Haanwijkerschutsluis</name>
     <desc>Locatie: Oude Rijn
 Type:    Bedienbare Brug
 
@@ -1458,7 +1458,7 @@ Periode 16-10 tot 30-03 (note: Op afroep, bellen tijdens kantoor uren: 030 63457
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/3694">
-      <text>Haanwijkerschutsluis (voetbrug) online info</text>
+      <text>Haanwijkerschutsluis online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -13814,7 +13814,7 @@ Periode 01-11 tot 30-03 (note: Alleen op afroep, 24-uur tevoren aanvragen op tel
     </extensions>
   </wpt>
   <wpt lat="52.2281091216943" lon="5.03356622357828">
-    <name>Brug in de N201 Vreeland</name>
+    <name>Vreelandbrug</name>
     <desc>Locatie: Vecht
 Type:    Bedienbare Brug
 Contact PhoneNumber:0294-232850 / 0900-9394
@@ -13855,7 +13855,7 @@ Periode 01-11 tot 30-03 (note: Op 24 en 31 dec. (niet zijnde een zondag), bedien
 Note: Vanaf de centrale bediening te Weesp worden op afstand bediend: Nieuwersluisbrug, Cronenburgherbrug en Vreeland, brug in de N-201. Infonummer Waternet 0900-9394
 Geen bediening vanaf windkracht 8.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/31238">
-      <text>Brug in de N201 Vreeland online info</text>
+      <text>Vreelandbrug online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -14540,9 +14540,12 @@ VHF:     18
 Contact PhoneNumber:088-7985720
 
 Bedieningstijden
-Periode 10-01 tot 27-03 (note: Op aanvraag via https://beterbediend.rws.nl/ tussen 10 januari t/m 27 maart 2024 op woensdag tussen 10.30 en 10.35 uur.):
-   23:00 - 22:59: Ma, Di, Do, Vr, Za, Zo, excl. feestdagen. 
-   09:30 - 09:35: Wo, excl. feestdagen. 
+Periode 10-01 tot 27-03 (note: Bediening 24 uur van tevoren aan te vragen via het webformulier Buitenhuizerbrug op Beterbediend.rws.nl.
+Vanwege werkzaamheden geen bediening op 26 februari tussen 9.00 en 16.00 uur. 
+In verband met het lange paasweekend al vanaf donderdag 28 maart bediening volgens het reguliere zomerregime.
+):
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   08:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 Periode 28-03 tot 31-03:
    08:00 - 20:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Gedurende de schoolvakanties (alle regio's), bediening alle dagen van 9.00 tot 23.00 uur.
    08:00 - 22:00: Za, Zo, incl. feestdagen. Gedurende de schoolvakanties (alle regio's), bediening alle dagen van 9.00 tot 23.00 uur.
@@ -36115,7 +36118,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.335397" lon="4.873381">
+  <wpt lat="52.33538864107709" lon="4.873409355113835">
     <name>Lex van Deldenbrug (Brug 808)</name>
     <desc>Locatie: Zuideramstelkanaal
 Type:    Vaste Brug</desc>
@@ -37309,6 +37312,42 @@ Type:    Bedienbare Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54046834">
       <text>Brug in het Brettenpad bij de Australiëhavenweg (Brug 1913) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.314008" lon="4.959528">
+    <name>Albert Helmanbrug (Brug 1231)</name>
+    <desc>Locatie: Weespertrekvaart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54080277">
+      <text>Albert Helmanbrug (Brug 1231) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3842" lon="4.910997">
+    <name>Brug in het IJplein over de IJ-tunnel (Brug 1942)</name>
+    <desc>Locatie: Noordhollandsch Kanaal
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54080333">
+      <text>Brug in het IJplein over de IJ-tunnel (Brug 1942) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.402584555408026" lon="4.916913891238436">
+    <name>François Brandtbrug (Brug 1777)</name>
+    <desc>Locatie: Noordhollandsch Kanaal
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54080370">
+      <text>François Brandtbrug (Brug 1777) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
