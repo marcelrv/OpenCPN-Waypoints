@@ -25662,11 +25662,95 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.825677777981426" lon="4.047555555901643">
+    <name>HD-A</name>
+    <desc>vaarweg : HARINGVLIET
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.82555555555961" lon="4.048230556080419">
+    <name>HD-B</name>
+    <desc>vaarweg : HARINGVLIET
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.826994444184905" lon="4.050252777453704">
+    <name>HD-C</name>
+    <desc>vaarweg : HARINGVLIET
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.82836388896129" lon="4.052155555096178">
+    <name>HD-D</name>
+    <desc>vaarweg : HARINGVLIET
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.82976666705652" lon="4.054030555645526">
+    <name>HD-E</name>
+    <desc>vaarweg : HARINGVLIET
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.831211111268345" lon="4.056002778059626">
+    <name>HD-F</name>
+    <desc>vaarweg : HARINGVLIET
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.83268888867812" lon="4.057744444261344">
     <name>HD-G</name>
     <desc>vaarweg : HARINGVLIET
 model : spar Geel</desc>
     <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8341805554648" lon="4.059450000503915">
+    <name>HD-H</name>
+    <desc>vaarweg : HARINGVLIET
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.83598611075129" lon="4.0593472227475">
+    <name>HD-I</name>
+    <desc>vaarweg : HARINGVLIET
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5542</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -66337,7 +66421,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.325288888629096" lon="5.174069444547634">
+  <wpt lat="53.32514722181049" lon="5.174188888476207">
     <name>SG 11</name>
     <desc>vaarweg : SCHUITENGAT
 model : spar Groen</desc>
@@ -66893,7 +66977,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32553055514442" lon="5.167569444613818">
+  <wpt lat="53.32540277752957" lon="5.167361111441951">
     <name>SG 6</name>
     <desc>vaarweg : SCHUITENGAT
 model : spar Rood</desc>
@@ -66923,7 +67007,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32434444436006" lon="5.167305555599579">
+  <wpt lat="53.32445000020301" lon="5.166450000095267">
     <name>SG 7</name>
     <desc>vaarweg : SCHUITENGAT
 model : spar Groen</desc>
@@ -66962,7 +67046,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32528333334121" lon="5.170061110740379">
+  <wpt lat="53.32490555534711" lon="5.170272222212411">
     <name>SG 8</name>
     <desc>vaarweg : SCHUITENGAT
 model : spar Rood</desc>
@@ -67001,7 +67085,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.324347221981846" lon="5.170202777596137">
+  <wpt lat="53.32391944423267" lon="5.170263888917071">
     <name>SG 9</name>
     <desc>vaarweg : SCHUITENGAT
 model : spar Groen</desc>
@@ -71034,7 +71118,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.48461111103042" lon="4.221708333336648">
+  <wpt lat="51.48454166708975" lon="4.221855555577394">
     <name>SRK 36</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71058,7 +71142,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.4930305554965" lon="4.219869443975649">
+  <wpt lat="51.49303888878312" lon="4.219988888905452">
     <name>SRK 38</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71174,7 +71258,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.52658888848032" lon="4.225811111748375">
+  <wpt lat="51.52657777770571" lon="4.22594999987409">
     <name>SRK 48</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71198,7 +71282,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.535055555783885" lon="4.2306138891231">
+  <wpt lat="51.535050000063755" lon="4.23071944481679">
     <name>SRK 50</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71222,7 +71306,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.53931944455735" lon="4.232905555673015">
+  <wpt lat="51.539305555537275" lon="4.233005556119125">
     <name>SRK 52</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71246,7 +71330,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.54363055523826" lon="4.234686110677582">
+  <wpt lat="51.54362777818472" lon="4.234769444296727">
     <name>SRK 54</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71258,7 +71342,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.54812222211006" lon="4.235241665944762">
+  <wpt lat="51.54812777803227" lon="4.235338888692105">
     <name>SRK 56</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71279,7 +71363,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.552555555100064" lon="4.234525000676237">
+  <wpt lat="51.55256944421897" lon="4.234619443809112">
     <name>SRK 58</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71303,7 +71387,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.55686111135052" lon="4.232672222082793">
+  <wpt lat="51.55689166663132" lon="4.232799999454669">
     <name>SRK 60</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71336,7 +71420,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.5643333330421" lon="4.226038888300486">
+  <wpt lat="51.56434722254121" lon="4.226105555504256">
     <name>SRK 64</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71357,7 +71441,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.57139722197341" lon="4.216841666707981">
+  <wpt lat="51.57141944419197" lon="4.216916666323294">
     <name>SRK 66</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71378,7 +71462,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.57842500037405" lon="4.207550000420924">
+  <wpt lat="51.57844444406812" lon="4.207630556167007">
     <name>SRK 68</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71399,7 +71483,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.58541944432892" lon="4.198338888266195">
+  <wpt lat="51.58543333323219" lon="4.198386111734802">
     <name>SRK 70</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71432,7 +71516,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.597733332984305" lon="4.189638888487123">
+  <wpt lat="51.59775277783498" lon="4.189794443998126">
     <name>SRK 74</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71456,7 +71540,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.60204722222869" lon="4.189105555073839">
+  <wpt lat="51.60205555530305" lon="4.189244444478303">
     <name>SRK 76</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71468,7 +71552,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.610863888547385" lon="4.191341665938591">
+  <wpt lat="51.61086111147384" lon="4.191447221719455">
     <name>SRK 78</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71492,7 +71576,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.615113888597186" lon="4.193977777975308">
+  <wpt lat="51.615097222239086" lon="4.194094444371616">
     <name>SRK 80</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71516,7 +71600,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.622802777773344" lon="4.202308333895218">
+  <wpt lat="51.62277222238139" lon="4.202402778370693">
     <name>SRK 82</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71540,7 +71624,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.62838055554979" lon="4.214597222240775">
+  <wpt lat="51.62833888883675" lon="4.214624999492185">
     <name>SRK 84</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
@@ -71564,7 +71648,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.63189444482899" lon="4.228063889331148">
+  <wpt lat="51.631711110836626" lon="4.227863889164913">
     <name>SRK 86</name>
     <desc>vaarweg : SCHELDE RIJN KANAAL
 licht type : Iso (isophased)
