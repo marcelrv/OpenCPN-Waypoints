@@ -25726,6 +25726,7 @@ model : spar Geel</desc>
     <name>HD-G</name>
     <desc>vaarweg : HARINGVLIET
 model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -31702,7 +31703,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.40204722226934" lon="5.650763888621796">
+  <wpt lat="53.40208055525687" lon="5.651872222842945">
     <name>KB 6</name>
     <desc>vaarweg : KROMME BALG
 model : spar Rood</desc>
@@ -43139,6 +43140,15 @@ model : spar Groen</desc>
     <desc>vaarweg : MOLENRAK
 model : spar Rood</desc>
     <sym>1143</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.143533333439265" lon="5.258233333864973">
+    <name>MR 7-VVG 18</name>
+    <desc>vaarweg : MOLENRAK
+model : spar Zwart/geel</desc>
+    <sym>2031</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -84227,7 +84237,7 @@ model : spar Geel</desc>
   <wpt lat="51.58606111153402" lon="3.916047222773245">
     <name>VW D</name>
     <desc>vaarweg : OOSTERSCHELDE
-model : spar Niet toegewezen</desc>
+model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
