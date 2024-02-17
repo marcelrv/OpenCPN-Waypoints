@@ -13952,15 +13952,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.50450277818165" lon="3.417972222687442">
-    <name>DL 1</name>
-    <desc>vaarweg : DEURLOO
-model : spar Groen</desc>
-    <sym>1003</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.506811111145474" lon="3.425997221881124">
     <name>DL 2</name>
     <desc>vaarweg : DEURLOO
@@ -43148,7 +43139,6 @@ model : spar Rood</desc>
     <name>MR 7-VVG 18</name>
     <desc>vaarweg : MOLENRAK
 model : spar Zwart/geel</desc>
-    <sym>2031</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -66289,7 +66279,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85007222182376" lon="3.950105555561855">
+  <wpt lat="51.85093611074444" lon="3.949947222355783">
     <name>SG 10</name>
     <desc>vaarweg : SLIJKGAT
 licht type : Iso (isophased)
@@ -66319,7 +66309,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.847111110916146" lon="3.975580555147597">
+  <wpt lat="51.84658611154009" lon="3.972825000044385">
     <name>SG 11</name>
     <desc>vaarweg : SLIJKGAT
 licht type : Iso (isophased)
@@ -66358,7 +66348,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.84903888892098" lon="3.975158333204889">
+  <wpt lat="51.8486305556056" lon="3.972558333767171">
     <name>SG 12</name>
     <desc>vaarweg : SLIJKGAT
 licht type : Iso (isophased)
@@ -66875,11 +66865,22 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85219444468194" lon="3.918572221623624">
-    <name>SG 6</name>
+  <wpt lat="51.84531666670245" lon="3.923174999652268">
+    <name>SG 5A</name>
     <desc>vaarweg : SLIJKGAT
 licht type : Iso (isophased)
 licht periode : 8
+lich kleur : Groen
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8522638893274" lon="3.917675000323186">
+    <name>SG 6</name>
+    <desc>vaarweg : SLIJKGAT
+licht type : Iso (isophased)
+licht periode : 4
 lich kleur : Rood
 model : stomp Rood</desc>
     <sym>1105</sym>
@@ -66896,6 +66897,17 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.847063889099516" lon="3.925011111118841">
+    <name>SG 6A</name>
+    <desc>vaarweg : SLIJKGAT
+licht type : Iso (isophased)
+licht periode : 8
+lich kleur : Rood
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.78028333303246" lon="3.91441666710954">
     <name>SG 7</name>
     <desc>vaarweg : GREVELINGEN
@@ -66905,11 +66917,11 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.84471111122615" lon="3.929261111347202">
+  <wpt lat="51.84438055572002" lon="3.92800555525241">
     <name>SG 7</name>
     <desc>vaarweg : SLIJKGAT
 licht type : Iso (isophased)
-licht periode : 2
+licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1005</sym>
@@ -66935,7 +66947,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.84652222219407" lon="3.94081388915684">
+  <wpt lat="51.84668611139669" lon="3.939077777757437">
     <name>SG 7A</name>
     <desc>vaarweg : SLIJKGAT
 model : spar Groen</desc>
@@ -66944,7 +66956,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.84696666628668" lon="3.929702777743661">
+  <wpt lat="51.84648611109316" lon="3.927980555533022">
     <name>SG 8</name>
     <desc>vaarweg : SLIJKGAT
 licht type : Iso (isophased)
@@ -66965,7 +66977,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.84853611079534" lon="3.939913888854002">
+  <wpt lat="51.848777778075565" lon="3.938922222239633">
     <name>SG 8A</name>
     <desc>vaarweg : SLIJKGAT
 model : spar Rood</desc>
@@ -66983,7 +66995,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.84803055517368" lon="3.950255556240702">
+  <wpt lat="51.849005555641924" lon="3.950194444367698">
     <name>SG 9</name>
     <desc>vaarweg : SLIJKGAT
 licht type : Iso (isophased)
@@ -67013,7 +67025,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.84748888914237" lon="3.964888888998518">
+  <wpt lat="51.84753888907084" lon="3.963897221661077">
     <name>SG 9A</name>
     <desc>vaarweg : SLIJKGAT
 model : spar Groen</desc>
