@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-02-16T10:59:11.192000Z</time>
+    <time>2024-02-16T14:03:46.267000Z</time>
   </metadata>
   <wpt lat="52.8349518997784" lon="4.81026448308057">
     <name>Brug over Zeesluis Oudesluis</name>
@@ -11318,11 +11318,11 @@ Periode 16-10 tot 30-03 (note: Alleen op afroep, 24-uur tevoren aanvragen op tel
     </extensions>
   </wpt>
   <wpt lat="52.387196783282" lon="5.29260789173754">
-    <name>Tuibrug (fiets-/voetbrug)</name>
+    <name>Tuibrug</name>
     <desc>Locatie: Lage Vaart
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/25877">
-      <text>Tuibrug (fiets-/voetbrug) online info</text>
+      <text>Tuibrug online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -37686,6 +37686,42 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54191039">
       <text>Brug in de Akersluis (Brug 2397) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.39425894567299" lon="4.897778379734279">
+    <name>Wim Ibobrug (Brug 1774)</name>
+    <desc>Locatie: Tolhuiskanaal
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54246025">
+      <text>Wim Ibobrug (Brug 1774) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.375378" lon="4.843011">
+    <name>Erasmusgrachtbrug (Brug 142P)</name>
+    <desc>Locatie: Erasmusgracht
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54246111">
+      <text>Erasmusgrachtbrug (Brug 142P) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.36958812818543" lon="4.842149168543982">
+    <name>Jan Evertsenbrug (Brug 145P)</name>
+    <desc>Locatie: Erasmusgracht
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54247770">
+      <text>Jan Evertsenbrug (Brug 145P) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
