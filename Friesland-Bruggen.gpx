@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-02-29T11:55:45.968000Z</time>
+    <time>2024-02-29T14:04:32.606000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -5348,11 +5348,12 @@ Periode 01-09 tot 31-10:
    07:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 22-03:
-   07:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   07:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
    08:00 - 16:00: Za, excl. feestdagen. 
-   08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 16:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
-Note: Afroepen via 058 -  29 25 888.  Optie 4 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
+Note: Afroepen via 058 -  29 25 888.  Optie 4 (bereikbaar ma t/m vr 08:30-16:00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.
 2e Paasdag en 2e Pinksterdag bediening als op zondag.
 Koningsdag heeft geen afwijkende bedieningstijden.
@@ -6631,9 +6632,9 @@ Type:    Bedienbare Brug
 
 Bedieningstijden
 Periode 25-12 tot 25-12:
-   09:00 - 11:00: Wo, incl. feestdagen. Zie opmerking
+   09:00 - 11:00: Wo, incl. feestdagen. 
 Periode 26-12 tot 24-12:
-   09:00 - 11:00: Wo, excl. feestdagen. Zie opmerking
+   09:00 - 11:00: Wo, excl. feestdagen. 
 
 Note: Bediening op aanvraag op woensdagen tussen 10:00 en 12:00 uitsluitend voor schepen die  vwb afmetingen niet via een andere route kunnen. Bediening aanvragen minimaal 7 dagen van te voren via https://beterbediend.rws.nl.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/31217">
@@ -10576,11 +10577,11 @@ Contact PhoneNumber:0511-539224
 Bedieningstijden
 Periode 01-01 tot 22-03 (note: .):
    23:00 - 22:59: Zo, incl. feestdagen. 
-   05:00 - 06:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. Betaalde afroep
+   05:00 - 06:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    06:00 - 17:00: Za, excl. feestdagen. 
    06:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   17:00 - 18:00: Za, excl. feestdagen. Betaalde afroep
-   18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Betaalde afroep
+   17:00 - 18:00: Za, excl. feestdagen. Betaalde afroep.
+   18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Betaalde afroep.
 Periode 23-03 tot 26-04:
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. Betaalde afroep
    06:00 - 20:00: Za, Zo, incl. feestdagen. 
@@ -10610,22 +10611,22 @@ Periode 01-10 tot 31-10:
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Betaalde afroep
 Periode 01-11 tot 23-12 (note: .):
    23:00 - 22:59: Zo, incl. feestdagen. 
-   05:00 - 06:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. Betaalde afroep
+   05:00 - 06:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    06:00 - 17:00: Za, excl. feestdagen. 
    06:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   17:00 - 18:00: Za, excl. feestdagen. Betaalde afroep
-   18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Betaalde afroep
+   17:00 - 18:00: Za, excl. feestdagen. Betaalde afroep.
+   18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Betaalde afroep.
 Periode 24-12 tot 24-12:
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    06:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 25-12 tot 30-12 (note: .):
    23:00 - 22:59: Zo, incl. feestdagen. 
-   05:00 - 06:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. Betaalde afroep
+   05:00 - 06:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    06:00 - 17:00: Za, excl. feestdagen. 
    06:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   17:00 - 18:00: Za, excl. feestdagen. Betaalde afroep
-   18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Betaalde afroep
+   17:00 - 18:00: Za, excl. feestdagen. Betaalde afroep.
+   18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Betaalde afroep.
 Periode 31-12 tot 31-12:
    05:00 - 06:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    06:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -10660,11 +10661,12 @@ Periode 01-09 tot 31-10:
    07:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 22-03:
-   07:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   07:00 - 08:00: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
    08:00 - 16:00: Za, excl. feestdagen. 
-   08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 16:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
-Note: Afroepen via 058 -  29 25 888.  Optie 4 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
+Note: Afroepen via 058 -  29 25 888.  Optie 4 (bereikbaar ma t/m vr 08:30-16:00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 1 januari, 1e en 2e Kerstdag alle objecten gesloten.
 2e Paasdag en 2e Pinksterdag bediening als op zondag.
 Koningsdag heeft geen afwijkende bedieningstijden.
@@ -10856,8 +10858,8 @@ Periode 01-09 tot 31-10 (note: Ma t/m vr: 06:00 - 07:00 en 19:00 - 20:00: Uitslu
    16:15 - 18:00: Za, Zo, excl. feestdagen. 
    17:00 - 18:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    18:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-11 tot 22-03 (note: Ma t/m vr: 06:00 - 07:30 en 18:00 - 20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888
-Za: 09:00 - 17:00: Op afroep via 058 - 29 25 888
+Periode 01-11 tot 22-03 (note: Ma t/m vr: 06:00-07:30 en 18:00-20:00: Uitsluitend beroepsvaart op afroep via 058 - 29 25 888.
+Za: 09:00-17:00: Op afroep via 058 - 29 25 888
 (bereikbaar ma t/m vr 08.30-16.00) 2 uur van tevoren dient een afroep te worden aangevraagd.
 Oudejaarsdag (31-12) en de dag voor 1e Kerstdag (24-12) sluiting als zaterdagavond behalve als dit op zondag valt.):
    23:00 - 22:59: Zo, excl. feestdagen. 
