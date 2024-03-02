@@ -18203,6 +18203,7 @@ model : spar Geel</desc>
     <name>F 45 A</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 model : spar Geel</desc>
+    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40043,6 +40044,7 @@ model : spar Rood</desc>
     <name>MHC A</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
 model : spar Geel</desc>
+    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40051,6 +40053,7 @@ model : spar Geel</desc>
     <name>MHC B</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
 model : spar Geel</desc>
+    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40059,6 +40062,7 @@ model : spar Geel</desc>
     <name>MHC C</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
 model : spar Geel</desc>
+    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -55647,6 +55651,7 @@ model : spar Geel</desc>
 licht type : Q (quick-flashing)
 lich kleur : Wit
 model : Pilaar Zwart/geel</desc>
+    <sym>2023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -79160,6 +79165,38 @@ model : spar Groen</desc>
     <desc>vaarweg : VISJAGERSGAATJE
 model : spar Groen</desc>
     <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.79300555578417" lon="5.238186110745196">
+    <name>VGK-A</name>
+    <desc>vaarweg : KREIL (IJSSELMEER)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.79303611078669" lon="5.238786111565735">
+    <name>VGK-B</name>
+    <desc>vaarweg : KREIL (IJSSELMEER)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.79306666699123" lon="5.239388888621498">
+    <name>VGK-C</name>
+    <desc>vaarweg : KREIL (IJSSELMEER)
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.79309444447811" lon="5.239966666527118">
+    <name>VGK-D</name>
+    <desc>vaarweg : KREIL (IJSSELMEER)
+model : stomp Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
