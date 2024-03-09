@@ -5312,7 +5312,7 @@ model : spar Geel/zwart/geel</desc>
     <name>ADCP 1</name>
     <desc>vaarweg : VEERSE MEER
 model : stomp Geel</desc>
-    <sym>1421</sym>
+    <sym>3601</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -5321,6 +5321,7 @@ model : stomp Geel</desc>
     <name>ADCP 2</name>
     <desc>vaarweg : VEERSE MEER
 model : stomp Geel</desc>
+    <sym>3601</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -27295,6 +27296,38 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.79143333307498" lon="5.243261111783778">
+    <name>HOP-A</name>
+    <desc>vaarweg : KREIL (IJSSELMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.793755555956444" lon="5.249786110840649">
+    <name>HOP-B</name>
+    <desc>vaarweg : KREIL (IJSSELMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.785983333050716" lon="5.255427777330796">
+    <name>HOP-C</name>
+    <desc>vaarweg : KREIL (IJSSELMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.783736111478085" lon="5.248838888917859">
+    <name>HOP-D</name>
+    <desc>vaarweg : KREIL (IJSSELMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.79158055591793" lon="5.255750000077075">
     <name>HOP-E</name>
     <desc>vaarweg : KREIL (IJSSELMEER)
@@ -43343,6 +43376,7 @@ licht type : Fl (flashing)
 licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43354,6 +43388,7 @@ licht type : Fl (flashing)
 licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43365,6 +43400,7 @@ licht type : Fl (flashing)
 licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43376,6 +43412,7 @@ licht type : Fl (flashing)
 licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43387,6 +43424,7 @@ licht type : Fl (flashing)
 licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70195,6 +70233,7 @@ model : spar Geel</desc>
     <name>SP-ZOL</name>
     <desc>vaarweg : SPRUIT
 model : spar Geel/zwart</desc>
+    <sym>2231</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -85225,7 +85264,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.814194444163995" lon="5.187452777330654">
+  <wpt lat="51.81390000009836" lon="5.189327777080836">
     <name>W 24</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -85435,7 +85474,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.823750000258954" lon="5.070099999356498">
+  <wpt lat="51.82420000036136" lon="5.070099999474546">
     <name>W 3</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -85597,7 +85636,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.84186666682628" lon="5.028383332884165">
+  <wpt lat="51.81936666649508" lon="5.028383332766887">
     <name>W 4</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
