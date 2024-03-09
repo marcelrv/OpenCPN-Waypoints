@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-03-08T12:31:24.472000Z</time>
+    <time>2024-03-08T14:11:36.722000Z</time>
   </metadata>
   <wpt lat="52.8349518997784" lon="4.81026448308057">
     <name>Brug over Zeesluis Oudesluis</name>
@@ -16912,7 +16912,11 @@ VHF:     20
 Contact PhoneNumber:06-23997313 / 0900-9394
 
 Bedieningstijden
-Periode 31-03 tot 31-03 (note: Op 24 en 31 dec. bediening tot 16.00 uur (niet zijnde een zondag)):
+Periode 01-01 tot 30-03 (note: Op 24 en 31 dec. bediening tot 16.00 uur (niet zijnde een zondag).):
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   07:00 - 15:00: Za, excl. feestdagen. 
+Periode 31-03 tot 31-03 (note: Op 24 en 31 dec. bediening tot 16.00 uur (niet zijnde een zondag).):
    23:00 - 22:59: Zo, incl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    07:00 - 15:00: Za, excl. feestdagen. 
@@ -16937,10 +16941,18 @@ Periode 20-05 tot 15-10:
 Periode 16-10 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    08:00 - 19:00: Zo, excl. feestdagen. 
-Periode 01-11 tot 30-03 (note: Op 24 en 31 dec. bediening tot 16.00 uur (niet zijnde een zondag)):
+Periode 01-11 tot 23-12 (note: Op 24 en 31 dec. bediening tot 16.00 uur (niet zijnde een zondag).):
    23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    07:00 - 15:00: Za, excl. feestdagen. 
+Periode 24-12 tot 24-12:
+   05:00 - 15:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 30-12 (note: Op 24 en 31 dec. bediening tot 16.00 uur (niet zijnde een zondag).):
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   07:00 - 15:00: Za, excl. feestdagen. 
+Periode 31-12 tot 31-12:
+   05:00 - 15:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: Brug wordt op afstand bediend vanaf centrale bediening te Weesp. Sluis staat (in het algemeen) open. Indien in bedrijf dan bedieningstijden als brug over binnenhoofd. Infonummer Waternet 0900-9394.
 Vanaf windkracht 8 mag de brug niet meer gedraaid worden.</desc>
@@ -38902,7 +38914,7 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.385188597433824" lon="4.9106011169351405">
-    <name>Hollandse Iepbrug (Brug 2470)</name>
+    <name>De Hollandse Iepbrug (Brug 2470)</name>
     <desc>Locatie: Noordhollandsch Kanaal
 Type:    Bedienbare Brug
 VHF:     20
@@ -38962,7 +38974,7 @@ Aanvraag brug 06 – 82347129.
 Houd rekening met aanrijtijd of enige vertraging
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/41033743">
-      <text>Hollandse Iepbrug (Brug 2470) online info</text>
+      <text>De Hollandse Iepbrug (Brug 2470) online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -44109,6 +44121,66 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54266959">
       <text>Brug in de Australiëhavenweg over de Haarlemmervaart (Brug 2391) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.39399778845856" lon="4.877243377268313">
+    <name>Helsingforsbrug (Brug 2421)</name>
+    <desc>Locatie: Nieuwe Houthaven
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54663037">
+      <text>Helsingforsbrug (Brug 2421) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.39358605062219" lon="4.877824522773151">
+    <name>Rostockbrug (Brug 2422)</name>
+    <desc>Locatie: Nieuwe Houthaven
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54663129">
+      <text>Rostockbrug (Brug 2422) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3932" lon="4.878333">
+    <name>Kronstadtbrug (Brug 2423)</name>
+    <desc>Locatie: Nieuwe Houthaven
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54663205">
+      <text>Kronstadtbrug (Brug 2423) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.42210508731722" lon="4.898587204643262">
+    <name>Marie Thomas Tonnonbrug (Brug 2484)</name>
+    <desc>Locatie: Zijkanaal I
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54663314">
+      <text>Marie Thomas Tonnonbrug (Brug 2484) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.369833" lon="4.926831">
+    <name>Zonnewendebrug (Brug 2106)</name>
+    <desc>Locatie: Wittenburgervaart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54663421">
+      <text>Zonnewendebrug (Brug 2106) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
