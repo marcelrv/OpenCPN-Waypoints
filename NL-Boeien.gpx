@@ -62680,15 +62680,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.356786110849434" lon="5.608505556034032">
-    <name>RGH 6-AH 1</name>
-    <desc>vaarweg : WOLDERWIJD RECREATIE (RANDMEREN)
-model : spar Rood/groen</desc>
-    <sym>1261</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.35764999998792" lon="5.608480554949728">
     <name>RGH 7</name>
     <desc>vaarweg : WOLDERWIJD RECREATIE (RANDMEREN)
@@ -76160,29 +76151,11 @@ model : spits Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.872666666521134" lon="5.936644444100883">
-    <name>Ton 877.600R</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : stomp Rood/wit repeterend</desc>
-    <sym>1552</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.951616666712674" lon="5.952766666740356">
     <name>Ton 878.640R</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : stomp Rood</desc>
     <sym>1101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.87545277740626" lon="5.923422222492316">
-    <name>Ton 878.650R</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : stomp Rood/wit repeterend</desc>
-    <sym>1552</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -78387,6 +78360,14 @@ model : spar Geel</desc>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
 model : spar Geel</desc>
     <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.97021388922084" lon="5.399466666674281">
+    <name>VF-WNB 106</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+model : spar Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -89117,6 +89098,14 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.35811944454798" lon="5.601563889277102">
+    <name>WW 10 A</name>
+    <desc>vaarweg : WOLDERWIJD (RANDMEREN)
+model : spar Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.358813888484896" lon="5.603236110768184">
     <name>WW 10-RGH 15</name>
     <desc>vaarweg : WOLDERWIJD (RANDMEREN)
@@ -91618,17 +91607,6 @@ licht periode : 10
 lich kleur : Wit
 model : spar Geel/zwart/geel</desc>
     <sym>2323</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.30218333329668" lon="4.986161110642152">
-    <name>ZINK-V</name>
-    <desc>vaarweg : ZUIDER STORTEMELK
-licht type : VQ (very quick-flashing)
-lich kleur : Wit
-model : spar Zwart/geel</desc>
-    <sym>2033</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
