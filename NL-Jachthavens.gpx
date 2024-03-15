@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-03-14T10:59:56.877000Z</time>
+    <time>2024-03-15T13:06:35.034000Z</time>
   </metadata>
   <wpt lat="52.2507194217856" lon="4.56760162786651">
     <name>WV Lisse (1)</name>
@@ -8070,7 +8070,7 @@ Tankstation:      : Nee</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.0276543584053" lon="5.09690789135347">
+  <wpt lat="52.0279104" lon="5.0972003">
     <name>Hatenboer Yachting</name>
     <desc>Locatie: Merwedekanaal (benoorden de Lek)
 Passanten plaatsen: 0
@@ -14793,6 +14793,18 @@ Tankstation:      : Nee
 PhoneNumber: 0597-482000</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/42681121">
       <text>Haven Beersterdiep Beerta online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.8238398" lon="5.7014506">
+    <name>Maastricht Marina</name>
+    <desc>Locatie: Maas
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/54774000">
+      <text>Maastricht Marina online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>

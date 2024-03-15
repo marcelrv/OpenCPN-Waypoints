@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-03-14T10:59:56.877000Z</time>
+    <time>2024-03-15T13:06:35.034000Z</time>
   </metadata>
   <wpt lat="52.8349518997784" lon="4.81026448308057">
     <name>Brug over Zeesluis Oudesluis</name>
@@ -88,8 +88,8 @@ Contact PhoneNumber:010-4153247 / 06-12860405
 
 Bedieningstijden
 Periode 01-01 tot 30-03:
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 06:15: Ma, incl. feestdagen. 
    08:00 - 14:45: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
@@ -102,15 +102,15 @@ Periode 31-03 tot 31-03:
    08:00 - 14:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    16:45 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 01-04 tot 26-04:
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 06:15: Ma, incl. feestdagen. 
    08:00 - 14:45: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    16:45 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 Periode 27-04 tot 04-05:
-   23:00 - 19:00: Za, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, incl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 06:15: Ma, excl. feestdagen. 
    08:00 - 14:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -123,8 +123,8 @@ Periode 05-05 tot 08-05:
    08:00 - 14:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    16:45 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 09-05 tot 18-05:
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, incl. feestdagen. 
    03:00 - 06:15: Ma, excl. feestdagen. 
    08:00 - 14:45: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
@@ -137,15 +137,15 @@ Periode 19-05 tot 19-05:
    08:00 - 14:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    16:45 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 20-05 tot 24-12:
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 06:15: Ma, incl. feestdagen. 
    08:00 - 14:45: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    16:45 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 Periode 25-12 tot 31-12:
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, incl. feestdagen. 
    03:00 - 06:15: Ma, excl. feestdagen. 
    08:00 - 14:45: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
@@ -1106,8 +1106,10 @@ Periode 18-12 tot 24-12:
    17:30 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 25-12 tot 07-01:
    23:00 - 22:59: Zo, excl. feestdagen. 
-   08:00 - 13:00: Za, excl. feestdagen. 
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   08:00 - 08:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
+   08:30 - 13:00: Za, excl. feestdagen. 
+   08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   14:30 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
 Note: Brug wordt lokaal bediend.	
 Aanvraag brug 06 - 29683093.		
@@ -1290,57 +1292,30 @@ VHF:     18
 Contact PhoneNumber:070-4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -1360,13 +1335,17 @@ Type:    Bedienbare Brug
 Contact PhoneNumber:0172-508989
 
 Bedieningstijden
+Periode 31-03 tot 31-03 (note: Afroep voor opening via tel.nr. 070-4417500, 24 uur van tevoren aanvragen.):
+   23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   07:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 17:00: incl. feestdagen. 
 Periode 01-04 tot 31-05:
    08:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 01-06 tot 31-08:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 01-09 tot 31-10:
    08:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
-Periode 01-11 tot 31-03 (note: Afroep voor opening via tel.nr. 070-4417500, 24 uur van tevoren aanvragen.):
+Periode 01-11 tot 30-03 (note: Afroep voor opening via tel.nr. 070-4417500, 24 uur van tevoren aanvragen.):
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
    07:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 </desc>
@@ -1457,8 +1436,8 @@ Contact PhoneNumber:010-4770637 / 06-38315531
 
 Bedieningstijden
 Periode 01-01 tot 30-03:
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 06:15: Ma, incl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
@@ -1471,15 +1450,15 @@ Periode 31-03 tot 31-03:
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 01-04 tot 26-04:
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 06:15: Ma, incl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 Periode 27-04 tot 04-05:
-   23:00 - 19:00: Za, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, incl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 06:15: Ma, excl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -1492,8 +1471,8 @@ Periode 05-05 tot 08-05:
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 09-05 tot 18-05:
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, incl. feestdagen. 
    03:00 - 06:15: Ma, excl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
@@ -1506,15 +1485,15 @@ Periode 19-05 tot 19-05:
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 20-05 tot 24-12:
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 06:15: Ma, incl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 Periode 25-12 tot 31-12:
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, incl. feestdagen. 
    03:00 - 06:15: Ma, excl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
@@ -1559,8 +1538,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:30: Vr, Za, Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, excl. feestdagen. 
 Periode 01-11 tot 30-03 (note: Bediening met 1 uur voormelding, aanvraag via 010-6315300 of VHF 22.):
-   23:00 - 22:59: incl. feestdagen. Geen bediening
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. Geen bediening
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Recreatievaart: opening terweerszijden van de gemeente, met mogelijkheid van doorvaart door de stad. Doorvaarthoogte beperkt tot 4,20m.
@@ -1979,8 +1958,10 @@ Periode 18-12 tot 24-12:
    17:30 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 25-12 tot 07-01:
    23:00 - 22:59: Zo, excl. feestdagen. 
-   08:00 - 13:00: Za, excl. feestdagen. 
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   08:00 - 08:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
+   08:30 - 13:00: Za, excl. feestdagen. 
+   08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   14:30 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
 Note: Brug wordt lokaal bediend.	
 Aanvraag brug 06 - 29683093.		
@@ -2437,32 +2418,13 @@ Contact PhoneNumber:0172-409910
 
 Bedieningstijden
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   23:00 - 22:59: Za, Zo, excl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   08:00 - 18:00: Za, excl. feestdagen. 
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   09:00 - 18:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   08:00 - 18:00: Za, incl. feestdagen. 
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   09:00 - 18:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   09:00 - 18:00: incl. feestdagen. 
+Periode 01-04 tot 31-05:
    08:00 - 18:00: Za, excl. feestdagen. 
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    09:00 - 18:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   08:00 - 18:00: Za, excl. feestdagen. 
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   09:00 - 18:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   08:00 - 18:00: Za, excl. feestdagen. 
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   09:00 - 18:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-05:
-   08:00 - 18:00: Za, excl. feestdagen. 
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   09:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-06 tot 31-08:
    08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    09:00 - 19:00: Zo, excl. feestdagen. 
@@ -2505,8 +2467,8 @@ Periode 16-10 tot 25-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 26-12 tot 31-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 uur, aanvragen op tel. 0297-291616.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/4806">
@@ -2653,46 +2615,38 @@ VHF:     18
 Contact PhoneNumber:070-4417720
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 12:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-04 tot 01-04:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-04 tot 26-04:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05:
+Periode 27-04 tot 19-05:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
+Periode 20-05 tot 20-05:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 21-05 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -3148,8 +3102,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:30: Vr, Za, Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, excl. feestdagen. 
 Periode 01-11 tot 30-03 (note: Bediening met 1 uur voormelding, aanvraag via 010-6315300 of VHF 22.):
-   23:00 - 22:59: incl. feestdagen. Geen bediening
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. Geen bediening
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Recreatievaart: opening terweerszijden van de gemeente, met mogelijkheid van doorvaart door de stad. Doorvaarthoogte beperkt tot 4,20m.
@@ -3686,8 +3640,8 @@ Contact PhoneNumber:010-4770637 / 06-38315531
 
 Bedieningstijden
 Periode 01-01 tot 30-03 (note: Spertijden : Maandag t/m Vrijdag : 07:15-08:30 uur en 16:30-18:00 uur.):
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 06:15: Ma, incl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
@@ -3700,15 +3654,15 @@ Periode 31-03 tot 31-03 (note: Spertijden : Maandag t/m Vrijdag : 07:15-08:30 uu
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 01-04 tot 26-04 (note: Spertijden : Maandag t/m Vrijdag : 07:15-08:30 uur en 16:30-18:00 uur.):
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 06:15: Ma, incl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 Periode 27-04 tot 04-05 (note: Spertijden : Maandag t/m Vrijdag : 07:15-08:30 uur en 16:30-18:00 uur.):
-   23:00 - 19:00: Za, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, incl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 06:15: Ma, excl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -3721,8 +3675,8 @@ Periode 05-05 tot 08-05 (note: Spertijden : Maandag t/m Vrijdag : 07:15-08:30 uu
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 09-05 tot 18-05 (note: Spertijden : Maandag t/m Vrijdag : 07:15-08:30 uur en 16:30-18:00 uur.):
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, incl. feestdagen. 
    03:00 - 06:15: Ma, excl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
@@ -3735,15 +3689,15 @@ Periode 19-05 tot 19-05 (note: Spertijden : Maandag t/m Vrijdag : 07:15-08:30 uu
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 20-05 tot 24-12 (note: Spertijden : Maandag t/m Vrijdag : 07:15-08:30 uur en 16:30-18:00 uur.):
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 06:15: Ma, incl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 Periode 25-12 tot 31-12 (note: Spertijden : Maandag t/m Vrijdag : 07:15-08:30 uur en 16:30-18:00 uur.):
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, incl. feestdagen. 
    03:00 - 06:15: Ma, excl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
@@ -3784,8 +3738,8 @@ Periode 16-10 tot 25-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 26-12 tot 31-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 uur, aanvragen op tel. 0297-291616.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/6613">
@@ -4299,57 +4253,30 @@ Type:    Bedienbare Brug
 Contact PhoneNumber:070–4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -4488,36 +4415,16 @@ Periode 30-03 tot 30-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-Periode 01-04 tot 26-04 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
+Periode 01-04 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 29-03 (note: -01 november 2023 t/m 31 maart 2024: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 
 Note: Bediening op afstand via bedieningscentrale  tel: 070-4417731.
@@ -4845,46 +4752,38 @@ VHF:     18
 Contact PhoneNumber:070-4417720
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 12:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-04 tot 01-04:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-04 tot 26-04:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05:
+Periode 27-04 tot 19-05:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
+Periode 20-05 tot 20-05:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 21-05 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -5395,28 +5294,19 @@ VHF:     22
 Contact PhoneNumber:070-4417731
 
 Bedieningstijden
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 22:00: Zo, incl. feestdagen. 
+   08:00 - 18:00: incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05:
+Periode 01-04 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
+Periode 01-11 tot 29-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 01-11 tot 30-03:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   05:00 - 22:00: Zo, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/9912">
@@ -5582,8 +5472,8 @@ Periode 16-10 tot 25-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 26-12 tot 31-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 uur, aanvragen op tel. 0297-291616.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/10407">
@@ -5663,16 +5553,16 @@ Contact PhoneNumber:070-4417720
 
 Bedieningstijden
 Periode 01-01 tot 29-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 Periode 30-03 tot 30-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: incl. feestdagen. 
@@ -5697,8 +5587,8 @@ Periode 21-05 tot 31-10:
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -6139,16 +6029,16 @@ Contact PhoneNumber:070-4417720
 
 Bedieningstijden
 Periode 01-01 tot 29-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 Periode 30-03 tot 30-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: incl. feestdagen. 
@@ -6173,8 +6063,8 @@ Periode 21-05 tot 31-10:
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -6527,57 +6417,30 @@ VHF:     20
 Contact PhoneNumber:070–4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -6839,16 +6702,16 @@ Contact PhoneNumber:070-4417720
 
 Bedieningstijden
 Periode 01-01 tot 29-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 Periode 30-03 tot 30-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: incl. feestdagen. 
@@ -6873,8 +6736,8 @@ Periode 21-05 tot 31-10:
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -6951,62 +6814,37 @@ VHF:     18
 Contact PhoneNumber:070-4417720
 
 Bedieningstijden
-Periode 01-01 tot 30-03 (note: Spitsuursluiting op maandag t/m vrijdag:
+Periode 01-01 tot 29-03 (note: Spitsuursluiting op maandag t/m vrijdag:
 Voor recreatievaart: 06:45 uur - 09:30 uur en 16:00 uur - 18:00 uur.
 Voor beroepsvaart: 07:30 uur - 09:00 uur en 16:30 uur -18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03 (note: Spitsuursluiting op maandag t/m vrijdag:
 Voor recreatievaart: 06:45 uur - 09:30 uur en 16:00 uur - 18:00 uur.
 Voor beroepsvaart: 07:30 uur - 09:00 uur en 16:30 uur -18:00 uur.):
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
+   08:00 - 18:00: incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04 (note: Spitsuursluiting op maandag t/m vrijdag:
-Voor recreatievaart: 06:45 uur - 09:30 uur en 16:00 uur - 18:00 uur.
-Voor beroepsvaart: 07:30 uur - 09:00 uur en 16:30 uur -18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05 (note: Spitsuursluiting op maandag t/m vrijdag:
+Periode 01-04 tot 31-10 (note: Spitsuursluiting op maandag t/m vrijdag:
 Voor recreatievaart: 06:45 uur - 09:30 uur en 16:00 uur - 18:00 uur.
 Voor beroepsvaart: 07:30 uur - 09:00 uur en 16:30 uur -18:00 uur.):
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05 (note: Spitsuursluiting op maandag t/m vrijdag:
-Voor recreatievaart: 06:45 uur - 09:30 uur en 16:00 uur - 18:00 uur.
-Voor beroepsvaart: 07:30 uur - 09:00 uur en 16:30 uur -18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05 (note: Spitsuursluiting op maandag t/m vrijdag:
-Voor recreatievaart: 06:45 uur - 09:30 uur en 16:00 uur - 18:00 uur.
-Voor beroepsvaart: 07:30 uur - 09:00 uur en 16:30 uur -18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10 (note: Spitsuursluiting op maandag t/m vrijdag:
-Voor recreatievaart: 06:45 uur - 09:30 uur en 16:00 uur - 18:00 uur.
-Voor beroepsvaart: 07:30 uur - 09:00 uur en 16:30 uur -18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Spitsuursluiting op maandag t/m vrijdag:
 Voor recreatievaart: 06:45 uur - 09:30 uur en 16:00 uur - 18:00 uur.
 Voor beroepsvaart: 07:30 uur - 09:00 uur en 16:30 uur -18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -7096,8 +6934,8 @@ Periode 16-10 tot 25-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 26-12 tot 31-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 uur, aanvragen op tel. 0297-291616.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/13966">
@@ -7354,36 +7192,16 @@ Periode 30-03 tot 30-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-Periode 01-04 tot 26-04 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
+Periode 01-04 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 29-03 (note: -01 november 2023 t/m 31 maart 2024: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 
 Note: Bediening op afstand via bedieningscentrale  tel: 070-4417731.
@@ -7713,8 +7531,8 @@ Periode 16-10 tot 25-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 26-12 tot 31-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 uur, aanvragen op tel. 0297-291616.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/14821">
@@ -7725,7 +7543,7 @@ Periode 26-12 tot 31-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.037754532909844" lon="5.095564294770155">
+  <wpt lat="52.0377408" lon="5.0955818">
     <name>Rijnhuizerbrug</name>
     <desc>Locatie: Merwedekanaal (benoorden de Lek)
 Type:    Bedienbare Brug
@@ -7827,8 +7645,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:30: Vr, Za, Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, excl. feestdagen. 
 Periode 01-11 tot 30-03 (note: Bediening met 1 uur voormelding, aanvraag via 010-6315300 of VHF 22.):
-   23:00 - 22:59: incl. feestdagen. Geen bediening
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. Geen bediening
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Recreatievaart: opening terweerszijden van de gemeente, met mogelijkheid van doorvaart door de stad. Doorvaarthoogte beperkt tot 4,20m.
@@ -7854,36 +7672,16 @@ Periode 30-03 tot 30-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-Periode 01-04 tot 26-04 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
+Periode 01-04 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 29-03 (note: -01 november 2023 t/m 31 maart 2024: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 
 Note: Bediening op afstand via bedieningscentrale  tel: 070-4417731.
@@ -8455,8 +8253,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:30: Vr, Za, Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, excl. feestdagen. 
 Periode 01-11 tot 30-03 (note: Bediening met 1 uur voormelding, aanvraag via 010-6315300 of VHF 22.):
-   23:00 - 22:59: incl. feestdagen. Geen bediening
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. Geen bediening
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Recreatievaart: opening terweerszijden van de gemeente, met mogelijkheid van doorvaart door de stad. Doorvaarthoogte beperkt tot 4,20m.
@@ -8536,8 +8334,8 @@ Periode 16-10 tot 25-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 26-12 tot 31-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 uur, aanvragen op tel. 0297-291616.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/17240">
@@ -9237,8 +9035,10 @@ Periode 18-12 tot 24-12:
    17:30 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 25-12 tot 07-01:
    23:00 - 22:59: Zo, excl. feestdagen. 
-   08:00 - 13:00: Za, excl. feestdagen. 
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   08:00 - 08:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
+   08:30 - 13:00: Za, excl. feestdagen. 
+   08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   14:30 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
 Note: Brug wordt lokaal bediend.	
 Aanvraag brug 06 - 29683093.		
@@ -9262,16 +9062,16 @@ Contact PhoneNumber:070-4417720
 
 Bedieningstijden
 Periode 01-01 tot 29-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 Periode 30-03 tot 30-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: incl. feestdagen. 
@@ -9296,8 +9096,8 @@ Periode 21-05 tot 31-10:
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -9408,14 +9208,14 @@ Contact PhoneNumber:010-4153247 / 06-12860405
 
 Bedieningstijden
 Periode 01-01 tot 30-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
-   23:00 - 22:59: Zo, excl. feestdagen. 
    03:00 - 22:59: Ma, incl. feestdagen. 
 Periode 31-03 tot 31-03:
    23:00 - 19:00: Za, excl. feestdagen. 
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 22:59: Ma, excl. feestdagen. 
 Periode 01-04 tot 26-04:
    23:00 - 19:00: Za, excl. feestdagen. 
@@ -9448,9 +9248,9 @@ Periode 20-05 tot 30-10:
    03:00 - 22:59: Ma, incl. feestdagen. 
    10:00 - 18:00: Zo, excl. feestdagen. 
 Periode 31-10 tot 31-12:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, incl. feestdagen. 
-   23:00 - 22:59: Zo, excl. feestdagen. 
    03:00 - 22:59: Ma, excl. feestdagen. 
 
 Note: De brug wordt niet bediend tijdens een opening van de Spaansebrug, Oost-Abtsbrug of Doenbrug.
@@ -9473,28 +9273,19 @@ VHF:     22
 Contact PhoneNumber:070-4417731
 
 Bedieningstijden
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 22:00: Zo, incl. feestdagen. 
+   08:00 - 18:00: incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05:
+Periode 01-04 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
+Periode 01-11 tot 29-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 01-11 tot 30-03:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   05:00 - 22:00: Zo, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/18664">
@@ -9513,28 +9304,19 @@ VHF:     22
 Contact PhoneNumber:070-4417731
 
 Bedieningstijden
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 22:00: Zo, incl. feestdagen. 
+   08:00 - 18:00: incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05:
+Periode 01-04 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
+Periode 01-11 tot 29-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 01-11 tot 30-03:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   05:00 - 22:00: Zo, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/18682">
@@ -9616,8 +9398,8 @@ Periode 16-10 tot 25-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 26-12 tot 31-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 uur, aanvragen op tel. 0297-291616.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/18884">
@@ -9640,36 +9422,16 @@ Periode 30-03 tot 30-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-Periode 01-04 tot 26-04 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
+Periode 01-04 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 29-03 (note: -01 november 2023 t/m 31 maart 2024: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 
 Note: Bediening op afstand via bedieningscentrale  tel: 070-4417731.
@@ -9743,14 +9505,14 @@ Contact PhoneNumber:070 – 4417713
 
 Bedieningstijden
 Periode 01-01 tot 30-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, incl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
 Periode 31-03 tot 31-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
@@ -9803,8 +9565,8 @@ Recreatie mag wel meevaren met de beroepsvaart.):
    05:00 - 22:59: Ma, incl. feestdagen. 
    07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
@@ -10458,8 +10220,8 @@ Periode 20-05 tot 24-12:
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
    06:30 - 16:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 Periode 25-12 tot 30-03:
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    06:30 - 16:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Brug wordt lokaal bediend.
@@ -11370,32 +11132,19 @@ VHF:     22
 Contact PhoneNumber:070-4417731
 
 Bedieningstijden
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06:45 - 09:30 uur en van 16:00 - 18:00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart.):
-   23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06:45 uur - 09:30 uur en van 16:00 uur - 18:00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart.):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06:45 uur - 09:30 uur en van 16:00 uur - 18:00 uur) en geen bediening recreatievaart. 
+Periode 01-04 tot 31-10 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06:45 - 09:30 uur en van 16:00 - 18:00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart.):
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06:45 uur - 09:30 uur en van 16:00 uur - 18:00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart.):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06:45 uur - 09:30 uur en van 16:00 uur - 18:00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart.):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06:45 uur - 09:30 uur en van 16:00 uur - 18:00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart.):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 01-11 tot 30-03 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06:45 - 09:30 uur en van 16:00 - 18:00 uur) en geen bediening recreatievaart. 
+Periode 01-11 tot 29-03 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06:45 - 09:30 uur en van 16:00 - 18:00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart.):
    23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
@@ -11418,26 +11167,21 @@ VHF:     22
 Contact PhoneNumber:070-4417731
 
 Bedieningstijden
-Periode 31-03 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen. 
+Periode 01-01 tot 29-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05:
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: incl. feestdagen. 
+   08:00 - 12:00: Za, excl. feestdagen. 
+Periode 01-04 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 01-11 tot 30-03:
+Periode 01-11 tot 31-12:
    23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -11734,8 +11478,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:30: Vr, Za, Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, excl. feestdagen. 
 Periode 01-11 tot 30-03 (note: Bediening met 1 uur voormelding, aanvraag via 010-6315300 of VHF 22.):
-   23:00 - 22:59: incl. feestdagen. Geen bediening
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. Geen bediening
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Recreatievaart: opening terweerszijden van de gemeente, met mogelijkheid van doorvaart door de stad. Doorvaarthoogte beperkt tot 4,20m.
@@ -11775,46 +11519,38 @@ VHF:     18
 Contact PhoneNumber:070-4417720
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 12:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-04 tot 01-04:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-04 tot 26-04:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05:
+Periode 27-04 tot 19-05:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
+Periode 20-05 tot 20-05:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 21-05 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -11835,57 +11571,30 @@ Type:    Bedienbare Brug
 Contact PhoneNumber:070–4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, incl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
@@ -12101,8 +11810,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:30: Vr, Za, Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, excl. feestdagen. 
 Periode 01-11 tot 30-03 (note: Bediening met 1 uur voormelding, aanvraag via 010-6315300 of VHF 22.):
-   23:00 - 22:59: incl. feestdagen. Geen bediening
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. Geen bediening
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Recreatievaart: opening terweerszijden van de gemeente, met mogelijkheid van doorvaart door de stad. Doorvaarthoogte beperkt tot 4,20m.
@@ -12208,8 +11917,10 @@ Periode 18-12 tot 24-12:
    17:30 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 25-12 tot 07-01:
    23:00 - 22:59: Zo, excl. feestdagen. 
-   08:00 - 13:00: Za, excl. feestdagen. 
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   08:00 - 08:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
+   08:30 - 13:00: Za, excl. feestdagen. 
+   08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   14:30 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
 Note: Brug wordt lokaal bediend.	
 Aanvraag brug 06 - 29683093.		
@@ -12343,14 +12054,14 @@ Contact PhoneNumber:0182-513096
 
 Bedieningstijden
 Periode 01-01 tot 30-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:30: Vr, excl. feestdagen. 
    04:00 - 17:30: Za, excl. feestdagen. 
    04:00 - 22:59: Ma, incl. feestdagen. 
 Periode 31-03 tot 31-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:30: Vr, excl. feestdagen. 
    04:00 - 17:30: Za, excl. feestdagen. 
    04:00 - 22:59: Ma, excl. feestdagen. 
@@ -12391,8 +12102,8 @@ Periode 20-05 tot 31-10:
    04:00 - 22:59: Ma, incl. feestdagen. 
    07:00 - 20:30: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:30: Vr, excl. feestdagen. 
    04:00 - 17:30: Za, excl. feestdagen. 
    04:00 - 22:59: Ma, excl. feestdagen. 
@@ -12675,8 +12386,10 @@ Periode 18-12 tot 24-12:
    17:30 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 25-12 tot 07-01:
    23:00 - 22:59: Zo, excl. feestdagen. 
-   08:00 - 13:00: Za, excl. feestdagen. 
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   08:00 - 08:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
+   08:30 - 13:00: Za, excl. feestdagen. 
+   08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   14:30 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
 Note: Brug wordt lokaal bediend.	
 Aanvraag brug 06 - 29683093.		
@@ -13505,36 +13218,16 @@ Periode 30-03 tot 30-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-Periode 01-04 tot 26-04 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
+Periode 01-04 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 29-03 (note: -01 november 2023 t/m 31 maart 2024: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 
 Note: Bediening op afstand via bedieningscentrale  tel: 070-4417731.
@@ -13570,8 +13263,8 @@ Periode 16-10 tot 25-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 26-12 tot 31-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 uur, aanvragen op tel. 0297-291616.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/26484">
@@ -13724,57 +13417,30 @@ VHF:     20
 Contact PhoneNumber:070-4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, incl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
@@ -13920,8 +13586,10 @@ Periode 18-12 tot 24-12:
    17:30 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 25-12 tot 07-01:
    23:00 - 22:59: Zo, excl. feestdagen. 
-   08:00 - 13:00: Za, excl. feestdagen. 
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   08:00 - 08:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
+   08:30 - 13:00: Za, excl. feestdagen. 
+   08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   14:30 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
 Note: Brug wordt lokaal bediend.	
 Aanvraag brug 06 - 29683093.		
@@ -13990,57 +13658,30 @@ VHF:     18
 Contact PhoneNumber:070–4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -14068,8 +13709,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:30: Vr, Za, Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, excl. feestdagen. 
 Periode 01-11 tot 30-03 (note: Bediening met 1 uur voormelding, aanvraag via 010-6315300 of VHF 22.):
-   23:00 - 22:59: incl. feestdagen. Geen bediening
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. Geen bediening
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Recreatievaart: opening terweerszijden van de gemeente, met mogelijkheid van doorvaart door de stad. Doorvaarthoogte beperkt tot 4,20m.
@@ -14283,57 +13924,30 @@ VHF:     20
 Contact PhoneNumber:070–4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -14504,57 +14118,30 @@ VHF:     18
 Contact PhoneNumber:070–4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -15183,16 +14770,16 @@ Contact PhoneNumber:070-4417720
 
 Bedieningstijden
 Periode 01-01 tot 29-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 Periode 30-03 tot 30-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: incl. feestdagen. 
@@ -15217,8 +14804,8 @@ Periode 21-05 tot 31-10:
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -15630,57 +15217,30 @@ VHF:     20
 Contact PhoneNumber:070–4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, incl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
@@ -15738,26 +15298,21 @@ VHF:     22
 Contact PhoneNumber:070-4417731
 
 Bedieningstijden
-Periode 31-03 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen. 
+Periode 01-01 tot 29-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05:
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: incl. feestdagen. 
+   08:00 - 12:00: Za, excl. feestdagen. 
+Periode 01-04 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 01-11 tot 30-03:
+Periode 01-11 tot 31-12:
    23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -16366,6 +15921,8 @@ VHF:     18
 Contact PhoneNumber:070-3274290
 
 Bedieningstijden
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
    23:00 - 22:59: Zo, excl. feestdagen. Geen bediening
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Spitssluiting, uitsluitend voor recreatievaart, van 16:30 - 18:30
@@ -16374,7 +15931,7 @@ Periode 31-03 tot 31-03:
 Periode 01-04 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Spitssluiting, uitsluitend voor recreatievaart, van 16:30 - 18:30
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 01-11 tot 30-03:
+Periode 01-11 tot 29-03:
    23:00 - 22:59: Zo, incl. feestdagen. Geen bediening
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Spitssluiting, uitsluitend voor recreatievaart, van 16:30 - 18:30
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -17329,8 +16886,8 @@ Contact PhoneNumber:010-4365405 / 06-23036171
 
 Bedieningstijden
 Periode 01-01 tot 30-03:
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 06:15: Ma, incl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
@@ -17385,8 +16942,8 @@ Periode 20-05 tot 31-10:
    10:00 - 18:00: Zo, excl. feestdagen. 
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, incl. feestdagen. 
    03:00 - 06:15: Ma, excl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
@@ -17920,16 +17477,16 @@ Bedieningstijden
 Periode 01-01 tot 30-03 (note: Spitsuursluiting op maandag t/m vrijdag:
 Voor recreatievaart: 06:45 uur - 09:30 uur en 16:00 uur - 18:00 uur.
 Voor beroepsvaart: 07:30 uur - 08:45 uur en 16:30 uur -17:45 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 Periode 31-03 tot 31-03 (note: Spitsuursluiting op maandag t/m vrijdag:
 Voor recreatievaart: 06:45 uur - 09:30 uur en 16:00 uur - 18:00 uur.
 Voor beroepsvaart: 07:30 uur - 08:45 uur en 16:30 uur -17:45 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -17971,8 +17528,8 @@ voor beroepsvaart: 07:30 uur - 08:45 uur en 16:30 uur -17:45 uur):
 Periode 01-11 tot 31-12 (note: Spitsuursluiting op maandag t/m vrijdag:
 Voor recreatievaart: 06:45 uur - 09:30 uur en 16:00 uur - 18:00 uur.
 Voor beroepsvaart: 07:30 uur - 08:45 uur en 16:30 uur -17:45 uur.):
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -18289,57 +17846,30 @@ VHF:     18
 Contact PhoneNumber:070–4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -18891,8 +18421,10 @@ Periode 18-12 tot 24-12:
    17:30 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 25-12 tot 07-01:
    23:00 - 22:59: Zo, excl. feestdagen. 
-   08:00 - 13:00: Za, excl. feestdagen. 
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   08:00 - 08:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
+   08:30 - 13:00: Za, excl. feestdagen. 
+   08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   14:30 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
 Note: Brug wordt lokaal bediend.	
 Aanvraag brug 06 - 29683093.		
@@ -19654,54 +19186,36 @@ VHF:     18
 Contact PhoneNumber:070-4417720
 
 Bedieningstijden
-Periode 01-01 tot 30-03 (note: Spitsuursluiting op maandag t/m vrijdag:
+Periode 01-01 tot 29-03 (note: Spitsuursluiting op maandag t/m vrijdag:
 voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
-   08:00 - 12:00: Za, Zo, excl. feestdagen. 
+   08:00 - 12:00: Za, excl. feestdagen. 
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03 (note: Spitsuursluiting op maandag t/m vrijdag:
 voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 12:00: Za, Zo, incl. feestdagen. 
-Periode 01-04 tot 26-04 (note: Spitsuursluiting op maandag t/m vrijdag:
-voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05 (note: Spitsuursluiting op maandag t/m vrijdag:
+   08:00 - 18:00: incl. feestdagen. 
+   08:00 - 12:00: Za, excl. feestdagen. 
+Periode 01-04 tot 31-10 (note: Spitsuursluiting op maandag t/m vrijdag:
 voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05 (note: Spitsuursluiting op maandag t/m vrijdag:
-voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05 (note: Spitsuursluiting op maandag t/m vrijdag:
-voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10 (note: Spitsuursluiting op maandag t/m vrijdag:
-voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Spitsuursluiting op maandag t/m vrijdag:
 voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 12:00: Za, Zo, excl. feestdagen. 
+   08:00 - 12:00: Za, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/35034">
       <text>Sint Sebastiaansbrug online info</text>
@@ -20822,57 +20336,30 @@ VHF:     20
 Contact PhoneNumber:070–4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, incl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
@@ -21116,38 +20603,33 @@ VHF:     18
 Contact PhoneNumber:070–4417713
 
 Bedieningstijden
-Periode 31-03 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   23:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 17:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   05:00 - 17:00: Za, excl. feestdagen. 
-   09:00 - 17:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 17:00: Za, incl. feestdagen. 
-   09:00 - 17:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
-   23:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 17:00: Za, excl. feestdagen. 
-   09:00 - 17:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   05:00 - 17:00: Za, excl. feestdagen. 
-   09:00 - 17:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 17:00: Za, excl. feestdagen. 
-   09:00 - 17:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   05:00 - 17:00: Za, excl. feestdagen. 
-   09:00 - 17:00: Zo, excl. feestdagen. 
-Periode 01-11 tot 30-03:
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
-   23:00 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+   23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
+   05:00 - 22:59: Ma, incl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+   23:00 - 21:00: Vr, excl. feestdagen. 
+   05:00 - 17:00: Za, excl. feestdagen. 
+   05:00 - 22:59: Ma, excl. feestdagen. 
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+   23:00 - 21:00: Vr, excl. feestdagen. 
+   05:00 - 20:00: Za, excl. feestdagen. 
+   05:00 - 22:59: Ma, excl. feestdagen. 
+   07:00 - 20:00: Zo, incl. feestdagen. 
+Periode 01-11 tot 31-12:
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
+   23:00 - 21:00: Vr, excl. feestdagen. 
+   05:00 - 17:00: Za, excl. feestdagen. 
+   05:00 - 22:59: Ma, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/38156">
       <text>Steekterbrug online info</text>
@@ -22088,8 +21570,8 @@ Contact PhoneNumber:010-4153247 / 06-12860405
 
 Bedieningstijden
 Periode 01-01 tot 30-03:
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    03:00 - 06:15: Ma, incl. feestdagen. 
    06:45 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. In de middag is er om 17:00 uur één extra draai.
    16:30 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
@@ -22142,8 +21624,8 @@ Periode 20-05 tot 30-09:
    10:00 - 18:00: Zo, excl. feestdagen. 
    16:30 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 Periode 01-10 tot 31-12:
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    03:00 - 06:15: Ma, excl. feestdagen. 
    06:45 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. In de middag is er om 17:00 uur één extra draai.
    16:30 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
@@ -22241,8 +21723,8 @@ Periode 16-10 tot 25-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 26-12 tot 31-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 uur, aanvragen op tel. 0297-291616.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/40779">
@@ -22370,8 +21852,8 @@ Periode 16-10 tot 25-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 26-12 tot 31-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 uur, aanvragen op tel. 0297-291616.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/41027">
@@ -22467,57 +21949,30 @@ VHF:     18
 Contact PhoneNumber:070–4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -23236,36 +22691,16 @@ Periode 30-03 tot 30-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-Periode 01-04 tot 26-04 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
+Periode 01-04 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 29-03 (note: -01 november 2023 t/m 31 maart 2024: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 
 Note: Bediening op afstand via bedieningscentrale  tel: 070-4417731.
@@ -23390,26 +22825,17 @@ VHF:     22
 Contact PhoneNumber:070-4417731
 
 Bedieningstijden
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   08:00 - 18:00: incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05:
+Periode 01-04 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 01-11 tot 30-03:
+Periode 01-11 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -23669,8 +23095,10 @@ Periode 18-12 tot 24-12:
    17:30 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 25-12 tot 07-01:
    23:00 - 22:59: Zo, excl. feestdagen. 
-   08:00 - 13:00: Za, excl. feestdagen. 
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   08:00 - 08:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
+   08:30 - 13:00: Za, excl. feestdagen. 
+   08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   14:30 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
 Note: Brug wordt lokaal bediend.	
 Aanvraag brug 06 - 29683093.		
@@ -24010,36 +23438,16 @@ Periode 30-03 tot 30-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-Periode 01-04 tot 26-04 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
+Periode 01-04 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 29-03 (note: -01 november 2023 t/m 31 maart 2024: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 
 Note: Bediening op afstand via bedieningscentrale  tel: 070-4417731.
@@ -24447,36 +23855,16 @@ Periode 30-03 tot 30-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-Periode 01-04 tot 26-04 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
+Periode 01-04 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10 (note: -01 april 2023 t/m 31 oktober 2023: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
-):
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 29-03 (note: -01 november 2023 t/m 31 maart 2024: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart
 ):
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. 
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 
 Note: Bediening op afstand via bedieningscentrale  tel: 070-4417731.
@@ -24516,14 +23904,14 @@ Contact PhoneNumber:010-4153247 / 06-12860405
 
 Bedieningstijden
 Periode 01-01 tot 30-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
-   23:00 - 22:59: Zo, excl. feestdagen. 
    03:00 - 22:59: Ma, incl. feestdagen. 
 Periode 31-03 tot 31-03:
    23:00 - 19:00: Za, excl. feestdagen. 
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 22:59: Ma, excl. feestdagen. 
 Periode 01-04 tot 26-04:
    23:00 - 19:00: Za, excl. feestdagen. 
@@ -24556,9 +23944,9 @@ Periode 20-05 tot 30-10:
    03:00 - 22:59: Ma, incl. feestdagen. 
    10:00 - 18:00: Zo, excl. feestdagen. 
 Periode 31-10 tot 31-12:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, incl. feestdagen. 
-   23:00 - 22:59: Zo, excl. feestdagen. 
    03:00 - 22:59: Ma, excl. feestdagen. 
 
 Note: De brug wordt niet bediend tijdens een opening van de Spaansebrug, Oost-Abtsbrug of Doenbrug.
@@ -24848,8 +24236,10 @@ Periode 18-12 tot 24-12:
    17:30 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 25-12 tot 07-01:
    23:00 - 22:59: Zo, excl. feestdagen. 
-   08:00 - 13:00: Za, excl. feestdagen. 
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   08:00 - 08:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
+   08:30 - 13:00: Za, excl. feestdagen. 
+   08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   14:30 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
 Note: Brug wordt lokaal bediend.	
 Aanvraag brug 06 - 29683093.		
@@ -25606,8 +24996,10 @@ Periode 18-12 tot 24-12:
    17:30 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 25-12 tot 07-01:
    23:00 - 22:59: Zo, excl. feestdagen. 
-   08:00 - 13:00: Za, excl. feestdagen. 
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   08:00 - 08:30: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
+   08:30 - 13:00: Za, excl. feestdagen. 
+   08:30 - 14:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   14:30 - 15:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 
 Note: Brug wordt lokaal bediend.	
 Aanvraag brug 06 - 29683093.		
@@ -25931,14 +25323,14 @@ Contact PhoneNumber:070 – 4417713
 
 Bedieningstijden
 Periode 01-01 tot 30-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, incl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
 Periode 31-03 tot 31-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
@@ -25991,8 +25383,8 @@ Recreatie mag wel meevaren met de beroepsvaart.):
    05:00 - 22:59: Ma, incl. feestdagen. 
    07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
@@ -27019,54 +26411,36 @@ Type:    Bedienbare Brug
 Contact PhoneNumber:070-4417720
 
 Bedieningstijden
-Periode 01-01 tot 30-03 (note: Spitsuursluiting op maandag t/m vrijdag:
+Periode 01-01 tot 29-03 (note: Spitsuursluiting op maandag t/m vrijdag:
 voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
-   08:00 - 12:00: Za, Zo, excl. feestdagen. 
+   08:00 - 12:00: Za, excl. feestdagen. 
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03 (note: Spitsuursluiting op maandag t/m vrijdag:
 voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 12:00: Za, Zo, incl. feestdagen. 
-Periode 01-04 tot 26-04 (note: Spitsuursluiting op maandag t/m vrijdag:
-voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05 (note: Spitsuursluiting op maandag t/m vrijdag:
+   08:00 - 18:00: incl. feestdagen. 
+   08:00 - 12:00: Za, excl. feestdagen. 
+Periode 01-04 tot 31-10 (note: Spitsuursluiting op maandag t/m vrijdag:
 voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05 (note: Spitsuursluiting op maandag t/m vrijdag:
-voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05 (note: Spitsuursluiting op maandag t/m vrijdag:
-voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10 (note: Spitsuursluiting op maandag t/m vrijdag:
-voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Spitsuursluiting op maandag t/m vrijdag:
 voor recreatievaart: 06:45 - 09:30 en 16:00 - 18:00.):
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 12:00: Za, Zo, excl. feestdagen. 
+   08:00 - 12:00: Za, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/46729">
       <text>Reineveldbrug online info</text>
@@ -29161,57 +28535,30 @@ VHF:     18
 Contact PhoneNumber:070–4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -29344,8 +28691,8 @@ Contact PhoneNumber:010-4365405
 
 Bedieningstijden
 Periode 31-03 tot 31-03 (note: Op de eerste werkdag na een erkende feestdag, wordt de brug niet bediend vóór 06:00 uur. Op 24 en 31 december wordt de brug niet bediend na 18:00 uur.):
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 06:15: Ma, excl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -29359,8 +28706,8 @@ Periode 01-04 tot 30-10 (note: Op de eerste werkdag na een erkende feestdag, wor
    10:00 - 18:00: Zo, incl. feestdagen. 
    17:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 31-10 tot 30-03 (note: Op de eerste werkdag na een erkende feestdag, wordt de brug niet bediend vóór 06:00 uur. Op 24 en 31 december wordt de brug niet bediend na 18:00 uur.):
-   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 06:15: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 06:15: Ma, excl. feestdagen. 
    07:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -29387,16 +28734,16 @@ Contact PhoneNumber:070-4417720
 
 Bedieningstijden
 Periode 01-01 tot 29-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 Periode 30-03 tot 30-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: incl. feestdagen. 
@@ -29421,8 +28768,8 @@ Periode 21-05 tot 31-10:
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -30147,8 +29494,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:30: Vr, Za, Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, excl. feestdagen. 
 Periode 01-11 tot 30-03 (note: Bediening met 1 uur voormelding, aanvraag via 010-6315300 of VHF 22.):
-   23:00 - 22:59: incl. feestdagen. Geen bediening
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. Geen bediening
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Recreatievaart: opening terweerszijden van de gemeente, met mogelijkheid van doorvaart door de stad. Doorvaarthoogte beperkt tot 4,20m.
@@ -30214,28 +29561,19 @@ Type:    Bedienbare Brug
 Contact PhoneNumber:070-4417731
 
 Bedieningstijden
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 22:00: Zo, incl. feestdagen. 
+   08:00 - 18:00: incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05:
+Periode 01-04 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
+Periode 01-11 tot 29-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 01-11 tot 30-03:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   05:00 - 22:00: Zo, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/51665">
@@ -30255,14 +29593,14 @@ Contact PhoneNumber:070 – 4417713
 
 Bedieningstijden
 Periode 01-01 tot 30-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, incl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
 Periode 31-03 tot 31-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
@@ -30315,8 +29653,8 @@ Recreatie mag wel meevaren met de beroepsvaart.):
    05:00 - 22:59: Ma, incl. feestdagen. 
    07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
@@ -30349,46 +29687,38 @@ VHF:     18
 Contact PhoneNumber:070-4417720
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 12:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-04 tot 01-04:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-04 tot 26-04:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05:
+Periode 27-04 tot 19-05:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
+Periode 20-05 tot 20-05:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 21-05 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -30932,46 +30262,38 @@ VHF:     18
 Contact PhoneNumber:070-4417720
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 12:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-04 tot 01-04:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 02-04 tot 26-04:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05:
+Periode 27-04 tot 19-05:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
+Periode 20-05 tot 20-05:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 21-05 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -31434,6 +30756,8 @@ VHF:     18
 Contact PhoneNumber:070-3274290
 
 Bedieningstijden
+Periode 30-03 tot 30-03:
+   08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
    23:00 - 22:59: Zo, excl. feestdagen. Geen bediening
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Spitssluiting, uitsluitend voor recreatievaart, van 16:30 - 18:30
@@ -31442,7 +30766,7 @@ Periode 31-03 tot 31-03:
 Periode 01-04 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Spitssluiting, uitsluitend voor recreatievaart, van 16:30 - 18:30
    08:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 01-11 tot 30-03:
+Periode 01-11 tot 29-03:
    23:00 - 22:59: Zo, incl. feestdagen. Geen bediening
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. Spitssluiting, uitsluitend voor recreatievaart, van 16:30 - 18:30
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -31491,57 +30815,30 @@ VHF:     20
 Contact PhoneNumber:070–4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, incl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
@@ -33051,57 +32348,30 @@ VHF:     20
 Contact PhoneNumber:070–4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -33302,14 +32572,14 @@ Contact PhoneNumber:0182-513096
 
 Bedieningstijden
 Periode 01-01 tot 30-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:30: Vr, excl. feestdagen. 
    04:00 - 17:30: Za, excl. feestdagen. 
    04:00 - 22:59: Ma, incl. feestdagen. 
 Periode 31-03 tot 31-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:30: Vr, excl. feestdagen. 
    04:00 - 17:30: Za, excl. feestdagen. 
    04:00 - 22:59: Ma, excl. feestdagen. 
@@ -33350,8 +32620,8 @@ Periode 20-05 tot 31-10:
    04:00 - 22:59: Ma, incl. feestdagen. 
    07:00 - 20:30: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:30: Vr, excl. feestdagen. 
    04:00 - 17:30: Za, excl. feestdagen. 
    04:00 - 22:59: Ma, excl. feestdagen. 
@@ -33490,14 +32760,14 @@ Contact PhoneNumber:010-4365405
 
 Bedieningstijden
 Periode 01-01 tot 30-03:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
-   23:00 - 22:59: Zo, excl. feestdagen. 
    03:00 - 22:59: Ma, incl. feestdagen. 
 Periode 31-03 tot 31-03:
    23:00 - 19:00: Za, excl. feestdagen. 
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    03:00 - 22:59: Ma, excl. feestdagen. 
 Periode 01-04 tot 26-04:
    23:00 - 19:00: Za, excl. feestdagen. 
@@ -33530,9 +32800,9 @@ Periode 20-05 tot 31-10:
    03:00 - 22:59: Ma, incl. feestdagen. 
    10:00 - 18:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 19:00: Za, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, Vr, incl. feestdagen. 
-   23:00 - 22:59: Zo, excl. feestdagen. 
    03:00 - 22:59: Ma, excl. feestdagen. 
 
 Note: Spertijden 1e Parkhavenbrug en 1e Coolhavenbrug : Maandag t/m Vrijdag : 07:15-08:30 uur en 16:30-18:00 uur.
@@ -33812,8 +33082,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:30: Vr, Za, Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, excl. feestdagen. 
 Periode 01-11 tot 30-03 (note: Bediening met 1 uur voormelding, aanvraag via 010-6315300 of VHF 22.):
-   23:00 - 22:59: incl. feestdagen. Geen bediening
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. Geen bediening
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Recreatievaart: opening terweerszijden van de gemeente, met mogelijkheid van doorvaart door de stad. Doorvaarthoogte beperkt tot 4,20m.
@@ -35148,14 +34418,14 @@ Contact PhoneNumber:070 - 441 7500
 
 Bedieningstijden
 Periode 01-01 tot 30-03:
-   23:00 - 22:59: Di, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Do, excl. feestdagen. 
    23:00 - 21:00: Wo, Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Di, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Do, excl. feestdagen. 
    23:00 - 21:00: Wo, Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -35196,14 +34466,14 @@ Periode 20-05 tot 31-10:
    05:00 - 22:59: Ma, incl. feestdagen. 
    07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 25-12:
-   23:00 - 22:59: Di, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Do, excl. feestdagen. 
    23:00 - 21:00: Wo, Vr, incl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
 Periode 26-12 tot 31-12:
-   23:00 - 22:59: Di, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Do, incl. feestdagen. 
    23:00 - 21:00: Wo, Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
@@ -35840,8 +35110,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:30: Vr, Za, Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, excl. feestdagen. 
 Periode 01-11 tot 30-03 (note: Bediening met 1 uur voormelding, aanvraag via 010-6315300 of VHF 22.):
-   23:00 - 22:59: incl. feestdagen. Geen bediening
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. Geen bediening
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Recreatievaart: opening terweerszijden van de gemeente, met mogelijkheid van doorvaart door de stad. Doorvaarthoogte beperkt tot 4,20m.
@@ -36398,16 +35668,16 @@ Contact PhoneNumber:070-4417720
 
 Bedieningstijden
 Periode 01-01 tot 29-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
 Periode 30-03 tot 30-03:
    08:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 18:00: incl. feestdagen. 
@@ -36432,8 +35702,8 @@ Periode 21-05 tot 31-10:
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 18:00: Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    08:00 - 12:00: Za, excl. feestdagen. 
@@ -36534,14 +35804,14 @@ Contact PhoneNumber:070–4417713
 
 Bedieningstijden
 Periode 01-01 tot 30-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, incl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
 Periode 31-03 tot 31-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
@@ -36594,8 +35864,8 @@ Recreatie mag wel meevaren met de beroepsvaart.):
    05:00 - 22:59: Ma, incl. feestdagen. 
    07:00 - 20:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
    04:30 - 22:59: Ma, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
@@ -36616,35 +35886,22 @@ VHF:     18
 Contact PhoneNumber:070–4417713
 
 Bedieningstijden
-Periode 01-01 tot 30-03 (note: op 24 en 31 december - geen zaterdag of zondag zijnde - worden bediend tot 18:00 uur;):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+Periode 01-01 tot 29-03 (note: Op 24 en 31 december (geen zaterdag of zondag zijnde) wordt er bediend tot 18:00 uur.):
    23:00 - 22:59: Zo, excl. feestdagen. 
-   05:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 17:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-Periode 31-03 tot 31-03 (note: op 24 en 31 december - geen zaterdag of zondag zijnde - worden bediend tot 18:00 uur;):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   05:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 17:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-Periode 01-04 tot 26-04 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart.
-):
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
+   05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart.
-):
+Periode 30-03 tot 30-03:
+   05:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 31-03 tot 31-03 (note: Op 24 en 31 december (geen zaterdag of zondag zijnde) wordt er bediend tot 18:00 uur.):
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, incl. feestdagen. 
+   05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
+   07:00 - 20:00: incl. feestdagen. 
+Periode 01-04 tot 31-10 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06:45 - 09:30 uur en van 16:00 - 18:00 uur) en geen bediening recreatievaart. 
 Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart.
 ):
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
@@ -36652,34 +35909,10 @@ Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaa
    05:00 - 20:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart.
-):
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart.
-):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:00: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10 (note: Tijdens spitstijden halfuur bediening beroepsvaart (van 06.45 uur - 09.30 uur en van 16.00 uur - 18.00 uur) en geen bediening recreatievaart. 
-Buiten spitstijden: beroepsvaart op aanbod, kwartier bediening voor recreatievaart.
-):
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:00: Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, excl. feestdagen. 
-   05:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:00: Zo, excl. feestdagen. 
-Periode 01-11 tot 31-12 (note: op 24 en 31 december - geen zaterdag of zondag zijnde - worden bediend tot 18:00 uur;):
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
+Periode 01-11 tot 31-12 (note: Op 24 en 31 december (geen zaterdag of zondag zijnde) wordt er bediend tot 18:00 uur.):
    23:00 - 22:59: Zo, excl. feestdagen. 
-   05:00 - 21:00: Vr, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
+   23:00 - 21:00: Vr, excl. feestdagen. 
    05:00 - 17:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
 
@@ -36910,8 +36143,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:30: Vr, Za, Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, excl. feestdagen. 
 Periode 01-11 tot 30-03 (note: Bediening met 1 uur voormelding, aanvraag via 010-6315300 of VHF 22.):
-   23:00 - 22:59: incl. feestdagen. Geen bediening
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. Geen bediening
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Recreatievaart: opening terweerszijden van de gemeente, met mogelijkheid van doorvaart door de stad. Doorvaarthoogte beperkt tot 4,20m.
@@ -36940,8 +36173,8 @@ Periode 01-04 tot 31-10:
    08:00 - 19:30: Vr, Za, Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, excl. feestdagen. 
 Periode 01-11 tot 30-03 (note: Bediening met 1 uur voormelding, aanvraag via 010-6315300 of VHF 22.):
-   23:00 - 22:59: incl. feestdagen. Geen bediening
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. Geen bediening
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Recreatievaart: opening terweerszijden van de gemeente, met mogelijkheid van doorvaart door de stad. Doorvaarthoogte beperkt tot 4,20m.
@@ -37345,8 +36578,8 @@ Type:    Bedienbare Brug
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
-   23:00 - 22:59: incl. feestdagen. Geen bediening
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. Geen bediening
    08:30 - 14:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/21023440">
@@ -38781,10 +38014,10 @@ Contact PhoneNumber:06 83027914
 Bedieningstijden
 Periode 01-01 tot 31-12:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   07:30 - 09:00: incl. feestdagen. 
    07:30 - 09:00: Za, Zo, excl. feestdagen. 
-   16:00 - 18:00: incl. feestdagen. 
+   07:30 - 09:00: incl. feestdagen. 
    16:00 - 18:00: Za, Zo, excl. feestdagen. 
+   16:00 - 18:00: incl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/37054081">
       <text>Weelsluisbrug (Westzanersluisbrug) online info</text>
@@ -44292,6 +43525,54 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54733263">
       <text>Derkje Hazewinkel-Suringabrug (Brug 2522) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.40679102814195" lon="4.921573139836254">
+    <name>Oosterlengtebrug (Brug 974)</name>
+    <desc>Locatie: Noordhollandsch Kanaal
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54759874">
+      <text>Oosterlengtebrug (Brug 974) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.408347" lon="4.918097">
+    <name>Brug in het Parlevinkerpad bij Binnenvaart (Brug 973)</name>
+    <desc>Locatie: Noordhollandsch Kanaal
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54759944">
+      <text>Brug in het Parlevinkerpad bij Binnenvaart (Brug 973) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.40659212818716" lon="4.921978451347968">
+    <name>Brug tussen Lijzijde en de Statenjachtlaan (Brug 975)</name>
+    <desc>Locatie: Noordhollandsch Kanaal
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54759991">
+      <text>Brug tussen Lijzijde en de Statenjachtlaan (Brug 975) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.346217" lon="5.005572">
+    <name>Brug in Fritz Dietrich Kahlenbergstraat over het IJmeer (Brug 2048)</name>
+    <desc>Locatie: Groene Tunnel
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/54762974">
+      <text>Brug in Fritz Dietrich Kahlenbergstraat over het IJmeer (Brug 2048) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
