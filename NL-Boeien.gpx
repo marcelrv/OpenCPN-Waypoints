@@ -35939,15 +35939,6 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.75631666664441" lon="5.12452222158883">
-    <name>Kite-MB 16</name>
-    <desc>vaarweg : WAGENPAD (IJSSELMEER)
-model : stomp Geel</desc>
-    <sym>3500</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.75390000039595" lon="5.134305555693316">
     <name>Kite-MB 2</name>
     <desc>vaarweg : WAGENPAD (IJSSELMEER)
@@ -62689,6 +62680,15 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.356786110849434" lon="5.608505556034032">
+    <name>RGH 6-AH 1</name>
+    <desc>vaarweg : WOLDERWIJD RECREATIE (RANDMEREN)
+model : spar Rood/groen</desc>
+    <sym>1261</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.35764999998792" lon="5.608480554949728">
     <name>RGH 7</name>
     <desc>vaarweg : WOLDERWIJD RECREATIE (RANDMEREN)
@@ -73398,15 +73398,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.455022221786386" lon="5.089736111781832">
-    <name>SVG 8</name>
-    <desc>vaarweg : GOUWZEE (MARKERMEER)
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.45099166682314" lon="5.087336111056567">
     <name>SVG 9</name>
     <desc>vaarweg : GOUWZEE (MARKERMEER)
@@ -78368,6 +78359,7 @@ model : spar Geel</desc>
     <name>VF-WNB 106</name>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
 model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -78484,6 +78476,7 @@ model : spar Geel</desc>
     <name>VF-WNB 158</name>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
 model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -89102,6 +89095,7 @@ model : spar Groen</desc>
     <name>WW 10 A</name>
     <desc>vaarweg : WOLDERWIJD (RANDMEREN)
 model : spar Rood</desc>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -91259,108 +91253,6 @@ model : spits Geel</desc>
     <desc>vaarweg : SPIEGELWAAL
 model : spits Geel</desc>
     <sym>5501</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.61672222251871" lon="5.063916666900798">
-    <name>ZH 10</name>
-    <desc>vaarweg : HOORNSCHE HOP (MARKERMEER)
-licht type : Iso (isophased)
-licht periode : 8
-lich kleur : Rood
-model : spar Rood</desc>
-    <sym>1145</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.616305555565965" lon="5.061038889574542">
-    <name>ZH 12</name>
-    <desc>vaarweg : HOORNSCHE HOP (MARKERMEER)
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.61793611121227" lon="5.05960277820473">
-    <name>ZH 14</name>
-    <desc>vaarweg : HOORNSCHE HOP (MARKERMEER)
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Rood
-model : spar Rood</desc>
-    <sym>1145</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.62143888929353" lon="5.056255555881267">
-    <name>ZH 16</name>
-    <desc>vaarweg : HOORNSCHE HOP (MARKERMEER)
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.62515277804828" lon="5.052780555710799">
-    <name>ZH 18</name>
-    <desc>vaarweg : HOORNSCHE HOP (MARKERMEER)
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.62726111077801" lon="5.050913889060841">
-    <name>ZH 20</name>
-    <desc>vaarweg : HOORNSCHE HOP (MARKERMEER)
-licht type : Iso (isophased)
-licht periode : 8
-lich kleur : Rood
-model : spar Rood</desc>
-    <sym>1145</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.62058055542988" lon="5.091469444847243">
-    <name>ZH 2</name>
-    <desc>vaarweg : HOORNSCHE HOP (MARKERMEER)
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Rood
-model : spar Rood</desc>
-    <sym>1147</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.61967222191901" lon="5.08483055548896">
-    <name>ZH 4</name>
-    <desc>vaarweg : HOORNSCHE HOP (MARKERMEER)
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.618702778004995" lon="5.077755555856591">
-    <name>ZH 6</name>
-    <desc>vaarweg : HOORNSCHE HOP (MARKERMEER)
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.61773888898231" lon="5.071038888849839">
-    <name>ZH 8</name>
-    <desc>vaarweg : HOORNSCHE HOP (MARKERMEER)
-model : spar Rood</desc>
-    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
