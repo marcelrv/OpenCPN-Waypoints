@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-03-18T07:09:11.423000Z</time>
+    <time>2024-03-19T12:05:22.355000Z</time>
   </metadata>
   <wpt lat="51.8911937920329" lon="4.22924947768186">
     <name>Rozenburgsesluis</name>
@@ -393,54 +393,27 @@ VHF:     18
 Contact PhoneNumber:0182-513096
 
 Bedieningstijden
-Periode 01-01 tot 30-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
+Periode 01-01 tot 29-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 21:30: Vr, excl. feestdagen. 
    04:00 - 17:30: Za, excl. feestdagen. 
    04:00 - 22:59: Ma, incl. feestdagen. 
+Periode 30-03 tot 30-03:
+   04:00 - 20:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. 
    23:00 - 21:30: Vr, excl. feestdagen. 
    04:00 - 17:30: Za, excl. feestdagen. 
    04:00 - 22:59: Ma, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:30: Vr, excl. feestdagen. 
-   04:00 - 20:30: Za, excl. feestdagen. 
-   04:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:30: Zo, excl. feestdagen. 
-Periode 27-04 tot 04-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:30: Vr, excl. feestdagen. 
-   04:00 - 20:30: Za, incl. feestdagen. 
-   04:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:30: Zo, excl. feestdagen. 
-Periode 05-05 tot 08-05:
+   07:00 - 20:30: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:30: Vr, excl. feestdagen. 
    04:00 - 20:30: Za, excl. feestdagen. 
    04:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:30: Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
-   23:00 - 21:30: Vr, excl. feestdagen. 
-   04:00 - 20:30: Za, excl. feestdagen. 
-   04:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:30: Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:30: Vr, excl. feestdagen. 
-   04:00 - 20:30: Za, excl. feestdagen. 
-   04:00 - 22:59: Ma, excl. feestdagen. 
-   07:00 - 20:30: Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
-   23:00 - 21:30: Vr, excl. feestdagen. 
-   04:00 - 20:30: Za, excl. feestdagen. 
-   04:00 - 22:59: Ma, incl. feestdagen. 
-   07:00 - 20:30: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-12 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
    23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
@@ -1223,7 +1196,13 @@ Periode 01-11 tot 29-03:
   <wpt lat="52.3870251856946" lon="4.88376617431641">
     <name>Westerkanaalschutsluis</name>
     <desc>Locatie: Westerkanaal
-Contact PhoneNumber:020-6241457</desc>
+Contact PhoneNumber:020-6241457
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+
+Note: Bij hoogwaterstanden en calamiteiten dient de Westerkanaalschutsluis als kering, met schutfunctie.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/19922">
       <text>Westerkanaalschutsluis online info</text>
     </link>
@@ -2069,7 +2048,7 @@ Laatste schutting is 15 minuten voor sluitingstijd!</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9791293197508" lon="4.65376138687134">
-    <name>Kolksluis</name>
+    <name>Kolksluis Moordrecht</name>
     <desc>Locatie: Verbindingsvaartje naar Hollandsche IJssel
 
 Bedieningstijden
@@ -2104,7 +2083,7 @@ Periode 01-10 tot 30-03 (note: Alleen op afroep, 24-uur tevoren aanvragen op tel
 
 Note: De Kolksluis staat in de regel open.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/36046">
-      <text>Kolksluis online info</text>
+      <text>Kolksluis Moordrecht online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
@@ -2135,26 +2114,17 @@ VHF:     22
 Contact PhoneNumber:0183-633308
 
 Bedieningstijden
+Periode 30-03 tot 30-03:
+   07:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    07:00 - 17:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   07:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05:
+   07:00 - 18:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    07:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   07:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   07:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   07:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 01-11 tot 30-03:
+Periode 01-11 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    07:00 - 17:00: Za, excl. feestdagen. 
@@ -2606,26 +2576,17 @@ VHF:     22
 Contact PhoneNumber:0347-371383 / fax 0347-373704
 
 Bedieningstijden
+Periode 30-03 tot 30-03:
+   07:00 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    07:00 - 17:00: Za, excl. feestdagen. 
-Periode 01-04 tot 26-04:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   07:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 27-04 tot 08-05:
+   07:00 - 18:00: incl. feestdagen. 
+Periode 01-04 tot 31-10:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    07:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 09-05 tot 18-05:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   07:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 19-05 tot 19-05:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   07:00 - 18:00: Za, Zo, incl. feestdagen. 
-Periode 20-05 tot 31-10:
-   05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   07:00 - 18:00: Za, Zo, excl. feestdagen. 
-Periode 01-11 tot 30-03:
+Periode 01-11 tot 29-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    07:00 - 17:00: Za, excl. feestdagen. 
@@ -2782,7 +2743,7 @@ Note: Contact: 06-22491354.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.0048135797747" lon="4.55795288085938">
+  <wpt lat="52.00191260141597" lon="4.553657323122024">
     <name>Het Zevenhuizer Verlaat</name>
     <desc>Locatie: Hennipsloot
 
@@ -3386,7 +3347,12 @@ Laatste schutting Slotermeerschutsluis richting Stad om 21:45 uur.
   </wpt>
   <wpt lat="52.3369493810232" lon="4.90292393630242">
     <name>Zorgvliedschutsluis</name>
-    <desc>Locatie: Kleine Wetering</desc>
+    <desc>Locatie: Kleine Wetering
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1022727">
       <text>Zorgvliedschutsluis online info</text>
     </link>
@@ -3699,7 +3665,11 @@ Houd rekening met aanrijtijd of enige vertraging.</desc>
   </wpt>
   <wpt lat="52.43959041995444" lon="4.825068549835122">
     <name>Groote Hondsbossche schutsluis</name>
-    <desc>Locatie: Voorzaan</desc>
+    <desc>Locatie: Voorzaan
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/9678687">
       <text>Groote Hondsbossche schutsluis online info</text>
     </link>
@@ -3860,7 +3830,16 @@ Telefoonnummer 0683183616.</desc>
   </wpt>
   <wpt lat="52.1589407573684" lon="5.01935854554176">
     <name>Kraaienestersluis</name>
-    <desc>Locatie: Tienhovense Vaart</desc>
+    <desc>Locatie: Tienhovense Vaart
+Contact PhoneNumber:0297 – 58 10 98
+
+Bedieningstijden
+Periode 01-04 tot 30-09:
+   07:00 - 21:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 01-10 tot 31-03:
+   07:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+
+Note: Storingsnummer 0297 – 58 10 98.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/27462745">
       <text>Kraaienestersluis online info</text>
     </link>
@@ -3930,10 +3909,10 @@ Tel. nr. bediening; 06-26112500 of marifoon VHF 68.</desc>
     </extensions>
   </wpt>
   <wpt lat="52.3328394082187" lon="5.04650115966797">
-    <name>De Krijgsman</name>
+    <name>Sluis De Krijgsman</name>
     <desc>Locatie: Sluis De Krijgsman</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/32657969">
-      <text>De Krijgsman online info</text>
+      <text>Sluis De Krijgsman online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
@@ -3953,7 +3932,12 @@ Tel. nr. bediening; 06-26112500 of marifoon VHF 68.</desc>
   </wpt>
   <wpt lat="52.4665105589481" lon="4.60996627807617">
     <name>Zeesluis IJmuiden</name>
-    <desc>Locatie: Zeesluis IJmuiden</desc>
+    <desc>Locatie: Zeesluis IJmuiden
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/35101238">
       <text>Zeesluis IJmuiden online info</text>
     </link>
