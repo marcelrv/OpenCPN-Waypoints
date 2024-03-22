@@ -53,6 +53,10 @@ jobs:
         run: |
           python chartcatalog.py
 
+      - name: execute daily charts script # run the run.py to get the latest data
+        run: |
+          python nl_enc_charts.py
+
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
