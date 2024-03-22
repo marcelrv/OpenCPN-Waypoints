@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-03-22T10:54:26.278000Z</time>
+    <time>2024-03-22T13:24:24.687000Z</time>
   </metadata>
   <wpt lat="51.8911937920329" lon="4.22924947768186">
     <name>Rozenburgsesluis</name>
@@ -393,12 +393,20 @@ VHF:     18
 Contact PhoneNumber:0182-513096
 
 Bedieningstijden
-Periode 01-01 tot 29-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Zo, excl. feestdagen. 
+Periode 01-01 tot 01-01 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
+   23:00 - 22:59: Zo, incl. feestdagen. 
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:30: Vr, excl. feestdagen. 
    04:00 - 17:30: Za, excl. feestdagen. 
-   04:00 - 22:59: Ma, incl. feestdagen. 
+   04:00 - 22:59: Ma, excl. feestdagen. 
+Periode 02-01 tot 02-01:
+   04:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 03-01 tot 29-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
+   23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+   23:00 - 21:30: Vr, excl. feestdagen. 
+   04:00 - 17:30: Za, excl. feestdagen. 
+   04:00 - 22:59: Ma, excl. feestdagen. 
 Periode 30-03 tot 30-03:
    04:00 - 20:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 31-03 tot 31-03 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
@@ -408,18 +416,80 @@ Periode 31-03 tot 31-03 (note: Op 24 en 31 december - geen zaterdag of zondag zi
    04:00 - 17:30: Za, excl. feestdagen. 
    04:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:30: incl. feestdagen. 
-Periode 01-04 tot 31-10:
+Periode 01-04 tot 01-04:
    23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:30: Vr, excl. feestdagen. 
    04:00 - 20:30: Za, excl. feestdagen. 
    04:00 - 22:59: Ma, excl. feestdagen. 
    07:00 - 20:30: Zo, incl. feestdagen. 
-Periode 01-11 tot 31-12 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
-   23:00 - 22:59: Zo, excl. feestdagen. 
-   23:00 - 22:59: Di, Wo, Do, incl. feestdagen. 
+Periode 02-04 tot 02-04:
+   04:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 03-04 tot 26-04:
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+   23:00 - 21:30: Vr, excl. feestdagen. 
+   04:00 - 20:30: Za, excl. feestdagen. 
+   04:00 - 22:59: Ma, excl. feestdagen. 
+   07:00 - 20:30: Zo, incl. feestdagen. 
+Periode 27-04 tot 04-05:
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+   23:00 - 21:30: Vr, excl. feestdagen. 
+   04:00 - 20:30: Za, incl. feestdagen. 
+   04:00 - 22:59: Ma, excl. feestdagen. 
+   07:00 - 20:30: Zo, excl. feestdagen. 
+Periode 05-05 tot 07-05:
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+   23:00 - 21:30: Vr, excl. feestdagen. 
+   04:00 - 20:30: Za, excl. feestdagen. 
+   04:00 - 22:59: Ma, excl. feestdagen. 
+   07:00 - 20:30: Zo, incl. feestdagen. 
+Periode 08-05 tot 08-05:
+   23:00 - 21:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 09-05 tot 09-05:
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+   23:00 - 21:30: Vr, excl. feestdagen. 
+   04:00 - 20:30: Za, excl. feestdagen. 
+   04:00 - 22:59: Ma, excl. feestdagen. 
+   07:00 - 20:30: Zo, incl. feestdagen. 
+Periode 10-05 tot 10-05:
+   04:00 - 21:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 11-05 tot 20-05:
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+   23:00 - 21:30: Vr, excl. feestdagen. 
+   04:00 - 20:30: Za, excl. feestdagen. 
+   04:00 - 22:59: Ma, excl. feestdagen. 
+   07:00 - 20:30: Zo, incl. feestdagen. 
+Periode 21-05 tot 21-05:
+   04:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 22-05 tot 31-10:
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+   23:00 - 21:30: Vr, excl. feestdagen. 
+   04:00 - 20:30: Za, excl. feestdagen. 
+   04:00 - 22:59: Ma, excl. feestdagen. 
+   07:00 - 20:30: Zo, incl. feestdagen. 
+Periode 01-11 tot 23-12 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
+   23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
    23:00 - 21:30: Vr, excl. feestdagen. 
    04:00 - 17:30: Za, excl. feestdagen. 
    04:00 - 22:59: Ma, excl. feestdagen. 
+Periode 24-12 tot 24-12:
+   23:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 25-12 tot 26-12 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
+   23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+   23:00 - 21:30: Vr, excl. feestdagen. 
+   04:00 - 17:30: Za, excl. feestdagen. 
+   04:00 - 22:59: Ma, excl. feestdagen. 
+Periode 27-12 tot 27-12:
+   04:00 - 21:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 28-12 tot 30-12 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
+   23:00 - 22:59: Zo, incl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, excl. feestdagen. 
+   23:00 - 21:30: Vr, excl. feestdagen. 
+   04:00 - 17:30: Za, excl. feestdagen. 
+   04:00 - 22:59: Ma, excl. feestdagen. 
+Periode 31-12 tot 31-12:
+   23:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/7804">
       <text>Julianasluis online info</text>
@@ -1883,7 +1953,11 @@ Periode 01-11 tot 30-03:
    08:00 - 12:00: Za, excl. feestdagen. 
 
 Note: Afhankelijk aanbod wegverkeer, bediening per kwartier of per half uur. 
-Bediening aanvragen op telefoonnummer 0297-561378.</desc>
+Bediening aanvragen op telefoonnummer 0297-561378.
+
+Vanaf 6 april 2024: aanvraag bediening ook op afstand via Bediencentrale Weg en Waterhuis 088-1110444
+
+Vanaf 6 juni 2024: aanvraag bediening ook via VHF 78</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/28830">
       <text>Tolhuissluis online info</text>
     </link>
@@ -2538,7 +2612,7 @@ Brugwachter/sluismeester bedient meerdere bruggen waardoor wachttijden kunnen on
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.4395790921866" lon="4.82536375522613">
+  <wpt lat="52.439578" lon="4.825712">
     <name>Wilhelminasluis Zaandam</name>
     <desc>Locatie: Voorzaan
 VHF:     20
