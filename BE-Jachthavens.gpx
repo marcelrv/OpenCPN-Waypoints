@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:opencpn="http://www.opencpn.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="vwi_waypoints_generator.py -- https://github.com/marcelrv/OpenCPN-Waypoints">
+  <metadata>
+    <name>BE Jachthavens</name>
+    <desc>BE jachthaven informatie based on RWS information</desc>
+    <author>
+      <name>Marcel Verpaalen</name>
+    </author>
+    <copyright >
+      <year>2022</year>
+      <license>CC BY-NC-SA 4.0</license>
+    </copyright>
+    <time>2024-03-27T11:12:39.428000Z</time>
+  </metadata>
+  <wpt lat="51.2620520978031" lon="4.30049170635342">
+    <name>Fort St.-Marie</name>
+    <desc>Locatie: Beneden Zeeschelde
+Opmerking      : Sluisje bij invaart.
+Passanten plaatsen: 0
+Vaste ligplaatsen: 50
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/3097">
+      <text>Fort St.-Marie online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.1194270475954" lon="3.75626260820615">
+    <name>Koninklijke Yacht Club Gent</name>
+    <desc>Locatie: Kanaal Gent-Terneuzen
+Opmerking      : Brug (dr) over haven, hoogte KP+4,5m, wijdte 15,39m. Diepte: KP-4,5m/KP-2,5m.
+Passanten plaatsen: 8
+Vaste ligplaatsen: 76
+Tankstation:      : Nee</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/9128">
+      <text>Koninklijke Yacht Club Gent online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+</gpx>

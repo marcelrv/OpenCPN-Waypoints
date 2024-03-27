@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-03-26T12:48:59.762000Z</time>
+    <time>2024-03-27T11:12:39.428000Z</time>
   </metadata>
   <wpt lat="52.2507194217856" lon="4.56760162786651">
     <name>WV Lisse (1)</name>
@@ -325,21 +325,6 @@ Tankstation:      : Nee</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.2620520978031" lon="4.30049170635342">
-    <name>Fort St.-Marie</name>
-    <desc>Locatie: Beneden Zeeschelde
-Opmerking      : Sluisje bij invaart.
-Passanten plaatsen: 0
-Vaste ligplaatsen: 50
-Tankstation:      : Nee</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/3097">
-      <text>Fort St.-Marie online info</text>
-    </link>
-    <sym>Anchor</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.5004718147401" lon="3.62279581081193">
     <name>Prins Hendrikdok</name>
     <desc>Locatie: 1e Binnenhaven te Middelburg
@@ -473,7 +458,7 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="52.0024323305568" lon="5.08717167307623">
-    <name>Rijkshaven Nieuwegein / ZV de Lek</name>
+    <name>Zeilvereniging de Lek</name>
     <desc>Locatie: Lek
 Opmerking      : Steigers en boxen.
 Passanten plaatsen: 10
@@ -481,7 +466,7 @@ Vaste ligplaatsen: 47
 Tankstation:      : Ja
 PhoneNumber: 088 – 7974240</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/3835">
-      <text>Rijkshaven Nieuwegein / ZV de Lek online info</text>
+      <text>Zeilvereniging de Lek online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -686,7 +671,7 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="52.6971029265869" lon="5.28636893850325">
-    <name>Buijshaven, Enkhuizen</name>
+    <name>Buijshaven Enkhuizen</name>
     <desc>Locatie: Krabbershaven
 Opmerking      : -
 Passanten plaatsen: 0
@@ -694,7 +679,7 @@ Vaste ligplaatsen: 60
 Tankstation:      : Nee
 PhoneNumber: 0228-360100</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/5009">
-      <text>Buijshaven, Enkhuizen online info</text>
+      <text>Buijshaven Enkhuizen online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -1048,13 +1033,13 @@ Tankstation:      : Ja</desc>
     </extensions>
   </wpt>
   <wpt lat="52.2483602240475" lon="4.70640400768893">
-    <name>De Stormvogel</name>
+    <name>De Stormvogel Aalsmeer</name>
     <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (oostelijk deel)
 Passanten plaatsen: 10
 Vaste ligplaatsen: 150
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/6544">
-      <text>De Stormvogel online info</text>
+      <text>De Stormvogel Aalsmeer online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -1761,21 +1746,6 @@ PhoneNumber: 0515-489000</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.1194270475954" lon="3.75626260820615">
-    <name>Koninklijke Yacht Club Gent</name>
-    <desc>Locatie: Kanaal Gent-Terneuzen
-Opmerking      : Brug (dr) over haven, hoogte KP+4,5m, wijdte 15,39m. Diepte: KP-4,5m/KP-2,5m.
-Passanten plaatsen: 8
-Vaste ligplaatsen: 76
-Tankstation:      : Nee</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/9128">
-      <text>Koninklijke Yacht Club Gent online info</text>
-    </link>
-    <sym>Anchor</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.8989311956068" lon="4.5395570478927">
     <name>Kreeksehaven</name>
     <desc>Locatie: Zuiddiepje
@@ -1808,12 +1778,12 @@ PhoneNumber: 140575</desc>
     </extensions>
   </wpt>
   <wpt lat="52.1830802067956" lon="4.83874935964127">
-    <name>Beau rivage</name>
+    <name>Ligplaats Beau rivage Zevenhoven</name>
     <desc>Locatie: Kromme Mijdrecht
 Vaste ligplaatsen: 15
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/9237">
-      <text>Beau rivage online info</text>
+      <text>Ligplaats Beau rivage Zevenhoven online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -1925,11 +1895,11 @@ PhoneNumber: 026-4976911</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.2002417482918" lon="5.02912479133882">
+  <wpt lat="52.1987060649177" lon="5.036106802965">
     <name>Recreatiecentrum Mijnden</name>
     <desc>Locatie: Westelijke Drecht
-Passanten plaatsen: 0
-Vaste ligplaatsen: 150
+Passanten plaatsen: 15
+Vaste ligplaatsen: 350
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/9952">
       <text>Recreatiecentrum Mijnden online info</text>
@@ -1998,14 +1968,14 @@ PhoneNumber: 0515-489000</desc>
     </extensions>
   </wpt>
   <wpt lat="51.7065603369842" lon="4.9439944073995">
-    <name>Waspik, Rekkers van WSV Het Oude Maasje</name>
+    <name>Ligplaats WSV Het Oude Maasje Waspik</name>
     <desc>Locatie: Oude Maasje
 Opmerking      : Diepte: NAP-1,00m/NAP-3,00m. Steigers.
 Passanten plaatsen: 20
 Vaste ligplaatsen: 300
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/10201">
-      <text>Waspik, Rekkers van WSV Het Oude Maasje online info</text>
+      <text>Ligplaats WSV Het Oude Maasje Waspik online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -2013,13 +1983,13 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="52.5396801046156" lon="4.83460894652219">
-    <name>'t Verloren Eind</name>
+    <name>Ligplaats 't Verloren Eind Spijkerboor</name>
     <desc>Locatie: Beemsterringvaart
 Passanten plaatsen: 0
 Vaste ligplaatsen: 14
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/10247">
-      <text>'t Verloren Eind online info</text>
+      <text>Ligplaats 't Verloren Eind Spijkerboor online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -2251,7 +2221,8 @@ Tankstation:      : Ja</desc>
   </wpt>
   <wpt lat="52.1969624910406" lon="4.43257110203651">
     <name>Noordwijksche vaart of Maandagsche Watering</name>
-    <desc>Opmerking      : Diepte jachthaven: KP-1,70m.
+    <desc>Locatie: Oegstgeesterkanaal
+Opmerking      : Diepte jachthaven: KP-1,70m.
 Passanten plaatsen: 0
 Vaste ligplaatsen: 130
 Tankstation:      : Nee
@@ -2343,14 +2314,14 @@ PhoneNumber: 140514</desc>
     </extensions>
   </wpt>
   <wpt lat="53.1767054220066" lon="6.96808243650845">
-    <name>Scheemda, ligplaaats</name>
+    <name>Ligplaaats Scheemda 1</name>
     <desc>Locatie: Opdiep
 Passanten plaatsen: 0
 Vaste ligplaatsen: 9
 Tankstation:      : Nee
 PhoneNumber: 0597-482000</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/11756">
-      <text>Scheemda, ligplaaats online info</text>
+      <text>Ligplaaats Scheemda 1 online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -2521,7 +2492,7 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="52.2968004386103" lon="4.90131094831775">
-    <name>Ouderkerk aan de Amstel, passantenhaven </name>
+    <name>Passantenhaven Ouderkerk aan de Amstel</name>
     <desc>Locatie: Amstel
 Opmerking      : Diepte: KP-0,50m. Max. 72 uur.
 Passanten plaatsen: 10
@@ -2529,7 +2500,7 @@ Vaste ligplaatsen: 0
 Tankstation:      : Nee
 PhoneNumber: 020-4962121</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/12131">
-      <text>Ouderkerk aan de Amstel, passantenhaven  online info</text>
+      <text>Passantenhaven Ouderkerk aan de Amstel online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -2552,13 +2523,13 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="51.8209813219664" lon="5.54533236774692">
-    <name>Maasbommel, WSV De Gouden Ham</name>
+    <name>Ligplaats WSV De Gouden Ham Maasbommel</name>
     <desc>Locatie:  Recreatiegebied De Gouden Ham
 Passanten plaatsen: 10
 Vaste ligplaatsen: 150
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/12167">
-      <text>Maasbommel, WSV De Gouden Ham online info</text>
+      <text>Ligplaats WSV De Gouden Ham Maasbommel online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -2581,14 +2552,14 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9062620744104" lon="4.16797542615953">
-    <name>Zuiderspuihaven</name>
+    <name>Ligplaats Zuiderspuihaven</name>
     <desc>Locatie: Zuid-Spuihaven, Haven van Brielle
 Passanten plaatsen: 0
 Vaste ligplaatsen: 50
 Tankstation:      : Nee
 PhoneNumber: 140181</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/12418">
-      <text>Zuiderspuihaven online info</text>
+      <text>Ligplaats Zuiderspuihaven online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -2612,7 +2583,7 @@ Tankstation:      : Ja</desc>
   <wpt lat="51.6684387461543" lon="4.09186875798161">
     <name>WSV Bru</name>
     <desc>Locatie: Voorhavens Grevelingensluis
-Opmerking      : Diepte: MP-4,0m/MP-1,0m. Steigers en boxen. 
+Opmerking      : Diepte: MP-4,0m/MP-1,0m. Steigers en boxen.
 Passanten plaatsen: 0
 Vaste ligplaatsen: 156
 Tankstation:      : Nee</desc>
@@ -2670,14 +2641,14 @@ PhoneNumber: 14 075</desc>
     </extensions>
   </wpt>
   <wpt lat="52.634542669345" lon="4.74840948878634">
-    <name>Alkmaar, passantenhaven AKV</name>
+    <name>Passantenhaven AKV Alkmaar</name>
     <desc>Locatie: Noordhollandsch Kanaal
 Opmerking      : Halverwege een ophaalbrug, wijdte 6m, hoogte gesloten stand KP+2,08m. Max. diepgang 3,0 m., max. lengte 10 m.
 Passanten plaatsen: 30
 Tankstation:      : Nee
 PhoneNumber: 14 072</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/12743">
-      <text>Alkmaar, passantenhaven AKV online info</text>
+      <text>Passantenhaven AKV Alkmaar online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -2761,14 +2732,14 @@ PhoneNumber: 0113-377377</desc>
     </extensions>
   </wpt>
   <wpt lat="51.7101409396273" lon="5.05629410332568">
-    <name>Waalwijk, WSV "de Zwaaikom"</name>
+    <name>Ligplaats WSV "de Zwaaikom" Waalwijk</name>
     <desc>Locatie: Buitenhaven te Waalwijk
 Opmerking      : Diepte: NAP-3,00m.
 Passanten plaatsen: 0
 Vaste ligplaatsen: 18
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/13153">
-      <text>Waalwijk, WSV "de Zwaaikom" online info</text>
+      <text>Ligplaats WSV "de Zwaaikom" Waalwijk online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -2791,14 +2762,14 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="51.8049642762454" lon="4.76464427308134">
-    <name>Sliedrechtse Biesbosch, passantenhaven</name>
+    <name>Passantenhaven Sliedrechtse Biesbosch</name>
     <desc>Locatie: Moldiep
 Passanten plaatsen: 15
 Vaste ligplaatsen: 0
 Tankstation:      : Nee
 PhoneNumber: 030 69 26 111</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/13306">
-      <text>Sliedrechtse Biesbosch, passantenhaven online info</text>
+      <text>Passantenhaven Sliedrechtse Biesbosch online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -2820,7 +2791,7 @@ Tankstation:      : Ja</desc>
     </extensions>
   </wpt>
   <wpt lat="51.5671261991528" lon="6.06477225710587">
-    <name>Jachthaven 't Leuken </name>
+    <name>Jachthaven 't Leuken</name>
     <desc>Locatie: 't Leuken
 Opmerking      : Steigers. Diepte: SP-5,00m=NAP+5,85m.
 Passanten plaatsen: 20
@@ -2828,7 +2799,7 @@ Vaste ligplaatsen: 400
 Tankstation:      : Nee
 VHF:     31</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/13489">
-      <text>Jachthaven 't Leuken  online info</text>
+      <text>Jachthaven 't Leuken online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -2911,14 +2882,14 @@ PhoneNumber: 140187</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9706486415169" lon="5.92771540875507">
-    <name>Roei- en Zeilvereniging Jason</name>
+    <name>Roei- en Zeilvereniging Jason 1</name>
     <desc>Locatie: Haven van Malburgen
 Opmerking      : Steigers en boxen.
 Passanten plaatsen: 0
 Vaste ligplaatsen: 175
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/13742">
-      <text>Roei- en Zeilvereniging Jason online info</text>
+      <text>Roei- en Zeilvereniging Jason 1 online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -2956,13 +2927,13 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="52.9019057085497" lon="5.59086427098615">
-    <name>Balk, ligplaats zeilschool</name>
+    <name>Ligplaats zeilschool Balk</name>
     <desc>Locatie: Luts
 Passanten plaatsen: 0
 Vaste ligplaatsen: 40
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/13937">
-      <text>Balk, ligplaats zeilschool online info</text>
+      <text>Ligplaats zeilschool Balk online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -2970,14 +2941,14 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="53.0937323068707" lon="5.84471583366394">
-    <name>Grouw, gemeentelijke passantenhaven</name>
+    <name>Gemeentelijke passantenhaven Grouw</name>
     <desc>Locatie: Prinses Margrietkanaal
 Passanten plaatsen: 55
 Vaste ligplaatsen: 95
 Tankstation:      : Nee
 PhoneNumber: 14 058</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/13981">
-      <text>Grouw, gemeentelijke passantenhaven online info</text>
+      <text>Gemeentelijke passantenhaven Grouw online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -2985,14 +2956,14 @@ PhoneNumber: 14 058</desc>
     </extensions>
   </wpt>
   <wpt lat="52.6477374960034" lon="6.08744959031238">
-    <name>Lok </name>
+    <name>Lok</name>
     <desc>Locatie: Meppelerdiep
 Opmerking      : Diepte: MP-1,60m. Keersluis bij invaart.
 Passanten plaatsen: 2
 Vaste ligplaatsen: 12
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/14260">
-      <text>Lok  online info</text>
+      <text>Lok online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -3045,13 +3016,13 @@ PhoneNumber: 0597-482000</desc>
     </extensions>
   </wpt>
   <wpt lat="51.822429623314" lon="5.40326464106329">
-    <name>Heerewaarden, ligplaats</name>
+    <name>Ligplaats Heerewaarden</name>
     <desc>Locatie: Maas
 Passanten plaatsen: 0
 Vaste ligplaatsen: 40
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/14423">
-      <text>Heerewaarden, ligplaats online info</text>
+      <text>Ligplaats Heerewaarden online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -3059,13 +3030,13 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="52.1913000100381" lon="4.50280658872958">
-    <name>Warmond, van Leest scheepsbouw</name>
+    <name>Ligplaats van Leest scheepsbouw Warmond</name>
     <desc>Locatie: Grote Sloot
 Passanten plaatsen: 0
 Vaste ligplaatsen: 40
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/14596">
-      <text>Warmond, van Leest scheepsbouw online info</text>
+      <text>Ligplaats van Leest scheepsbouw Warmond online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -3073,13 +3044,13 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="51.6899919160001" lon="4.61276220800005">
-    <name>Moerdijk, jachthaven</name>
+    <name>Ligplaats jachthaven Moerdijk</name>
     <desc>Locatie: Buitenhaven, Roode Vaart-Noord
 Passanten plaatsen: 0
 Vaste ligplaatsen: 20
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/14663">
-      <text>Moerdijk, jachthaven online info</text>
+      <text>Ligplaats jachthaven Moerdijk online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -3131,14 +3102,14 @@ PhoneNumber: 140570</desc>
     </extensions>
   </wpt>
   <wpt lat="53.0984621934679" lon="5.94531193095171">
-    <name>De Veenhoop Watersport en Recreatie </name>
+    <name>De Veenhoop Watersport en Recreatie</name>
     <desc>Locatie: Kromme Ie
 Opmerking      : Twee invaarten.
 Passanten plaatsen: 20
 Vaste ligplaatsen: 200
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/15061">
-      <text>De Veenhoop Watersport en Recreatie  online info</text>
+      <text>De Veenhoop Watersport en Recreatie online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -3159,13 +3130,13 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="53.1756701424757" lon="5.41586490115387">
-    <name>Harlingen, Noorderhaven</name>
+    <name>Ligplaats Noorderhaven Harlingen</name>
     <desc>Locatie: Noorderhaven
 Passanten plaatsen: 0
 Vaste ligplaatsen: 30
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/15094">
-      <text>Harlingen, Noorderhaven online info</text>
+      <text>Ligplaats Noorderhaven Harlingen online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -3188,7 +3159,7 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9063731735575" lon="4.44834293437696">
-    <name>WV Voorhaven, ligplaats</name>
+    <name>Ligplaats WV Voorhaven</name>
     <desc>Locatie: Voorhaven
 Opmerking      : Diepte: KP-3,00m.
 Passanten plaatsen: 5
@@ -3196,7 +3167,7 @@ Vaste ligplaatsen: 35
 Tankstation:      : Nee
 PhoneNumber: 14 010</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/15150">
-      <text>WV Voorhaven, ligplaats online info</text>
+      <text>Ligplaats WV Voorhaven online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -3263,7 +3234,7 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="52.206917955489125" lon="4.409190980395866">
-    <name>Haven van Katwijk</name>
+    <name>Ligplaats Haven van Katwijk aan den Rijn</name>
     <desc>Locatie: Uitwateringskanaal of Katwijkerkanaal
 Opmerking      : PZH_CODE: 03LP9,897S
 Diepte: KP-1,50m.
@@ -3271,7 +3242,7 @@ Passanten plaatsen: 0
 Vaste ligplaatsen: 271
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/15356">
-      <text>Haven van Katwijk online info</text>
+      <text>Ligplaats Haven van Katwijk aan den Rijn online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -3311,13 +3282,13 @@ PhoneNumber: 0596-640400</desc>
     </extensions>
   </wpt>
   <wpt lat="52.8725043845358" lon="5.82541935121202">
-    <name>Echtenerbrug, haven te</name>
+    <name>Ligplaats haven Echtenerbrug</name>
     <desc>Locatie: Pier Christiaanssleat
 Passanten plaatsen: 10
 Vaste ligplaatsen: 35
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/15512">
-      <text>Echtenerbrug, haven te online info</text>
+      <text>Ligplaats haven Echtenerbrug online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -3325,14 +3296,14 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="52.4105227735234" lon="4.90449582737271">
-    <name>Amsterdam, Kadoelen-werf</name>
+    <name>Ligplaats Kadoelen-werf Amsterdam</name>
     <desc>Locatie: Zijkanaal I
 Opmerking      : Steiger en boxen.
 Passanten plaatsen: 0
 Vaste ligplaatsen: 41
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/15734">
-      <text>Amsterdam, Kadoelen-werf online info</text>
+      <text>Ligplaats Kadoelen-werf Amsterdam online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -3446,13 +3417,13 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="53.2853515929173" lon="5.8482962224166">
-    <name>Birdaard, WSV Tergracht</name>
+    <name>Ligplaats WSV Tergracht Birdaard</name>
     <desc>Locatie: Dokkumer-Ee
 Passanten plaatsen: 0
 Vaste ligplaatsen: 12
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/16028">
-      <text>Birdaard, WSV Tergracht online info</text>
+      <text>Ligplaats WSV Tergracht Birdaard online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -3504,14 +3475,14 @@ VHF:     71</desc>
     </extensions>
   </wpt>
   <wpt lat="51.8379723591752" lon="4.92510231251529">
-    <name>JH Dubbeldam</name>
+    <name>Ligplaats JH Dubbeldam</name>
     <desc>Locatie: Kanaal van Steenenhoek
 Opmerking      : Diepte: KP-2,50m.
 Passanten plaatsen: 0
 Vaste ligplaatsen: 60
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/16157">
-      <text>JH Dubbeldam online info</text>
+      <text>Ligplaats JH Dubbeldam online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -3640,7 +3611,7 @@ Tankstation:      : Nee</desc>
   <wpt lat="52.5580966598853" lon="5.45854133791782">
     <name>Flevo-Marina</name>
     <desc>Locatie: IJsselmeer
-Opmerking      : Diepte: MP-3,80 m/MP-2,50 m. 
+Opmerking      : Diepte: MP-3,80 m/MP-2,50 m.
 Passanten plaatsen: 50
 Vaste ligplaatsen: 1150
 Tankstation:      : Ja</desc>
@@ -3818,13 +3789,13 @@ PhoneNumber: 0164-277000</desc>
     </extensions>
   </wpt>
   <wpt lat="52.1982380295094" lon="4.51059753104889">
-    <name>Warmond, Gebr. Visch cv</name>
+    <name>Ligplaats Gebr. Visch cv Warmond</name>
     <desc>Locatie: Warmonderleede
 Passanten plaatsen: 15
 Vaste ligplaatsen: 170
 Tankstation:      : Ja</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/17323">
-      <text>Warmond, Gebr. Visch cv online info</text>
+      <text>Ligplaats Gebr. Visch cv Warmond online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -3847,14 +3818,14 @@ PhoneNumber: 14 0517</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9016676682741" lon="4.16654355935509">
-    <name>Zuiderspuihaven (2)</name>
+    <name>Ligplaats Zuiderspuihaven 2</name>
     <desc>Locatie: Zuid-Spuihaven, Haven van Brielle
 Passanten plaatsen: 0
 Vaste ligplaatsen: 129
 Tankstation:      : Nee
 PhoneNumber: 140181</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/17485">
-      <text>Zuiderspuihaven (2) online info</text>
+      <text>Ligplaats Zuiderspuihaven 2 online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -3921,14 +3892,14 @@ PhoneNumber: 140521</desc>
     </extensions>
   </wpt>
   <wpt lat="51.5374042339743" lon="3.92340386093573">
-    <name>Het Goese Sas/ Hansa</name>
+    <name>Het Goese Sas / Hansa</name>
     <desc>Locatie: Buitenhaven te Goessche Sas
 Opmerking      : Diepte: KP-3,1m/KP-1,3m.
 Passanten plaatsen: 0
 Vaste ligplaatsen: 305
 Tankstation:      : Ja</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/17868">
-      <text>Het Goese Sas/ Hansa online info</text>
+      <text>Het Goese Sas / Hansa online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -3965,14 +3936,14 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="52.5293315739084" lon="4.72248813400954">
-    <name>Uitgeest, Zonjee</name>
+    <name>Zonjee Uitgeest</name>
     <desc>Locatie: Vaargeul naar Uitgeest
 Opmerking      : Diepte: KP-2,20/KP-1,20.
 Passanten plaatsen: 0
 Vaste ligplaatsen: 80
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/17981">
-      <text>Uitgeest, Zonjee online info</text>
+      <text>Zonjee Uitgeest online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -4100,13 +4071,13 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="52.1244201517754" lon="4.46327090263367">
-    <name>Jachthaven De Vlietopper</name>
+    <name>Jachthaven De Vlietopper Voorschoten</name>
     <desc>Opmerking      : Diepte: KP-2,40m/KP-1,70m.
 Passanten plaatsen: 10
 Vaste ligplaatsen: 390
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/18899">
-      <text>Jachthaven De Vlietopper online info</text>
+      <text>Jachthaven De Vlietopper Voorschoten online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -4114,14 +4085,14 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="51.7534338106633" lon="5.82891891298279">
-    <name>Cuijk, Camping 't Loo</name>
+    <name>Camping 't Loo Cuijk</name>
     <desc>Locatie: Plas 2, Kraaijenbergse Plassen
 Opmerking      : Steigers. Diepte: SP-3,50m=NAP+4,00m.
 Passanten plaatsen: 0
 Vaste ligplaatsen: 80
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/18936">
-      <text>Cuijk, Camping 't Loo online info</text>
+      <text>Camping 't Loo Cuijk online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -4174,14 +4145,14 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="51.8254959688616" lon="4.1355900251631">
-    <name>Hellevoetsluis, J.P. Yachts &amp; Boats</name>
+    <name>J.P. Yachts &amp; Boats Hellevoetsluis</name>
     <desc>Locatie: Voornsche Kanaal
 Opmerking      : Diepte: KP-3,0m.
 Passanten plaatsen: 0
 Vaste ligplaatsen: 40
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/19385">
-      <text>Hellevoetsluis, J.P. Yachts &amp; Boats online info</text>
+      <text>J.P. Yachts &amp; Boats Hellevoetsluis online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -4623,13 +4594,13 @@ PhoneNumber: 0475-852500</desc>
     </extensions>
   </wpt>
   <wpt lat="51.7847122162199" lon="5.06123784263117">
-    <name>Andel, ligplaats</name>
+    <name>Ligplaats Andel</name>
     <desc>Locatie: Afgedamde Maas
 Passanten plaatsen: 0
 Vaste ligplaatsen: 15
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/20845">
-      <text>Andel, ligplaats online info</text>
+      <text>Ligplaats Andel online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -4637,14 +4608,14 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="52.3187724729366" lon="5.55804088462663">
-    <name>WSC Strand Horst </name>
+    <name>WSC Strand Horst</name>
     <desc>Locatie: Nuldernauw
-Opmerking      : Diepte:MP-3,70m/ MP-1,90m. 
+Opmerking      : Diepte:MP-3,70m/ MP-1,90m.
 Passanten plaatsen: 50
 Vaste ligplaatsen: 500
 Tankstation:      : Ja</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/21017">
-      <text>WSC Strand Horst  online info</text>
+      <text>WSC Strand Horst online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -4883,14 +4854,14 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="52.3792254869368" lon="4.75503838088811">
-    <name>Halfweg, De Swaenenburght</name>
+    <name>Ligplaats De Swaenenburght</name>
     <desc>Locatie: Ringvaart van de Haarlemmermeerpolder (noordelijk gedeelte)
 Opmerking      : Diepte: KP-2,50m.
 Passanten plaatsen: 0
 Vaste ligplaatsen: 30
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/22337">
-      <text>Halfweg, De Swaenenburght online info</text>
+      <text>Ligplaats De Swaenenburght online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -7683,14 +7654,14 @@ PhoneNumber: 0416-683456</desc>
     </extensions>
   </wpt>
   <wpt lat="52.201877812893" lon="4.54091767641211">
-    <name>Zevenhuizen, De Horizon</name>
+    <name>De Horizon</name>
     <desc>Locatie: Zweiland, Kagerplassen
 Opmerking      : Diepte: KP-2,0m/KP-1,25m.
 Passanten plaatsen: 0
 Vaste ligplaatsen: 10
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/33469">
-      <text>Zevenhuizen, De Horizon online info</text>
+      <text>De Horizon online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -7894,7 +7865,7 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="53.1758037310117" lon="6.96587292133478">
-    <name>Scheemda, haven te</name>
+    <name>Haven Scheemda</name>
     <desc>Locatie: Opdiep
 Opmerking      : Brug over invaart.
 Passanten plaatsen: 25
@@ -7902,7 +7873,7 @@ Vaste ligplaatsen: 50
 Tankstation:      : Nee
 PhoneNumber: 0597-482000</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/34372">
-      <text>Scheemda, haven te online info</text>
+      <text>Haven Scheemda online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -7998,7 +7969,7 @@ Tankstation:      : Ja</desc>
     </extensions>
   </wpt>
   <wpt lat="52.458322270108" lon="5.10023414655943">
-    <name>Oude Haven te Marken</name>
+    <name>Oude Haven Marken</name>
     <desc>Locatie: Haven van Marken
 Opmerking      : Diepte MP-2,00m / lengte kade 75m
 Passanten plaatsen: 0
@@ -8006,7 +7977,7 @@ Vaste ligplaatsen: 12
 Tankstation:      : Nee
 PhoneNumber: 088-7973700</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/35187">
-      <text>Oude Haven te Marken online info</text>
+      <text>Oude Haven Marken online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -8550,13 +8521,13 @@ Tankstation:      : Ja</desc>
     </extensions>
   </wpt>
   <wpt lat="52.9610529659138" lon="5.74440205387181">
-    <name>Scharsterhaven</name>
+    <name>Ligplaats Scharsterhaven</name>
     <desc>Locatie: Scharsterrijn of Nieuwe Rijn
 Passanten plaatsen: 0
 Vaste ligplaatsen: 36
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/37735">
-      <text>Scharsterhaven online info</text>
+      <text>Ligplaats Scharsterhaven online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -8592,13 +8563,13 @@ Tankstation:      : Nee</desc>
     </extensions>
   </wpt>
   <wpt lat="53.1295759731892" lon="5.94037876907556">
-    <name>Eernewoude, passantenhaven </name>
+    <name>Passantenhaven Eernewoude</name>
     <desc>Locatie: Eernewoudsterwijd
 Passanten plaatsen: 90
 Vaste ligplaatsen: 0
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/37750">
-      <text>Eernewoude, passantenhaven  online info</text>
+      <text>Passantenhaven Eernewoude online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -10086,14 +10057,14 @@ Tankstation:      : Ja</desc>
     </extensions>
   </wpt>
   <wpt lat="52.8856943218562" lon="5.4066511450825">
-    <name>De Stormvogel</name>
+    <name>De Stormvogel Warns</name>
     <desc>Locatie: Warnservaart
 Opmerking      : Diepte: KP-2,40m/KP-1,80m.
 Passanten plaatsen: 0
 Vaste ligplaatsen: 150
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/44023">
-      <text>De Stormvogel online info</text>
+      <text>De Stormvogel Warns online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
@@ -11573,20 +11544,6 @@ Vaste ligplaatsen: 20
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/50039">
       <text>Klompmaker online info</text>
-    </link>
-    <sym>Anchor</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.1987060649177" lon="5.036106802965">
-    <name>Recreatiecentrum Mijnden</name>
-    <desc>Locatie: Westelijke Drecht
-Passanten plaatsen: 100
-Vaste ligplaatsen: 200
-Tankstation:      : Nee</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/50085">
-      <text>Recreatiecentrum Mijnden online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
