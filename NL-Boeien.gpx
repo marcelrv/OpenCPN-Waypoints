@@ -9911,7 +9911,6 @@ model : spar Groen</desc>
 licht type : VQ (very quick-flashing)
 lich kleur : Groen
 model : spits Groen</desc>
-    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -80906,7 +80905,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.54355000007876" lon="3.857800000406073">
+  <wpt lat="51.54322222182067" lon="3.855630556129473">
     <name>VM 1</name>
     <desc>vaarweg : VEERSE MEER
 licht type : Iso (isophased)
@@ -81332,7 +81331,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.54366666703121" lon="3.855516666374479">
+  <wpt lat="51.5434888892557" lon="3.854799999682427">
     <name>VM 3</name>
     <desc>vaarweg : VEERSE MEER
 model : spits Groen</desc>
