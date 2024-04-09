@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-04-08T05:37:16.277000Z</time>
+    <time>2024-04-09T10:58:32.524000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -3094,7 +3094,8 @@ Periode 01-09 tot 31-10:
 Periode 01-11 tot 22-03 (note: Bediening op aanvraag via 058 - 29 25 888, optie 4 (ma t/m vr 08:30-16:00) 2 uur vooraf.):
    23:00 - 22:59: Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
-</desc>
+
+Note: De brugwachter is te bereiken via: 06-10887098.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/14593">
       <text>Sint Jansbrug Bolsward online info</text>
     </link>
@@ -3885,7 +3886,8 @@ Periode 01-09 tot 31-10:
 Periode 01-11 tot 22-03 (note: Bediening op aanvraag via 058 - 29 25 888, optie 4 (ma t/m vr 08:30-16:00) 2 uur vooraf.):
    23:00 - 22:59: Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
-</desc>
+
+Note: De brugwachter is te bereiken via: 06-10887098.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/18723">
       <text>Brug Wommels online info</text>
     </link>
@@ -5255,7 +5257,8 @@ Periode 01-09 tot 31-10:
 Periode 01-11 tot 22-03 (note: Bediening op aanvraag via 058 - 29 25 888, optie 4 (ma t/m vr 08:30-16:00) 2 uur vooraf.):
    23:00 - 22:59: Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
-</desc>
+
+Note: De brugwachter is te bereiken via: 06-10887098.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/26066">
       <text>Blauwpoortsbrug online info</text>
     </link>
@@ -11275,7 +11278,8 @@ Periode 01-09 tot 31-10:
 Periode 01-11 tot 22-03 (note: Bediening op aanvraag via 058 - 29 25 888, optie 4 (ma t/m vr 08:30-16:00) 2 uur vooraf.):
    23:00 - 22:59: Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
-</desc>
+
+Note: De brugwachter is te bereiken via: 06-10887098.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/56282">
       <text>Gijsbert Japicxbrug online info</text>
     </link>
@@ -14409,7 +14413,8 @@ Periode 01-09 tot 31-10:
 Periode 01-11 tot 22-03 (note: Bediening op aanvraag via 058 - 29 25 888, optie 4 (ma t/m vr 08:30-16:00) 2 uur vooraf.):
    23:00 - 22:59: Zo, incl. feestdagen. 
    08:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
-</desc>
+
+Note: De brugwachter is te bereiken via: 06-10887098.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/32703887">
       <text>Sint Jozefbrug Bolsward online info</text>
     </link>
@@ -15928,12 +15933,12 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.053305313300314" lon="5.700323315395507">
-    <name>Brug Aldfearsdyk (Fiets)</name>
+    <name>Brug Aldfeartsdyk (Fiets)</name>
     <desc>Locatie: Snitser Aldfeart
 Type:    Vaste Brug
 Contact PhoneNumber:0515-489000</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/38439636">
-      <text>Brug Aldfearsdyk (Fiets) online info</text>
+      <text>Brug Aldfeartsdyk (Fiets) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -16624,6 +16629,30 @@ Periode 01-11 tot 31-03:
       <text>Brug Oosterverlaat online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1485762" lon="5.4884199">
+    <name>Heechhout 't War</name>
+    <desc>Locatie: Achlumer Feart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/55856470">
+      <text>Heechhout 't War online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1487918" lon="5.486148">
+    <name>Brug in Hitzumerweg</name>
+    <desc>Locatie: Achlumer Feart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/55861886">
+      <text>Brug in Hitzumerweg online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
