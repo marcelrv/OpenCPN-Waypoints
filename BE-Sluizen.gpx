@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-04-11T12:26:23.029000Z</time>
+    <time>2024-04-12T12:39:05.630000Z</time>
   </metadata>
   <wpt lat="50.7950219086872" lon="5.68996659772328">
     <name>Sluis Ternaaien Lanaye (B)</name>
@@ -2800,6 +2800,17 @@ Periode 25-12 tot 31-12 (note: Op de vooravond van Pasen en Pinksteren, 30 april
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="45.494101696735" lon="4.8286549759063">
+    <name>sluis Vaugris</name>
+    <desc>Locatie: Rhone</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/4625301">
+      <text>sluis Vaugris online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.235157236225" lon="4.4038788986535">
     <name>Kattendijksluis</name>
     <desc>Locatie: Haven Antwerpen</desc>
@@ -2816,6 +2827,17 @@ Periode 25-12 tot 31-12 (note: Op de vooravond van Pasen en Pinksteren, 30 april
     <desc>Locatie: Haven Antwerpen</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/4693566">
       <text>Van Cauwelaertsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="43.585548394448" lon="4.1507641983462">
+    <name>keersluis Vidourle</name>
+    <desc>Locatie: Canal Rhône-Sète</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/8059313">
+      <text>keersluis Vidourle online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
