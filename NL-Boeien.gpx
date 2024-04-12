@@ -953,15 +953,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.61160555525686" lon="5.607305555567868">
-    <name>1</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.380611111127116" lon="3.715497222255946">
     <name>15A</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
@@ -1581,15 +1572,6 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.605822222080874" lon="5.57328055489351">
-    <name>2</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.352186111340984" lon="3.781008333403808">
     <name>25A</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
@@ -2191,15 +2173,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.60195277797227" lon="5.555713888239978">
-    <name>3</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.53261666664095" lon="3.719986110676927">
     <name>36</name>
     <desc>vaarweg : VEERSE MEER
@@ -2701,15 +2674,6 @@ model : spits Groen</desc>
     <desc>vaarweg : GREVELINGEN
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.5950972225758" lon="5.542444444681973">
-    <name>4</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -34312,6 +34276,15 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.52020277815122" lon="4.080105555794505">
+    <name>KL 1</name>
+    <desc>vaarweg : OOSTERSCHELDE
+model : spits Geel</desc>
+    <sym>1561</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.377319444855935" lon="5.633177777532344">
     <name>KL 2</name>
     <desc>vaarweg : VELUWEMEER RECREATIE (RANDMEREN)
@@ -34329,6 +34302,14 @@ licht periode : 2
 lich kleur : Rood
 model : spar Rood</desc>
     <sym>1147</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.52029722226395" lon="4.084388889303533">
+    <name>KL 3</name>
+    <desc>vaarweg : OOSTERSCHELDE
+model : spits Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43955,7 +43936,7 @@ model : spar Groen/rood/groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.606858333449175" lon="5.588872222790572">
+  <wpt lat="52.60698611087002" lon="5.589588889081469">
     <name>MR 10</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 licht type : LFl (long-flashing)
@@ -44103,6 +44084,7 @@ licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Groen
 model : spar Groen</desc>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -44371,7 +44353,7 @@ model : spar Zwart/geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.6099444441208" lon="5.598055555997066">
+  <wpt lat="52.61005555535703" lon="5.598811111411121">
     <name>MR 7</name>
     <desc>vaarweg : URK (IJSSELMEER)
 licht type : Iso (isophased)
@@ -44383,7 +44365,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.60848611110753" lon="5.598419444699914">
+  <wpt lat="52.608616666775426" lon="5.599141667125069">
     <name>MR 8</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 licht type : Iso (isophased)
@@ -44404,7 +44386,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.60830555534974" lon="5.588394443790964">
+  <wpt lat="52.608427777907195" lon="5.589094445139181">
     <name>MR 9</name>
     <desc>vaarweg : URK (IJSSELMEER)
 licht type : LFl (long-flashing)
@@ -53269,7 +53251,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.8560250001462" lon="4.003102777958528">
+  <wpt lat="51.8564555551402" lon="4.003074999794165">
     <name>P 1</name>
     <desc>vaarweg : NOORD PAMPUS
 licht type : Iso (isophased)
@@ -53477,7 +53459,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.857886111102324" lon="4.002202778025309">
+  <wpt lat="51.85843888844514" lon="4.002127777499475">
     <name>P 2</name>
     <desc>vaarweg : NOORD PAMPUS
 licht type : Iso (isophased)
@@ -63451,6 +63433,31 @@ model : spar Geel/zwart</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.974002777829504" lon="5.373486110778011">
+    <name>RHL-A</name>
+    <desc>vaarweg : NEDERRIJN
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.97465833357571" lon="5.384347221733021">
+    <name>RHL-B</name>
+    <desc>vaarweg : OPHEF LOCATIE
+lich kleur : Geel
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.97407222230446" lon="5.386138889041332">
+    <name>RHL-C</name>
+    <desc>vaarweg : NEDERRIJN
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.86034444472417" lon="5.846252777198817">
     <name>RHS 1</name>
     <desc>vaarweg : SPIEGELWAAL
@@ -67553,9 +67560,11 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85299166669056" lon="3.996349999660409">
+  <wpt lat="51.85363333314536" lon="3.995480555443222">
     <name>SG 15</name>
     <desc>vaarweg : SLIJKGAT
+licht type : LFl (long-flashing)
+licht periode : 5
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -67598,9 +67607,11 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85504166671843" lon="3.993802777744852">
+  <wpt lat="51.8552638888221" lon="3.993544444413298">
     <name>SG 16</name>
     <desc>vaarweg : SLIJKGAT
+licht type : LFl (long-flashing)
+licht periode : 5
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -87389,18 +87400,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.610527777779915" lon="5.638625000239927">
-    <name>WB-A</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5542</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.383527777427354" lon="5.042349999816833">
     <name>WB-B</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
@@ -87410,27 +87409,9 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.612388889303176" lon="5.635363889101081">
-    <name>WB-B</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.380294444036146" lon="5.044861111400106">
     <name>WB-C</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.61443611104203" lon="5.632144445158975">
-    <name>WB-C</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -87449,108 +87430,9 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.61608888854951" lon="5.629463888149302">
-    <name>WB-D</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5542</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.618111111142916" lon="5.626263889533059">
-    <name>WB-E</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.61993333307876" lon="5.623238889245016">
-    <name>WB-F</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.6220972224896" lon="5.619722221710693">
-    <name>WB-G</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5542</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.621447222081834" lon="5.616613888639747">
-    <name>WB-H</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.620574999708886" lon="5.612099999520769">
-    <name>WB-I</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.619622221960725" lon="5.607255554834062">
-    <name>WB-J</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.61880555597935" lon="5.602702777442171">
-    <name>WB-K</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5542</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.61787777763976" lon="5.598327778327798">
-    <name>WB-L</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.38343611148246" lon="5.053852777548364">
     <name>WB-M</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.61699722181298" lon="5.593863888813775">
-    <name>WB-M</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -87566,39 +87448,9 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.61607777782249" lon="5.589136111136183">
-    <name>WB-N</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.615305555589764" lon="5.584555555513644">
-    <name>WB-O</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5542</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.37811111131385" lon="5.039463889346631">
     <name>WB-P</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.61445833306354" lon="5.580211111031653">
-    <name>WB-P</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -87614,15 +87466,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.61350277772375" lon="5.57568888952482">
-    <name>WB-Q</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.37696388862623" lon="5.030430555546649">
     <name>WB-R</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
@@ -87632,39 +87475,9 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.6127694447969" lon="5.570941666043656">
-    <name>WB-R</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.61194722250236" lon="5.566049999985882">
-    <name>WB-S</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5542</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.380333333705146" lon="5.03339166622439">
     <name>WB-T</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.61067777760279" lon="5.561458333241522">
-    <name>WB-T</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
