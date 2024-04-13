@@ -17812,7 +17812,7 @@ licht type : Iso (isophased)
 licht periode : 2
 lich kleur : Wit
 model : spar Rood/groen repeterend</desc>
-    <sym>5542</sym>
+    <sym>1262</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -18856,7 +18856,6 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 licht type : Fl (flashing)
 licht periode : 5
-lich kleur : Geel
 model : spar Geel</desc>
     <sym>5542</sym>
     <extensions>
@@ -18968,8 +18967,11 @@ model : spar Geel</desc>
   <wpt lat="52.60352222198077" lon="5.60022222247389">
     <name>FR-N</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 10
+lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5541</sym>
+    <sym>5542</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -34280,7 +34282,7 @@ model : spar Groen</desc>
     <name>KL 1</name>
     <desc>vaarweg : OOSTERSCHELDE
 model : spits Geel</desc>
-    <sym>1561</sym>
+    <sym>3001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -34310,6 +34312,7 @@ model : spar Rood</desc>
     <name>KL 3</name>
     <desc>vaarweg : OOSTERSCHELDE
 model : spits Geel</desc>
+    <sym>3001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43943,7 +43946,7 @@ licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>5542</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43961,10 +43964,10 @@ model : spar Rood</desc>
     <name>MR 11</name>
     <desc>vaarweg : URK (IJSSELMEER)
 licht type : Iso (isophased)
-licht periode : 4
+licht periode : 8
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>5542</sym>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43985,7 +43988,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>5542</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43997,7 +44000,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>5542</sym>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -44039,7 +44042,7 @@ licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>5542</sym>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -44080,8 +44083,8 @@ model : spar Rood</desc>
   <wpt lat="52.601974999757715" lon="5.550400000468739">
     <name>MR 17</name>
     <desc>vaarweg : URK (IJSSELMEER)
-licht type : LFl (long-flashing)
-licht periode : 5
+licht type : Iso (isophased)
+licht periode : 8
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
@@ -44105,7 +44108,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>5542</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -44117,7 +44120,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>5542</sym>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -44138,7 +44141,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>5542</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -44150,7 +44153,7 @@ licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>5542</sym>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -44167,11 +44170,11 @@ model : spar Groen</desc>
   <wpt lat="52.59827222258226" lon="5.537530556148059">
     <name>MR 22</name>
     <desc>vaarweg : URK (IJSSELMEER)
-licht type : Fl (flashing)
+licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>5542</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -44183,7 +44186,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>5542</sym>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -44225,7 +44228,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>5542</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -44330,7 +44333,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>5542</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -44357,7 +44360,7 @@ model : spar Zwart/geel</desc>
     <name>MR 7</name>
     <desc>vaarweg : URK (IJSSELMEER)
 licht type : Iso (isophased)
-licht periode : 8
+licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
@@ -44372,7 +44375,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>5542</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -45500,30 +45503,6 @@ model : spar Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 model : spar Geel</desc>
     <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.56035000006073" lon="5.498747222565505">
-    <name>Meet-W1</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-licht type : Q (quick-flashing)
-licht periode : 15
-lich kleur : Wit
-model : Pilaar Geel/zwart/geel</desc>
-    <sym>2323</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.582161111079856" lon="5.52386388925312">
-    <name>Meet-W2</name>
-    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
-licht type : VQ (very quick-flashing)
-licht periode : 10
-lich kleur : Wit
-model : Pilaar Geel/zwart/geel</desc>
-    <sym>2303</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -63437,15 +63416,17 @@ model : spar Geel/zwart</desc>
     <name>RHL-A</name>
     <desc>vaarweg : NEDERRIJN
 model : stomp Geel</desc>
+    <sym>5511</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
   <wpt lat="51.97465833357571" lon="5.384347221733021">
     <name>RHL-B</name>
-    <desc>vaarweg : OPHEF LOCATIE
+    <desc>vaarweg : NEDERRIJN
 lich kleur : Geel
 model : stomp Geel</desc>
+    <sym>5511</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -63454,6 +63435,7 @@ model : stomp Geel</desc>
     <name>RHL-C</name>
     <desc>vaarweg : NEDERRIJN
 model : stomp Geel</desc>
+    <sym>5511</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -67565,8 +67547,9 @@ model : spar Groen</desc>
     <desc>vaarweg : SLIJKGAT
 licht type : LFl (long-flashing)
 licht periode : 5
+lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1041</sym>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -67612,8 +67595,9 @@ model : spar Groen</desc>
     <desc>vaarweg : SLIJKGAT
 licht type : LFl (long-flashing)
 licht periode : 5
+lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
