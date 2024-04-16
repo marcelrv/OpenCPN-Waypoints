@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-04-15T11:23:31.845000Z</time>
+    <time>2024-04-16T10:06:36.715000Z</time>
   </metadata>
   <wpt lat="50.7950219086872" lon="5.68996659772328">
     <name>Sluis Ternaaien Lanaye (B)</name>
@@ -2827,6 +2827,17 @@ Periode 25-12 tot 31-12 (note: Op de vooravond van Pasen en Pinksteren, 30 april
     <desc>Locatie: Haven Antwerpen</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/4693566">
       <text>Van Cauwelaertsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="45.8785637269" lon="5.8113734435799">
+    <name>Chautagne</name>
+    <desc>Locatie: Haut Rhône</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/5228969">
+      <text>Chautagne online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
