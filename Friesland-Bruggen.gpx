@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-04-23T12:29:39.745000Z</time>
+    <time>2024-04-25T12:57:03.849000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -100,7 +100,7 @@ Periode 01-04 tot 26-04:
    14:56 - 15:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    15:24 - 15:34: Za, Zo, excl. feestdagen. 
    15:26 - 15:33: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   15:56 - 16:03: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
+   15:56 - 16:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    16:24 - 16:34: Za, Zo, excl. feestdagen. 
    16:26 - 16:33: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    16:56 - 17:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -147,7 +147,7 @@ Periode 27-04 tot 04-05:
    14:56 - 15:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    15:24 - 15:34: Za, Zo, incl. feestdagen. 
    15:26 - 15:33: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   15:56 - 16:03: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
+   15:56 - 16:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    16:24 - 16:34: Za, Zo, incl. feestdagen. 
    16:26 - 16:33: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    16:56 - 17:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -194,7 +194,7 @@ Periode 05-05 tot 08-05:
    14:56 - 15:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    15:24 - 15:34: Za, Zo, incl. feestdagen. 
    15:26 - 15:33: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   15:56 - 16:03: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+   15:56 - 16:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    16:24 - 16:34: Za, Zo, incl. feestdagen. 
    16:26 - 16:33: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    16:56 - 17:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -241,7 +241,7 @@ Periode 09-05 tot 18-05:
    14:56 - 15:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    15:24 - 15:34: Za, Zo, excl. feestdagen. 
    15:26 - 15:33: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   15:56 - 16:03: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
+   15:56 - 16:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    16:24 - 16:34: Za, Zo, excl. feestdagen. 
    16:26 - 16:33: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    16:56 - 17:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -288,7 +288,7 @@ Periode 19-05 tot 19-05:
    14:56 - 15:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    15:24 - 15:34: Za, Zo, incl. feestdagen. 
    15:26 - 15:33: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   15:56 - 16:03: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+   15:56 - 16:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    16:24 - 16:34: Za, Zo, incl. feestdagen. 
    16:26 - 16:33: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    16:56 - 17:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -335,7 +335,7 @@ Periode 20-05 tot 31-10:
    14:56 - 15:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    15:24 - 15:34: Za, Zo, excl. feestdagen. 
    15:26 - 15:33: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   15:56 - 16:03: Ma, Di, Wo, Do, Vr, Za, incl. feestdagen. 
+   15:56 - 16:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    16:24 - 16:34: Za, Zo, excl. feestdagen. 
    16:26 - 16:33: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    16:56 - 17:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -6122,11 +6122,11 @@ Periode 01-11 tot 22-03 (note: Bediening op aanvraag via 058-2925888. Optie 4. (
     </extensions>
   </wpt>
   <wpt lat="52.9836494346693" lon="5.73765390856127">
-    <name>Brug in de Alde Wei Boornzwaag over de Wielen</name>
+    <name>Brug Fammens Rakken</name>
     <desc>Locatie: Fammens-Rakken
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/28296">
-      <text>Brug in de Alde Wei Boornzwaag over de Wielen online info</text>
+      <text>Brug Fammens Rakken online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -13212,11 +13212,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="53.014353100809" lon="5.68793267011643">
-    <name>Alde Wei</name>
+    <name>brug Broeresloot</name>
     <desc>Locatie: Boeresloot
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/27672426">
-      <text>Alde Wei online info</text>
+      <text>brug Broeresloot online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
