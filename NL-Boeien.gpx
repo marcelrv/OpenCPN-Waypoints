@@ -9191,6 +9191,7 @@ model : spar Geel</desc>
     <name>BO-WNB 41</name>
     <desc>vaarweg : NOORDZEE
 model : spar Geel</desc>
+    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -16704,6 +16705,15 @@ model : spar Groen</desc>
   </wpt>
   <wpt lat="52.56429999999833" lon="5.136061111262493">
     <name>EH 29</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+model : spar Groen</desc>
+    <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.568805555326946" lon="5.138024999400114">
+    <name>EH 31</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 model : spar Groen</desc>
     <sym>1041</sym>
@@ -36945,7 +36955,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.97872222240318" lon="5.238327778446249">
+  <wpt lat="51.97861666673708" lon="5.238369445035112">
     <name>L 105</name>
     <desc>vaarweg : LEK
 licht type : LFl (long-flashing)
@@ -37680,7 +37690,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.9876861108299" lon="5.05485277820559">
+  <wpt lat="51.98752777822637" lon="5.054872221592169">
     <name>L 52B</name>
     <desc>vaarweg : LEK
 model : spar Rood</desc>
@@ -37689,7 +37699,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.9721333332217" lon="5.038366666051354">
+  <wpt lat="51.97363611142588" lon="5.039399999742467">
     <name>L 53</name>
     <desc>vaarweg : LEK
 model : spar Groen</desc>
@@ -37698,7 +37708,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.98857500024712" lon="5.05714722157663">
+  <wpt lat="51.98858333294618" lon="5.057308333611355">
     <name>L 54</name>
     <desc>vaarweg : LEK
 licht type : Iso (isophased)
@@ -37737,7 +37747,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.989361111129895" lon="5.059258334003187">
+  <wpt lat="51.989461111052364" lon="5.059011110726754">
     <name>L 56</name>
     <desc>vaarweg : LEK
 licht type : Iso (isophased)
@@ -37761,7 +37771,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.99034722199095" lon="5.060772222024942">
+  <wpt lat="51.990413888844216" lon="5.060641666676397">
     <name>L 58</name>
     <desc>vaarweg : LEK
 licht type : Iso (isophased)
@@ -37773,7 +37783,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.97946666698838" lon="5.042966666660171">
+  <wpt lat="51.98008611078254" lon="5.043302777731176">
     <name>L 59</name>
     <desc>vaarweg : LEK
 licht type : Iso (isophased)
@@ -37785,7 +37795,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.99138333350084" lon="5.061997222429843">
+  <wpt lat="51.99153611153713" lon="5.06231111174328">
     <name>L 60</name>
     <desc>vaarweg : LEK
 licht type : Iso (isophased)
@@ -37974,7 +37984,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.99918333328693" lon="5.125083333849588">
+  <wpt lat="51.99901666626611" lon="5.124497222919545">
     <name>L 74</name>
     <desc>vaarweg : LEK
 model : spar Rood</desc>
@@ -38016,7 +38026,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.99836666632235" lon="5.127433333258705">
+  <wpt lat="51.998297222053665" lon="5.127069444506065">
     <name>L 76</name>
     <desc>vaarweg : LEK
 model : spar Rood</desc>
@@ -38058,7 +38068,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.9970333330182" lon="5.129783333054552">
+  <wpt lat="51.99704444450456" lon="5.129122221574233">
     <name>L 80</name>
     <desc>vaarweg : LEK
 model : spar Rood</desc>
