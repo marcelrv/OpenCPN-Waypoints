@@ -12412,7 +12412,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1105</sym>
+    <sym>1107</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -16712,15 +16712,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.568805555326946" lon="5.138024999400114">
-    <name>EH 31</name>
-    <desc>vaarweg : MARKERMEER (MARKERMEER)
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.57337777757472" lon="5.140374999816359">
     <name>EH 33</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
@@ -18857,7 +18848,7 @@ model : spar Groen</desc>
     <name>FD 2</name>
     <desc>vaarweg : Foksdiep
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1143</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -37715,7 +37706,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -53343,6 +53334,22 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.09971388854083" lon="5.302286111673371">
+    <name>OVS N</name>
+    <desc>vaarweg : VERVERSGAT
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.09057222215819" lon="5.3021388895643">
+    <name>OVS Z</name>
+    <desc>vaarweg : VERVERSGAT
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.53876111124896" lon="5.941613889574683">
     <name>OW 1</name>
     <desc>vaarweg : GELDERSE IJSSEL
@@ -63896,18 +63903,6 @@ model : spar Geel</desc>
     <desc>vaarweg : BOCHT VAN WATUM
 model : spar Geel</desc>
     <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.62747777786887" lon="3.886755555933644">
-    <name>ROOMPOT</name>
-    <desc>vaarweg : ROOMPOT
-licht type : Mo (morse)
-licht periode : 8
-lich kleur : Wit
-model : bol Rood/wit repeterend</desc>
-    <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -81411,7 +81406,7 @@ model : spits Groen</desc>
     <name>VL 1</name>
     <desc>vaarweg : VLIETER
 model : spar Groen</desc>
-    <sym>1041</sym>
+    <sym>1043</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -85691,11 +85686,27 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.09698333374539" lon="5.30509722259678">
+  <wpt lat="53.10019722223292" lon="5.290163888792112">
+    <name>VVG 2A</name>
+    <desc>vaarweg : VERVERSGAT
+model : spar Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.091286111068875" lon="5.293705555314503">
     <name>VVG 3</name>
     <desc>vaarweg : VERVERSGAT
 model : spar Groen</desc>
     <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.10021944398391" lon="5.295477778454919">
+    <name>VVG 3A</name>
+    <desc>vaarweg : VERVERSGAT
+model : spar Groen</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -85709,7 +85720,7 @@ model : spar Rood/groen/rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.107766666943505" lon="5.305077777066476">
+  <wpt lat="53.107763888678456" lon="5.301599999618237">
     <name>VVG 5</name>
     <desc>vaarweg : VERVERSGAT
 model : spar Groen</desc>
