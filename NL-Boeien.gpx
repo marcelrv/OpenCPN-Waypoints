@@ -47608,15 +47608,6 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.3044138892804" lon="5.252952777776629">
-    <name>NM 1-ZM 2</name>
-    <desc>vaarweg : NOORD OOST MEEP
-model : spar Groen/rood/groen</desc>
-    <sym>1321</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.34079722259237" lon="5.313180555957413">
     <name>NM 10-R 1</name>
     <desc>vaarweg : NOORD OOST MEEP
@@ -47887,6 +47878,15 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.32463055566254" lon="5.276722222937217">
+    <name>NM 1</name>
+    <desc>vaarweg : NOORD OOST MEEP
+model : spar Groen</desc>
+    <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.755230555528996" lon="4.734466666549257">
     <name>NM 16</name>
     <desc>vaarweg : NIEUWE MERWEDE
@@ -48145,11 +48145,11 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.3107833332462" lon="5.244683333791224">
+  <wpt lat="53.32752499996904" lon="5.27194166693545">
     <name>NM 2</name>
     <desc>vaarweg : NOORD OOST MEEP
 model : spar Rood</desc>
-    <sym>1143</sym>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48255,14 +48255,11 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.317636111237654" lon="5.266866667350345">
+  <wpt lat="53.33590277799571" lon="5.296463888843652">
     <name>NM 3</name>
     <desc>vaarweg : NOORD OOST MEEP
-licht type : LFl (long-flashing)
-licht periode : 10
-lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1045</sym>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48272,18 +48269,6 @@ model : spar Groen</desc>
     <desc>vaarweg : NIEUWE MAAS
 model : spar Groen</desc>
     <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.317986111263764" lon="5.25621388917669">
-    <name>NM 4 - S 21</name>
-    <desc>vaarweg : NOORD OOST MEEP
-licht type : VQ (very quick-flashing)
-licht periode : 5
-lich kleur : Wit
-model : Pilaar Zwart/geel/zwart</desc>
-    <sym>2123</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48312,6 +48297,15 @@ model : spar Rood</desc>
   <wpt lat="52.78818611152021" lon="5.596972222734151">
     <name>NM 4</name>
     <desc>vaarweg : NOORDERMEERDIJK (IJSSELMEER)
+model : spar Rood</desc>
+    <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.33616388857663" lon="5.288880555403357">
+    <name>NM 4</name>
+    <desc>vaarweg : NOORD OOST MEEP
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -48359,15 +48353,6 @@ licht periode : 10
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.32463055566254" lon="5.276722222937217">
-    <name>NM 5</name>
-    <desc>vaarweg : NOORD OOST MEEP
-model : spar Groen</desc>
-    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48420,15 +48405,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32752499996904" lon="5.27194166693545">
-    <name>NM 6</name>
-    <desc>vaarweg : NOORD OOST MEEP
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.90504166699847" lon="4.514808333192679">
     <name>NM 7</name>
     <desc>vaarweg : NIEUWE MAAS
@@ -48462,15 +48438,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.33590277799571" lon="5.296463888843652">
-    <name>NM 7</name>
-    <desc>vaarweg : NOORD OOST MEEP
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.73945555599432" lon="4.710436110888583">
     <name>NM 8</name>
     <desc>vaarweg : NIEUWE MERWEDE
@@ -48495,15 +48462,6 @@ model : spar Rood</desc>
   <wpt lat="52.80346666626282" lon="5.612113888565413">
     <name>NM 8</name>
     <desc>vaarweg : NOORDERMEERDIJK (IJSSELMEER)
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.33616388857663" lon="5.288880555403357">
-    <name>NM 8</name>
-    <desc>vaarweg : NOORD OOST MEEP
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -53481,7 +53439,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.37037222256956" lon="5.01461388915896">
+  <wpt lat="52.37168888914353" lon="5.036238888341154">
     <name>P 11</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
 licht type : Iso (isophased)
@@ -89049,6 +89007,29 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.31798611144587" lon="5.366500000427153">
+    <name>WM 10-S 21</name>
+    <desc>vaarweg : WEST MEEP
+licht type : VQ (very quick-flashing)
+licht periode : 5
+lich kleur : Wit
+model : Pilaar Zwart/geel/zwart</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.317636111237654" lon="5.266866667350345">
+    <name>WM 11</name>
+    <desc>vaarweg : NOORD OOST MEEP
+licht type : LFl (long-flashing)
+licht periode : 10
+lich kleur : Groen
+model : spar Groen</desc>
+    <sym>1045</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.302638888660276" lon="5.201961110971157">
     <name>WM 2</name>
     <desc>vaarweg : WEST MEEP
@@ -89107,6 +89088,24 @@ licht type : Q (quick-flashing)
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.3107833332462" lon="5.244683333791224">
+    <name>WM 8</name>
+    <desc>vaarweg : NOORD OOST MEEP
+model : spar Rood</desc>
+    <sym>1143</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.3044138892804" lon="5.252952777776629">
+    <name>WM 9-ZM 2</name>
+    <desc>vaarweg : NOORD OOST MEEP
+model : spar Groen/rood/groen</desc>
+    <sym>1321</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
