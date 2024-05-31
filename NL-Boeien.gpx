@@ -27239,69 +27239,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.24993611148478" lon="6.786863889235283">
-    <name>HH 10</name>
-    <desc>vaarweg : Twentekanalen
-model : stomp Geel</desc>
-    <sym>3500</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.24993611148478" lon="6.786863889235283">
-    <name>HH 11</name>
-    <desc>vaarweg : Twentekanalen
-model : spits Geel</desc>
-    <sym>3001</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.24993611148478" lon="6.786863889235283">
-    <name>HH 12</name>
-    <desc>vaarweg : Twentekanalen
-model : stomp Geel</desc>
-    <sym>3500</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.24993611148478" lon="6.786863889235283">
-    <name>HH 2</name>
-    <desc>vaarweg : Twentekanalen
-model : stomp Geel</desc>
-    <sym>3500</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.24993611148478" lon="6.786863889235283">
-    <name>HH 4</name>
-    <desc>vaarweg : Twentekanalen
-model : stomp Geel</desc>
-    <sym>3001</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.24993611148478" lon="6.786863889235283">
-    <name>HH 6</name>
-    <desc>vaarweg : Twentekanalen
-model : stomp Geel</desc>
-    <sym>3500</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.24993611148478" lon="6.786863889235283">
-    <name>HH 8</name>
-    <desc>vaarweg : Twentekanalen
-model : stomp Geel</desc>
-    <sym>3500</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.960944444429614" lon="4.640186111697179">
     <name>HIJ 10</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
@@ -70316,6 +70253,15 @@ model : spits Groen</desc>
   <wpt lat="51.81739999964732" lon="4.367900000364725">
     <name>SP 15</name>
     <desc>vaarweg : SPUI
+model : spar Groen</desc>
+    <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.49044166656477" lon="6.424597222071299">
+    <name>SP 15</name>
+    <desc>vaarweg : SPRUIT
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
