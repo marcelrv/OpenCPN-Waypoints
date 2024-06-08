@@ -30,6 +30,17 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.17372222235904" lon="5.40770833384825">
+    <name>1 HAR</name>
+    <desc>vaarweg : HAVEN HARLINGEN
+licht type : Iso (isophased)
+licht periode : 6
+lich kleur : Groen
+model : Niet toegewezen Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.563049999961166" lon="3.65140000058519">
     <name>1 SGVM</name>
     <desc>vaarweg : VEERSE MEER
@@ -11423,6 +11434,15 @@ model : spar Geel</desc>
   </wpt>
   <wpt lat="51.71610833321522" lon="3.602377777986451">
     <name>BZ-WNB 6</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.740424999558" lon="3.598802777655317">
+    <name>BZ-WNB 7</name>
     <desc>vaarweg : NOORDZEE
 model : spar Geel</desc>
     <sym>5000</sym>
