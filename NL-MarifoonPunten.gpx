@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-06-10T05:24:59.645000Z</time>
+    <time>2024-06-11T11:01:09.315000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -3149,19 +3149,6 @@ VHF:          81
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14286">
       <text>Meldpunt NIEUWE MAAS  FEYE 3 online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.3627505533884" lon="6.64676075748531">
-    <name>Meldpunt Eilandsbrug Almelo</name>
-    <desc>Naam:         Meldpunt Eilandsbrug Almelo
-VHF:          20
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/14321">
-      <text>Meldpunt Eilandsbrug Almelo online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -9603,19 +9590,6 @@ RadioTraffic: TWO_WAY
 Opmerking: Het Westelijk deel van de haven is in beheer bij HbR en wordt in 2010 overgedragen aan de gemeente rotterdam.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/NWBHARBOUR/41272">
       <text>Meldpunt Rijnhaven te Rotterdam online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.3679392361677" lon="6.6401931688208">
-    <name>Meldpunt Dollegoorbrug</name>
-    <desc>Naam:         Meldpunt Dollegoorbrug
-VHF:          20
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/41305">
-      <text>Meldpunt Dollegoorbrug online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -18181,6 +18155,32 @@ VHF:          7
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/8321">
       <text>Meldpunt Groevesluis Noord online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1611245186851" lon="4.51190410089065">
+    <name>Meldpunt Sumatrabrug</name>
+    <desc>Naam:         Meldpunt Sumatrabrug
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/30136">
+      <text>Meldpunt Sumatrabrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.161401258645" lon="4.50544904278524">
+    <name>Meldpunt Schrijversbrug</name>
+    <desc>Naam:         Meldpunt Schrijversbrug
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/49690">
+      <text>Meldpunt Schrijversbrug online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
