@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-06-11T13:34:14.902000Z</time>
+    <time>2024-06-13T09:13:36.844000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -16531,6 +16531,42 @@ Type:    Vaste Brug</desc>
 Type:    Bedienbare Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/56115139">
       <text>Landbouwbrug Gauw online info</text>
+    </link>
+    <sym>Landmarks-Bridge2</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.358904369817" lon="6.14864954339282">
+    <name>Brug over sluis Ezumazijl</name>
+    <desc>Locatie: Raskes
+Type:    Bedienbare Brug
+Contact PhoneNumber:0582922222
+
+Bedieningstijden
+Periode 31-03 tot 31-03:
+   23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   07:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+Periode 01-04 tot 26-04:
+   23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   07:30 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+Periode 27-04 tot 08-05:
+   23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   07:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+Periode 09-05 tot 18-05:
+   23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   07:30 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+Periode 19-05 tot 19-05:
+   23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   07:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+Periode 20-05 tot 30-03:
+   23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   07:30 - 15:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+
+Note: De sluis wordt op afspraak bediend. Aanmelden (48 uren van te voren) via WSF (Wetterskip Fryslan) 058-292222.
+Bij bemaling is er geen bediening. </desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/56853589">
+      <text>Brug over sluis Ezumazijl online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
