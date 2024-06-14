@@ -9786,7 +9786,7 @@ model : stomp Rood</desc>
 licht type : Iso (isophased)
 licht periode : 2
 lich kleur : Wit
-model : bol Rood/groen</desc>
+model : bol Rood/wit repeterend</desc>
     <sym>1412</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -28304,6 +28304,18 @@ model : stomp Geel</desc>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.61626111143036" lon="5.563888889201549">
+    <name>HR-B</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+licht type : OC (occulting)
+licht periode : 6
+lich kleur : Wit
+model : spar Rood/wit repeterend</desc>
+    <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
