@@ -5774,7 +5774,7 @@ model : spar Geel</desc>
 licht type : Q (quick-flashing)
 lich kleur : Wit
 model : Pilaar Zwart/geel</desc>
-    <sym>2021</sym>
+    <sym>2123</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -18810,7 +18810,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.13816111139135" lon="5.009794443849474">
+  <wpt lat="53.13793888869557" lon="5.00952777839902">
     <name>FD 15</name>
     <desc>vaarweg : Foksdiep
 model : spar Groen</desc>
@@ -18855,7 +18855,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.16133611084243" lon="4.980916666737591">
+  <wpt lat="53.161597222414706" lon="4.981391666396546">
     <name>FD 3</name>
     <desc>vaarweg : Foksdiep
 model : spar Groen</desc>
@@ -79677,6 +79677,14 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.74551666625245" lon="4.338186111225926">
+    <name>VG 14A</name>
+    <desc>vaarweg : HITSERTSE OF VUILE GAT
+model : spar Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.549249999908106" lon="3.679983333676505">
     <name>VG 1</name>
     <desc>vaarweg : VEERSE MEER
@@ -79716,7 +79724,15 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.74253055590523" lon="4.348975000189489">
+  <wpt lat="51.73688055567739" lon="4.362852778422971">
+    <name>VG 16 a</name>
+    <desc>vaarweg : HITSERTSE OF VUILE GAT
+model : spar Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.743091666675255" lon="4.348666667055194">
     <name>VG 16</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
 model : spar Rood</desc>
