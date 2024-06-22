@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-06-21T07:23:22.479000Z</time>
+    <time>2024-06-21T14:20:50.636000Z</time>
   </metadata>
   <wpt lat="53.0240104564255" lon="7.13930010795593">
     <name>Vlagtweddersluis</name>
@@ -13760,6 +13760,17 @@ Periode 31-12 tot 31-12:
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/55862047">
       <text>Sluis Linne online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.496079519364116" lon="5.65224587917328">
+    <name>Sluis 7 Helmond</name>
+    <desc>Locatie: Oude Zuid-Willemsvaart</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/57051311">
+      <text>Sluis 7 Helmond online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
