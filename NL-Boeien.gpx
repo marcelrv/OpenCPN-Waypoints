@@ -28690,7 +28690,7 @@ model : spar Groen/rood</desc>
     <name>HV 21A</name>
     <desc>vaarweg : HARINGVLIET
 model : spar Groen</desc>
-    <sym>5541</sym>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -57199,6 +57199,14 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.467708333228586" lon="6.167497222659167">
+    <name>R 11</name>
+    <desc>vaarweg : REDE SCHIERMONNIKOOG
+model : spar Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.61237222220939" lon="3.654897222559812">
     <name>R 11A</name>
     <desc>vaarweg : ROOMPOT
@@ -57535,7 +57543,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.466602777822686" lon="6.172522222343188">
+  <wpt lat="53.466552777773174" lon="6.172627778310713">
     <name>R 16</name>
     <desc>vaarweg : REDE SCHIERMONNIKOOG
 model : stomp Rood</desc>
@@ -57592,7 +57600,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.46685277790501" lon="6.172155555008477">
+  <wpt lat="53.46689444426355" lon="6.172211111574951">
     <name>R 18</name>
     <desc>vaarweg : REDE SCHIERMONNIKOOG
 model : stomp Rood</desc>
@@ -57688,7 +57696,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.467108333107866" lon="6.171511110695715">
+  <wpt lat="53.46690000003008" lon="6.171338889628544">
     <name>R 20</name>
     <desc>vaarweg : REDE SCHIERMONNIKOOG
 model : stomp Rood</desc>
