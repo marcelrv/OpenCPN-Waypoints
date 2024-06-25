@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-06-24T13:16:02.571975Z</time>
+    <time>2024-06-25T13:21:00.663984Z</time>
   </metadata>
   <wpt lat="52.966346" lon="5.515595">
     <name>FL16A Hammigegreft (Damwand)</name>
@@ -2535,26 +2535,6 @@ Kanovoorziening              True
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.902531" lon="5.771847">
-    <name>TJ08C Gnzetippe (Damwand)</name>
-    <desc>Naam                    Gnzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  90
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.899243" lon="5.804315">
     <name>TJ14A Tsjkeple (Damwand)</name>
     <desc>Naam                     Tsjkeple
@@ -2761,6 +2741,7 @@ Kanovoorziening              True
     <name>SN24B Groot Schareiland (Damwand)</name>
     <desc>Naam            Groot Schareiland
 Vaarwater             SNITSER MAR
+Tijdelijk buiten gebruik {'reason': 'Tijdelijk niet beschikbaar in verband met werkzaamheden', 'detour': None, 'from': '24/06/2024', 'to': '30/08/2024'}
 Lengte aanleg                  66
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -3048,6 +3029,26 @@ Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.90031" lon="5.77552">
+    <name>TJ08B Ganzetippe (Damwand)</name>
+    <desc>Naam                   Ganzetippe
+Vaarwater               Tsjûkemar
+Lengte aanleg                  45
+Walverbinding                True
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid          False
+Aansluiting wandelnetwerk   False
+Container                    True
 Kamperen                    False
 Meerpalen (aantal)              0
 Kanovoorziening             False
@@ -7926,106 +7927,6 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.903073" lon="5.773361">
-    <name>TJ08D Gnzetippe (Steiger)</name>
-    <desc>Naam                    Gnzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  63
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.902829" lon="5.774528">
-    <name>TJ08E Gnzetippe (Steiger)</name>
-    <desc>Naam                    Gnzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  50
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.902191" lon="5.775614">
-    <name>TJ08G Gnzetippe (Steiger)</name>
-    <desc>Naam                    Gnzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  80
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.90138" lon="5.775295">
-    <name>TJ08H Gnzetippe (Steiger)</name>
-    <desc>Naam                    Gnzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  80
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.899906" lon="5.774775">
-    <name>TJ08J Gnzetippe (Steiger)</name>
-    <desc>Naam                    Gnzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  70
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.835733" lon="5.95611">
     <name>TJ09A Merriemaden (Steiger)</name>
     <desc>Naam                  Merriemaden
@@ -8785,26 +8686,6 @@ Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              2
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.902855" lon="5.775569">
-    <name>TJ08F GÃ¢nzetippe (Steiger)</name>
-    <desc>Naam                  GÃ¢nzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  50
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
