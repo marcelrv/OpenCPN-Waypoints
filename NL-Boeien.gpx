@@ -16303,7 +16303,7 @@ model : spar Zwart/geel/zwart</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.37585277816702" lon="3.807297222504205">
+  <wpt lat="51.37623611142369" lon="3.804483332882018">
     <name>E-ZE</name>
     <desc>vaarweg : EVERINGEN
 licht type : Q (quick-flashing)
@@ -28092,17 +28092,8 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.89994722230127" lon="4.020752777378356">
-    <name>HP-W</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel/zwart/geel</desc>
-    <sym>2331</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.90527777786792" lon="3.985277777837842">
-    <name>HP-WNB 11</name>
+    <name>HP-OW 11</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28111,7 +28102,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.907694444162125" lon="3.987211111765922">
-    <name>HP-WNB 11A</name>
+    <name>HP-OW 11A</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28120,7 +28111,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.90972222251594" lon="3.988888888216872">
-    <name>HP-WNB 13</name>
+    <name>HP-OW 13</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28129,7 +28120,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.911627778015315" lon="3.99058611145369">
-    <name>HP-WNB 13A</name>
+    <name>HP-OW 13A</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28138,7 +28129,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.867222221864985" lon="3.967499999397352">
-    <name>HP-WNB 1</name>
+    <name>HP-OW 1</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28147,7 +28138,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.913122222223066" lon="3.991808333124608">
-    <name>HP-WNB 15</name>
+    <name>HP-OW 15</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28156,7 +28147,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.91429166696952" lon="3.992769445079765">
-    <name>HP-WNB 15A</name>
+    <name>HP-OW 15A</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28165,7 +28156,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.90166666684782" lon="4.009444444976677">
-    <name>HP-WNB 23</name>
+    <name>HP-OW 23</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28174,7 +28165,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.861111110916475" lon="3.976111111797053">
-    <name>HP-WNB 2</name>
+    <name>HP-OW 2</name>
     <desc>vaarweg : NOORDZEE
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -28183,7 +28174,7 @@ model : stomp Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.89749999981573" lon="4.011666667117072">
-    <name>HP-WNB 25</name>
+    <name>HP-OW 25</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28192,7 +28183,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.89305555576827" lon="4.0138888891991">
-    <name>HP-WNB 27</name>
+    <name>HP-OW 27</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28201,7 +28192,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.88861111089054" lon="4.016111110844102">
-    <name>HP-WNB 29</name>
+    <name>HP-OW 29</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28210,7 +28201,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.884166666563964" lon="4.016388889525268">
-    <name>HP-WNB 31</name>
+    <name>HP-OW 31</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28219,7 +28210,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.87944444438115" lon="4.016388889168993">
-    <name>HP-WNB 33</name>
+    <name>HP-OW 33</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28228,7 +28219,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.87583333328991" lon="3.971388888351571">
-    <name>HP-WNB 3</name>
+    <name>HP-OW 3</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28237,7 +28228,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.87444444441841" lon="4.01666666708853">
-    <name>HP-WNB 35</name>
+    <name>HP-OW 35</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28246,7 +28237,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.8647222217843" lon="3.989166667272362">
-    <name>HP-WNB 4</name>
+    <name>HP-OW 4</name>
     <desc>vaarweg : NOORDZEE
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -28255,7 +28246,7 @@ model : stomp Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.88444444437553" lon="3.975555554955854">
-    <name>HP-WNB 5</name>
+    <name>HP-OW 5</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28264,7 +28255,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.868055555530056" lon="4.002500000171765">
-    <name>HP-WNB 6</name>
+    <name>HP-OW 6</name>
     <desc>vaarweg : NOORDZEE
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -28273,7 +28264,7 @@ model : stomp Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.892777778116205" lon="3.979444444975815">
-    <name>HP-WNB 7</name>
+    <name>HP-OW 7</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
@@ -28282,7 +28273,7 @@ model : spits Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.86944444480986" lon="4.016666667295433">
-    <name>HP-WNB 8</name>
+    <name>HP-OW 8</name>
     <desc>vaarweg : NOORDZEE
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -28291,10 +28282,19 @@ model : stomp Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.900833333776745" lon="3.983055555473082">
-    <name>HP-WNB 9</name>
+    <name>HP-OW 9</name>
     <desc>vaarweg : NOORDZEE
 model : spits Geel</desc>
     <sym>3001</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.89994722230127" lon="4.020752777378356">
+    <name>HP-W</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel/zwart/geel</desc>
+    <sym>2331</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -42436,7 +42436,7 @@ model : spits Groen</desc>
     <name>ML 39E-A</name>
     <desc>vaarweg : MAAS
 model : spits Groen</desc>
-    <sym>1003</sym>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -74026,7 +74026,7 @@ model : spar Rood</desc>
     </extensions>
   </wpt>
   <wpt lat="51.90761111139592" lon="4.034694443998313">
-    <name>SV-WNB 10</name>
+    <name>SV-OW 10</name>
     <desc>vaarweg : NOORDZEE
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -74035,7 +74035,7 @@ model : stomp Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.90838888869792" lon="4.037722222264501">
-    <name>SV-WNB 12</name>
+    <name>SV-OW 12</name>
     <desc>vaarweg : NOORDZEE
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -74044,7 +74044,7 @@ model : stomp Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.90915555522598" lon="4.040816667323903">
-    <name>SV-WNB 12A</name>
+    <name>SV-OW 12A</name>
     <desc>vaarweg : NOORDZEE
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -74053,7 +74053,7 @@ model : stomp Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9026666666532" lon="4.013616666821">
-    <name>SV-WNB 2</name>
+    <name>SV-OW 2</name>
     <desc>vaarweg : NOORDZEE
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -74062,7 +74062,7 @@ model : stomp Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.90360000038687" lon="4.01752777788239">
-    <name>SV-WNB 4</name>
+    <name>SV-OW 4</name>
     <desc>vaarweg : NOORDZEE
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -74071,7 +74071,7 @@ model : stomp Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.904305555136865" lon="4.020630555147739">
-    <name>SV-WNB 4A</name>
+    <name>SV-OW 4A</name>
     <desc>vaarweg : NOORDZEE
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -74080,7 +74080,7 @@ model : stomp Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.905011110711875" lon="4.023638889147982">
-    <name>SV-WNB 4B</name>
+    <name>SV-OW 4B</name>
     <desc>vaarweg : NOORDZEE
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -74089,7 +74089,7 @@ model : stomp Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.90567777775239" lon="4.026422222722099">
-    <name>SV-WNB 6</name>
+    <name>SV-OW 6</name>
     <desc>vaarweg : NOORDZEE
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -74098,7 +74098,7 @@ model : stomp Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="51.90660833359089" lon="4.030366666795845">
-    <name>SV-WNB 8</name>
+    <name>SV-OW 8</name>
     <desc>vaarweg : NOORDZEE
 model : stomp Geel</desc>
     <sym>3500</sym>
