@@ -12538,6 +12538,7 @@ model : spar Groen</desc>
     <name>D 37A</name>
     <desc>vaarweg : DOLLARD
 model : spar Groen</desc>
+    <sym>1043</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -47439,15 +47440,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.82138888876834" lon="5.634869444430432">
-    <name>NM 11A</name>
-    <desc>vaarweg : NOORDERMEERDIJK (IJSSELMEER)
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.74771666682221" lon="4.725150000233">
     <name>NM 12</name>
     <desc>vaarweg : NIEUWE MERWEDE
@@ -53252,6 +53244,7 @@ licht type : Iso (isophased)
 licht periode : 6
 lich kleur : Rood
 model : spar Rood</desc>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -54457,7 +54450,7 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.36942499956569" lon="5.015805555978277">
+  <wpt lat="52.36956944489294" lon="5.015138888468652">
     <name>PG 2</name>
     <desc>vaarweg : PAMPUS RECREATIE (MARKERMEER)
 model : spar Rood/wit repeterend</desc>
