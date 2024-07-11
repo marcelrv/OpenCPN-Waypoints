@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-07-10T12:27:55.384000Z</time>
+    <time>2024-07-11T12:20:08.688000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -2230,13 +2230,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9866025625899" lon="5.14066608166221">
-    <name>Meldpunt Ligplaats 1 Kegelligplaats Hagestein</name>
-    <desc>Naam:         Meldpunt Ligplaats 1 Kegelligplaats Hagestein
+    <name>Meldpunt Ligplaats 1 kegelligplaats Hagestein</name>
+    <desc>Naam:         Meldpunt Ligplaats 1 kegelligplaats Hagestein
 VHF:          18
 RadioTraffic: TWO_WAY
 Opmerking: In afstemming met sluismeester langere ligtijd mogelijk</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/11189">
-      <text>Meldpunt Ligplaats 1 Kegelligplaats Hagestein online info</text>
+      <text>Meldpunt Ligplaats 1 kegelligplaats Hagestein online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4715,19 +4715,6 @@ VHF:          18
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/21025">
       <text>Meldpunt Laakbrug online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.1843408020006" lon="5.54862750787666">
-    <name>Meldpunt Stationsbrug Franeker</name>
-    <desc>Naam:         Meldpunt Stationsbrug Franeker
-VHF:          80
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/21028">
-      <text>Meldpunt Stationsbrug Franeker online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
