@@ -81533,6 +81533,42 @@ model : bol Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.443027777447526" lon="3.592863888614433">
+    <name>VL-A</name>
+    <desc>vaarweg : VLISSINGEN REDE
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <sym>5512</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.44313333370047" lon="3.591680555358109">
+    <name>VL-B</name>
+    <desc>vaarweg : VLISSINGEN REDE
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <sym>5512</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.44308333307639" lon="3.590719444614999">
+    <name>VL-C</name>
+    <desc>vaarweg : VLISSINGEN REDE
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <sym>5512</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.44925277735047" lon="4.665319443795869">
     <name>VL-C</name>
     <desc>vaarweg : VLIELAND STELSEL (NZ)
@@ -85237,42 +85273,6 @@ model : spar Rood/wit repeterend</desc>
     <desc>vaarweg : VAARWATER NAAR OOSTMAHORN
 model : spar Rood/wit repeterend</desc>
     <sym>1551</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.443027777447526" lon="3.592863888614433">
-    <name>VR-A</name>
-    <desc>vaarweg : VLISSINGEN REDE
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5512</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.44313333370047" lon="3.591680555358109">
-    <name>VR-B</name>
-    <desc>vaarweg : VLISSINGEN REDE
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5512</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.44308333307639" lon="3.590719444614999">
-    <name>VR-C</name>
-    <desc>vaarweg : VLISSINGEN REDE
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5512</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
