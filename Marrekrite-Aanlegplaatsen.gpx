@@ -10,12 +10,13 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-07-18T13:22:06.013928Z</time>
+    <time>2024-07-19T13:21:17.095255Z</time>
   </metadata>
   <wpt lat="52.966346" lon="5.515595">
     <name>FL16A Hammigegreft (Damwand)</name>
     <desc>Naam                 Hammigegreft
 Vaarwater         GRUTTE GAASTMAR
+Container open in winterperiode True
 Lengte aanleg                 140
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -112,51 +113,33 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.949351" lon="5.545469">
-    <name>FL23B Langehoeksplle (Damwand)</name>
-    <desc>Naam               Langehoeksplle
-Vaarwater                Fluessen
-Lengte aanleg                 240
-Walverbinding               False
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.949611" lon="5.546703">
-    <name>FL23C Langehoeksplle (Damwand)</name>
-    <desc>Naam               Langehoeksplle
-Vaarwater              DE FLUEZEN
-Lengte aanleg                 245
-Walverbinding               False
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.948825" lon="5.548434">
-    <name>FL23D Langehoekspolle (Damwand)</name>
+    <name>FL23C Langehoekspolle (Damwand)</name>
     <desc>Naam              Langehoekspolle
 Vaarwater              DE FLUEZEN
-Lengte aanleg                 172
+Container open in winterperiode True
+Lengte aanleg                 150
+Walverbinding               False
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.948777" lon="5.546859">
+    <name>FL23B Langehoekspolle (Damwand)</name>
+    <desc>Naam              Langehoekspolle
+Vaarwater              DE FLUEZEN
+Container open in winterperiode True
+Lengte aanleg                 425
 Walverbinding               False
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -184,7 +167,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                    True
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -204,7 +187,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -232,11 +215,12 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.931171" lon="5.510858">
+  <wpt lat="52.931022" lon="5.511757">
     <name>FL28B Nije Kruspolle (Damwand)</name>
     <desc>Naam               Nije Kruspolle
 Vaarwater              DE FLUEZEN
-Lengte aanleg                 172
+Container open in winterperiode True
+Lengte aanleg                 325
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -245,27 +229,7 @@ Aansluiting wandelnetwerk   False
 Container                    True
 Kamperen                    False
 Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.93053" lon="5.511807">
-    <name>FL28C Nije Kruspolle (Damwand)</name>
-    <desc>Naam               Nije Kruspolle
-Vaarwater              DE FLUEZEN
-Lengte aanleg                 160
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                    True
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
+Kanovoorziening              True
 </desc>
     <sym>Service-Dock</sym>
     <extensions>
@@ -398,7 +362,7 @@ Kanovoorziening              True
     <name>LM04 Dokkumer Grootdiep (Damwand)</name>
     <desc>Naam           Dokkumer Grootdiep
 Vaarwater       DOKKUMER GRUTDJIP
-Lengte aanleg                 115
+Lengte aanleg                  75
 Walverbinding                True
 Fietsmogelijkheid            True
 Aansluiting fietsnetwerk     True
@@ -467,26 +431,6 @@ Aansluiting wandelnetwerk   False
 Container                    True
 Kamperen                     True
 Meerpalen (aantal)           None
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.297419" lon="6.108422">
-    <name>LM10 Zwemmer (Damwand)</name>
-    <desc>Naam                      Zwemmer
-Vaarwater            NIJE SWEMMER
-Lengte aanleg                 220
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid          False
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -805,7 +749,7 @@ Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
-Container                    True
+Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
 Kanovoorziening             False
@@ -980,8 +924,8 @@ Kanovoorziening             False
   <wpt lat="53.114322" lon="5.888301">
     <name>PR24B t Hoekstik (Damwand)</name>
     <desc>Naam                   t Hoekstik
-Vaarwater        TRIJEHûSTERFEART
-Lengte aanleg                  80
+Vaarwater       Trijehúster Sleat
+Lengte aanleg                  73
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -990,18 +934,18 @@ Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
-Kanovoorziening             False
+Kanovoorziening              True
 </desc>
     <sym>Service-Dock</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.115415" lon="5.886473">
+  <wpt lat="53.115927" lon="5.886116">
     <name>PR25B De Gloppe (Damwand)</name>
     <desc>Naam                    De Gloppe
-Vaarwater        TRIJEHûSTERFEART
-Lengte aanleg                  92
+Vaarwater       Trijehúster Sleat
+Lengte aanleg                 100
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -1010,7 +954,7 @@ Aansluiting wandelnetwerk   False
 Container                    True
 Kamperen                     True
 Meerpalen (aantal)              0
-Kanovoorziening             False
+Kanovoorziening              True
 </desc>
     <sym>Service-Dock</sym>
     <extensions>
@@ -1149,7 +1093,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -1169,7 +1113,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -1201,6 +1145,7 @@ Kanovoorziening              True
     <name>PR45A Aegehoek  Lytse roek (Damwand)</name>
     <desc>Naam         Aegehoek  Lytse roek
 Vaarwater                 WIDE IE
+Container open in winterperiode True
 Lengte aanleg                  45
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -1209,7 +1154,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -1221,6 +1166,7 @@ Kanovoorziening             False
     <name>PR45B Aegehoek  Lytse roek (Damwand)</name>
     <desc>Naam         Aegehoek  Lytse roek
 Vaarwater                 WIDE IE
+Container open in winterperiode True
 Lengte aanleg                  40
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -1229,7 +1175,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -1241,6 +1187,7 @@ Kanovoorziening             False
     <name>PR45D Aegehoek  Lytse roek (Damwand)</name>
     <desc>Naam         Aegehoek  Lytse roek
 Vaarwater                 WIDE IE
+Container open in winterperiode True
 Lengte aanleg                  40
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -1249,7 +1196,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                    True
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -1261,6 +1208,7 @@ Kanovoorziening             False
     <name>PR45E Aegehoek  Lytse roek (Damwand)</name>
     <desc>Naam         Aegehoek  Lytse roek
 Vaarwater                 WIDE IE
+Container open in winterperiode True
 Lengte aanleg                  40
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -1269,7 +1217,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -1281,6 +1229,7 @@ Kanovoorziening             False
     <name>PR45F Aegehoek  Lytse roek (Damwand)</name>
     <desc>Naam         Aegehoek  Lytse roek
 Vaarwater                 WIDE IE
+Container open in winterperiode True
 Lengte aanleg                  32
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -1289,7 +1238,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -1301,6 +1250,7 @@ Kanovoorziening             False
     <name>PR45G Aegehoek  Lytse roek (Damwand)</name>
     <desc>Naam         Aegehoek  Lytse roek
 Vaarwater                 WIDE IE
+Container open in winterperiode True
 Lengte aanleg                  44
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -1338,7 +1288,7 @@ Kanovoorziening              True
     </extensions>
   </wpt>
   <wpt lat="53.090544" lon="5.860372">
-    <name>PR51F Suderburd (Damwand)</name>
+    <name>PR51G Suderburd (Damwand)</name>
     <desc>Naam                    Suderburd
 Vaarwater                  PIKMAR
 Lengte aanleg                  60
@@ -1358,16 +1308,16 @@ Kanovoorziening              True
     </extensions>
   </wpt>
   <wpt lat="53.090095" lon="5.858135">
-    <name>PR51H Suderburd (Damwand)</name>
+    <name>PR51A Suderburd (Damwand)</name>
     <desc>Naam                    Suderburd
 Vaarwater                  PIKMAR
-Lengte aanleg                  69
+Lengte aanleg                  54
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
-Container                   False
+Container                    True
 Kamperen                    False
 Meerpalen (aantal)              0
 Kanovoorziening             False
@@ -1378,7 +1328,7 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.090596" lon="5.861317">
-    <name>PR51I Suderburd (Damwand)</name>
+    <name>PR51H Suderburd (Damwand)</name>
     <desc>Naam                    Suderburd
 Vaarwater                  PIKMAR
 Lengte aanleg                  60
@@ -1469,7 +1419,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -1580,7 +1530,7 @@ Kanovoorziening             False
   <wpt lat="52.885601" lon="5.660449">
     <name>SL03C Kleinschar (Damwand)</name>
     <desc>Naam                   Kleinschar
-Vaarwater         BRANDEMAR      
+Vaarwater               BRANDEMAR
 Lengte aanleg                  30
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -1589,7 +1539,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -1600,7 +1550,7 @@ Kanovoorziening             False
   <wpt lat="52.885016" lon="5.660127">
     <name>SL03E Kleinschar (Damwand)</name>
     <desc>Naam                   Kleinschar
-Vaarwater         BRANDEMAR      
+Vaarwater               BRANDEMAR
 Lengte aanleg                  28
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -1609,7 +1559,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -1627,9 +1577,9 @@ Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
-Container                    True
+Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -1680,7 +1630,7 @@ Kanovoorziening             False
   <wpt lat="53.044145" lon="5.808305">
     <name>SN04 Hemshuisterdeeloost (Damwand)</name>
     <desc>Naam          Hemshuisterdeeloost
-Vaarwater        JINSHûSTER DIEL 
+Vaarwater         JINSHûSTER DIEL
 Lengte aanleg                 124
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -1688,26 +1638,6 @@ Aansluiting fietsnetwerk    False
 Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                    True
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.043962" lon="5.808054">
-    <name>SN05 Henshuisterdeelwest (Damwand)</name>
-    <desc>Naam          Henshuisterdeelwest
-Vaarwater                    Deel
-Lengte aanleg                  53
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid          False
-Aansluiting wandelnetwerk   False
-Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
 Kanovoorziening             False
@@ -2001,7 +1931,7 @@ Kanovoorziening              True
   <wpt lat="53.020071" lon="5.75244">
     <name>SN26C Lytse Griene (Damwand)</name>
     <desc>Naam                 Lytse Griene
-Vaarwater GOAIïNGARYPSTER PUOLLEN
+Vaarwater GOAIINGARYPSTER PUOLLEN
 Lengte aanleg                  80
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -2087,7 +2017,7 @@ Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -2107,7 +2037,7 @@ Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                     True
 Meerpalen (aantal)              0
@@ -2322,7 +2252,7 @@ Kanovoorziening             False
     <name>SN64C Bandsloot (Damwand)</name>
     <desc>Naam                    Bandsloot
 Vaarwater        NOARDER ALDE WEI
-Lengte aanleg                  84
+Lengte aanleg                  89
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -2342,7 +2272,7 @@ Kanovoorziening             False
     <name>SN64D Bandsloot (Damwand)</name>
     <desc>Naam                    Bandsloot
 Vaarwater        NOARDER ALDE WEI
-Lengte aanleg                  84
+Lengte aanleg                  49
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -2362,6 +2292,7 @@ Kanovoorziening             False
     <name>SN64E Bandsloot (Damwand)</name>
     <desc>Naam                    Bandsloot
 Vaarwater        NOARDER ALDE WEI
+Container open in winterperiode True
 Lengte aanleg                 140
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -2369,7 +2300,7 @@ Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                    True
-Kamperen                     True
+Kamperen                    False
 Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
@@ -2382,6 +2313,7 @@ Kanovoorziening             False
     <name>SN64F Bandsloot (Damwand)</name>
     <desc>Naam                    Bandsloot
 Vaarwater        NOARDER ALDE WEI
+Container open in winterperiode True
 Lengte aanleg                 135
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -2390,7 +2322,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                     True
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -2402,6 +2334,7 @@ Kanovoorziening             False
     <name>SN64I Bandsloot (Damwand)</name>
     <desc>Naam                    Bandsloot
 Vaarwater        NOARDER ALDE WEI
+Container open in winterperiode True
 Lengte aanleg                  60
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -2410,7 +2343,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                     True
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -2598,26 +2531,6 @@ Kanovoorziening              True
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.902531" lon="5.771847">
-    <name>TJ08C Gnzetippe (Damwand)</name>
-    <desc>Naam                    Gnzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  90
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                    True
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.899243" lon="5.804315">
     <name>TJ14A Tsjkeple (Damwand)</name>
     <desc>Naam                     Tsjkeple
@@ -2642,6 +2555,7 @@ Kanovoorziening             False
     <name>TJ15D Marchjeple (Damwand)</name>
     <desc>Naam                   Marchjeple
 Vaarwater               TSJûKEMAR
+Container open in winterperiode True
 Lengte aanleg                 164
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -2662,6 +2576,7 @@ Kanovoorziening              True
     <name>TJ15I Marchjeple (Damwand)</name>
     <desc>Naam                   Marchjeple
 Vaarwater               TSJûKEMAR
+Container open in winterperiode True
 Lengte aanleg                 108
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -2822,6 +2737,7 @@ Kanovoorziening              True
     <name>SN24B Groot Schareiland (Damwand)</name>
     <desc>Naam            Groot Schareiland
 Vaarwater             SNITSER MAR
+Tijdelijk buiten gebruik {'reason': 'Tijdelijk niet beschikbaar in verband met werkzaamheden', 'detour': None, 'from': '24/06/2024', 'to': '30/08/2024'}
 Lengte aanleg                  66
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -2941,13 +2857,13 @@ Kanovoorziening             False
   <wpt lat="53.353805" lon="6.0778">
     <name>LM80 Reidswal (Damwand)</name>
     <desc>Naam                     Reidswal
-Vaarwater                 SúD IE 
+Vaarwater                 Suderie
 Lengte aanleg                  60
 Walverbinding                True
 Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
+Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -2961,13 +2877,13 @@ Kanovoorziening             False
   <wpt lat="53.356379" lon="6.116917">
     <name>LM81 Anjum (Damwand)</name>
     <desc>Naam                        Anjum
-Vaarwater                 SúD IE 
+Vaarwater                 Suderie
 Lengte aanleg                  60
 Walverbinding                True
 Fietsmogelijkheid            True
 Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -3049,6 +2965,86 @@ Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
 Aansluiting wandelnetwerk    True
 Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.360733" lon="6.14994">
+    <name>LM82 (Damwand)</name>
+    <desc>Naam                             
+Vaarwater              Nije Feart
+Lengte aanleg                  60
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.27009" lon="5.83433">
+    <name>LM85 Wurgedyk (Damwand)</name>
+    <desc>Naam                     Wurgedyk
+Vaarwater             Dokkumer Ie
+Lengte aanleg                  30
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.332526" lon="6.025701">
+    <name>LM79 (Damwand)</name>
+    <desc>Naam                             
+Vaarwater                 Suderie
+Lengte aanleg                  33
+Walverbinding                True
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.90047" lon="5.77497">
+    <name>TJ08B Ganzetippe (Damwand)</name>
+    <desc>Naam                   Ganzetippe
+Vaarwater               Tsjûkemar
+Lengte aanleg                  45
+Walverbinding                True
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid          False
+Aansluiting wandelnetwerk   False
+Container                    True
 Kamperen                    False
 Meerpalen (aantal)              0
 Kanovoorziening             False
@@ -3158,7 +3154,7 @@ Kanovoorziening              True
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.93152" lon="5.512503">
+  <wpt lat="52.931607" lon="5.512221">
     <name>FL28D kanosteiger (Kanosteiger)</name>
     <desc>Naam                  kanosteiger
 Vaarwater              DE FLUEZEN
@@ -3188,6 +3184,26 @@ Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening              True
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.867044" lon="5.524471">
+    <name>FL46 De Wyldemerk (Kanosteiger)</name>
+    <desc>Naam                 De Wyldemerk
+Vaarwater            De Wyldemerk
+Lengte aanleg                   8
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -3341,8 +3357,8 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.971004" lon="5.492928">
-    <name>FL11 Snnige Grons (Steiger)</name>
-    <desc>Naam                 Snnige Grons
+    <name>FL11 Sanige Gruns (Steiger)</name>
+    <desc>Naam                 Sanige Gruns
 Vaarwater            SâNIGE GRûNS
 Lengte aanleg                  50
 Walverbinding               False
@@ -3352,7 +3368,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -3412,7 +3428,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                     True
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -3432,7 +3448,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                     True
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -3452,7 +3468,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                     True
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -3472,7 +3488,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                     True
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -3492,7 +3508,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                     True
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -3616,6 +3632,26 @@ Container                   False
 Kamperen                    False
 Meerpalen (aantal)           None
 Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.094594" lon="5.558976">
+    <name>FL39 (Steiger)</name>
+    <desc>Naam                             
+Vaarwater        Boalserter Feart
+Lengte aanleg                  32
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening              True
 </desc>
     <sym>Service-Dock</sym>
     <extensions>
@@ -4084,27 +4120,6 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.240629" lon="5.856932">
-    <name>LM29 Tegeltsjebrge (Steiger)</name>
-    <desc>Naam                Tegeltsjebrge
-Vaarwater                 DE MURK
-Tijdelijk buiten gebruik {'reason': 'Gestremd wegens onderhoud.', 'detour': None, 'from': '24/05/2021', 'to': '31/12/2099'}
-Lengte aanleg                  50
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk     True
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.218148" lon="6.034014">
     <name>LM30 De Zwarte Tillen (Steiger)</name>
     <desc>Naam             De Zwarte Tillen
@@ -4194,7 +4209,7 @@ Walverbinding                True
 Fietsmogelijkheid            True
 Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                     True
 Meerpalen (aantal)              0
@@ -4545,7 +4560,7 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.219172" lon="5.877708">
+  <wpt lat="53.22015" lon="5.878458">
     <name>LM51 (Steiger)</name>
     <desc>Naam                             
 Vaarwater           GRUTTE WIELEN
@@ -4565,7 +4580,7 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.220206" lon="5.878439">
+  <wpt lat="53.220042" lon="5.879228">
     <name>LM52 (Steiger)</name>
     <desc>Naam                             
 Vaarwater           GRUTTE WIELEN
@@ -4585,7 +4600,7 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.2201" lon="5.879312">
+  <wpt lat="53.220309" lon="5.881494">
     <name>LM53 (Steiger)</name>
     <desc>Naam                             
 Vaarwater           GRUTTE WIELEN
@@ -4646,8 +4661,8 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.272121" lon="5.868426">
-    <name>LM61 None (Steiger)</name>
-    <desc>Naam                         None
+    <name>LM61 (Steiger)</name>
+    <desc>Naam                             
 Vaarwater     ALDTSJERKSTER FEART
 Lengte aanleg                  32
 Walverbinding                True
@@ -4657,7 +4672,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -4685,7 +4700,7 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.178288" lon="5.540484">
+  <wpt lat="53.178199" lon="5.540599">
     <name>LM67A None (Steiger)</name>
     <desc>Naam                         None
 Vaarwater            ARUMER FEART
@@ -4705,7 +4720,7 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.178045" lon="5.540797">
+  <wpt lat="53.177664" lon="5.541345">
     <name>LM67B None (Steiger)</name>
     <desc>Naam                         None
 Vaarwater            ARUMER FEART
@@ -5049,9 +5064,9 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.112228" lon="5.882286">
-    <name>PR21A Grftswl (Steiger)</name>
-    <desc>Naam                      Grftswl
-Vaarwater                DE GRêFT
+    <name>PR21A Grêftswâl (Steiger)</name>
+    <desc>Naam                    Grêftswâl
+Vaarwater       Trijehúster Sleat
 Lengte aanleg                  70
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -5060,7 +5075,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                    True
 Kamperen                     True
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -5069,9 +5084,9 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.112443" lon="5.885197">
-    <name>PR21B Grftswl (Steiger)</name>
-    <desc>Naam                      Grftswl
-Vaarwater                DE GRêFT
+    <name>PR21B Grêftswâl (Steiger)</name>
+    <desc>Naam                    Grêftswâl
+Vaarwater       Trijehúster Sleat
 Lengte aanleg                  70
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -5080,7 +5095,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                     True
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -5089,9 +5104,9 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.11191" lon="5.883879">
-    <name>PR22A Bochtswl (Steiger)</name>
-    <desc>Naam                     Bochtswl
-Vaarwater        TRIJEHûSTERFEART
+    <name>PR22A Bochtswâl (Steiger)</name>
+    <desc>Naam                    Bochtswâl
+Vaarwater       Trijehúster Sleat
 Lengte aanleg                  65
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -5100,7 +5115,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                    True
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -5109,9 +5124,9 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.112276" lon="5.885702">
-    <name>PR22B Bochtswl (Steiger)</name>
-    <desc>Naam                     Bochtswl
-Vaarwater        TRIJEHûSTERFEART
+    <name>PR22B Bochtswâl (Steiger)</name>
+    <desc>Naam                    Bochtswâl
+Vaarwater       Trijehúster Sleat
 Lengte aanleg                 125
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -5120,7 +5135,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -5131,7 +5146,7 @@ Kanovoorziening             False
   <wpt lat="53.112842" lon="5.887248">
     <name>PR23A Baggerln (Steiger)</name>
     <desc>Naam                     Baggerln
-Vaarwater        TRIJEHûSTERFEART
+Vaarwater       Trijehúster Sleat
 Lengte aanleg                  70
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -5140,7 +5155,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                     True
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -5151,7 +5166,7 @@ Kanovoorziening             False
   <wpt lat="53.112698" lon="5.887673">
     <name>PR24A t Hoekstik (Steiger)</name>
     <desc>Naam                   t Hoekstik
-Vaarwater        TRIJEHûSTERFEART
+Vaarwater       Trijehúster Sleat
 Lengte aanleg                  65
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -5160,7 +5175,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -5171,7 +5186,7 @@ Kanovoorziening             False
   <wpt lat="53.114731" lon="5.887095">
     <name>PR25A De Gloppe (Steiger)</name>
     <desc>Naam                    De Gloppe
-Vaarwater        TRIJEHûSTERFEART
+Vaarwater       Trijehúster Sleat
 Lengte aanleg                 140
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -5352,6 +5367,7 @@ Kanovoorziening             False
     <name>PR45C Aegehoek  Lytse roek (Steiger)</name>
     <desc>Naam         Aegehoek  Lytse roek
 Vaarwater                 WIDE IE
+Container open in winterperiode True
 Lengte aanleg                  40
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -5432,6 +5448,7 @@ Kanovoorziening             False
     <name>PR45K Aegehoek  Lytse roek (Steiger)</name>
     <desc>Naam         Aegehoek  Lytse roek
 Vaarwater                 WIDE IE
+Container open in winterperiode True
 Lengte aanleg                  40
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -5452,6 +5469,7 @@ Kanovoorziening             False
     <name>PR45L Aegehoek Lytse Roek (Steiger)</name>
     <desc>Naam          Aegehoek Lytse Roek
 Vaarwater                 WIDE IE
+Container open in winterperiode True
 Lengte aanleg                  40
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -5472,6 +5490,7 @@ Kanovoorziening             False
     <name>PR45M Aegehoek  Lytse roek (Steiger)</name>
     <desc>Naam         Aegehoek  Lytse roek
 Vaarwater                 WIDE IE
+Container open in winterperiode True
 Lengte aanleg                  18
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -5492,6 +5511,7 @@ Kanovoorziening             False
     <name>PR46A Aegehoek markant (Steiger)</name>
     <desc>Naam             Aegehoek markant
 Vaarwater                 WIDE IE
+Container open in winterperiode True
 Lengte aanleg                  30
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -5512,6 +5532,7 @@ Kanovoorziening             False
     <name>PR46B Aegehoek markant (Steiger)</name>
     <desc>Naam             Aegehoek markant
 Vaarwater                 WIDE IE
+Container open in winterperiode True
 Lengte aanleg                  32
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -5532,6 +5553,7 @@ Kanovoorziening             False
     <name>PR46C Aegehoek markant (Steiger)</name>
     <desc>Naam             Aegehoek markant
 Vaarwater                 WIDE IE
+Container open in winterperiode True
 Lengte aanleg                  20
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -5552,6 +5574,7 @@ Kanovoorziening             False
     <name>PR46D Aegehoek markant (Steiger)</name>
     <desc>Naam             Aegehoek markant
 Vaarwater                 WIDE IE
+Container open in winterperiode True
 Lengte aanleg                  30
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -5589,10 +5612,10 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.089047" lon="5.857097">
-    <name>PR51A Suderburd (Steiger)</name>
+    <name>PR51C Suderburd (Steiger)</name>
     <desc>Naam                    Suderburd
 Vaarwater                  PIKMAR
-Lengte aanleg                  45
+Lengte aanleg                  32
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -5612,7 +5635,7 @@ Kanovoorziening             False
     <name>PR51B Suderburd (Steiger)</name>
     <desc>Naam                    Suderburd
 Vaarwater                  PIKMAR
-Lengte aanleg                  80
+Lengte aanleg                  72
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -5629,10 +5652,10 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.08914" lon="5.858093">
-    <name>PR51C Suderburd (Steiger)</name>
+    <name>PR51D Suderburd (Steiger)</name>
     <desc>Naam                    Suderburd
 Vaarwater                  PIKMAR
-Lengte aanleg                  65
+Lengte aanleg                  72
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -5649,7 +5672,7 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.089572" lon="5.858787">
-    <name>PR51D Suderburd (Steiger)</name>
+    <name>PR51E Suderburd (Steiger)</name>
     <desc>Naam                    Suderburd
 Vaarwater                  PIKMAR
 Lengte aanleg                  60
@@ -5669,7 +5692,7 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.090226" lon="5.859237">
-    <name>PR51E Suderburd (Steiger)</name>
+    <name>PR51F Suderburd (Steiger)</name>
     <desc>Naam                    Suderburd
 Vaarwater                  PIKMAR
 Lengte aanleg                  60
@@ -5754,166 +5777,6 @@ Kanovoorziening             False
 Vaarwater                 WIDE IE
 Lengte aanleg                  53
 Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid          False
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.101727" lon="5.951683">
-    <name>PR65A De Veenhoop zuidoever (Steiger)</name>
-    <desc>Naam        De Veenhoop zuidoever
-Vaarwater                 WIDE IE
-Lengte aanleg                  52
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk     True
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.101531" lon="5.952894">
-    <name>PR65B De Veenhoop zuidoever (Steiger)</name>
-    <desc>Naam        De Veenhoop zuidoever
-Vaarwater                 WIDE IE
-Lengte aanleg                  53
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk     True
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.101756" lon="5.954452">
-    <name>PR65C De Veenhoop zuidoever (Steiger)</name>
-    <desc>Naam        De Veenhoop zuidoever
-Vaarwater                 WIDE IE
-Lengte aanleg                  61
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk     True
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                    True
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.101973" lon="5.956548">
-    <name>PR65D De Veenhoop zuidoever (Steiger)</name>
-    <desc>Naam        De Veenhoop zuidoever
-Vaarwater                 WIDE IE
-Lengte aanleg                  61
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk     True
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.102333" lon="5.958508">
-    <name>PR65E De Veenhoop zuidoever (Steiger)</name>
-    <desc>Naam        De Veenhoop zuidoever
-Vaarwater                 WIDE IE
-Lengte aanleg                  61
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk     True
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.102236" lon="5.959509">
-    <name>PR65F De Veenhoop zuidoever (Steiger)</name>
-    <desc>Naam        De Veenhoop zuidoever
-Vaarwater                 WIDE IE
-Lengte aanleg                  61
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk     True
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.102132" lon="5.960602">
-    <name>PR65G De Veenhoop zuidoever (Steiger)</name>
-    <desc>Naam        De Veenhoop zuidoever
-Vaarwater                 WIDE IE
-Lengte aanleg                  61
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk     True
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.102548" lon="5.961462">
-    <name>PR65H De Veenhoop zuidoever (Steiger)</name>
-    <desc>Naam        De Veenhoop zuidoever
-Vaarwater                 WIDE IE
-Lengte aanleg                  60
-Walverbinding               False
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid          False
@@ -6131,7 +5994,7 @@ Kanovoorziening             False
   <wpt lat="52.885764" lon="5.660602">
     <name>SL03B Kleinschar (Steiger)</name>
     <desc>Naam                   Kleinschar
-Vaarwater         BRANDEMAR      
+Vaarwater               BRANDEMAR
 Lengte aanleg                  60
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -6140,7 +6003,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -6151,7 +6014,7 @@ Kanovoorziening             False
   <wpt lat="52.885291" lon="5.66035">
     <name>SL03D Kleinschar (Steiger)</name>
     <desc>Naam                   Kleinschar
-Vaarwater         BRANDEMAR      
+Vaarwater               BRANDEMAR
 Lengte aanleg                  36
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -6160,7 +6023,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -6428,7 +6291,7 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.031099" lon="5.806687">
+  <wpt lat="53.031044" lon="5.806607">
     <name>SN12B Great Hakln (Steiger)</name>
     <desc>Naam                  Great Hakln
 Vaarwater    TERKAPLESTER PUOLLEN
@@ -6589,26 +6452,6 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.018935" lon="5.730496">
-    <name>SN24C Groot Schareiland (Steiger)</name>
-    <desc>Naam            Groot Schareiland
-Vaarwater             Sneekermeer
-Lengte aanleg                 100
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                     True
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.020856" lon="5.752763">
     <name>SN26D Lytse Griene (Steiger)</name>
     <desc>Naam                 Lytse Griene
@@ -6701,7 +6544,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -6764,7 +6607,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -6885,7 +6728,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -6922,10 +6765,10 @@ Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -6942,10 +6785,10 @@ Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -6956,7 +6799,7 @@ Kanovoorziening             False
   <wpt lat="53.001531" lon="5.733252">
     <name>SN38B Longschar (Steiger)</name>
     <desc>Naam                    Longschar
-Vaarwater         LANGSTURTEPOEL 
+Vaarwater          LANGSTURTEPOEL
 Lengte aanleg                  30
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -6976,7 +6819,7 @@ Kanovoorziening             False
   <wpt lat="53.00181" lon="5.733697">
     <name>SN38C Longschar (Steiger)</name>
     <desc>Naam                    Longschar
-Vaarwater         LANGSTURTEPOEL 
+Vaarwater          LANGSTURTEPOEL
 Lengte aanleg                  30
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -7056,7 +6899,7 @@ Kanovoorziening             False
   <wpt lat="53.001484" lon="5.739084">
     <name>SN40B Alve Bocht (Steiger)</name>
     <desc>Naam                   Alve Bocht
-Vaarwater         LANGSTURTEPOEL 
+Vaarwater          LANGSTURTEPOEL
 Lengte aanleg                  40
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -7076,7 +6919,7 @@ Kanovoorziening             False
   <wpt lat="53.001809" lon="5.74">
     <name>SN40C Alve Bocht (Steiger)</name>
     <desc>Naam                   Alve Bocht
-Vaarwater         LANGSTURTEPOEL 
+Vaarwater          LANGSTURTEPOEL
 Lengte aanleg                  40
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -7105,7 +6948,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -7205,7 +7048,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -7225,7 +7068,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -7238,14 +7081,13 @@ Kanovoorziening             False
     <desc>Naam                Langekopsleat
 Vaarwater            WITE BREKKEN
 Vogelrustgebied: Vaar dit gebied niet in &lt;br&gt;tussen 1 oktober en 1 april True
-Container is open in de winter True
 Lengte aanleg                  25
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
-Container                    True
+Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
 Kanovoorziening             False
@@ -7484,10 +7326,10 @@ Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -7504,10 +7346,10 @@ Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -7544,10 +7386,10 @@ Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -7564,10 +7406,10 @@ Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -7584,10 +7426,10 @@ Walverbinding                True
 Fietsmogelijkheid            True
 Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -7599,12 +7441,13 @@ Kanovoorziening             False
     <name>SN62D Noorder Oudeweg Zuid (Steiger)</name>
     <desc>Naam         Noorder Oudeweg Zuid
 Vaarwater        NOARDER ALDE WEI
+Container open in winterperiode True
 Lengte aanleg                 100
 Walverbinding                True
 Fietsmogelijkheid            True
 Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                    True
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -7619,6 +7462,7 @@ Kanovoorziening             False
     <name>SN64G Bandsloot (Steiger)</name>
     <desc>Naam                    Bandsloot
 Vaarwater        NOARDER ALDE WEI
+Container open in winterperiode True
 Lengte aanleg                  44
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -7639,6 +7483,7 @@ Kanovoorziening             False
     <name>SN64H Bandsloot (Steiger)</name>
     <desc>Naam                    Bandsloot
 Vaarwater        NOARDER ALDE WEI
+Container open in winterperiode True
 Lengte aanleg                  32
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -7659,6 +7504,7 @@ Kanovoorziening             False
     <name>SN64J Bandsloot (Steiger)</name>
     <desc>Naam                    Bandsloot
 Vaarwater        NOARDER ALDE WEI
+Container open in winterperiode True
 Lengte aanleg                  48
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -7945,10 +7791,10 @@ Walverbinding                True
 Fietsmogelijkheid            True
 Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -7960,6 +7806,7 @@ Kanovoorziening             False
     <name>SN86B Zwettepoel (Steiger)</name>
     <desc>Naam                   Zwettepoel
 Vaarwater        NOARDER ALDE WEI
+Container open in winterperiode True
 Lengte aanleg                 100
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -7968,7 +7815,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                    True
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -8028,7 +7875,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -8056,200 +7903,20 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.900198" lon="5.770207">
-    <name>TJ08A Gnzetippe (Steiger)</name>
-    <desc>Naam                    Gnzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  50
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.901374" lon="5.7711">
-    <name>TJ08B Gnzetippe (Steiger)</name>
-    <desc>Naam                    Gnzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  45
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.903073" lon="5.773361">
-    <name>TJ08D Gnzetippe (Steiger)</name>
-    <desc>Naam                    Gnzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  63
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.902829" lon="5.774528">
-    <name>TJ08E Gnzetippe (Steiger)</name>
-    <desc>Naam                    Gnzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  50
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.902191" lon="5.775614">
-    <name>TJ08G Gnzetippe (Steiger)</name>
-    <desc>Naam                    Gnzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  80
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.90138" lon="5.775295">
-    <name>TJ08H Gnzetippe (Steiger)</name>
-    <desc>Naam                    Gnzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  80
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.900485" lon="5.775145">
-    <name>TJ08I Gnzetippe (Steiger)</name>
-    <desc>Naam                    Gnzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  80
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.899906" lon="5.774775">
-    <name>TJ08J Gnzetippe (Steiger)</name>
-    <desc>Naam                    Gnzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  70
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.836752" lon="5.955597">
+  <wpt lat="52.835733" lon="5.95611">
     <name>TJ09A Merriemaden (Steiger)</name>
     <desc>Naam                  Merriemaden
 Vaarwater                DE LENDE
-Lengte aanleg                  20
+Lengte aanleg                  24
 Walverbinding                True
 Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
+Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.835733" lon="5.95611">
-    <name>TJ09B Merriemaden (Steiger)</name>
-    <desc>Naam                  Merriemaden
-Vaarwater                DE LENDE
-Lengte aanleg                  20
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
+Kanovoorziening              True
 </desc>
     <sym>Service-Dock</sym>
     <extensions>
@@ -8257,35 +7924,15 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.835028" lon="5.956483">
-    <name>TJ09C Merriemaden (Steiger)</name>
+    <name>TJ09B Merriemaden (Steiger)</name>
     <desc>Naam                  Merriemaden
 Vaarwater                DE LENDE
-Lengte aanleg                  20
+Lengte aanleg                  24
 Walverbinding                True
 Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
+Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.835544" lon="5.950918">
-    <name>TJ09D Merriemaden (Steiger)</name>
-    <desc>Naam                  Merriemaden
-Vaarwater                DE LENDE
-Lengte aanleg                  20
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -8297,38 +7944,18 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.835733" lon="5.950456">
-    <name>TJ09E Merriemaden (Steiger)</name>
+    <name>TJ09C Merriemaden (Steiger)</name>
     <desc>Naam                  Merriemaden
 Vaarwater                DE LENDE
-Lengte aanleg                  20
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.845665" lon="5.97709">
-    <name>TJ10A De Sas (Steiger)</name>
-    <desc>Naam                       De Sas
-Vaarwater                DE LENDE
-Lengte aanleg                  20
+Lengte aanleg                  24
 Walverbinding                True
 Fietsmogelijkheid            True
 Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -8337,19 +7964,19 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.845969" lon="5.97734">
-    <name>TJ10B De Sas (Steiger)</name>
+    <name>TJ10A De Sas (Steiger)</name>
     <desc>Naam                       De Sas
 Vaarwater                DE LENDE
-Lengte aanleg                  20
+Lengte aanleg                  28
 Walverbinding                True
 Fietsmogelijkheid            True
 Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
-Kanovoorziening             False
+Meerpalen (aantal)              0
+Kanovoorziening              True
 </desc>
     <sym>Service-Dock</sym>
     <extensions>
@@ -8357,18 +7984,18 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.846155" lon="5.976924">
-    <name>TJ10C De Sas (Steiger)</name>
+    <name>TJ10B De Sas (Steiger)</name>
     <desc>Naam                       De Sas
 Vaarwater                DE LENDE
-Lengte aanleg                  40
+Lengte aanleg                  32
 Walverbinding                True
 Fietsmogelijkheid            True
 Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -8377,95 +8004,15 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.848632" lon="5.980605">
-    <name>TJ11A Stroomdal (Steiger)</name>
+    <name>TJ11 Stroomdal (Steiger)</name>
     <desc>Naam                    Stroomdal
 Vaarwater                DE LENDE
-Lengte aanleg                  20
+Lengte aanleg                  28
 Walverbinding                True
 Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
+Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.848888" lon="5.982065">
-    <name>TJ11B Stroomdal (Steiger)</name>
-    <desc>Naam                    Stroomdal
-Vaarwater                DE LENDE
-Lengte aanleg                  30
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.852352" lon="6.013692">
-    <name>TJ12 Lindevallei (Steiger)</name>
-    <desc>Naam                  Lindevallei
-Vaarwater                DE LENDE
-Lengte aanleg                  20
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.89853" lon="5.804541">
-    <name>TJ14B Tsjkeple (Steiger)</name>
-    <desc>Naam                     Tsjkeple
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  50
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                    True
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.900113" lon="5.804506">
-    <name>TJ14C Tsjkeple (Steiger)</name>
-    <desc>Naam                     Tsjkeple
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  50
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -8477,10 +8024,10 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.899742" lon="5.805039">
-    <name>TJ14D Tsjkeple (Steiger)</name>
-    <desc>Naam                     Tsjkeple
+    <name>TJ14C Tsjûkepôle (Steiger)</name>
+    <desc>Naam                   Tsjûkepôle
 Vaarwater               TSJûKEMAR
-Lengte aanleg                  50
+Lengte aanleg                  74
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -8497,10 +8044,11 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.884805" lon="5.781415">
-    <name>TJ15E Marchjeple (Steiger)</name>
-    <desc>Naam                   Marchjeple
+    <name>TJ15E Marchjepole (Steiger)</name>
+    <desc>Naam                  Marchjepole
 Vaarwater               TSJûKEMAR
-Lengte aanleg                  30
+Container open in winterperiode True
+Lengte aanleg                  32
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -8517,10 +8065,11 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.884203" lon="5.781384">
-    <name>TJ15F Marchjeple (Steiger)</name>
-    <desc>Naam                   Marchjeple
+    <name>TJ15F Marchjepole (Steiger)</name>
+    <desc>Naam                  Marchjepole
 Vaarwater               TSJûKEMAR
-Lengte aanleg                  51
+Container open in winterperiode True
+Lengte aanleg                  48
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -8540,6 +8089,7 @@ Kanovoorziening             False
     <name>TJ15G Marchjeple (Steiger)</name>
     <desc>Naam                   Marchjeple
 Vaarwater               TSJûKEMAR
+Container open in winterperiode True
 Lengte aanleg                  48
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -8560,6 +8110,7 @@ Kanovoorziening             False
     <name>TJ15H Marchjeple (Steiger)</name>
     <desc>Naam                   Marchjeple
 Vaarwater               TSJûKEMAR
+Container open in winterperiode True
 Lengte aanleg                  72
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -8580,12 +8131,12 @@ Kanovoorziening             False
     <name>TJ16 Blesserbrug (Steiger)</name>
     <desc>Naam                  Blesserbrug
 Vaarwater                DE LENDE
-Lengte aanleg                  20
+Lengte aanleg                  24
 Walverbinding                True
-Fietsmogelijkheid           False
+Fietsmogelijkheid            True
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -8961,7 +8512,7 @@ Kanovoorziening             False
   <wpt lat="53.113272" lon="5.887888">
     <name>PR23B BaggerlÃ¢n (Steiger)</name>
     <desc>Naam                   BaggerlÃ¢n
-Vaarwater        TRIJEHûSTERFEART
+Vaarwater       Trijehúster Sleat
 Lengte aanleg                  70
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -9078,26 +8629,6 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.018937" lon="5.730392">
-    <name>SN24A Groot Schareiland (Steiger)</name>
-    <desc>Naam            Groot Schareiland
-Vaarwater             SNITSER MAR
-Lengte aanleg                 110
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                     True
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.002426" lon="5.757063">
     <name>SN60 Noorder Oudeweg (Steiger)</name>
     <desc>Naam              Noorder Oudeweg
@@ -9107,7 +8638,7 @@ Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                    True
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -9138,36 +8669,16 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.902855" lon="5.775569">
-    <name>TJ08F GÃ¢nzetippe (Steiger)</name>
-    <desc>Naam                  GÃ¢nzetippe
-Vaarwater               TSJûKEMAR
-Lengte aanleg                  50
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.83613" lon="5.949522">
-    <name>TJ09F Merriemaden (Steiger)</name>
+    <name>TJ09D Merriemaden (Steiger)</name>
     <desc>Naam                  Merriemaden
 Vaarwater                DE LENDE
-Lengte aanleg                  20
+Lengte aanleg                  24
 Walverbinding                True
 Fietsmogelijkheid            True
-Aansluiting fietsnetwerk    False
+Aansluiting fietsnetwerk     True
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
+Aansluiting wandelnetwerk    True
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
@@ -9202,6 +8713,7 @@ Kanovoorziening             False
     <name>TJ15J Marchjeple (Steiger)</name>
     <desc>Naam                   Marchjeple
 Vaarwater               TSJûKEMAR
+Container open in winterperiode True
 Lengte aanleg                 184
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -9421,7 +8933,7 @@ Kanovoorziening             False
   <wpt lat="53.198109" lon="5.734885">
     <name>LM72E Ritsumasyl (Steiger)</name>
     <desc>Naam                   Ritsumasyl
-Vaarwater            SYLSTER RAK 
+Vaarwater             SYLSTER RAK
 Lengte aanleg                  32
 Walverbinding                True
 Fietsmogelijkheid            True
@@ -9431,7 +8943,7 @@ Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
-Kanovoorziening             False
+Kanovoorziening              True
 </desc>
     <sym>Service-Dock</sym>
     <extensions>
@@ -9502,6 +9014,7 @@ Kanovoorziening             False
     <name>FL23A Langehoekspole (Steiger)</name>
     <desc>Naam               Langehoekspole
 Vaarwater              DE FLUEZEN
+Container open in winterperiode True
 Lengte aanleg                 132
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -9619,8 +9132,8 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.209843" lon="5.553616">
-    <name>LM76 Dongjum (Steiger)</name>
-    <desc>Naam                      Dongjum
+    <name>LM76 (Steiger)</name>
+    <desc>Naam                             
 Vaarwater         Doanjumer Feart
 Lengte aanleg                  20
 Walverbinding                True
@@ -9658,9 +9171,9 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.930978" lon="5.513527">
-    <name>FL28C Nije Krûspôlle (Steiger)</name>
-    <desc>Naam               Nije Krûspôlle
+  <wpt lat="52.931067" lon="5.513106">
+    <name>FL28C Nije Krúspôlle (Steiger)</name>
+    <desc>Naam               Nije Krúspôlle
 Vaarwater              De Fluezen
 Lengte aanleg                  90
 Walverbinding                True
@@ -9779,10 +9292,10 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.038197" lon="5.790063">
-    <name>SN 08 None (Steiger)</name>
-    <desc>Naam                         None
-Vaarwater                    None
-Lengte aanleg                  92
+    <name>SN 08 (Steiger)</name>
+    <desc>Naam                             
+Vaarwater                        
+Lengte aanleg                  48
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -9960,8 +9473,8 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.377025" lon="6.163834">
-    <name>LM83 (Steiger)</name>
-    <desc>Naam                             
+    <name>LM83 Oostmahorn (Steiger)</name>
+    <desc>Naam                   Oostmahorn
 Vaarwater             Lauwersmeer
 Lengte aanleg                 160
 Walverbinding                True
@@ -9993,6 +9506,407 @@ Container                    True
 Kamperen                    False
 Meerpalen (aantal)              0
 Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.020158" lon="5.750101">
+    <name>SN26A Lytse Griene (Steiger)</name>
+    <desc>Naam                 Lytse Griene
+Vaarwater GOAIïNGARYPSTER PUOLLEN
+Lengte aanleg                  32
+Walverbinding                True
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk   False
+Container                    True
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.019766" lon="5.750672">
+    <name>SN26B Lytse Griene (Steiger)</name>
+    <desc>Naam                 Lytse Griene
+Vaarwater GOAIïNGARYPSTER PUOLLEN
+Lengte aanleg                  32
+Walverbinding                True
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.226102" lon="5.813355">
+    <name>LM19 Leeuwarderbos (Steiger)</name>
+    <desc>Naam                Leeuwarderbos
+Vaarwater             Dokkumer Ie
+Lengte aanleg                  32
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.297419" lon="6.108422">
+    <name>LM10 Zwemmer (Steiger)</name>
+    <desc>Naam                      Zwemmer
+Vaarwater            NIJE SWEMMER
+Lengte aanleg                  80
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.263519" lon="6.025754">
+    <name>LM90 (Steiger)</name>
+    <desc>Naam                             
+Vaarwater         Falomster Feart
+Lengte aanleg                  12
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.259309" lon="5.988965">
+    <name>LM89 (Steiger)</name>
+    <desc>Naam                             
+Vaarwater         Falomster Feart
+Lengte aanleg                  12
+Walverbinding                True
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.247274" lon="5.972072">
+    <name>LM88 Land van Harm en Okje (Steiger)</name>
+    <desc>Naam        Land van Harm en Okje
+Vaarwater                 De Wiel
+Lengte aanleg                  12
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.233673" lon="5.952522">
+    <name>LM87 (Steiger)</name>
+    <desc>Naam                             
+Vaarwater                 De Mear
+Lengte aanleg                  12
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.222717" lon="5.928787">
+    <name>LM86 (Steiger)</name>
+    <desc>Naam                             
+Vaarwater       Ryptjerkstervaart
+Lengte aanleg                  12
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.322104" lon="5.970715">
+    <name>LM91 (Steiger)</name>
+    <desc>Naam                             
+Vaarwater             Dokkumer Ie
+Lengte aanleg                  32
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.867354" lon="5.525418">
+    <name>FL45 (Steiger)</name>
+    <desc>Naam                             
+Vaarwater                        
+Lengte aanleg                  12
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.069593" lon="5.714704">
+    <name>SN122 Sibrandabuorren (Steiger)</name>
+    <desc>Naam              Sibrandabuorren
+Vaarwater  Sibrandabuorster Feart
+Lengte aanleg                   8
+Walverbinding               False
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid          False
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.081781" lon="5.735121">
+    <name>SN123 Tersoal (Steiger)</name>
+    <desc>Naam                      Tersoal
+Vaarwater                Aldfeart
+Lengte aanleg                   8
+Walverbinding               False
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid          False
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.061462" lon="5.759414">
+    <name>SN124 Krusbrekken (Steiger)</name>
+    <desc>Naam                  Krusbrekken
+Vaarwater             Krusbrekken
+Lengte aanleg                   8
+Walverbinding               False
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid          False
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.056298" lon="5.762211">
+    <name>SN125 Grienedyk (Steiger)</name>
+    <desc>Naam                    Grienedyk
+Vaarwater    Tersoalster Sylroede
+Lengte aanleg                   8
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.092507" lon="5.865508">
+    <name>PR51I (Steiger)</name>
+    <desc>Naam                             
+Vaarwater         Suderburds Wiid
+Lengte aanleg                  40
+Walverbinding                True
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.092916" lon="5.866249">
+    <name>PR51J (Steiger)</name>
+    <desc>Naam                             
+Vaarwater         Suderburds Wiid
+Lengte aanleg                  40
+Walverbinding                True
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.101597" lon="5.953222">
+    <name>PR65A None (Steiger)</name>
+    <desc>Naam                         None
+Vaarwater             De Wijde Ie
+Container open in winterperiode True
+Lengte aanleg                 240
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
+Container                    True
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening              True
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.102305" lon="5.958345">
+    <name>PR65B None (Steiger)</name>
+    <desc>Naam                         None
+Vaarwater             De Wijde Ie
+Lengte aanleg                  60
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.102218" lon="5.960072">
+    <name>PR65C None (Steiger)</name>
+    <desc>Naam                         None
+Vaarwater             De Wijde Ie
+Lengte aanleg                 150
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk    True
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              2
+Kanovoorziening              True
 </desc>
     <sym>Service-Dock</sym>
     <extensions>
@@ -10040,11 +9954,11 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.948739" lon="5.551">
-    <name>FL23E Langehoeksplle (Tuigsteiger)</name>
+    <name>FL23F Langehoeksplle (Tuigsteiger)</name>
     <desc>Naam               Langehoeksplle
 Vaarwater              DE FLUEZEN
-Lengte aanleg                 200
-Walverbinding               False
+Lengte aanleg                 108
+Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
@@ -10083,7 +9997,7 @@ Kanovoorziening             False
     <name>FL28A Nije Kruspolle (Tuigsteiger)</name>
     <desc>Naam               Nije Kruspolle
 Vaarwater              DE FLUEZEN
-Lengte aanleg                 100
+Lengte aanleg                  72
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -10180,8 +10094,8 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.277386" lon="5.813243">
-    <name>LM59 None (Tuigsteiger)</name>
-    <desc>Naam                         None
+    <name>LM59 (Tuigsteiger)</name>
+    <desc>Naam                             
 Vaarwater         FEINSUMER FAERT
 Lengte aanleg                  30
 Walverbinding               False
@@ -10191,7 +10105,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -10240,8 +10154,8 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.277957" lon="5.787013">
-    <name>LM77 None (Tuigsteiger)</name>
-    <desc>Naam                         None
+    <name>LM77 (Tuigsteiger)</name>
+    <desc>Naam                             
 Vaarwater         FEINSUMER FEART
 Lengte aanleg                  24
 Walverbinding               False
@@ -10251,7 +10165,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -10464,6 +10378,7 @@ Kanovoorziening             False
     <name>PR47 Aegehoek west (Tuigsteiger)</name>
     <desc>Naam                Aegehoek west
 Vaarwater                 WIDE IE
+Container open in winterperiode True
 Lengte aanleg                  80
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -10472,7 +10387,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -10822,8 +10737,8 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.01631" lon="5.743575">
-    <name>SN116 None (Tuigsteiger)</name>
-    <desc>Naam                         None
+    <name>SN116 (Tuigsteiger)</name>
+    <desc>Naam                             
 Vaarwater             SNITSER MAR
 Vogelrustgebied: Vaar dit gebied niet in &lt;br&gt;tussen 1 oktober en 1 april True
 Lengte aanleg                  16
@@ -10834,7 +10749,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -10843,8 +10758,8 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.021102" lon="5.754186">
-    <name>SN118 None (Tuigsteiger)</name>
-    <desc>Naam                         None
+    <name>SN118 (Tuigsteiger)</name>
+    <desc>Naam                             
 Vaarwater GOAIïNGARYPSTER PUOLLEN
 Lengte aanleg                  16
 Walverbinding               False
@@ -10854,7 +10769,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -11083,8 +10998,8 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.028686" lon="5.778611">
-    <name>SN69A Terkaplester poelen nabij Heerenzijl (Tuigsteiger)</name>
-    <desc>Naam Terkaplester poelen nabij Heerenzijl
+    <name>SN69A (Tuigsteiger)</name>
+    <desc>Naam                             
 Vaarwater     Terkaplester poelen
 Lengte aanleg                  28
 Walverbinding               False
@@ -11094,7 +11009,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -11264,7 +11179,7 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.02604" lon="5.563362">
+  <wpt lat="53.026034" lon="5.562716">
     <name>SN93 Abbegeasterketting (Tuigsteiger)</name>
     <desc>Naam           Abbegeasterketting
 Vaarwater              DE WIMERTS
@@ -11276,7 +11191,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -11296,7 +11211,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -11345,7 +11260,7 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.898953" lon="5.803233">
-    <name>TJ14G Tsjkeple (Tuigsteiger)</name>
+    <name>TJ14B Tsjkeple (Tuigsteiger)</name>
     <desc>Naam                     Tsjkeple
 Vaarwater               TSJûKEMAR
 Lengte aanleg                  40
@@ -11356,7 +11271,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -11645,14 +11560,56 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.133674" lon="5.91183">
-    <name>PR04B6 None (Tuigsteiger)</name>
-    <desc>Naam                         None
+    <name>PR04B6 (Tuigsteiger)</name>
+    <desc>Naam                             
 Vaarwater             ALDE FEANEN
 Lengte aanleg                  16
 Walverbinding               False
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid          False
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.948623" lon="5.548876">
+    <name>FL23D (Tuigsteiger)</name>
+    <desc>Naam                             
+Vaarwater                Fluessen
+Container open in winterperiode True
+Lengte aanleg                  72
+Walverbinding               False
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.948736" lon="5.549485">
+    <name>FL23E (Tuigsteiger)</name>
+    <desc>Naam                             
+Vaarwater                Fluessen
+Container open in winterperiode True
+Lengte aanleg                  84
+Walverbinding                True
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
@@ -11768,7 +11725,6 @@ Kanovoorziening             False
     <name>MB29 MB29 (Boei)</name>
     <desc>Naam                         MB29
 Vaarwater                 FLUEZEN
-Tijdelijk buiten gebruik {'reason': 'In onderhoud', 'detour': None, 'from': '30/10/2020', 'to': '31/12/2099'}
 Lengte aanleg                   0
 Walverbinding               False
 Fietsmogelijkheid           False
@@ -12187,11 +12143,10 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.90498" lon="5.61668">
+  <wpt lat="52.90402" lon="5.61343">
     <name>MB07 MB07 (Boei)</name>
     <desc>Naam                         MB07
 Vaarwater          SLEATTEMER MAR
-Tijdelijk buiten gebruik {'reason': 'In onderhoud.', 'detour': None, 'from': '24/07/2020', 'to': '31/12/2099'}
 Lengte aanleg                   0
 Walverbinding               False
 Fietsmogelijkheid           False
@@ -12288,11 +12243,10 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9605" lon="5.58462">
+  <wpt lat="52.96101" lon="5.58315">
     <name>MB17 MB17 (Boei)</name>
     <desc>Naam                         MB17
 Vaarwater             HEGEMER MAR
-Tijdelijk buiten gebruik {'reason': 'Wegens onderhoud tijdelijk niet beschikbaar.', 'detour': None, 'from': '17/05/2021', 'to': '31/12/2099'}
 Lengte aanleg                   0
 Walverbinding               False
 Fietsmogelijkheid           False
@@ -12329,7 +12283,7 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.96008" lon="5.58003">
+  <wpt lat="52.96028" lon="5.57936">
     <name>MB19 MB19 (Boei)</name>
     <desc>Naam                         MB19
 Vaarwater             HEGEMER MAR
@@ -12472,7 +12426,7 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.98235" lon="5.5138">
+  <wpt lat="52.982938" lon="5.514858">
     <name>MB60 MB60 (Boei)</name>
     <desc>Naam                         MB60
 Vaarwater                RINGWIEL
@@ -12497,7 +12451,6 @@ Kanovoorziening             False
     <name>MB08 MB08 (Boei)</name>
     <desc>Naam                         MB08
 Vaarwater          SLEATTEMER MAR
-Tijdelijk buiten gebruik {'reason': 'In onderhoud.', 'detour': None, 'from': '24/07/2020', 'to': '31/12/2099'}
 Lengte aanleg                   0
 Walverbinding               False
 Fietsmogelijkheid           False
@@ -12634,7 +12587,7 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.88688" lon="5.42365">
+  <wpt lat="52.89559" lon="5.44503">
     <name>MB51 MB51 (Boei)</name>
     <desc>Naam                         MB51
 Vaarwater                 DE GEAU
@@ -12658,7 +12611,6 @@ Kanovoorziening             False
     <name>MB22 MB22 (Boei)</name>
     <desc>Naam                         MB22
 Vaarwater       LANGWARDER WIELEN
-Tijdelijk buiten gebruik {'reason': 'Tijdelijk weggehaald ivm baggeren.\t', 'detour': None, 'from': '24/07/2020', 'to': '31/12/2099'}
 Lengte aanleg                   0
 Walverbinding               False
 Fietsmogelijkheid           False
@@ -12679,7 +12631,6 @@ Kanovoorziening             False
     <name>MB23 MB23 (Boei)</name>
     <desc>Naam                         MB23
 Vaarwater       LANGWARDER WIELEN
-Tijdelijk buiten gebruik {'reason': 'Tijdelijk weggehaald ivm baggeren.\t', 'detour': None, 'from': '24/07/2020', 'to': '31/12/2099'}
 Lengte aanleg                   0
 Walverbinding               False
 Fietsmogelijkheid           False
@@ -12720,7 +12671,6 @@ Kanovoorziening             False
     <name>MB21 MB21 (Boei)</name>
     <desc>Naam                         MB21
 Vaarwater             HEGEMER MAR
-Tijdelijk buiten gebruik {'reason': 'In onderhoud.', 'detour': None, 'from': '24/07/2020', 'to': '31/12/2099'}
 Lengte aanleg                   0
 Walverbinding               False
 Fietsmogelijkheid           False
@@ -13022,6 +12972,7 @@ Kanovoorziening             False
     <name>MB80 MB80 (Boei)</name>
     <desc>Naam                         MB80
 Vaarwater                 WIDE IE
+Tijdelijk buiten gebruik {'reason': 'Marboei wordt vervangen, ligt momenteel niet op haar plek.', 'detour': None, 'from': '18/04/2024', 'to': '31/12/2099'}
 Lengte aanleg                   0
 Walverbinding               False
 Fietsmogelijkheid           False
@@ -13162,7 +13113,6 @@ Kanovoorziening             False
     <name>MB41 MB41 (Boei)</name>
     <desc>Naam                         MB41
 Vaarwater       LANGWARDER WIELEN
-Tijdelijk buiten gebruik {'reason': 'Tijdelijk weggehaald ivm baggeren.\t', 'detour': None, 'from': '24/07/2020', 'to': '31/12/2099'}
 Lengte aanleg                   0
 Walverbinding               False
 Fietsmogelijkheid           False
@@ -13381,7 +13331,7 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.88401" lon="5.78648">
+  <wpt lat="52.88477" lon="5.78654">
     <name>MB50 MB50 (Boei)</name>
     <desc>Naam                         MB50
 Vaarwater               TSJûKEMAR
@@ -13586,8 +13536,8 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.96959" lon="5.72748">
-    <name>MB68 (Boei)</name>
-    <desc>Naam                             
+    <name>MB68 MB68 (Boei)</name>
+    <desc>Naam                         MB68
 Vaarwater       Langwarder Wielen
 Lengte aanleg                   0
 Walverbinding               False
