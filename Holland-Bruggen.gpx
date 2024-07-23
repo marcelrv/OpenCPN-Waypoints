@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-07-22T10:40:50.097000Z</time>
+    <time>2024-07-23T11:15:24.041000Z</time>
   </metadata>
   <wpt lat="52.8349518997784" lon="4.81026448308057">
     <name>Brug over Oude sluis Oudesluis</name>
@@ -15725,7 +15725,8 @@ Bedieningstijden
 Periode 01-04 tot 31-03:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
-Note: Zelfbediening; brug is te openen met een cijferslot waarvan de code is te verkrijgen op de Ziendesluis of de Slikkendammersluis.</desc>
+Note: Zelfbediening.
+Niet alle boten kunnen onder de Kwakelbrug door. Is uw boot hoger dan 2,80 meter dan heeft u een code nodig om het combinatieslot te kunnen openen. De code is verkrijgbaar bij de Ziendesluis of de Slikkendammersluis. Of door te bellen naar 14 0172.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/30659">
       <text>Kwakelbrug Zuideinde online info</text>
     </link>
@@ -37260,20 +37261,24 @@ Houd rekening met aanrijtijd of enige vertraging
   <wpt lat="52.3407210871099" lon="4.9251875281333914">
     <name>Solitudobrug (Brug 2190)</name>
     <desc>Locatie: Weespertrekvaart
-Type:    Vaste Brug
+Type:    Bedienbare Brug
 
 Bedieningstijden
+Periode 31-03 tot 19-05:
+   05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   09:00 - 17:00: Za, Zo, incl. feestdagen. 
 Periode 20-05 tot 24-12:
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    09:00 - 17:00: Za, Zo, excl. feestdagen. 
-Periode 25-12 tot 19-05:
+Periode 25-12 tot 30-03:
+   23:00 - 22:59: incl. feestdagen. 
    05:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   09:00 - 17:00: Za, Zo, incl. feestdagen. 
+   09:00 - 17:00: Za, Zo, excl. feestdagen. 
 </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/41377488">
       <text>Solitudobrug (Brug 2190) online info</text>
     </link>
-    <sym>Landmarks-Bridge1</sym>
+    <sym>Landmarks-Bridge2</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
