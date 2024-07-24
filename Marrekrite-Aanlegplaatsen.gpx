@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-07-23T13:23:33.481155Z</time>
+    <time>2024-07-24T13:24:53.224015Z</time>
   </metadata>
   <wpt lat="52.966346" lon="5.515595">
     <name>FL16A Hammigegreft (Damwand)</name>
@@ -3123,26 +3123,6 @@ Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening              True
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.133239" lon="5.90844">
-    <name>PR04B2 Roune Sawne (Kanosteiger)</name>
-    <desc>Naam                  Roune Sawne
-Vaarwater             ALDE FEANEN
-Lengte aanleg                   0
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
@@ -12972,7 +12952,6 @@ Kanovoorziening             False
     <name>MB80 MB80 (Boei)</name>
     <desc>Naam                         MB80
 Vaarwater                 WIDE IE
-Tijdelijk buiten gebruik {'reason': 'Marboei wordt vervangen, ligt momenteel niet op haar plek.', 'detour': None, 'from': '18/04/2024', 'to': '31/12/2099'}
 Lengte aanleg                   0
 Walverbinding               False
 Fietsmogelijkheid           False

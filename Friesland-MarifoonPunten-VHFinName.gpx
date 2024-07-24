@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-07-23T11:15:24.041000Z</time>
+    <time>2024-07-24T12:00:29.168000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>VHF 20</name>
@@ -652,12 +652,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="52.8387837676186" lon="5.67222791927411">
     <name>VHF 20</name>
-    <desc>Naam:         Meldpunt Kegelligplaats  Lemmer buitenzijde
+    <desc>Naam:         Meldpunt Kegelligplaats buitenzijde Lemmer
 VHF:          20
 RadioTraffic: TWO_WAY
 Opmerking: Maximaal 3 x 24 uur</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170262">
-      <text>Meldpunt Kegelligplaats  Lemmer buitenzijde online info</text>
+      <text>Meldpunt Kegelligplaats buitenzijde Lemmer online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -1386,6 +1386,58 @@ VHF:          80
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/21524">
       <text>Meldpunt Brêge Baard online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.05456810409" lon="5.40243297815323">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Sluis Makkum
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/40982">
+      <text>Meldpunt Sluis Makkum online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.0545950431538" lon="5.40248394012451">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Brug over sluis Makkum
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/18254">
+      <text>Meldpunt Brug over sluis Makkum online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.0547376150232" lon="5.40380255321907">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Vallaatsbrug
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/11575">
+      <text>Meldpunt Vallaatsbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.0550756860713" lon="5.40985213591241">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Suderseeweibrêge
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/46330">
+      <text>Meldpunt Suderseeweibrêge online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
