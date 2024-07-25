@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-07-24T13:24:53.224015Z</time>
+    <time>2024-07-25T13:23:36.608219Z</time>
   </metadata>
   <wpt lat="52.966346" lon="5.515595">
     <name>FL16A Hammigegreft (Damwand)</name>
@@ -2737,7 +2737,6 @@ Kanovoorziening              True
     <name>SN24B Groot Schareiland (Damwand)</name>
     <desc>Naam            Groot Schareiland
 Vaarwater             SNITSER MAR
-Tijdelijk buiten gebruik {'reason': 'Tijdelijk niet beschikbaar in verband met werkzaamheden', 'detour': None, 'from': '24/06/2024', 'to': '30/08/2024'}
 Lengte aanleg                  66
 Walverbinding                True
 Fietsmogelijkheid           False
@@ -9887,6 +9886,46 @@ Container                   False
 Kamperen                    False
 Meerpalen (aantal)              2
 Kanovoorziening              True
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9014" lon="5.77553">
+    <name>TJ08A Ganzetippe (Steiger)</name>
+    <desc>Naam                   Ganzetippe
+Vaarwater               Tsjûkemar
+Lengte aanleg                 216
+Walverbinding                True
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid          False
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.89951" lon="5.77461">
+    <name>TJ08C Ganzetippe (Steiger)</name>
+    <desc>Naam                   Ganzetippe
+Vaarwater               Tsjûkemar
+Lengte aanleg                 248
+Walverbinding                True
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid          False
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
     <extensions>
