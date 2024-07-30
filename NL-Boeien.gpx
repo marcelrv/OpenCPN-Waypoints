@@ -30236,6 +30236,7 @@ licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Groen
 model : spar Groen</desc>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -30258,13 +30259,14 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.37174444468385" lon="5.018930555331457">
+  <wpt lat="52.381530555120875" lon="5.061044443698838">
     <name>IJM 22A</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
 licht type : Iso (isophased)
 licht periode : 6
 lich kleur : Rood
 model : spar Rood</desc>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -45403,38 +45405,38 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.86463333324805" lon="5.825516667118461">
+  <wpt lat="51.864766666482794" lon="5.825733333037755">
     <name>MWK 1</name>
     <desc>vaarweg : MAAS-WAAL KANAAL
 licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
-    <sym>1001</sym>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.864116667057885" lon="5.82560000000667">
+  <wpt lat="51.86401666683535" lon="5.826250000314385">
     <name>MWK 3</name>
     <desc>vaarweg : MAAS-WAAL KANAAL
 licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
-    <sym>1001</sym>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.86248333291052" lon="5.825716666075152">
+  <wpt lat="51.863166666508505" lon="5.826002777198982">
     <name>MWK 5</name>
     <desc>vaarweg : MAAS-WAAL KANAAL
 licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
-    <sym>1001</sym>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -53176,7 +53178,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.372622221809344" lon="5.018172222782789">
+  <wpt lat="52.37262500029581" lon="5.018172221664098">
     <name>P 11</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
 model : spar Groen</desc>
@@ -53198,7 +53200,7 @@ model : spar Rood</desc>
     <name>P 12</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
 licht type : Iso (isophased)
-licht periode : 8
+licht periode : 6
 lich kleur : Rood
 model : spar Rood</desc>
     <sym>1145</sym>
@@ -53751,8 +53753,8 @@ model : stomp Rood</desc>
   <wpt lat="52.38494722190313" lon="5.05634166635533">
     <name>P 8</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
-licht type : Iso (isophased)
-licht periode : 6
+licht type : LFl (long-flashing)
+licht periode : 10
 lich kleur : Rood
 model : spar Rood</desc>
     <sym>1145</sym>
@@ -67781,6 +67783,15 @@ model : spar Groen</desc>
   <wpt lat="53.43519444405295" lon="6.017752777722952">
     <name>SG 19</name>
     <desc>vaarweg : SMERIGGAT
+model : spar Groen</desc>
+    <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.32036388907461" lon="5.166852778500727">
+    <name>SG 1A</name>
+    <desc>vaarweg : SCHUITENGAT
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -87412,20 +87423,20 @@ model : spar Groen/rood/groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.398361110952195" lon="5.664272222815606">
-    <name>WA 25</name>
-    <desc>vaarweg : WESTGAT (AMELAND)
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.460527777733894" lon="5.522705555460107">
     <name>WA 2</name>
     <desc>vaarweg : WESTGAT (AMELAND)
 model : spar Rood</desc>
     <sym>1143</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.398361110952195" lon="5.664272222815606">
+    <name>WA 27</name>
+    <desc>vaarweg : WESTGAT (AMELAND)
+model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
