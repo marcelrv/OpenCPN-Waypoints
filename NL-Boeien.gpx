@@ -53722,7 +53722,7 @@ model : spits Groen</desc>
     <name>P 7</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
 model : spar Groen</desc>
-    <sym>1045</sym>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -66058,6 +66058,14 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.20050277750885" lon="6.067180555070347">
+    <name>SB-A</name>
+    <desc>vaarweg : PRINSES MARGRIET KANAAL
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.93798611103342" lon="4.104236110553924">
     <name>SB-B</name>
     <desc>vaarweg : HARTELKANAAL
@@ -66075,6 +66083,15 @@ model : spar Geel</desc>
     <desc>vaarweg : MAAS
 model : stomp Geel</desc>
     <sym>5511</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.20093611125242" lon="6.070211111552441">
+    <name>SB-B</name>
+    <desc>vaarweg : PRINSES MARGRIET KANAAL
+model : stomp Geel</desc>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -67793,7 +67810,7 @@ model : spar Groen</desc>
     <name>SG 1A</name>
     <desc>vaarweg : SCHUITENGAT
 model : spar Groen</desc>
-    <sym>1041</sym>
+    <sym>1043</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -80085,7 +80102,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1043</sym>
+    <sym>1047</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
