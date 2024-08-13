@@ -67745,6 +67745,7 @@ model : spar Groen</desc>
     <name>SG 1</name>
     <desc>vaarweg : STEURGAT (BIESBOSCH)
 model : spits Groen</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -67932,6 +67933,7 @@ model : spar Groen</desc>
     <name>SG 2</name>
     <desc>vaarweg : STEURGAT (BIESBOSCH)
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -68072,6 +68074,7 @@ model : spits Groen</desc>
     <name>SG 3</name>
     <desc>vaarweg : STEURGAT (BIESBOSCH)
 model : spits Groen</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -68118,6 +68121,7 @@ model : spar Rood</desc>
     <name>SG 4</name>
     <desc>vaarweg : STEURGAT (BIESBOSCH)
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -68156,6 +68160,7 @@ model : spits Groen</desc>
     <name>SG 5</name>
     <desc>vaarweg : STEURGAT (BIESBOSCH)
 model : spits Groen</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -68206,6 +68211,7 @@ model : stomp Rood</desc>
     <name>SG 6</name>
     <desc>vaarweg : STEURGAT (BIESBOSCH)
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -68256,6 +68262,7 @@ model : spits Groen</desc>
     <name>SG 7</name>
     <desc>vaarweg : STEURGAT (BIESBOSCH)
 model : spits Groen</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -68303,6 +68310,7 @@ model : stomp Rood</desc>
     <name>SG 8</name>
     <desc>vaarweg : STEURGAT (BIESBOSCH)
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -86606,7 +86614,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.81631666671797" lon="5.167616666860114">
+  <wpt lat="51.81674166681292" lon="5.168144444549049">
     <name>W 3B</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -88756,7 +88764,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.373619444053446" lon="5.01470277741157">
-    <name>WK-WNB 2</name>
+    <name>WK-OW 2</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -93038,7 +93046,7 @@ model : stomp Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.654755555528396" lon="5.985438889228323">
-    <name>ZMN-WNB 28</name>
+    <name>ZMN-OW 56</name>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -93047,7 +93055,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.652683333184505" lon="5.987308333459122">
-    <name>ZMN-WNB 29</name>
+    <name>ZMN-OW 58</name>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -93056,7 +93064,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.65066388909862" lon="5.989105555442061">
-    <name>ZMN-WNB 30</name>
+    <name>ZMN-OW 60</name>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -93065,7 +93073,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.648780555846066" lon="5.990949999463085">
-    <name>ZMN-WNB 31</name>
+    <name>ZMN-OW 62</name>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -93074,7 +93082,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.64683055579086" lon="5.992788889270195">
-    <name>ZMN-WNB 32</name>
+    <name>ZMN-OW 64</name>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -93083,7 +93091,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.64478888919433" lon="5.994388888957217">
-    <name>ZMN-WNB 33</name>
+    <name>ZMN-OW 66</name>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -93092,7 +93100,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.64415277796346" lon="5.990788888611219">
-    <name>ZMN-WNB 34</name>
+    <name>ZMN-OW 68</name>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -93101,7 +93109,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.64348888866034" lon="5.987222221696535">
-    <name>ZMN-WNB 35</name>
+    <name>ZMN-OW 70</name>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -93110,7 +93118,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.64282777779917" lon="5.983619444603604">
-    <name>ZMN-WNB 36</name>
+    <name>ZMN-OW 72</name>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -93119,7 +93127,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.64218055557114" lon="5.980175000482849">
-    <name>ZMN-WNB 37</name>
+    <name>ZMN-OW 74</name>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -93128,7 +93136,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.641555555430365" lon="5.976611111324262">
-    <name>ZMN-WNB 38</name>
+    <name>ZMN-OW 76</name>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -93137,7 +93145,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.641061111331126" lon="5.973644444971646">
-    <name>ZMN-WNB 39</name>
+    <name>ZMN-OW 78</name>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -93146,7 +93154,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.6404027775656" lon="5.970022221895579">
-    <name>ZMN-WNB 40</name>
+    <name>ZMN-OW 80</name>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -93155,7 +93163,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.639727777643394" lon="5.966377777707582">
-    <name>ZMN-WNB 41</name>
+    <name>ZMN-OW 82</name>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
