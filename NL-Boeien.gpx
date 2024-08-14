@@ -22185,7 +22185,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.090986111127506" lon="6.18145277712302">
+  <wpt lat="52.09100277742621" lon="6.183350000638978">
     <name>GIJ 60</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : stomp Rood</desc>
@@ -25063,15 +25063,6 @@ model : stomp Geel</desc>
   </wpt>
   <wpt lat="51.66667777733195" lon="3.732825000192393">
     <name>H 12V</name>
-    <desc>vaarweg : HAMMEN
-model : stomp Geel</desc>
-    <sym>3500</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.66624444464826" lon="3.734186111529867">
-    <name>H 12Z</name>
     <desc>vaarweg : HAMMEN
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -31664,83 +31655,11 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.02478611079066" lon="5.791011111278204">
-    <name>JK 11</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.02436111127415" lon="5.79059166675883">
-    <name>JK 13</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : LFl (long-flashing)
-licht periode : 5
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.02405277765363" lon="5.790038888614921">
-    <name>JK 15</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.02687777795776" lon="5.792152777493826">
-    <name>JK 1</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.02531944449167" lon="5.792194444003268">
-    <name>JK 2</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : LFl (long-flashing)
-licht periode : 5
-lich kleur : Rood
-model : stomp Rood</desc>
-    <sym>1105</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.58310277789196" lon="5.76598055499985">
     <name>JK 2</name>
     <desc>vaarweg : KETELMEER RECREATIE (RANDMEREN)
 model : spar Rood</desc>
     <sym>1143</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.026263888511814" lon="5.79203888923935">
-    <name>JK 3</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -31754,47 +31673,11 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.02489999984654" lon="5.791811111666114">
-    <name>JK 4</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : LFl (long-flashing)
-licht periode : 5
-lich kleur : Rood
-model : stomp Rood</desc>
-    <sym>1105</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.582036110990195" lon="5.765705555111927">
     <name>JK 4</name>
     <desc>vaarweg : KETELMEER RECREATIE (RANDMEREN)
 model : spar Rood</desc>
     <sym>1143</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.025752777953024" lon="5.791727778342186">
-    <name>JK 5</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : LFl (long-flashing)
-licht periode : 5
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.02461388926602" lon="5.791488888764172">
-    <name>JK 6</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : LFl (long-flashing)
-licht periode : 5
-lich kleur : Rood
-model : stomp Rood</desc>
-    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -31808,30 +31691,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.02543888879007" lon="5.791533333867381">
-    <name>JK 7</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.02417499983961" lon="5.791005555316746">
-    <name>JK 8</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : LFl (long-flashing)
-licht periode : 5
-lich kleur : Rood
-model : stomp Rood</desc>
-    <sym>1105</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.58077222264777" lon="5.764691667398699">
     <name>JK 8</name>
     <desc>vaarweg : KETELMEER RECREATIE (RANDMEREN)
@@ -31841,14 +31700,38 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.02508333333375" lon="5.791277777920646">
-    <name>JK 9</name>
+  <wpt lat="50.99773333321478" lon="5.772055555121504">
+    <name>JK-A</name>
     <desc>vaarweg : JULIANAKANAAL
-licht type : LFl (long-flashing)
+licht type : Fl (flashing)
 licht periode : 5
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
+lich kleur : Geel
+model : stomp Geel</desc>
+    <sym>3701</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.99777777782142" lon="5.771772222311539">
+    <name>JK-B</name>
+    <desc>vaarweg : JULIANAKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <sym>3701</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.99576388923382" lon="5.771211111118026">
+    <name>JK-C</name>
+    <desc>vaarweg : JULIANAKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <sym>3701</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -51660,6 +51543,24 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.93927777741719" lon="5.045877778441107">
+    <name>O-KM-O</name>
+    <desc>vaarweg : VAARWATER NAAR DEN OEVER
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.93801944426383" lon="5.043788888486338">
+    <name>O-KM-W</name>
+    <desc>vaarweg : VAARWATER NAAR DEN OEVER
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.39428333370566" lon="5.567883332870502">
     <name>O-WNB</name>
     <desc>vaarweg : OOSTEROM
@@ -57077,6 +56978,15 @@ licht type : Q (quick-flashing)
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1008</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.61579999960877" lon="3.673230555549633">
+    <name>R 11AV</name>
+    <desc>vaarweg : ROOMPOT
+model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -66080,7 +65990,7 @@ model : stomp Geel</desc>
     <name>SB-A</name>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
 model : bol Geel</desc>
-    <sym>1721</sym>
+    <sym>4001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -66110,7 +66020,7 @@ model : stomp Geel</desc>
     <name>SB-B</name>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
 model : bol Geel</desc>
-    <sym>1721</sym>
+    <sym>4001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87547,7 +87457,7 @@ model : spar Rood</desc>
     <name>WA 23</name>
     <desc>vaarweg : WESTGAT (AMELAND)
 model : spar Groen</desc>
-    <sym>1321</sym>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -89270,126 +89180,6 @@ licht periode : 4
 lich kleur : Rood
 model : stomp Rood</desc>
     <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.00486111115835" lon="5.775722222048793">
-    <name>WP-A</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.005586111212935" lon="5.776294445102094">
-    <name>WP-B</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3500</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.00629722182649" lon="5.776847221833646">
-    <name>WP-C</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0070222218731" lon="5.777413888208912">
-    <name>WP-D</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3500</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.01332499988101" lon="5.783127778430201">
-    <name>WP-E</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.01398888876121" lon="5.783863889378162">
-    <name>WP-F</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.01466388872521" lon="5.784591666022743">
-    <name>WP-G</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.00361111127904" lon="5.774641666921235">
-    <name>WP-J</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.00233055545711" lon="5.773841667191586">
-    <name>WP-K</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.00149166631979" lon="5.773394444181744">
-    <name>WP-L</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
