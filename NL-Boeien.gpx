@@ -22194,7 +22194,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.090822222046526" lon="6.183163888616218">
+  <wpt lat="52.091141666911625" lon="6.182280556040648">
     <name>GIJ 60A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : stomp Rood</desc>
@@ -31736,6 +31736,18 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="50.99577777810622" lon="5.770925000543089">
+    <name>JK-D</name>
+    <desc>vaarweg : JULIANAKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <sym>3701</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.22540277777938" lon="5.442308333586944">
     <name>K 10</name>
     <desc>vaarweg : KIMSTERGAT
@@ -38022,6 +38034,28 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.53656944399591" lon="4.204883333518702">
+    <name>L7-A</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : bol Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.53880833315622" lon="4.196386111120492">
+    <name>L7-B</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 10
+lich kleur : Geel
+model : bol Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.8201194446686" lon="5.3090888893315">
     <name>LC 10</name>
     <desc>vaarweg : LACON (IJSSELMEER)
@@ -42669,6 +42703,15 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="50.81656388846712" lon="5.69532500066862">
+    <name>ML 45</name>
+    <desc>vaarweg : MAAS
+model : spits Groen</desc>
+    <sym>1001</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.634430555489864" lon="6.001005555402689">
     <name>ML 4</name>
     <desc>vaarweg : MAAS
@@ -42710,6 +42753,15 @@ model : stomp Rood</desc>
     <desc>vaarweg : MAAS
 model : stomp Rood</desc>
     <sym>1101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.81569444427706" lon="5.694936110914515">
+    <name>ML 47</name>
+    <desc>vaarweg : MAAS
+model : spits Groen</desc>
+    <sym>1201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43103,11 +43155,29 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="50.81638055585886" lon="5.696599999882044">
+    <name>ML 54</name>
+    <desc>vaarweg : MAAS
+model : stomp Rood</desc>
+    <sym>1101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.75958333341387" lon="5.743150000513772">
     <name>ML 5</name>
     <desc>vaarweg : MAAS
 model : spits Groen</desc>
     <sym>1003</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.81547222247678" lon="5.696155556053301">
+    <name>ML 56</name>
+    <desc>vaarweg : MAAS
+model : stomp Rood</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
