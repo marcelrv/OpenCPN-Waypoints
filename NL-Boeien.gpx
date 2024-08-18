@@ -64423,6 +64423,16 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.33008611074312" lon="5.22992500057049">
+    <name>S 10A</name>
+    <desc>vaarweg : SLENK (WADDENZEE)
+licht type : Q (quick-flashing)
+lich kleur : Rood
+model : stomp Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.649011111052786" lon="3.731566666153301">
     <name>S 10N</name>
     <desc>vaarweg : GEUL VAN ROGGEPLAAT
@@ -64536,6 +64546,17 @@ model : stomp Rood</desc>
     <desc>vaarweg : SLENK (LAUWERSMEER)
 model : spar Rood</desc>
     <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.32477222194746" lon="5.236547222924699">
+    <name>S 12A</name>
+    <desc>vaarweg : SLENK (WADDENZEE)
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
+model : stomp Rood</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
