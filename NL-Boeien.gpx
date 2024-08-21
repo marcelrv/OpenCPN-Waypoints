@@ -21717,7 +21717,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.52493333338802" lon="6.018049999711081">
+  <wpt lat="52.52510277783092" lon="6.018311110932554">
     <name>GIJ 38</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spar Rood</desc>
@@ -22194,7 +22194,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.091141666911625" lon="6.182280556040648">
+  <wpt lat="52.091205555321096" lon="6.182325000731034">
     <name>GIJ 60A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : stomp Rood</desc>
@@ -43827,6 +43827,18 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.42680833354921" lon="3.32040833274112">
+    <name>MP 1</name>
+    <desc>vaarweg : WIELINGEN
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5201</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.580966666488" lon="3.640847221671972">
     <name>MP 1</name>
     <desc>vaarweg : VEERSE MEER
@@ -43845,6 +43857,18 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.433125000312145" lon="3.353436111321232">
+    <name>MP 3</name>
+    <desc>vaarweg : WIELINGEN
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5201</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.58093055570579" lon="3.632408333703406">
     <name>MP 3</name>
     <desc>vaarweg : VEERSE MEER
@@ -43853,10 +43877,34 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.433808333133165" lon="3.369024999955702">
+    <name>MP 4</name>
+    <desc>vaarweg : WIELINGEN
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5201</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.5774527773691" lon="3.631416666990096">
     <name>MP 4</name>
     <desc>vaarweg : VEERSE MEER
 model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.43457500020109" lon="3.382252777952943">
+    <name>MP 5</name>
+    <desc>vaarweg : WIELINGEN
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -44865,42 +44913,6 @@ licht periode : 10
 lich kleur : Geel
 model : spar Geel</desc>
     <sym>5542</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.905150000387735" lon="4.262616666825643">
-    <name>MT-E</name>
-    <desc>vaarweg : NIEUWE WATERWEG
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spits Geel</desc>
-    <sym>5502</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.904483333233756" lon="4.264833333962411">
-    <name>MT-F</name>
-    <desc>vaarweg : NIEUWE WATERWEG
-licht type : Fl (flashing)
-licht periode : 10
-lich kleur : Geel
-model : spits Geel</desc>
-    <sym>5502</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.90169999962368" lon="4.270783333147214">
-    <name>MT-G</name>
-    <desc>vaarweg : NIEUWE WATERWEG
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spits Geel</desc>
-    <sym>5502</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -80179,7 +80191,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.38858333327331" lon="3.615699999324666">
+  <wpt lat="51.388875000353835" lon="3.618000000196772">
     <name>VH 10</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
 model : spar Rood</desc>
@@ -80224,7 +80236,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.38786388896225" lon="3.627924999705576">
+  <wpt lat="51.38829722239435" lon="3.627955555315205">
     <name>VH 12</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
 model : spar Rood</desc>
@@ -80278,7 +80290,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.386183332957685" lon="3.618383333987742">
+  <wpt lat="51.38686944477071" lon="3.613830555336162">
     <name>VH 1</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
 licht type : Iso (isophased)
@@ -80647,7 +80659,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.38581666707234" lon="3.638800000068104">
+  <wpt lat="51.385752777821494" lon="3.640300000149088">
     <name>VH 5</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
 model : spar Groen</desc>
