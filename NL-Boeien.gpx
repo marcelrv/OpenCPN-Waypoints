@@ -43855,7 +43855,7 @@ licht type : Fl (flashing)
 licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5201</sym>
+    <sym>5301</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43881,6 +43881,14 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.58093055570579" lon="3.632408333703406">
+    <name>MP 3</name>
+    <desc>vaarweg : VEERSE MEER
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.433808333133165" lon="3.369024999955702">
     <name>MP 4</name>
     <desc>vaarweg : WIELINGEN
@@ -43889,6 +43897,14 @@ licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
     <sym>5301</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.5774527773691" lon="3.631416666990096">
+    <name>MP 4</name>
+    <desc>vaarweg : VEERSE MEER
+model : stomp Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
