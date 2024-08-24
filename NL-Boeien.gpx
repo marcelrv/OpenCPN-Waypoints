@@ -13153,7 +13153,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.655200000335235" lon="3.735227777887855">
+  <wpt lat="51.655333333688425" lon="3.734975000142866">
     <name>DAM O 14</name>
     <desc>vaarweg : HAMMEN-SCHAAR (OLIEGEUL)
 model : spar Geel</desc>
@@ -13180,7 +13180,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.65933611151665" lon="3.740469444762116">
+  <wpt lat="51.65792777758814" lon="3.740949999709655">
     <name>DAM O 17</name>
     <desc>vaarweg : HAMMEN
 model : spar Geel</desc>
@@ -25199,7 +25199,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.67600277812533" lon="3.759730555563902">
+  <wpt lat="51.675780555158084" lon="3.759727777200448">
     <name>H 17</name>
     <desc>vaarweg : HAMMEN
 model : spar Groen</desc>
@@ -43885,6 +43885,7 @@ model : spar Geel</desc>
     <name>MP 3</name>
     <desc>vaarweg : VEERSE MEER
 model : stomp Geel</desc>
+    <sym>3601</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43905,6 +43906,7 @@ model : spar Geel</desc>
     <name>MP 4</name>
     <desc>vaarweg : VEERSE MEER
 model : stomp Geel</desc>
+    <sym>3601</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -49630,17 +49632,6 @@ licht periode : 5
 lich kleur : Rood
 model : stomp Rood</desc>
     <sym>1105</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.90416388899183" lon="4.265355555117592">
-    <name>NW 53</name>
-    <desc>vaarweg : NIEUWE WATERWEG
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Groen
-model : spits Groen</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72022,15 +72013,6 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.06534722204988" lon="5.335380555486028">
-    <name>SPUIKAN 1</name>
-    <desc>vaarweg : KORNWERDERZAND (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.93041111094848" lon="5.050258334053559">
     <name>SPUIKAN 2</name>
     <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
@@ -88134,7 +88116,16 @@ model : Pilaar Zwart/geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.066936110675904" lon="5.328127777211361">
+  <wpt lat="53.06209722196912" lon="5.334044444588232">
+    <name>WBK-A-A</name>
+    <desc>vaarweg : KORNWERDERZAND (IJSSELMEER)
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.062822222240875" lon="5.337294444401831">
     <name>WBK-A</name>
     <desc>vaarweg : KORNWERDERZAND (IJSSELMEER)
 model : spar Geel</desc>
@@ -88143,7 +88134,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.06379444441351" lon="5.327916666641432">
+  <wpt lat="53.06140277760682" lon="5.330944444484929">
     <name>WBK-B</name>
     <desc>vaarweg : KORNWERDERZAND (IJSSELMEER)
 model : spar Geel</desc>
