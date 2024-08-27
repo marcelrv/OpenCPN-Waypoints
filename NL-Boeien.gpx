@@ -49636,6 +49636,17 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.90416388899183" lon="4.265355555117592">
+    <name>NW 53</name>
+    <desc>vaarweg : NIEUWE WATERWEG
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spits Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.89649722185661" lon="4.31806388938505">
     <name>NW 54</name>
     <desc>vaarweg : NIEUWE WATERWEG
@@ -94594,6 +94605,18 @@ model : spar Geel</desc>
     <desc>vaarweg : ZUIDERSPRUIT AMELAND
 model : spar Geel</desc>
     <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.30463611113787" lon="4.937194444333427">
+    <name>ZS</name>
+    <desc>vaarweg : ZUIDER STORTEMELK
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Wit
+model : bol Rood/wit repeterend</desc>
+    <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
