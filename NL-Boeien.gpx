@@ -25199,7 +25199,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.675780555158084" lon="3.759727777200448">
+  <wpt lat="51.6758777779196" lon="3.759352777561268">
     <name>H 17</name>
     <desc>vaarweg : HAMMEN
 model : spar Groen</desc>
@@ -77133,27 +77133,6 @@ model : spits Groen</desc>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : stomp Rood/wit repeterend</desc>
     <sym>1552</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.868555555768665" lon="5.823877777392872">
-    <name>Ton 887.410R</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-model : stomp Rood/wit repeterend</desc>
-    <sym>1552</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.87073888877199" lon="5.818919444593018">
-    <name>Ton 887.840R</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Rood
-model : stomp Rood</desc>
-    <sym>1107</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
