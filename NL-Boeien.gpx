@@ -30383,18 +30383,6 @@ model : bol Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.524999999898924" lon="4.176666666400893">
-    <name>IJMN 1-IJMW 2</name>
-    <desc>vaarweg : NOORDZEE
-licht type : VQ (very quick-flashing)
-licht periode : 5
-lich kleur : Wit
-model : Pilaar Zwart/geel/zwart</desc>
-    <sym>2123</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.589999999955715" lon="4.065833332777432">
     <name>IJMN 2</name>
     <desc>vaarweg : NOORDZEE
@@ -49169,18 +49157,6 @@ model : stomp Geel</desc>
     <desc>vaarweg : ZUIDERSPRUIT AMELAND
 model : spar Geel</desc>
     <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.332644444702936" lon="3.815147221647869">
-    <name>NST-A</name>
-    <desc>vaarweg : Kanaal Gent- Terneuzen
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3801</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
