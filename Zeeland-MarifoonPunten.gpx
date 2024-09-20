@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-09-19T11:02:24.582000Z</time>
+    <time>2024-09-20T10:30:37.863000Z</time>
   </metadata>
   <wpt lat="51.329513054422" lon="3.82392163649492">
     <name>Meldpunt Ligplaats zijkanaal A Oost Charlie Terneuzen</name>
@@ -299,12 +299,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.8269229470924" lon="4.13673227771381">
-    <name>Meldpunt Kanaalweg OZ</name>
-    <desc>Naam:         Meldpunt Kanaalweg OZ
+    <name>Meldpunt Hellevoetsluis, Kanaalweg OZ</name>
+    <desc>Naam:         Meldpunt Hellevoetsluis, Kanaalweg OZ
 VHF:          74
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Diepte: KP-1,80m.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/8520">
-      <text>Meldpunt Kanaalweg OZ online info</text>
+      <text>Meldpunt Hellevoetsluis, Kanaalweg OZ online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -338,12 +339,12 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.8280856534727" lon="4.03162990943447">
-    <name>Meldpunt Stellendam</name>
-    <desc>Naam:         Meldpunt Stellendam
+    <name>Meldpunt Ligplaats 2 Stellendam</name>
+    <desc>Naam:         Meldpunt Ligplaats 2 Stellendam
 VHF:          16
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/9623">
-      <text>Meldpunt Stellendam online info</text>
+      <text>Meldpunt Ligplaats 2 Stellendam online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -405,12 +406,13 @@ Opmerking: Diepte: NAP-6,5m/NAP-4,4m.</desc>
     </extensions>
   </wpt>
   <wpt lat="51.4611389042175" lon="4.00783815136639">
-    <name>Meldpunt Ligplaats Schore</name>
-    <desc>Naam:         Meldpunt Ligplaats Schore
+    <name>Meldpunt Schore, ligplaats</name>
+    <desc>Naam:         Meldpunt Schore, ligplaats
 VHF:          22
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Melden voor aankomst en vertrek bij de sluis te Hansweert.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/12088">
-      <text>Meldpunt Ligplaats Schore online info</text>
+      <text>Meldpunt Schore, ligplaats online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -499,13 +501,14 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.819391" lon="4.128021">
-    <name>Meldpunt ligplaats Hellevoetsluis</name>
-    <desc>Naam:         Meldpunt ligplaats Hellevoetsluis
+    <name>Meldpunt Ligplaats 2 recreatievaart Hellevoetsluis</name>
+    <desc>Naam:         Meldpunt Ligplaats 2 recreatievaart Hellevoetsluis
 VHF:          74
 RadioStatus: MANDATORY
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Meldplicht.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/15357">
-      <text>Meldpunt ligplaats Hellevoetsluis online info</text>
+      <text>Meldpunt Ligplaats 2 recreatievaart Hellevoetsluis online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -591,12 +594,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.3189944737288" lon="3.82509361521519">
-    <name>Meldpunt Terneuzen Kanaalkade 1</name>
-    <desc>Naam:         Meldpunt Terneuzen Kanaalkade 1
+    <name>Meldpunt Terneuzen, Kanaalkade 1</name>
+    <desc>Naam:         Meldpunt Terneuzen, Kanaalkade 1
 VHF:          11
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Beperking diepgang 1,5 meter tot nader order.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/16252">
-      <text>Meldpunt Terneuzen Kanaalkade 1 online info</text>
+      <text>Meldpunt Terneuzen, Kanaalkade 1 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -620,7 +624,8 @@ RadioTraffic: TWO_WAY</desc>
     <name>Meldpunt Ankerplaats De Hoef</name>
     <desc>Naam:         Meldpunt Ankerplaats De Hoef
 VHF:          71
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Alleen met toestemming van RVC Dordrecht. VHF 71</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/16642">
       <text>Meldpunt Ankerplaats De Hoef online info</text>
     </link>
@@ -697,12 +702,15 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.4394429027291" lon="4.23224733839435">
-    <name>Meldpunt Wachtplaats Sluizencomplex Kreekrak - Zuidzijde 3</name>
-    <desc>Naam:         Meldpunt Wachtplaats Sluizencomplex Kreekrak - Zuidzijde 3
+    <name>Meldpunt Wachtplaats 3 sluizencomplex Kreekrak - Zuidzijde</name>
+    <desc>Naam:         Meldpunt Wachtplaats 3 sluizencomplex Kreekrak - Zuidzijde
 VHF:          20
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Maximaal 3 x 24 uur.
+Voor schepen, zowel duwvaart als andere schepen dan duwvaart.
+Afmeervoorziening: palen, inclusief afloopmogelijkheid.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/18252">
-      <text>Meldpunt Wachtplaats Sluizencomplex Kreekrak - Zuidzijde 3 online info</text>
+      <text>Meldpunt Wachtplaats 3 sluizencomplex Kreekrak - Zuidzijde online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -710,12 +718,15 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.4474245767734" lon="4.01314145085737">
-    <name>Meldpunt Sluizencomplex Hansweert - zuidzijde 2</name>
-    <desc>Naam:         Meldpunt Sluizencomplex Hansweert - zuidzijde 2
+    <name>Meldpunt Ligplaats 2 sluizencomplex Hansweert - Zuidzijde</name>
+    <desc>Naam:         Meldpunt Ligplaats 2 sluizencomplex Hansweert - Zuidzijde
 VHF:          22
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: max. 3x24 uur.
+Voor schepen, zowel duwvaart als andere schepen dan duwvaart.
+Afmeervoorziening: palen, inclusief afloopmogelijkheid.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/18569">
-      <text>Meldpunt Sluizencomplex Hansweert - zuidzijde 2 online info</text>
+      <text>Meldpunt Ligplaats 2 sluizencomplex Hansweert - Zuidzijde online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -928,12 +939,12 @@ Opmerking: Steigers, boxen</desc>
     </extensions>
   </wpt>
   <wpt lat="51.3321669648201" lon="3.82415005607692">
-    <name>Meldpunt Zijkanaal A Oost Alpha</name>
-    <desc>Naam:         Meldpunt Zijkanaal A Oost Alpha
+    <name>Meldpunt Terneuzen, Zijkanaal A Oost Alpha</name>
+    <desc>Naam:         Meldpunt Terneuzen, Zijkanaal A Oost Alpha
 VHF:          11
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/24866">
-      <text>Meldpunt Zijkanaal A Oost Alpha online info</text>
+      <text>Meldpunt Terneuzen, Zijkanaal A Oost Alpha online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -1130,12 +1141,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.3115828906794" lon="3.82925664716448">
-    <name>Meldpunt Goessche kade kegelplaats</name>
-    <desc>Naam:         Meldpunt Goessche kade kegelplaats
+    <name>Meldpunt Terneuzen, Goessche kade, kegelplaats</name>
+    <desc>Naam:         Meldpunt Terneuzen, Goessche kade, kegelplaats
 VHF:          11
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Meldplicht.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/29425">
-      <text>Meldpunt Goessche kade kegelplaats online info</text>
+      <text>Meldpunt Terneuzen, Goessche kade, kegelplaats online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -1143,12 +1155,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.8205546907423" lon="4.13201577189392">
-    <name>Meldpunt Hellevoetsluis ligplaats recreatievaart</name>
-    <desc>Naam:         Meldpunt Hellevoetsluis ligplaats recreatievaart
+    <name>Meldpunt Ligplaats 1 recreatievaart Hellevoetsluis</name>
+    <desc>Naam:         Meldpunt Ligplaats 1 recreatievaart Hellevoetsluis
 VHF:          74
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Meldplicht.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/29960">
-      <text>Meldpunt Hellevoetsluis ligplaats recreatievaart online info</text>
+      <text>Meldpunt Ligplaats 1 recreatievaart Hellevoetsluis online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -1225,12 +1238,14 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.4614374808063" lon="4.22782641164343">
-    <name>Meldpunt Wachtplaats Sluizencomplex Kreekrak - Noordzijde 2</name>
-    <desc>Naam:         Meldpunt Wachtplaats Sluizencomplex Kreekrak - Noordzijde 2
+    <name>Meldpunt Wachtplaats 2 sluizencomplex Kreekrak - Noordzijde</name>
+    <desc>Naam:         Meldpunt Wachtplaats 2 sluizencomplex Kreekrak - Noordzijde
 VHF:          20
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Maximaal 1 x 24 uur.
+Voor schepen, zowel duwvaart als andere schepen dan duwvaart.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/32826">
-      <text>Meldpunt Wachtplaats Sluizencomplex Kreekrak - Noordzijde 2 online info</text>
+      <text>Meldpunt Wachtplaats 2 sluizencomplex Kreekrak - Noordzijde online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -1450,12 +1465,15 @@ Opmerking: Diepte: MP-4m/MP-3m. Maximum snelheid 5 km/u.</desc>
     </extensions>
   </wpt>
   <wpt lat="51.448646356294" lon="4.01271689250961">
-    <name>Meldpunt Sluizencomplex Hansweert - zuidzijde 3</name>
-    <desc>Naam:         Meldpunt Sluizencomplex Hansweert - zuidzijde 3
+    <name>Meldpunt Ligplaats 3 sluizencomplex Hansweert - Zuidzijde</name>
+    <desc>Naam:         Meldpunt Ligplaats 3 sluizencomplex Hansweert - Zuidzijde
 VHF:          22
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: max. 3x24 uur
+Voor schepen, zowel duwvaart als andere schepen dan duwvaart.
+Afmeervoorziening: palen, inclusief afloopmogelijkheid.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/38599">
-      <text>Meldpunt Sluizencomplex Hansweert - zuidzijde 3 online info</text>
+      <text>Meldpunt Ligplaats 3 sluizencomplex Hansweert - Zuidzijde online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -1542,12 +1560,12 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.6498823509193" lon="4.84322757091808">
-    <name>Meldpunt Sluis I - Beneden sluis - rechter oever</name>
-    <desc>Naam:         Meldpunt Sluis I - Beneden sluis - rechter oever
+    <name>Meldpunt Ligplaats Sluis I Beneden - Rechter oever (kegel) Oosterhout</name>
+    <desc>Naam:         Meldpunt Ligplaats Sluis I Beneden - Rechter oever (kegel) Oosterhout
 VHF:          18
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/40998">
-      <text>Meldpunt Sluis I - Beneden sluis - rechter oever online info</text>
+      <text>Meldpunt Ligplaats Sluis I Beneden - Rechter oever (kegel) Oosterhout online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -1555,12 +1573,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.844243994022" lon="4.97840894987179">
-    <name>Meldpunt Gorinchem ligplaats 3</name>
-    <desc>Naam:         Meldpunt Gorinchem ligplaats 3
+    <name>Meldpunt Gorinchem, ligplaats (3)</name>
+    <desc>Naam:         Meldpunt Gorinchem, ligplaats (3)
 VHF:          22
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Alleen voor beroepsvaart.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/41013">
-      <text>Meldpunt Gorinchem ligplaats 3 online info</text>
+      <text>Meldpunt Gorinchem, ligplaats (3) online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -1584,7 +1603,8 @@ RadioTraffic: TWO_WAY</desc>
     <name>Meldpunt Ankerplaats Kerkeinde</name>
     <desc>Naam:         Meldpunt Ankerplaats Kerkeinde
 VHF:          71
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Alleen met toestemming van RVC Dordrecht. VHF 71</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/41571">
       <text>Meldpunt Ankerplaats Kerkeinde online info</text>
     </link>
@@ -1673,12 +1693,15 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.6613518064466" lon="4.147171509831">
-    <name>Meldpunt Duwvaartsluis Krammer westzijde 2</name>
-    <desc>Naam:         Meldpunt Duwvaartsluis Krammer westzijde 2
+    <name>Meldpunt Ligplaats 2 Duwvaartsluis Krammer westzijde Bruinisse</name>
+    <desc>Naam:         Meldpunt Ligplaats 2 Duwvaartsluis Krammer westzijde Bruinisse
 VHF:          22
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: max. 3x24 uur.
+Voor schepen, zowel duwvaart als andere schepen dan duwvaart.
+Afmeervoorziening: palen, inclusief afloopmogelijkheid</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/44816">
-      <text>Meldpunt Duwvaartsluis Krammer westzijde 2 online info</text>
+      <text>Meldpunt Ligplaats 2 Duwvaartsluis Krammer westzijde Bruinisse online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -1699,12 +1722,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.6658924957859" lon="4.17089858078944">
-    <name>Meldpunt Autoafzetplaats Krammer oostzijde 1</name>
-    <desc>Naam:         Meldpunt Autoafzetplaats Krammer oostzijde 1
+    <name>Meldpunt Autoafzetplaats 1 Krammer oostzijde Bruinisse</name>
+    <desc>Naam:         Meldpunt Autoafzetplaats 1 Krammer oostzijde Bruinisse
 VHF:          22
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Autoafzetplaats</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/45803">
-      <text>Meldpunt Autoafzetplaats Krammer oostzijde 1 online info</text>
+      <text>Meldpunt Autoafzetplaats 1 Krammer oostzijde Bruinisse online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -2138,12 +2162,12 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.5014091816643" lon="4.27055570646936">
-    <name>Meldpunt Autosteiger Bergen op Zoom</name>
-    <desc>Naam:         Meldpunt Autosteiger Bergen op Zoom
+    <name>Meldpunt Ligplaats autosteiger Bergen op Zoom</name>
+    <desc>Naam:         Meldpunt Ligplaats autosteiger Bergen op Zoom
 VHF:          22
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/54498">
-      <text>Meldpunt Autosteiger Bergen op Zoom online info</text>
+      <text>Meldpunt Ligplaats autosteiger Bergen op Zoom online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -2178,12 +2202,13 @@ Opmerking: Melden bij verkeerspost Wemeldinge.</desc>
     </extensions>
   </wpt>
   <wpt lat="51.8074747295171" lon="4.86562019889012">
-    <name>Meldpunt Ankerplaats Werkendam 2</name>
-    <desc>Naam:         Meldpunt Ankerplaats Werkendam 2
+    <name>Meldpunt Ankerplaats 2 Werkendam</name>
+    <desc>Naam:         Meldpunt Ankerplaats 2 Werkendam
 VHF:          71
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Ankerplaats tussen kmr. 962,750 en 963,000. Alleen met toestemming van RVC Dordrecht. VHF 71</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/54885">
-      <text>Meldpunt Ankerplaats Werkendam 2 online info</text>
+      <text>Meldpunt Ankerplaats 2 Werkendam online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -2362,13 +2387,13 @@ Opmerking: Diepte: NAP-4,30m/NAP-1,90m. Melden bij havenmeester. Watersportveren
     </extensions>
   </wpt>
   <wpt lat="51.649054" lon="4.838434">
-    <name>Meldpunt Ligplaats Oosterhout Markkanaal</name>
-    <desc>Naam:         Meldpunt Ligplaats Oosterhout Markkanaal
+    <name>Meldpunt Ligplaats Markbrug Beneden - Linker oever Oosterhout</name>
+    <desc>Naam:         Meldpunt Ligplaats Markbrug Beneden - Linker oever Oosterhout
 VHF:          84
 RadioStatus: MANDATORY
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/15367406">
-      <text>Meldpunt Ligplaats Oosterhout Markkanaal online info</text>
+      <text>Meldpunt Ligplaats Markbrug Beneden - Linker oever Oosterhout online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2376,13 +2401,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.453765" lon="4.010085">
-    <name>Meldpunt Sector Centrale Hansweert Voorhaven</name>
-    <desc>Naam:         Meldpunt Sector Centrale Hansweert Voorhaven
+    <name>Meldpunt Centrale Hansweert</name>
+    <desc>Naam:         Meldpunt Centrale Hansweert
 VHF:          65
 RadioStatus: MANDATORY
 RadioTraffic: OUTBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16500048">
-      <text>Meldpunt Sector Centrale Hansweert Voorhaven online info</text>
+      <text>Meldpunt Centrale Hansweert online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2390,13 +2415,13 @@ RadioTraffic: OUTBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.336272" lon="3.819834">
-    <name>Meldpunt sector Centrale Terneuzen Oostsluis</name>
-    <desc>Naam:         Meldpunt sector Centrale Terneuzen Oostsluis
+    <name>Meldpunt Centrale Terneuzen</name>
+    <desc>Naam:         Meldpunt Centrale Terneuzen
 VHF:          03
 RadioStatus: MANDATORY
 RadioTraffic: OUTBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16497566">
-      <text>Meldpunt sector Centrale Terneuzen Oostsluis online info</text>
+      <text>Meldpunt Centrale Terneuzen online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2404,13 +2429,13 @@ RadioTraffic: OUTBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.330123" lon="3.815851">
-    <name>Meldpunt Sector Centrale Terneuzen Westsluis</name>
-    <desc>Naam:         Meldpunt Sector Centrale Terneuzen Westsluis
+    <name>Meldpunt Centrale Terneuzen</name>
+    <desc>Naam:         Meldpunt Centrale Terneuzen
 VHF:          3
 RadioStatus: MANDATORY
 RadioTraffic: OUTBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16497566">
-      <text>Meldpunt Sector Centrale Terneuzen Westsluis online info</text>
+      <text>Meldpunt Centrale Terneuzen online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2418,13 +2443,13 @@ RadioTraffic: OUTBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.3371" lon="3.816583">
-    <name>Meldpunt sector Centrale Terneuzen Middensluis</name>
-    <desc>Naam:         Meldpunt sector Centrale Terneuzen Middensluis
+    <name>Meldpunt Centrale Terneuzen</name>
+    <desc>Naam:         Meldpunt Centrale Terneuzen
 VHF:          3
 RadioStatus: MANDATORY
 RadioTraffic: OUTBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16497566">
-      <text>Meldpunt sector Centrale Terneuzen Middensluis online info</text>
+      <text>Meldpunt Centrale Terneuzen online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2432,13 +2457,13 @@ RadioTraffic: OUTBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.617102" lon="3.694275">
-    <name>Meldpunt Post Wemeldinge Roompot</name>
-    <desc>Naam:         Meldpunt Post Wemeldinge Roompot
+    <name>Meldpunt Sector Wemeldinge</name>
+    <desc>Naam:         Meldpunt Sector Wemeldinge
 VHF:          68
 RadioStatus: MANDATORY
 RadioTraffic: INBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16499894">
-      <text>Meldpunt Post Wemeldinge Roompot online info</text>
+      <text>Meldpunt Sector Wemeldinge online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2446,13 +2471,13 @@ RadioTraffic: INBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.664692" lon="4.097808">
-    <name>Meldpunt Post Wemeldinge Bruinisse</name>
-    <desc>Naam:         Meldpunt Post Wemeldinge Bruinisse
+    <name>Meldpunt Sector Wemeldinge</name>
+    <desc>Naam:         Meldpunt Sector Wemeldinge
 VHF:          68
 RadioStatus: MANDATORY
 RadioTraffic: INBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16499894">
-      <text>Meldpunt Post Wemeldinge Bruinisse online info</text>
+      <text>Meldpunt Sector Wemeldinge online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2460,13 +2485,13 @@ RadioTraffic: INBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.512537" lon="4.165341">
-    <name>Meldpunt Post Wemeldinge Tholen</name>
-    <desc>Naam:         Meldpunt Post Wemeldinge Tholen
+    <name>Meldpunt Sector Wemeldinge</name>
+    <desc>Naam:         Meldpunt Sector Wemeldinge
 VHF:          68
 RadioStatus: PUBLIC
 RadioTraffic: OUTBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16499894">
-      <text>Meldpunt Post Wemeldinge Tholen online info</text>
+      <text>Meldpunt Sector Wemeldinge online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2474,13 +2499,13 @@ RadioTraffic: OUTBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.661761" lon="4.156663">
-    <name>Meldpunt Post Wemeldinge Krammersluizen</name>
-    <desc>Naam:         Meldpunt Post Wemeldinge Krammersluizen
+    <name>Meldpunt Sector Wemeldinge</name>
+    <desc>Naam:         Meldpunt Sector Wemeldinge
 VHF:          68
 RadioStatus: MANDATORY
 RadioTraffic: OUTBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16499894">
-      <text>Meldpunt Post Wemeldinge Krammersluizen online info</text>
+      <text>Meldpunt Sector Wemeldinge online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2488,13 +2513,13 @@ RadioTraffic: OUTBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.457323" lon="4.010042">
-    <name>Meldpunt Post Wemeldinge Hansweert</name>
-    <desc>Naam:         Meldpunt Post Wemeldinge Hansweert
+    <name>Meldpunt Sector Wemeldinge</name>
+    <desc>Naam:         Meldpunt Sector Wemeldinge
 VHF:          68
 RadioStatus: MANDATORY
 RadioTraffic: INBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16499894">
-      <text>Meldpunt Post Wemeldinge Hansweert online info</text>
+      <text>Meldpunt Sector Wemeldinge online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2502,13 +2527,13 @@ RadioTraffic: INBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.519182" lon="4.015085">
-    <name>Meldpunt Post Wemeldinge Jachthaven Wemeldinge</name>
-    <desc>Naam:         Meldpunt Post Wemeldinge Jachthaven Wemeldinge
+    <name>Meldpunt Sector Wemeldinge</name>
+    <desc>Naam:         Meldpunt Sector Wemeldinge
 VHF:          68
 RadioStatus: MANDATORY
 RadioTraffic: INBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16499894">
-      <text>Meldpunt Post Wemeldinge Jachthaven Wemeldinge online info</text>
+      <text>Meldpunt Sector Wemeldinge online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2516,13 +2541,13 @@ RadioTraffic: INBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.544033" lon="3.868164">
-    <name>Meldpunt post Wemeldinge Zandkreeksluis</name>
-    <desc>Naam:         Meldpunt post Wemeldinge Zandkreeksluis
+    <name>Meldpunt Sector Wemeldinge</name>
+    <desc>Naam:         Meldpunt Sector Wemeldinge
 VHF:          68
 RadioStatus: MANDATORY
 RadioTraffic: INBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16499894">
-      <text>Meldpunt post Wemeldinge Zandkreeksluis online info</text>
+      <text>Meldpunt Sector Wemeldinge online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2530,13 +2555,18 @@ RadioTraffic: INBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.822581" lon="4.739151">
-    <name>Meldpunt Sector Dordrecht Beneden-Merwede</name>
-    <desc>Naam:         Meldpunt Sector Dordrecht Beneden-Merwede
+    <name>Meldpunt Sector Dordrecht</name>
+    <desc>Naam:         Meldpunt Sector Dordrecht
 VHF:          79
 RadioStatus: MANDATORY
-RadioTraffic: OUTBOUND</desc>
+RadioTraffic: OUTBOUND
+Opmerking: Het werkingsgebied  van sector Dordrecht, inclusief de daarin gelegen havenbekkens, wordt begrensd door: 
+Beneden-Merwede kmr. 972.000
+Noord/Rietbaan kmr. 978.000
+Wantij: Prins Hendrikbrug
+Oude Maas: kmr. 979.075</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16498734">
-      <text>Meldpunt Sector Dordrecht Beneden-Merwede online info</text>
+      <text>Meldpunt Sector Dordrecht online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2544,13 +2574,18 @@ RadioTraffic: OUTBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.8037" lon="4.639455">
-    <name>Meldpunt Sector Dordrecht Oude Maas</name>
-    <desc>Naam:         Meldpunt Sector Dordrecht Oude Maas
+    <name>Meldpunt Sector Dordrecht</name>
+    <desc>Naam:         Meldpunt Sector Dordrecht
 VHF:          79
 RadioStatus: MANDATORY
-RadioTraffic: INBOUND</desc>
+RadioTraffic: INBOUND
+Opmerking: Het werkingsgebied  van sector Dordrecht, inclusief de daarin gelegen havenbekkens, wordt begrensd door: 
+Beneden-Merwede kmr. 972.000
+Noord/Rietbaan kmr. 978.000
+Wantij: Prins Hendrikbrug
+Oude Maas: kmr. 979.075</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16498734">
-      <text>Meldpunt Sector Dordrecht Oude Maas online info</text>
+      <text>Meldpunt Sector Dordrecht online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2558,13 +2593,18 @@ RadioTraffic: INBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.834309" lon="4.662628">
-    <name>Meldpunt Sector Dordrecht Rietbaan</name>
-    <desc>Naam:         Meldpunt Sector Dordrecht Rietbaan
+    <name>Meldpunt Sector Dordrecht</name>
+    <desc>Naam:         Meldpunt Sector Dordrecht
 VHF:          79
 RadioStatus: MANDATORY
-RadioTraffic: INBOUND</desc>
+RadioTraffic: INBOUND
+Opmerking: Het werkingsgebied  van sector Dordrecht, inclusief de daarin gelegen havenbekkens, wordt begrensd door: 
+Beneden-Merwede kmr. 972.000
+Noord/Rietbaan kmr. 978.000
+Wantij: Prins Hendrikbrug
+Oude Maas: kmr. 979.075</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16498734">
-      <text>Meldpunt Sector Dordrecht Rietbaan online info</text>
+      <text>Meldpunt Sector Dordrecht online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2572,13 +2612,18 @@ RadioTraffic: INBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.837715" lon="4.671941">
-    <name>Meldpunt Sector Dordrecht Beneden-Merwede en Noord</name>
-    <desc>Naam:         Meldpunt Sector Dordrecht Beneden-Merwede en Noord
+    <name>Meldpunt Sector Dordrecht</name>
+    <desc>Naam:         Meldpunt Sector Dordrecht
 VHF:          79
 RadioStatus: MANDATORY
-RadioTraffic: INBOUND</desc>
+RadioTraffic: INBOUND
+Opmerking: Het werkingsgebied  van sector Dordrecht, inclusief de daarin gelegen havenbekkens, wordt begrensd door: 
+Beneden-Merwede kmr. 972.000
+Noord/Rietbaan kmr. 978.000
+Wantij: Prins Hendrikbrug
+Oude Maas: kmr. 979.075</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16498734">
-      <text>Meldpunt Sector Dordrecht Beneden-Merwede en Noord online info</text>
+      <text>Meldpunt Sector Dordrecht online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2586,13 +2631,18 @@ RadioTraffic: INBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.773124" lon="4.628049">
-    <name>Meldpunt Sector Heerjansdam Dordtsche Kil</name>
-    <desc>Naam:         Meldpunt Sector Heerjansdam Dordtsche Kil
+    <name>Meldpunt Sector Heerjansdam</name>
+    <desc>Naam:         Meldpunt Sector Heerjansdam
 VHF:          4
 RadioStatus: MANDATORY
-RadioTraffic: INBOUND</desc>
+RadioTraffic: INBOUND
+Opmerking: Het werkingsgebied  van sector Heerjansdam, inclusief de daarin gelegen havenbekkens, wordt begrensd door: 
+Dordtsche Kil: kmr. 982.600
+Oude Maas: kmr. 979.075
+Oude Maas: kmr. 998.200
+Spui: kmr. 996.000</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16501656">
-      <text>Meldpunt Sector Heerjansdam Dordtsche Kil online info</text>
+      <text>Meldpunt Sector Heerjansdam online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2600,13 +2650,18 @@ RadioTraffic: INBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.804787" lon="4.638302">
-    <name>Meldpunt Sector Heerjansdam Oude Maas uilenhaven</name>
-    <desc>Naam:         Meldpunt Sector Heerjansdam Oude Maas uilenhaven
+    <name>Meldpunt Sector Heerjansdam</name>
+    <desc>Naam:         Meldpunt Sector Heerjansdam
 VHF:          4
 RadioStatus: MANDATORY
-RadioTraffic: OUTBOUND</desc>
+RadioTraffic: OUTBOUND
+Opmerking: Het werkingsgebied  van sector Heerjansdam, inclusief de daarin gelegen havenbekkens, wordt begrensd door: 
+Dordtsche Kil: kmr. 982.600
+Oude Maas: kmr. 979.075
+Oude Maas: kmr. 998.200
+Spui: kmr. 996.000</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16501656">
-      <text>Meldpunt Sector Heerjansdam Oude Maas uilenhaven online info</text>
+      <text>Meldpunt Sector Heerjansdam online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2643,13 +2698,13 @@ Opmerking: Voormalige jachthaven WSC Hollands Diep.</desc>
     </extensions>
   </wpt>
   <wpt lat="51.333955" lon="3.817549">
-    <name>Meldpunt Havendienst Terneuzen (Middensluis)</name>
-    <desc>Naam:         Meldpunt Havendienst Terneuzen (Middensluis)
+    <name>Meldpunt Terneuzen, havendienst</name>
+    <desc>Naam:         Meldpunt Terneuzen, havendienst
 VHF:          11
 RadioStatus: MANDATORY
 RadioTraffic: INBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/7070090">
-      <text>Meldpunt Havendienst Terneuzen (Middensluis) online info</text>
+      <text>Meldpunt Terneuzen, havendienst online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2657,13 +2712,13 @@ RadioTraffic: INBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.326821" lon="3.81818">
-    <name>Meldpunt Havendienst Terneuzen (Westsluis)</name>
-    <desc>Naam:         Meldpunt Havendienst Terneuzen (Westsluis)
+    <name>Meldpunt Terneuzen, havendienst</name>
+    <desc>Naam:         Meldpunt Terneuzen, havendienst
 VHF:          11
 RadioStatus: MANDATORY
 RadioTraffic: INBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/7070090">
-      <text>Meldpunt Havendienst Terneuzen (Westsluis) online info</text>
+      <text>Meldpunt Terneuzen, havendienst online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2671,13 +2726,13 @@ RadioTraffic: INBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.842661" lon="4.392896">
-    <name>Meldpunt Sector Oude Maas Oost</name>
-    <desc>Naam:         Meldpunt Sector Oude Maas Oost
+    <name>Meldpunt Sector Oude Maas</name>
+    <desc>Naam:         Meldpunt Sector Oude Maas
 VHF:          62
 RadioStatus: MANDATORY
 RadioTraffic: OUTBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16498876">
-      <text>Meldpunt Sector Oude Maas Oost online info</text>
+      <text>Meldpunt Sector Oude Maas online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2685,13 +2740,18 @@ RadioTraffic: OUTBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.842216" lon="4.399614">
-    <name>Meldpunt Sector Heerjansdam West</name>
-    <desc>Naam:         Meldpunt Sector Heerjansdam West
+    <name>Meldpunt Sector Heerjansdam</name>
+    <desc>Naam:         Meldpunt Sector Heerjansdam
 VHF:          04
 RadioStatus: MANDATORY
-RadioTraffic: INBOUND</desc>
+RadioTraffic: INBOUND
+Opmerking: Het werkingsgebied  van sector Heerjansdam, inclusief de daarin gelegen havenbekkens, wordt begrensd door: 
+Dordtsche Kil: kmr. 982.600
+Oude Maas: kmr. 979.075
+Oude Maas: kmr. 998.200
+Spui: kmr. 996.000</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16501656">
-      <text>Meldpunt Sector Heerjansdam West online info</text>
+      <text>Meldpunt Sector Heerjansdam online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -2699,13 +2759,18 @@ RadioTraffic: INBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.831101" lon="4.425345">
-    <name>Meldpunt Sector Heerjansdam Spui</name>
-    <desc>Naam:         Meldpunt Sector Heerjansdam Spui
+    <name>Meldpunt Sector Heerjansdam</name>
+    <desc>Naam:         Meldpunt Sector Heerjansdam
 VHF:          04
 RadioStatus: MANDATORY
-RadioTraffic: INBOUND</desc>
+RadioTraffic: INBOUND
+Opmerking: Het werkingsgebied  van sector Heerjansdam, inclusief de daarin gelegen havenbekkens, wordt begrensd door: 
+Dordtsche Kil: kmr. 982.600
+Oude Maas: kmr. 979.075
+Oude Maas: kmr. 998.200
+Spui: kmr. 996.000</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16501656">
-      <text>Meldpunt Sector Heerjansdam Spui online info</text>
+      <text>Meldpunt Sector Heerjansdam online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
