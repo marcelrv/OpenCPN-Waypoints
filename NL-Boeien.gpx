@@ -45785,7 +45785,6 @@ licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Geel
 model : bol Geel</desc>
-    <sym>4201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87115,6 +87114,17 @@ model : bol Geel</desc>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : stomp Geel</desc>
     <sym>5511</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.066463888894916" lon="4.054572222763298">
+    <name>W-D</name>
+    <desc>vaarweg : NOORDZEE
+licht type : LFl (long-flashing)
+licht periode : 10
+lich kleur : Geel
+model : bol Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
