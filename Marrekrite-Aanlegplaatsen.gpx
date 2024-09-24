@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-09-23T13:27:45.764590Z</time>
+    <time>2024-09-24T13:27:46.854433Z</time>
   </metadata>
   <wpt lat="52.966346" lon="5.515595">
     <name>FL16A Hammigegreft (Damwand)</name>
@@ -3720,8 +3720,8 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.292737" lon="6.074552">
-    <name>LM08 Langebrege (Steiger)</name>
-    <desc>Naam                   Langebrege
+    <name>LM08 Langebrege Westergeast (Steiger)</name>
+    <desc>Naam       Langebrege Westergeast
 Vaarwater            NIJE SWEMMER
 Lengte aanleg                  25
 Walverbinding                True
@@ -3940,9 +3940,9 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.304948" lon="6.146497">
-    <name>LM15 Zijlsterrijd (Steiger)</name>
-    <desc>Naam                 Zijlsterrijd
-Vaarwater             SYLSTER RYD
+    <name>LM15 Alde Sylster Ryd (Steiger)</name>
+    <desc>Naam             Alde Sylster Ryd
+Vaarwater        Alde Sylster Ryd
 Lengte aanleg                  24
 Walverbinding               False
 Fietsmogelijkheid           False
@@ -4160,8 +4160,8 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.266301" lon="6.029523">
-    <name>LM32 Falomstervaart (Steiger)</name>
-    <desc>Naam               Falomstervaart
+    <name>LM32 De Falom (Steiger)</name>
+    <desc>Naam                     De Falom
 Vaarwater              NIJE FEART
 Lengte aanleg                  50
 Walverbinding               False
@@ -4171,7 +4171,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -4220,9 +4220,9 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.292317" lon="6.070908">
-    <name>LM34 Zwagermieden 1 (Steiger)</name>
-    <desc>Naam               Zwagermieden 1
-Vaarwater                PETSLEAT
+    <name>LM34 De Brekken (Steiger)</name>
+    <desc>Naam                   De Brekken
+Vaarwater                Petsleat
 Lengte aanleg                  50
 Walverbinding               False
 Fietsmogelijkheid           False
@@ -4231,7 +4231,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -4240,9 +4240,9 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.298893" lon="6.123378">
-    <name>LM35 Lauwersmeerweg (Steiger)</name>
-    <desc>Naam               Lauwersmeerweg
-Vaarwater            NIJE SWEMMER
+    <name>LM35 Ter Lune (Steiger)</name>
+    <desc>Naam                     Ter Lune
+Vaarwater            Nije Swemmer
 Lengte aanleg                  50
 Walverbinding               False
 Fietsmogelijkheid           False
@@ -4251,7 +4251,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -4260,9 +4260,9 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.300592" lon="6.143299">
-    <name>LM36 Zwagermieden 2 (Steiger)</name>
-    <desc>Naam               Zwagermieden 2
-Vaarwater             SYLSTER RYD
+    <name>LM36 Sylsterrydbrege (Steiger)</name>
+    <desc>Naam              Sylsterrydbrege
+Vaarwater             Sylster Ryd
 Lengte aanleg                  50
 Walverbinding               False
 Fietsmogelijkheid           False
@@ -4271,7 +4271,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -4311,7 +4311,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -10135,9 +10135,9 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.217513" lon="5.840876">
-    <name>LM43 None (Tuigsteiger)</name>
-    <desc>Naam                         None
-Vaarwater              BONKEFEART
+    <name>LM43 (Tuigsteiger)</name>
+    <desc>Naam                             
+Vaarwater              Bonkefeart
 Lengte aanleg                  30
 Walverbinding               False
 Fietsmogelijkheid           False
@@ -10146,7 +10146,7 @@ Wandelmogelijkheid          False
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
