@@ -54838,6 +54838,50 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.90240277739384" lon="4.470597222910694">
+    <name>PK-A</name>
+    <desc>vaarweg : NIEUWE MAAS
+licht type : Fl (flashing)
+licht periode : 10
+lich kleur : Geel
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.90279722220829" lon="4.471752777998746">
+    <name>PK-B</name>
+    <desc>vaarweg : NIEUWE MAAS
+licht type : LFl (long-flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.90360555521414" lon="4.473899999830768">
+    <name>PK-C</name>
+    <desc>vaarweg : NIEUWE MAAS
+licht type : Fl (flashing)
+licht periode : 10
+lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.90401111090527" lon="4.474980556197557">
+    <name>PK-D</name>
+    <desc>vaarweg : NIEUWE MAAS
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.39376944460219" lon="5.690077778032788">
     <name>PL 10</name>
     <desc>vaarweg : VELUWEMEER RECREATIE (RANDMEREN)
