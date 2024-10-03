@@ -19587,6 +19587,7 @@ model : spar Groen</desc>
     <name>FW 6</name>
     <desc>vaarweg : FRIESCHE WAD
 model : spar Rood</desc>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -23175,7 +23176,7 @@ model : spar Groen</desc>
     </extensions>
   </wpt>
   <wpt lat="52.31578611136286" lon="5.241616667064937">
-    <name>GMN-WNB 25</name>
+    <name>GMN-OW 50</name>
     <desc>vaarweg : GOOIMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -23184,7 +23185,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.31461944444173" lon="5.241080555821558">
-    <name>GMN-WNB 26</name>
+    <name>GMN-OW 52</name>
     <desc>vaarweg : GOOIMEER RECREATIE (RANDMEREN)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -26214,6 +26215,7 @@ model : spar Groen</desc>
     <name>HB 11A</name>
     <desc>vaarweg : HOLWERDERBALG
 model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -26276,6 +26278,7 @@ model : spar Groen</desc>
     <name>HB 3A</name>
     <desc>vaarweg : HOLWERDERBALG
 model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -52152,7 +52155,7 @@ model : Pilaar Zwart/geel/zwart</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.814100000317936" lon="5.228816667254849">
+  <wpt lat="51.81620277788494" lon="5.229161110664322">
     <name>OH 1</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : spits Groen</desc>
@@ -52161,7 +52164,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.81433333317145" lon="5.228599999522566">
+  <wpt lat="51.81651944461754" lon="5.229458332656821">
     <name>OH 3</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : spits Groen</desc>
@@ -52261,7 +52264,7 @@ model : spar Rood</desc>
     <name>OM 2</name>
     <desc>vaarweg : NOORD OOST MEEP
 model : spar Rood</desc>
-    <sym>1103</sym>
+    <sym>1143</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87098,7 +87101,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.88377222244194" lon="5.747133334081979">
+  <wpt lat="51.88361666689587" lon="5.746983333897406">
     <name>W 9A</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
