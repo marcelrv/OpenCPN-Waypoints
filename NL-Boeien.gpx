@@ -18614,7 +18614,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.37388055544791" lon="4.08917777835606">
+  <wpt lat="51.37253333360518" lon="4.089433332759207">
     <name>F 56</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 model : spar Geel</desc>
@@ -63019,36 +63019,6 @@ model : spar Groen/rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.38495277759013" lon="4.090313889532438">
-    <name>REC-A</name>
-    <desc>vaarweg : SCHAAR VAN VALKENISSE
-licht type : Iso (isophased)
-licht periode : 8
-lich kleur : Wit
-model : bol Rood/wit</desc>
-    <sym>6003</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.38063611155818" lon="4.089547222465148">
-    <name>REC-B</name>
-    <desc>vaarweg : SCHAAR VAN VALKENISSE
-model : spar Rood/wit</desc>
-    <sym>6041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.37549444409872" lon="4.090394444157952">
-    <name>REC-C</name>
-    <desc>vaarweg : SCHAAR VAN VALKENISSE
-model : spar Rood/wit</desc>
-    <sym>6041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.53228611068957" lon="6.305680555974169">
     <name>REGULUS</name>
     <desc>vaarweg : LAUWERS
@@ -78565,15 +78535,6 @@ licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.37316944450088" lon="4.093036110885375">
-    <name>VALKENISSE</name>
-    <desc>vaarweg : SCHAAR VAN VALKENISSE
-model : spar Geel/zwart/geel</desc>
-    <sym>2331</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
