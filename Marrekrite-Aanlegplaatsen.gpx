@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-10-07T13:28:08.977865Z</time>
+    <time>2024-10-08T13:28:43.741920Z</time>
   </metadata>
   <wpt lat="52.966346" lon="5.515595">
     <name>FL16A Hammigegreft (Damwand)</name>
@@ -7803,10 +7803,10 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="52.978791" lon="5.725233">
-    <name>SN87 De Brekkenoost (Steiger)</name>
-    <desc>Naam               De Brekkenoost
-Vaarwater              DE BREKKEN
-Lengte aanleg                  45
+    <name>SN87 De Brekken Oostzijde (Steiger)</name>
+    <desc>Naam         De Brekken Oostzijde
+Vaarwater              De Brekken
+Lengte aanleg                  32
 Walverbinding               False
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -9974,6 +9974,26 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.977137" lon="5.711327">
+    <name>SN88 De Brekken Westzijde (Steiger)</name>
+    <desc>Naam         De Brekken Westzijde
+Vaarwater              De Brekken
+Lengte aanleg                  28
+Walverbinding               False
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid          False
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.971385" lon="5.509701">
     <name>FL12 Snmar (Tuigsteiger)</name>
     <desc>Naam                        Snmar
@@ -11101,46 +11121,6 @@ Kanovoorziening             False
     <desc>Naam                   DE steiger
 Vaarwater GOAIINGARYPSTER PUOLLEN
 Lengte aanleg                  40
-Walverbinding               False
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid          False
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.977137" lon="5.711163">
-    <name>SN88A De Brekkenwest (Tuigsteiger)</name>
-    <desc>Naam               De Brekkenwest
-Vaarwater              DE BREKKEN
-Lengte aanleg                  24
-Walverbinding               False
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid          False
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)           None
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.977155" lon="5.711663">
-    <name>SN88B De Brekkenwest (Tuigsteiger)</name>
-    <desc>Naam               De Brekkenwest
-Vaarwater              DE BREKKEN
-Lengte aanleg                  24
 Walverbinding               False
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
