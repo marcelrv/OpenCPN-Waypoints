@@ -16564,6 +16564,14 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.71969166701518" lon="5.295786111079004">
+    <name>ED-Kite C</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.52514722186551" lon="5.074352778115867">
     <name>ED-Kite D</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
@@ -16573,11 +16581,35 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.7187055551958" lon="5.298111111226325">
+    <name>ED-Kite D</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.52289722189993" lon="5.075900000473395">
     <name>ED-Kite E</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 model : spar Geel</desc>
     <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.71768055570894" lon="5.300497222233759">
+    <name>ED-Kite E</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.716641666485124" lon="5.302822222661942">
+    <name>ED-Kite F</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+model : spar Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -22355,7 +22387,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.00064722256949" lon="6.112013888534224">
+  <wpt lat="52.000647222065574" lon="6.112711111842544">
     <name>GIJ 69B-A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spits Groen</desc>
@@ -22418,7 +22450,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.993108333582185" lon="6.107566667032942">
+  <wpt lat="51.99310833309351" lon="6.090899999599849">
     <name>GIJ 69H</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spits Groen</desc>
@@ -22445,7 +22477,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.97958055568271" lon="6.000008333071988">
+  <wpt lat="51.979580555588896" lon="6.000850000312061">
     <name>GIJ 71</name>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spits Groen</desc>
@@ -45499,114 +45531,6 @@ model : spits Groen</desc>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 model : spar Rood/wit repeterend</desc>
     <sym>1561</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.5611972222192" lon="5.398119443834602">
-    <name>MW-A-A</name>
-    <desc>vaarweg : MARKERMEER (MARKERMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.55864722225235" lon="5.400783333871819">
-    <name>MW-A-B</name>
-    <desc>vaarweg : MARKERMEER (MARKERMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.556319444815266" lon="5.403030555485679">
-    <name>MW-A-C</name>
-    <desc>vaarweg : MARKERMEER (MARKERMEER)
-licht type : Fl (flashing)
-licht periode : 10
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5542</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.55834444429775" lon="5.406419445168368">
-    <name>MW-A-D</name>
-    <desc>vaarweg : MARKERMEER (MARKERMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.5636305551158" lon="5.39571944484099">
-    <name>MW-A</name>
-    <desc>vaarweg : MARKERMEER (MARKERMEER)
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5542</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.55981666643282" lon="5.408880555052601">
-    <name>MW-B</name>
-    <desc>vaarweg : MARKERMEER (MARKERMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.56186388874936" lon="5.412272222356179">
-    <name>MW-C</name>
-    <desc>vaarweg : MARKERMEER (MARKERMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.56393888924019" lon="5.415647222239377">
-    <name>MW-D</name>
-    <desc>vaarweg : MARKERMEER (MARKERMEER)
-licht type : Fl (flashing)
-licht periode : 10
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5542</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.566813888517466" lon="5.412505554804969">
-    <name>MW-E</name>
-    <desc>vaarweg : MARKERMEER (MARKERMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.56976111090319" lon="5.409286111735065">
-    <name>MW-F</name>
-    <desc>vaarweg : MARKERMEER (MARKERMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.572727777701594" lon="5.406088888841135">
-    <name>MW-G</name>
-    <desc>vaarweg : MARKERMEER (MARKERMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
