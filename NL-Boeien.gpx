@@ -30,18 +30,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.17372222235904" lon="5.40770833384825">
-    <name>1 HAR</name>
-    <desc>vaarweg : HAVEN HARLINGEN
-licht type : Iso (isophased)
-licht periode : 6
-lich kleur : Groen
-model : spar Groen</desc>
-    <sym>1045</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.563049999961166" lon="3.65140000058519">
     <name>1 SGVM</name>
     <desc>vaarweg : VEERSE MEER
@@ -20994,18 +20982,6 @@ model : stomp Rood</desc>
     <desc>vaarweg : GRONINGERBALG
 model : spar Geel</desc>
     <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.67514166687188" lon="3.558961110981136">
-    <name>GB 9</name>
-    <desc>vaarweg : GEUL VAN DE BANJAARD
-licht type : Iso (isophased)
-licht periode : 8
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1008</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -81687,42 +81663,6 @@ model : bol Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.443027777447526" lon="3.592863888614433">
-    <name>VL-A</name>
-    <desc>vaarweg : VLISSINGEN REDE
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>5512</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.44313333370047" lon="3.591680555358109">
-    <name>VL-B</name>
-    <desc>vaarweg : VLISSINGEN REDE
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>5512</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.44308333307639" lon="3.590719444614999">
-    <name>VL-C</name>
-    <desc>vaarweg : VLISSINGEN REDE
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>5512</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.44925277735047" lon="4.665319443795869">
     <name>VL-C</name>
     <desc>vaarweg : VLIELAND STELSEL (NZ)
@@ -94547,7 +94487,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.704788888576374" lon="3.668833333023912">
+  <wpt lat="51.682188888473334" lon="3.670794444669991">
     <name>ZS W 1</name>
     <desc>vaarweg : NOORDZEE
 licht type : VQ (very quick-flashing)
