@@ -46093,17 +46093,8 @@ model : spar Rood</desc>
   <wpt lat="51.959638888550536" lon="5.778875000220658">
     <name>NDR 10</name>
     <desc>vaarweg : NEDERRIJN
-model : spar Rood</desc>
-    <sym>1143</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.960222222549895" lon="5.7886527773126">
-    <name>NDR 11</name>
-    <desc>vaarweg : NEDERRIJN
-model : spar Groen</desc>
-    <sym>1041</sym>
+model : stomp Rood</desc>
+    <sym>1103</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -46123,8 +46114,8 @@ model : spits Groen</desc>
   <wpt lat="51.959638888988096" lon="5.781638889627172">
     <name>NDR 12</name>
     <desc>vaarweg : NEDERRIJN
-model : spar Rood</desc>
-    <sym>1143</sym>
+model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -46144,8 +46135,8 @@ model : spits Groen</desc>
   <wpt lat="51.96003611141014" lon="5.784449999875569">
     <name>NDR 14</name>
     <desc>vaarweg : NEDERRIJN
-model : spar Rood</desc>
-    <sym>1143</sym>
+model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -46153,8 +46144,8 @@ model : spar Rood</desc>
   <wpt lat="51.96061944469925" lon="5.787161110765684">
     <name>NDR 14A</name>
     <desc>vaarweg : NEDERRIJN
-model : spar Rood</desc>
-    <sym>1143</sym>
+model : stomp Rood</desc>
+    <sym>1103</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -46342,8 +46333,8 @@ model : spar Rood</desc>
   <wpt lat="51.96042222218061" lon="5.773397222236905">
     <name>NDR 8A</name>
     <desc>vaarweg : NEDERRIJN
-model : spar Rood</desc>
-    <sym>1143</sym>
+model : stomp Rood</desc>
+    <sym>1103</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -46351,8 +46342,8 @@ model : spar Rood</desc>
   <wpt lat="51.95989999989585" lon="5.776097222593048">
     <name>NDR 8B</name>
     <desc>vaarweg : NEDERRIJN
-model : spar Rood</desc>
-    <sym>1143</sym>
+model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -64600,6 +64591,17 @@ licht periode : 4
 lich kleur : Rood
 model : spar Rood</desc>
     <sym>1145</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.33008611074312" lon="5.22992500057049">
+    <name>S 10A</name>
+    <desc>vaarweg : SLENK (WADDENZEE)
+licht type : Q (quick-flashing)
+lich kleur : Rood
+model : stomp Rood</desc>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
