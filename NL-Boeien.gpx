@@ -38312,6 +38312,39 @@ model : bol Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.597722221969775" lon="4.082236111785837">
+    <name>L7-C</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Wit
+model : bol Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.62367777781189" lon="4.143274999855008">
+    <name>L7-D</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 10
+lich kleur : Geel
+model : bol Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.57027777816217" lon="4.175169444887959">
+    <name>L7-E</name>
+    <desc>vaarweg : NOORDZEE
+licht type : LFl (long-flashing)
+licht periode : 10
+lich kleur : Geel
+model : bol Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.8201194446686" lon="5.3090888893315">
     <name>LC 10</name>
     <desc>vaarweg : LACON (IJSSELMEER)
@@ -64601,7 +64634,6 @@ model : spar Rood</desc>
 licht type : Q (quick-flashing)
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87966,17 +87998,6 @@ licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
     <sym>5542</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.609399999664944" lon="4.235799999834822">
-    <name>WBAT N</name>
-    <desc>vaarweg : NOORDZEE
-licht type : VQ (very quick-flashing)
-lich kleur : Wit
-model : Pilaar Zwart/geel</desc>
-    <sym>2023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
