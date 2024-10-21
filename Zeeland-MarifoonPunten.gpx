@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-10-17T10:03:30.928000Z</time>
+    <time>2024-10-21T11:56:53.179000Z</time>
   </metadata>
   <wpt lat="51.329513054422" lon="3.82392163649492">
     <name>Meldpunt Ligplaats zijkanaal A Oost Charlie Terneuzen</name>
@@ -432,20 +432,6 @@ RadioTraffic: TWO_WAY</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.337019" lon="3.816233">
-    <name>Meldpunt Middensluis Terneuzen</name>
-    <desc>Naam:         Meldpunt Middensluis Terneuzen
-VHF:          6
-RadioStatus: MANDATORY
-RadioTraffic: INBOUND</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/13242">
-      <text>Meldpunt Middensluis Terneuzen online info</text>
-    </link>
-    <sym>Symbol-Exclamation-Blue</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.823555122122" lon="4.03993011433599">
     <name>Meldpunt Goereesesluis</name>
     <desc>Naam:         Meldpunt Goereesesluis
@@ -580,27 +566,14 @@ RadioTraffic: TWO_WAY</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.3357055859692" lon="3.81693598543538">
-    <name>Meldpunt Brug over buitenhoofd Middensluis Terneuzen</name>
-    <desc>Naam:         Meldpunt Brug over buitenhoofd Middensluis Terneuzen
-VHF:          69
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/16181">
-      <text>Meldpunt Brug over buitenhoofd Middensluis Terneuzen online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.3189944737288" lon="3.82509361521519">
-    <name>Meldpunt Ligplaats Kanaalkade 1 Vermeulen</name>
-    <desc>Naam:         Meldpunt Ligplaats Kanaalkade 1 Vermeulen
+    <name>Meldpunt Ligplaats Kanaalkade 1 Vermeulen Terneuzen</name>
+    <desc>Naam:         Meldpunt Ligplaats Kanaalkade 1 Vermeulen Terneuzen
 VHF:          11
 RadioTraffic: TWO_WAY
 Opmerking: Beperking diepgang 1,5 meter tot nader order.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/16252">
-      <text>Meldpunt Ligplaats Kanaalkade 1 Vermeulen online info</text>
+      <text>Meldpunt Ligplaats Kanaalkade 1 Vermeulen Terneuzen online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -971,19 +944,6 @@ VHF:          20
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/25661">
       <text>Meldpunt Prinslandsebrug online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.3342202975685" lon="3.81752176191556">
-    <name>Meldpunt Brug over binnenhoofd Middensluis Terneuzen</name>
-    <desc>Naam:         Meldpunt Brug over binnenhoofd Middensluis Terneuzen
-VHF:          69
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/25858">
-      <text>Meldpunt Brug over binnenhoofd Middensluis Terneuzen online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -1424,13 +1384,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.5067041601921" lon="4.25419916327098">
-    <name>Meldpunt Ligplaats 1 wachtplaats Bergen op Zoom</name>
-    <desc>Naam:         Meldpunt Ligplaats 1 wachtplaats Bergen op Zoom
+    <name>Meldpunt Ligplaats 1 Bergen op Zoom</name>
+    <desc>Naam:         Meldpunt Ligplaats 1 Bergen op Zoom
 VHF:          22
 RadioTraffic: TWO_WAY
 Opmerking: Ligtijd in overleg havenmeester</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/36611">
-      <text>Meldpunt Ligplaats 1 wachtplaats Bergen op Zoom online info</text>
+      <text>Meldpunt Ligplaats 1 Bergen op Zoom online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -2442,20 +2402,6 @@ RadioTraffic: OUTBOUND</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.3371" lon="3.816583">
-    <name>Meldpunt Centrale Terneuzen</name>
-    <desc>Naam:         Meldpunt Centrale Terneuzen
-VHF:          3
-RadioStatus: MANDATORY
-RadioTraffic: OUTBOUND</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16497566">
-      <text>Meldpunt Centrale Terneuzen online info</text>
-    </link>
-    <sym>Symbol-Exclamation-Blue</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.617102" lon="3.694275">
     <name>Meldpunt Sector Wemeldinge</name>
     <desc>Naam:         Meldpunt Sector Wemeldinge
@@ -2691,20 +2637,6 @@ RadioTraffic: TWO_WAY
 Opmerking: Voormalige jachthaven WSC Hollands Diep.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VINHARBOUR/51247">
       <text>Meldpunt Moerdijk, diensthaven online info</text>
-    </link>
-    <sym>Symbol-Exclamation-Blue</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.333955" lon="3.817549">
-    <name>Meldpunt Ligplaats havendienst Terneuzen</name>
-    <desc>Naam:         Meldpunt Ligplaats havendienst Terneuzen
-VHF:          11
-RadioStatus: MANDATORY
-RadioTraffic: INBOUND</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/7070090">
-      <text>Meldpunt Ligplaats havendienst Terneuzen online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
