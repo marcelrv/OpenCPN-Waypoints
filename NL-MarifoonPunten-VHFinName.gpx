@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-10-21T11:56:53.179000Z</time>
+    <time>2024-10-22T12:56:49.171000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>VHF 20</name>
@@ -13601,12 +13601,12 @@ Opmerking: Maximaal 3 x 24 uur</desc>
   </wpt>
   <wpt lat="52.8357896947757" lon="5.66895897210495">
     <name>VHF 20</name>
-    <desc>Naam:         Meldpunt Ligplaats Lemmer buitenzijde Oostkant
+    <desc>Naam:         Meldpunt Ligplaats buitenzijde Oostkant Lemmer
 VHF:          20
 RadioTraffic: TWO_WAY
 Opmerking: Maximaal 3 x 24 uur.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170282">
-      <text>Meldpunt Ligplaats Lemmer buitenzijde Oostkant online info</text>
+      <text>Meldpunt Ligplaats buitenzijde Oostkant Lemmer online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -13615,12 +13615,12 @@ Opmerking: Maximaal 3 x 24 uur.</desc>
   </wpt>
   <wpt lat="52.841425795663" lon="5.67264474027335">
     <name>VHF 20</name>
-    <desc>Naam:         Meldpunt Wachtplaats Lemmer buitenzijde
+    <desc>Naam:         Meldpunt Wachtplaats buitenzijde Lemmer
 VHF:          20
 RadioTraffic: TWO_WAY
 Opmerking: -</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170325">
-      <text>Meldpunt Wachtplaats Lemmer buitenzijde online info</text>
+      <text>Meldpunt Wachtplaats buitenzijde Lemmer online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -13629,11 +13629,11 @@ Opmerking: -</desc>
   </wpt>
   <wpt lat="52.8509027241667" lon="5.67605676231886">
     <name>VHF 20</name>
-    <desc>Naam:         Meldpunt Wachtplaats Lemmer binnenzijde
+    <desc>Naam:         Meldpunt Wachtplaats binnenzijde Lemmer
 VHF:          20
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170330">
-      <text>Meldpunt Wachtplaats Lemmer binnenzijde online info</text>
+      <text>Meldpunt Wachtplaats binnenzijde Lemmer online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -18002,6 +18002,19 @@ VHF:          78
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/19389">
       <text>Meldpunt Ophaalbrug Laag-Keppel online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.2376001977065" lon="6.52520835399628">
+    <name>VHF 9</name>
+    <desc>Naam:         Meldpunt Hoogewegbrug
+VHF:          9
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/3394194">
+      <text>Meldpunt Hoogewegbrug online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
