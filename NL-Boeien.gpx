@@ -18013,15 +18013,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.61315277796192" lon="3.909863889403302">
-    <name>EV 1</name>
-    <desc>vaarweg : ENGELSCHE VAARWATER
-model : spar Groen</desc>
-    <sym>1043</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.60685277810361" lon="3.909202777685252">
     <name>EV 3</name>
     <desc>vaarweg : ENGELSCHE VAARWATER
@@ -45596,7 +45587,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.86464999996618" lon="5.825866667076312">
+  <wpt lat="51.86483333291069" lon="5.825683333637569">
     <name>MWK 1</name>
     <desc>vaarweg : MAAS-WAAL KANAAL
 licht type : Iso (isophased)
@@ -45608,7 +45599,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.86378333357149" lon="5.826150000155522">
+  <wpt lat="51.86415000009824" lon="5.825666666079116">
     <name>MWK 3</name>
     <desc>vaarweg : MAAS-WAAL KANAAL
 licht type : Iso (isophased)
@@ -45620,7 +45611,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.8629666667991" lon="5.826316666888736">
+  <wpt lat="51.86343333304879" lon="5.825833333568204">
     <name>MWK 5</name>
     <desc>vaarweg : MAAS-WAAL KANAAL
 licht type : Iso (isophased)
@@ -90752,7 +90743,6 @@ licht type : Fl (flashing)
 licht periode : 20
 lich kleur : Geel
 model : bol Geel</desc>
-    <sym>2123</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
