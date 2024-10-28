@@ -36902,18 +36902,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.978708333537085" lon="5.241594444782909">
-    <name>L 107</name>
-    <desc>vaarweg : LEK
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1008</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.97806111130094" lon="5.244525000188762">
     <name>L 109</name>
     <desc>vaarweg : LEK
@@ -44769,15 +44757,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.17573055553906" lon="5.396777777275204">
-    <name>MR 8</name>
-    <desc>vaarweg : MOLENRAK
-model : spar Geel/zwart</desc>
-    <sym>2231</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.608427777907195" lon="5.589094445139181">
     <name>MR 9</name>
     <desc>vaarweg : URK (IJSSELMEER)
@@ -44831,6 +44810,15 @@ model : spar Geel</desc>
     <desc>vaarweg : MOLENRAK
 model : spar Geel</desc>
     <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.17573055553906" lon="5.396777777275204">
+    <name>MR-MEET</name>
+    <desc>vaarweg : MOLENRAK
+model : spar Geel/zwart</desc>
+    <sym>2231</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -52993,6 +52981,22 @@ model : spar Groen</desc>
     <desc>vaarweg : HAMMEN
 model : spar Geel</desc>
     <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.64796944402433" lon="3.712238888517836">
+    <name>OSK 2</name>
+    <desc>vaarweg : GEUL VAN DE RASSEN
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.608980555811975" lon="3.677430555014186">
+    <name>OSK 3</name>
+    <desc>vaarweg : ROOMPOT
+model : spar Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -77116,7 +77120,6 @@ model : spar Geel/zwart</desc>
     <name>Ton 866.015L</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 model : spits Groen/wit repeterend</desc>
-    <sym>1502</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -81857,7 +81860,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.54322222182067" lon="3.855630556129473">
+  <wpt lat="51.54342222221553" lon="3.857783332842626">
     <name>VM 1</name>
     <desc>vaarweg : VEERSE MEER
 licht type : Iso (isophased)
@@ -82283,7 +82286,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.5434888892557" lon="3.854799999682427">
+  <wpt lat="51.543463889176266" lon="3.855894444375367">
     <name>VM 3</name>
     <desc>vaarweg : VEERSE MEER
 model : spits Groen</desc>
@@ -82709,7 +82712,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.543683333123695" lon="3.854016666464524">
+  <wpt lat="51.543491666727256" lon="3.854311111758737">
     <name>VM 5</name>
     <desc>vaarweg : VEERSE MEER
 licht type : Iso (isophased)
