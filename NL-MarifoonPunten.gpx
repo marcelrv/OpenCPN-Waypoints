@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-10-28T11:13:17.721000Z</time>
+    <time>2024-10-29T12:51:39.222000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -1524,10 +1524,10 @@ RadioTraffic: TWO_WAY</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.3268857001598" lon="3.818265515385">
+  <wpt lat="51.32267023" lon="3.82159756">
     <name>Meldpunt Westsluis Terneuzen</name>
     <desc>Naam:         Meldpunt Westsluis Terneuzen
-VHF:          69 - 6
+VHF:          6
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/7960">
       <text>Meldpunt Westsluis Terneuzen online info</text>
@@ -2517,7 +2517,7 @@ RadioTraffic: TWO_WAY</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.3330283471686" lon="3.82041205870517">
+  <wpt lat="51.3277736" lon="3.82277344">
     <name>Meldpunt Oostsluis Terneuzen</name>
     <desc>Naam:         Meldpunt Oostsluis Terneuzen
 VHF:          18
@@ -3652,12 +3652,12 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9125754360456" lon="4.2473893978698">
-    <name>Meldpunt Maassluis, veersteiger</name>
-    <desc>Naam:         Meldpunt Maassluis, veersteiger
+    <name>Meldpunt Ligplaats veersteiger Maassluis</name>
+    <desc>Naam:         Meldpunt Ligplaats veersteiger Maassluis
 VHF:          80
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/16746">
-      <text>Meldpunt Maassluis, veersteiger online info</text>
+      <text>Meldpunt Ligplaats veersteiger Maassluis online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -4868,12 +4868,12 @@ RadioTraffic: INBOUND</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9224253982187" lon="4.2517152481191">
-    <name>Meldpunt Maassluis, Geerkade WZ, ligplaats</name>
-    <desc>Naam:         Meldpunt Maassluis, Geerkade WZ, ligplaats
+    <name>Meldpunt Ligplaats Geerkade WZ Maassluis</name>
+    <desc>Naam:         Meldpunt Ligplaats Geerkade WZ Maassluis
 VHF:          68
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/21854">
-      <text>Meldpunt Maassluis, Geerkade WZ, ligplaats online info</text>
+      <text>Meldpunt Ligplaats Geerkade WZ Maassluis online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -5618,12 +5618,12 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="52.0983566386773" lon="4.26311260905276">
-    <name>Meldpunt Scheveningen, trailerhelling</name>
-    <desc>Naam:         Meldpunt Scheveningen, trailerhelling
+    <name>Meldpunt Ligplaats trailerhelling Scheveningen</name>
+    <desc>Naam:         Meldpunt Ligplaats trailerhelling Scheveningen
 VHF:          21
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/25056">
-      <text>Meldpunt Scheveningen, trailerhelling online info</text>
+      <text>Meldpunt Ligplaats trailerhelling Scheveningen online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6358,12 +6358,12 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9157571707624" lon="4.24649138123375">
-    <name>Meldpunt Ligplaats 1 Govert van Wijnkade</name>
-    <desc>Naam:         Meldpunt Ligplaats 1 Govert van Wijnkade
+    <name>Meldpunt Ligplaats 1 Govert van Wijnkade Maassluis</name>
+    <desc>Naam:         Meldpunt Ligplaats 1 Govert van Wijnkade Maassluis
 VHF:          68
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/27696">
-      <text>Meldpunt Ligplaats 1 Govert van Wijnkade online info</text>
+      <text>Meldpunt Ligplaats 1 Govert van Wijnkade Maassluis online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -6884,12 +6884,12 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="52.6588148440826" lon="5.59677777209377">
-    <name>Meldpunt Urk, calamiteitenkade</name>
-    <desc>Naam:         Meldpunt Urk, calamiteitenkade
+    <name>Meldpunt Ligplaats Calamiteitenkade Urk</name>
+    <desc>Naam:         Meldpunt Ligplaats Calamiteitenkade Urk
 VHF:          12
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/29616">
-      <text>Meldpunt Urk, calamiteitenkade online info</text>
+      <text>Meldpunt Ligplaats Calamiteitenkade Urk online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -8492,12 +8492,12 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9206710458627" lon="4.25164141735547">
-    <name>Meldpunt Maassluis, Haringkade</name>
-    <desc>Naam:         Meldpunt Maassluis, Haringkade
+    <name>Meldpunt Ligplaats Haringkade Maassluis</name>
+    <desc>Naam:         Meldpunt Ligplaats Haringkade Maassluis
 VHF:          68
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/36775">
-      <text>Meldpunt Maassluis, Haringkade online info</text>
+      <text>Meldpunt Ligplaats Haringkade Maassluis online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -8884,12 +8884,12 @@ Opmerking: Diepte: NAP-4,97 meter.</desc>
     </extensions>
   </wpt>
   <wpt lat="53.1734821759391" lon="6.71630040026223">
-    <name>Meldpunt Foxhol, ligplaats</name>
-    <desc>Naam:         Meldpunt Foxhol, ligplaats
+    <name>Meldpunt Ligplaats Foxhol</name>
+    <desc>Naam:         Meldpunt Ligplaats Foxhol
 VHF:          19
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/39046">
-      <text>Meldpunt Foxhol, ligplaats online info</text>
+      <text>Meldpunt Ligplaats Foxhol online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -9694,12 +9694,12 @@ Opmerking: Kadehoogte: NAP+10,om/NAP+12,0m.</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9188883380598" lon="4.24971464784651">
-    <name>Meldpunt Maassluis, Haven</name>
-    <desc>Naam:         Meldpunt Maassluis, Haven
+    <name>Meldpunt Ligplaats Haven Maassluis</name>
+    <desc>Naam:         Meldpunt Ligplaats Haven Maassluis
 VHF:          68
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/42455">
-      <text>Meldpunt Maassluis, Haven online info</text>
+      <text>Meldpunt Ligplaats Haven Maassluis online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -10107,12 +10107,12 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="51.9188614039418" lon="4.24968554346183">
-    <name>Meldpunt Ligplaats 2 Govert van Wijnkade</name>
-    <desc>Naam:         Meldpunt Ligplaats 2 Govert van Wijnkade
+    <name>Meldpunt Ligplaats 2 Govert van Wijnkade Maassluis</name>
+    <desc>Naam:         Meldpunt Ligplaats 2 Govert van Wijnkade Maassluis
 VHF:          68
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/44608">
-      <text>Meldpunt Ligplaats 2 Govert van Wijnkade online info</text>
+      <text>Meldpunt Ligplaats 2 Govert van Wijnkade Maassluis online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -12222,12 +12222,12 @@ Opmerking: Melden bij havenmeester</desc>
     </extensions>
   </wpt>
   <wpt lat="53.4515780961859" lon="6.83623888675025">
-    <name>Meldpunt Eemshaven, trailerhelling</name>
-    <desc>Naam:         Meldpunt Eemshaven, trailerhelling
+    <name>Meldpunt Ligplaats trailerhelling Eemshaven</name>
+    <desc>Naam:         Meldpunt Ligplaats trailerhelling Eemshaven
 VHF:          14
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/54623">
-      <text>Meldpunt Eemshaven, trailerhelling online info</text>
+      <text>Meldpunt Ligplaats trailerhelling Eemshaven online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -14242,10 +14242,10 @@ RadioTraffic: OUTBOUND</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.336272" lon="3.819834">
+  <wpt lat="51.33677763" lon="3.81961256">
     <name>Meldpunt Centrale Terneuzen</name>
     <desc>Naam:         Meldpunt Centrale Terneuzen
-VHF:          03
+VHF:          3
 RadioStatus: MANDATORY
 RadioTraffic: OUTBOUND</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16497566">
@@ -14256,7 +14256,7 @@ RadioTraffic: OUTBOUND</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.330123" lon="3.815851">
+  <wpt lat="51.33060981" lon="3.81530838">
     <name>Meldpunt Centrale Terneuzen</name>
     <desc>Naam:         Meldpunt Centrale Terneuzen
 VHF:          3
@@ -14659,14 +14659,14 @@ Opmerking: Voormalige jachthaven WSC Hollands Diep.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.326821" lon="3.81818">
-    <name>Meldpunt Ligplaats havendienst Terneuzen</name>
-    <desc>Naam:         Meldpunt Ligplaats havendienst Terneuzen
+  <wpt lat="51.32629294" lon="3.81873142">
+    <name>Meldpunt Havendienst Terneuzen</name>
+    <desc>Naam:         Meldpunt Havendienst Terneuzen
 VHF:          11
 RadioStatus: MANDATORY
 RadioTraffic: INBOUND</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/7070090">
-      <text>Meldpunt Ligplaats havendienst Terneuzen online info</text>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/58096913">
+      <text>Meldpunt Havendienst Terneuzen online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -15208,7 +15208,7 @@ RadioTraffic: OUTBOUND</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.340915" lon="3.817979">
+  <wpt lat="51.34077968" lon="3.81868274">
     <name>Meldpunt Oostsluis Terneuzen</name>
     <desc>Naam:         Meldpunt Oostsluis Terneuzen
 VHF:          18
@@ -18017,6 +18017,100 @@ RadioTraffic: TWO_WAY</desc>
       <text>Meldpunt Hoogewegbrug online info</text>
     </link>
     <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.32300652" lon="3.8229744">
+    <name>Meldpunt Nieuwe Sluis Terneuzen</name>
+    <desc>Naam:         Meldpunt Nieuwe Sluis Terneuzen
+VHF:          1028
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/43026503">
+      <text>Meldpunt Nieuwe Sluis Terneuzen online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.33598335" lon="3.81486334">
+    <name>Meldpunt Nieuwe Sluis Terneuzen</name>
+    <desc>Naam:         Meldpunt Nieuwe Sluis Terneuzen
+VHF:          1028
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/43026503">
+      <text>Meldpunt Nieuwe Sluis Terneuzen online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.33423238" lon="3.81243448">
+    <name>Meldpunt Westsluis Terneuzen</name>
+    <desc>Naam:         Meldpunt Westsluis Terneuzen
+VHF:          6
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/7960">
+      <text>Meldpunt Westsluis Terneuzen online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.33221717" lon="3.81721769">
+    <name>Meldpunt Centrale Terneuzen</name>
+    <desc>Naam:         Meldpunt Centrale Terneuzen
+VHF:          3
+RadioStatus: MANDATORY
+RadioTraffic: OUTBOUND</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16497566">
+      <text>Meldpunt Centrale Terneuzen online info</text>
+    </link>
+    <sym>Symbol-Exclamation-Blue</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.29813068" lon="3.83449264">
+    <name>Meldpunt Centrale Terneuzen</name>
+    <desc>Naam:         Meldpunt Centrale Terneuzen
+VHF:          69
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/16497566">
+      <text>Meldpunt Centrale Terneuzen online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.33253824" lon="3.82059758">
+    <name>Meldpunt Havendienst Terneuzen</name>
+    <desc>Naam:         Meldpunt Havendienst Terneuzen
+VHF:          11
+RadioStatus: MANDATORY
+RadioTraffic: INBOUND</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/58096913">
+      <text>Meldpunt Havendienst Terneuzen online info</text>
+    </link>
+    <sym>Symbol-Exclamation-Blue</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.32676912" lon="3.82062307">
+    <name>Meldpunt Havendienst Terneuzen</name>
+    <desc>Naam:         Meldpunt Havendienst Terneuzen
+VHF:          11
+RadioStatus: MANDATORY
+RadioTraffic: INBOUND</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/VTSSECTOR/58096913">
+      <text>Meldpunt Havendienst Terneuzen online info</text>
+    </link>
+    <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
