@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-10-31T12:56:48.181000Z</time>
+    <time>2024-11-01T11:15:07.323000Z</time>
   </metadata>
   <wpt lat="52.8349518997784" lon="4.81026448308057">
     <name>Brug over Oude sluis Oudesluis</name>
@@ -4627,7 +4627,7 @@ Type:    Vaste Brug</desc>
     <desc>Locatie: Noordhollandsch Kanaal
 Type:    Bedienbare Brug
 VHF:     20
-Contact PhoneNumber:0223-521220
+Contact PhoneNumber:0881110425
 
 Bedieningstijden
 Periode 01-01 tot 30-03:
@@ -6996,10 +6996,8 @@ VHF:     14
 Contact PhoneNumber:0651-181879
 
 Bedieningstijden
-Periode 01-05 tot 30-09:
-   07:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
-Periode 01-10 tot 30-04:
-   07:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-05 tot 30-04:
+   23:00 - 22:50: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: Bruggen worden bediend door de havenmeester van de Port of Den Helder.
 Aan te vragen via: 06 5492 8547.</desc>
@@ -17173,10 +17171,8 @@ Type:    Bedienbare Brug
 Contact PhoneNumber:06-19332775
 
 Bedieningstijden
-Periode 01-05 tot 30-09:
-   07:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
-Periode 01-10 tot 30-04:
-   07:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-05 tot 30-04:
+   23:00 - 22:50: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: Bruggen worden bediend door de havenmeester van de Port of Den Helder.
 Aan te vragen via: 06 5492 8547.</desc>
@@ -20774,10 +20770,8 @@ Type:    Bedienbare Brug
 Contact PhoneNumber:0651-181879
 
 Bedieningstijden
-Periode 01-05 tot 30-09:
-   07:00 - 20:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
-Periode 01-10 tot 30-04:
-   07:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 01-05 tot 30-04:
+   23:00 - 22:50: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: Bruggen worden bediend door de havenmeester van de Port of Den Helder.
 Aan te vragen via: 06 5492 8547.</desc>
@@ -40422,6 +40416,55 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/56559478">
       <text>Wil de Graaffbrug (Brug 393) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.380981" lon="4.873744">
+    <name>Brug tussen Jacob Catskade en De Wittenkade (Brug 132)</name>
+    <desc>Locatie: Kostverlorenvaart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/59152788">
+      <text>Brug tussen Jacob Catskade en De Wittenkade (Brug 132) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.385194" lon="4.880417">
+    <name>Brug over Kostverlorenvaart - De Wittenkade (Brug 347)</name>
+    <desc>Locatie: Haarlemertrekvaart
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/59152793">
+      <text>Brug over Kostverlorenvaart - De Wittenkade (Brug 347) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.383194" lon="4.877">
+    <name>Staatsliedenbrug (Brug 139)</name>
+    <desc>Locatie: Kattensloot
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/59154226">
+      <text>Staatsliedenbrug (Brug 139) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.383925" lon="4.878206">
+    <name>Brug Van der Duijn- en Eerste Nassaustraat (Brug 1902)</name>
+    <desc>Locatie: Haarlemertrekvaart
+Type:    Vaste Brug
+Contact PhoneNumber:3</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/59154312">
+      <text>Brug Van der Duijn- en Eerste Nassaustraat (Brug 1902) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
