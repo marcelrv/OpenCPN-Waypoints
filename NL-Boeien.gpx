@@ -9746,18 +9746,6 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.87297222230884" lon="6.040180556127558">
-    <name>BRW-PKN</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-licht type : Iso (isophased)
-licht periode : 2
-lich kleur : Wit
-model : bol Rood/wit repeterend</desc>
-    <sym>1412</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.23277222180157" lon="5.237452777649753">
     <name>BS 10</name>
     <desc>vaarweg : BLAUWE SLENK
@@ -11159,8 +11147,44 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.74091388927429" lon="3.626902777679452">
+    <name>BZ-OW 11</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.6914527777972" lon="3.591172222559059">
     <name>BZ-OW 12</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.7411805554254" lon="3.640886111014701">
+    <name>BZ-OW 13</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.73168333296687" lon="3.571433332920564">
+    <name>BZ-OW 1</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.74141666655899" lon="3.654633333499572">
+    <name>BZ-OW 15</name>
     <desc>vaarweg : NOORDZEE
 model : spar Geel</desc>
     <sym>5000</sym>
@@ -11177,8 +11201,26 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.7379222219101" lon="3.661327778189423">
+    <name>BZ-OW 17</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.680752777511486" lon="3.623502777439149">
     <name>BZ-OW 18</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.731697222025325" lon="3.673338888363011">
+    <name>BZ-OW 19</name>
     <desc>vaarweg : NOORDZEE
 model : spar Geel</desc>
     <sym>5000</sym>
@@ -11195,8 +11237,26 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.727483333320734" lon="3.681300000086831">
+    <name>BZ-OW 21</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.67747777800842" lon="3.649994444922634">
     <name>BZ-OW 22</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.720911111255404" lon="3.676994444527405">
+    <name>BZ-OW 23</name>
     <desc>vaarweg : NOORDZEE
 model : spar Geel</desc>
     <sym>5000</sym>
@@ -11221,8 +11281,62 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.71391944423566" lon="3.672341666358822">
+    <name>BZ-OW 25</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.70711666711736" lon="3.667899999301752">
+    <name>BZ-OW 27</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.69926666706093" lon="3.6667027773645">
+    <name>BZ-OW 29</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.69151388912061" lon="3.665544445088019">
+    <name>BZ-OW 31</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.73585555558077" lon="3.578188889351869">
+    <name>BZ-OW 3</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.72039722265863" lon="3.570761110534011">
     <name>BZ-OW 4</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.740183333594636" lon="3.584833332940613">
+    <name>BZ-OW 5</name>
     <desc>vaarweg : NOORDZEE
 model : spar Geel</desc>
     <sym>5000</sym>
@@ -11239,8 +11353,35 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.740424999558" lon="3.598802777655317">
+    <name>BZ-OW 7</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.705877777339275" lon="3.58096944501487">
     <name>BZ-OW 8</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.74066944481917" lon="3.612963889282166">
+    <name>BZ-OW 9</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.68488333303065" lon="3.664483333046473">
+    <name>BZ-OW-33</name>
     <desc>vaarweg : NOORDZEE
 model : spar Geel</desc>
     <sym>5000</sym>
@@ -11257,42 +11398,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.74091388927429" lon="3.626902777679452">
-    <name>BZ-WNB 11</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.7411805554254" lon="3.640886111014701">
-    <name>BZ-WNB 13</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.73168333296687" lon="3.571433332920564">
-    <name>BZ-WNB 1</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.74141666655899" lon="3.654633333499572">
-    <name>BZ-WNB 15</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.44590000031388" lon="6.189466667434576">
     <name>BZ-WNB 1</name>
     <desc>vaarweg : GEUL VAN BRAKZAND
@@ -11302,128 +11407,11 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.7379222219101" lon="3.661327778189423">
-    <name>BZ-WNB 17</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.46103611104527" lon="6.225486110398554">
     <name>BZ-WNB 2</name>
     <desc>vaarweg : GEUL VAN BRAKZAND
 model : spar Geel</desc>
     <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.73585555558077" lon="3.578188889351869">
-    <name>BZ-WNB 3</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.740183333594636" lon="3.584833332940613">
-    <name>BZ-WNB 5</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.740424999558" lon="3.598802777655317">
-    <name>BZ-WNB 7</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.74066944481917" lon="3.612963889282166">
-    <name>BZ-WNB 9</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.731697222025325" lon="3.673338888363011">
-    <name>BZ-WO 19</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.727483333320734" lon="3.681300000086831">
-    <name>BZ-WO 21</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.720911111255404" lon="3.676994444527405">
-    <name>BZ-WO 23</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.71391944423566" lon="3.672341666358822">
-    <name>BZ-WO 25</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.70711666711736" lon="3.667899999301752">
-    <name>BZ-WO 27</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.69926666706093" lon="3.6667027773645">
-    <name>BZ-WO 29</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.69151388912061" lon="3.665544445088019">
-    <name>BZ-WO 31</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.68488333303065" lon="3.664483333046473">
-    <name>BZ-WO-33</name>
-    <desc>vaarweg : NOORDZEE
-model : spar Geel</desc>
-    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -49262,6 +49250,7 @@ model : stomp Geel</desc>
     <name>NS-GAS 10</name>
     <desc>vaarweg : ZUIDERSPRUIT AMELAND
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -49342,6 +49331,7 @@ model : stomp Geel</desc>
     <name>NS-GAS 9</name>
     <desc>vaarweg : ZUIDERSPRUIT AMELAND
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -57077,6 +57067,7 @@ licht type : Iso (isophased)
 licht periode : 6
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5301</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
