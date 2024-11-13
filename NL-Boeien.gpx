@@ -19435,6 +19435,39 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.37908055551066" lon="4.128902777638372">
+    <name>FV-A</name>
+    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.381430555787695" lon="4.139113888888753">
+    <name>FV-B</name>
+    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.38362777768627" lon="4.146566666458962">
+    <name>FV-C</name>
+    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.38516111110517" lon="4.151519444240741">
+    <name>FV-D</name>
+    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.43011666695892" lon="5.966866666578675">
     <name>FW 10-HB 1</name>
     <desc>vaarweg : FRIESCHE WAD
@@ -21281,6 +21314,16 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.539030555592" lon="5.940555555643969">
+    <name>GIJ 13</name>
+    <desc>vaarweg : GELDERSE IJSSEL
+lich kleur : .
+model : spits Groen</desc>
+    <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.53868888847077" lon="5.942949999257177">
     <name>GIJ 13A-OW 2</name>
     <desc>vaarweg : GELDERSE IJSSEL
@@ -21673,6 +21716,35 @@ model : stomp Rood</desc>
     <desc>vaarweg : GELDERSE IJSSEL
 model : spits Groen</desc>
     <sym>1001</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.491736111110725" lon="6.061886111520558">
+    <name>GIJ 42 A</name>
+    <desc>vaarweg : GELDERSE IJSSEL
+lich kleur : .
+model : stomp Rood</desc>
+    <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.49119999960693" lon="6.062247222425155">
+    <name>GIJ 42 B</name>
+    <desc>vaarweg : GELDERSE IJSSEL
+lich kleur : .
+model : stomp Rood</desc>
+    <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.489427778189466" lon="6.063280556191373">
+    <name>GIJ 42 C</name>
+    <desc>vaarweg : GELDERSE IJSSEL
+lich kleur : .
+model : stomp Rood</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -22191,18 +22263,20 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.18946388904087" lon="6.166300000259222">
+  <wpt lat="52.189583333511315" lon="6.166266667165474">
     <name>GIJ 65A</name>
     <desc>vaarweg : GELDERSE IJSSEL
+lich kleur : .
 model : spits Groen</desc>
     <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.18916388866934" lon="6.167858333621634">
+  <wpt lat="52.18931666694935" lon="6.168249999530699">
     <name>GIJ 65B</name>
     <desc>vaarweg : GELDERSE IJSSEL
+lich kleur : .
 model : spits Groen</desc>
     <sym>1003</sym>
     <extensions>
