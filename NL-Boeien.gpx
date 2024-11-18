@@ -1697,7 +1697,7 @@ model : spar Groen/wit repeterend</desc>
 licht type : Q (quick-flashing)
 lich kleur : Groen
 model : spits Groen</desc>
-    <sym>1005</sym>
+    <sym>1008</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -1790,7 +1790,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1105</sym>
+    <sym>1107</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -3552,7 +3552,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1105</sym>
+    <sym>1107</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -34034,6 +34034,7 @@ model : spar Geel</desc>
   <wpt lat="52.53661111138827" lon="5.400691666011338">
     <name>KITE-LS 11</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : .
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -34052,6 +34053,7 @@ model : spar Geel</desc>
   <wpt lat="52.54159166654166" lon="5.411597222219435">
     <name>KITE-LS 15</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : .
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -34061,6 +34063,7 @@ model : spar Geel</desc>
   <wpt lat="52.521449999942796" lon="5.423647221509036">
     <name>KITE-LS 1</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : .
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -34070,6 +34073,7 @@ model : spar Geel</desc>
   <wpt lat="52.541636111100026" lon="5.42271111092831">
     <name>KITE-LS 17</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : .
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -34079,6 +34083,7 @@ model : spar Geel</desc>
   <wpt lat="52.521519444021045" lon="5.412658333924077">
     <name>KITE-LS 3</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : .
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -34088,6 +34093,7 @@ model : spar Geel</desc>
   <wpt lat="52.52146111068114" lon="5.400597222435018">
     <name>KITE-LS 5</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : .
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -34097,6 +34103,7 @@ model : spar Geel</desc>
   <wpt lat="52.526680555437345" lon="5.400594445072514">
     <name>KITE-LS 7</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : .
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -34106,6 +34113,7 @@ model : spar Geel</desc>
   <wpt lat="52.53154722223101" lon="5.400463888465917">
     <name>KITE-LS 9</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : .
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -35424,6 +35432,15 @@ licht periode : 6
 lich kleur : Wit
 model : spar Rood/wit repeterend</desc>
     <sym>6023</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.52370555541391" lon="3.688463888321312">
+    <name>KRIB</name>
+    <desc>vaarweg : VEERSE MEER
+lich kleur : .
+model : stomp Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -64275,7 +64292,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1105</sym>
+    <sym>1107</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -88433,6 +88450,7 @@ model : stomp Rood</desc>
 licht type : Q (quick-flashing)
 lich kleur : Rood
 model : stomp Rood</desc>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
