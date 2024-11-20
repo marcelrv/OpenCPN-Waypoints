@@ -9735,7 +9735,7 @@ model : spar Groen</desc>
 licht type : VQ (very quick-flashing)
 lich kleur : Groen
 model : spits Groen</desc>
-    <sym>1005</sym>
+    <sym>1008</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -35441,6 +35441,7 @@ model : spar Rood/wit repeterend</desc>
     <desc>vaarweg : VEERSE MEER
 lich kleur : .
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
