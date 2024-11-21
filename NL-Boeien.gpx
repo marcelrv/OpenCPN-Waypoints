@@ -18236,6 +18236,7 @@ model : spar Geel</desc>
   <wpt lat="51.35335000032634" lon="3.864016667214158">
     <name>F 24</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : .
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -22343,7 +22344,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.00660555559367" lon="6.078477778410535">
+  <wpt lat="51.996002777419605" lon="6.107705554914296">
     <name>GIJ 69F</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : .
@@ -30638,8 +30639,9 @@ model : spar Groen/rood/groen</desc>
   <wpt lat="53.245536110689216" lon="5.154088889483591">
     <name>IN 1</name>
     <desc>vaarweg : INSCHOT
+lich kleur : .
 model : spar Groen</desc>
-    <sym>1041</sym>
+    <sym>1043</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -54109,6 +54111,7 @@ model : spar Geel</desc>
   <wpt lat="51.564616666903994" lon="3.641283333599012">
     <name>PD-B</name>
     <desc>vaarweg : VEERSE MEER
+lich kleur : .
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
