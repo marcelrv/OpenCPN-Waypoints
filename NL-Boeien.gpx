@@ -19412,42 +19412,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.37908055551066" lon="4.128902777638372">
-    <name>FV-A</name>
-    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
-model : spar Geel</desc>
-    <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.381430555787695" lon="4.139113888888753">
-    <name>FV-B</name>
-    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
-model : spar Geel</desc>
-    <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.38362777768627" lon="4.146566666458962">
-    <name>FV-C</name>
-    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
-model : spar Geel</desc>
-    <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.38516111110517" lon="4.151519444240741">
-    <name>FV-D</name>
-    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
-model : spar Geel</desc>
-    <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.43011666695892" lon="5.966866666578675">
     <name>FW 10-HB 1</name>
     <desc>vaarweg : FRIESCHE WAD
@@ -56936,6 +56900,15 @@ model : Pilaar Zwart/geel/zwart</desc>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 model : spar Geel/zwart</desc>
     <sym>2231</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.40166666645578" lon="4.024297221925756">
+    <name>PW 1</name>
+    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+model : spar Geel</desc>
+    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
