@@ -56908,7 +56908,6 @@ model : spar Geel/zwart</desc>
     <name>PW 1</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 model : spar Geel</desc>
-    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -65138,6 +65137,7 @@ model : stomp Rood</desc>
   <wpt lat="51.64171944443473" lon="3.723486110446524">
     <name>S 2AV</name>
     <desc>vaarweg : GEUL VAN ROGGEPLAAT
+lich kleur : .
 model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
@@ -65165,6 +65165,7 @@ model : stomp Geel</desc>
   <wpt lat="51.640036111504024" lon="3.722430555717346">
     <name>S 2BV</name>
     <desc>vaarweg : GEUL VAN ROGGEPLAAT
+lich kleur : .
 model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
