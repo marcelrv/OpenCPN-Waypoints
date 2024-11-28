@@ -20612,7 +20612,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.740616666759635" lon="3.898766666111308">
+  <wpt lat="51.73293888883527" lon="3.916722222929327">
     <name>GB 24</name>
     <desc>vaarweg : GREVELINGEN
 model : stomp Rood</desc>
@@ -20798,6 +20798,17 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.69256111119247" lon="3.55774722244698">
+    <name>GB 7</name>
+    <desc>vaarweg : GEUL VAN DE BANJAARD
+licht type : Q (quick-flashing)
+lich kleur : Groen
+model : spits Groen</desc>
+    <sym>1008</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.73781666625975" lon="3.954599999551543">
     <name>GB 7</name>
     <desc>vaarweg : GREVELINGEN
@@ -20832,6 +20843,18 @@ model : stomp Rood</desc>
     <desc>vaarweg : GRONINGERBALG
 model : spar Geel</desc>
     <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.67514166687188" lon="3.558961110981136">
+    <name>GB 9</name>
+    <desc>vaarweg : GEUL VAN DE BANJAARD
+licht type : Iso (isophased)
+licht periode : 8
+lich kleur : Groen
+model : spits Groen</desc>
+    <sym>1008</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -25658,6 +25681,7 @@ model : stomp Geel</desc>
   <wpt lat="51.6600027781116" lon="3.737958332976669">
     <name>H 6V</name>
     <desc>vaarweg : HAMMEN
+lich kleur : .
 model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
@@ -64568,6 +64592,7 @@ model : stomp Geel</desc>
   <wpt lat="51.64808611086768" lon="3.730986111087097">
     <name>S 10V</name>
     <desc>vaarweg : GEUL VAN ROGGEPLAAT
+lich kleur : .
 model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
@@ -65685,6 +65710,7 @@ model : stomp Geel</desc>
   <wpt lat="51.645552777976505" lon="3.731619444834049">
     <name>S 8V</name>
     <desc>vaarweg : GEUL VAN ROGGEPLAAT
+lich kleur : .
 model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
@@ -78231,6 +78257,8 @@ model : spar Rood</desc>
   <wpt lat="53.40571388852198" lon="5.838286110698221">
     <name>VA 22A</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
+licht type : Iso (isophased)
+licht periode : 8
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
