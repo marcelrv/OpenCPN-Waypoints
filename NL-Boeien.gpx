@@ -1082,7 +1082,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1105</sym>
+    <sym>1107</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -20475,9 +20475,10 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.73284166668322" lon="3.917627777745076">
+  <wpt lat="51.73293888883527" lon="3.916722222929327">
     <name>GB 12A</name>
     <desc>vaarweg : GREVELINGEN
+lich kleur : .
 model : stomp Rood</desc>
     <sym>1101</sym>
     <extensions>
@@ -20612,7 +20613,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.73293888883527" lon="3.916722222929327">
+  <wpt lat="51.74043611140799" lon="3.898997222490352">
     <name>GB 24</name>
     <desc>vaarweg : GREVELINGEN
 model : stomp Rood</desc>
@@ -20804,7 +20805,6 @@ model : stomp Rood</desc>
 licht type : Q (quick-flashing)
 lich kleur : Groen
 model : spits Groen</desc>
-    <sym>1008</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -20854,7 +20854,6 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Groen
 model : spits Groen</desc>
-    <sym>1008</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
