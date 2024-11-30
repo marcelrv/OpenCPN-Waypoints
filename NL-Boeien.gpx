@@ -45897,6 +45897,18 @@ model : bol Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.30900277746194" lon="4.867027778358162">
+    <name>NAM 8</name>
+    <desc>vaarweg : NOORDZEE
+licht type : LFl (long-flashing)
+licht periode : 10
+lich kleur : Geel
+model : bol Geel</desc>
+    <sym>4201</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.021569444882395" lon="4.25687777770167">
     <name>NAM A</name>
     <desc>vaarweg : NOORDZEE
@@ -65577,6 +65589,7 @@ model : stomp Geel</desc>
   <wpt lat="51.64301111136188" lon="3.732777778376806">
     <name>S 6V</name>
     <desc>vaarweg : GEUL VAN ROGGEPLAAT
+lich kleur : .
 model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
