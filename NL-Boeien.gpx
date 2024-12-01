@@ -45904,7 +45904,6 @@ licht type : LFl (long-flashing)
 licht periode : 10
 lich kleur : Geel
 model : bol Geel</desc>
-    <sym>4201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -57287,6 +57286,7 @@ model : stomp Geel</desc>
   <wpt lat="51.61415555566447" lon="3.669836110997924">
     <name>R 11V</name>
     <desc>vaarweg : ROOMPOT
+lich kleur : .
 model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
@@ -65330,6 +65330,7 @@ model : stomp Geel</desc>
   <wpt lat="51.64860555549608" lon="3.705669444265003">
     <name>S 3V</name>
     <desc>vaarweg : GEUL VAN ROGGEPLAAT
+lich kleur : .
 model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
