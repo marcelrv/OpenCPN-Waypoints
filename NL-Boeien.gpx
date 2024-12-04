@@ -4306,15 +4306,6 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.750433333523" lon="3.859516667244186">
-    <name>89</name>
-    <desc>vaarweg : GREVELINGEN
-model : spar Rood/wit repeterend</desc>
-    <sym>1562</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.676666666414334" lon="4.102033334040396">
     <name>9 GMO</name>
     <desc>vaarweg : GREVELINGEN
@@ -21395,6 +21386,7 @@ model : stomp Rood</desc>
   <wpt lat="52.535647222256415" lon="5.95227222277719">
     <name>GIJ 21</name>
     <desc>vaarweg : GELDERSE IJSSEL
+lich kleur : .
 model : spits Groen</desc>
     <sym>1001</sym>
     <extensions>
@@ -25468,15 +25460,6 @@ model : spar Groen</desc>
     <desc>vaarweg : HINDERLOPEN (IJSSELMEER)
 model : spar Groen</desc>
     <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.65943611073528" lon="3.710505554848897">
-    <name>H 3N</name>
-    <desc>vaarweg : HAMMEN
-model : stomp Geel</desc>
-    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -57455,6 +57438,7 @@ model : stomp Geel</desc>
   <wpt lat="51.61716944434263" lon="3.67042777800862">
     <name>R 13V</name>
     <desc>vaarweg : ROOMPOT
+lich kleur : .
 model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
@@ -58402,15 +58386,6 @@ model : stomp Geel</desc>
   </wpt>
   <wpt lat="51.608344444847255" lon="3.694977777443127">
     <name>R 8V</name>
-    <desc>vaarweg : ROOMPOT
-model : stomp Geel</desc>
-    <sym>3500</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.60744722219069" lon="3.695044445088923">
-    <name>R 8Z</name>
     <desc>vaarweg : ROOMPOT
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -78140,7 +78115,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.40252777780973" lon="5.799522222687507">
+  <wpt lat="53.40257777752961" lon="5.799216667075656">
     <name>VA 15</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Iso (isophased)
@@ -78175,7 +78150,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.400183333766336" lon="5.802144444228941">
+  <wpt lat="53.400144444373325" lon="5.801772222275665">
     <name>VA 17</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
 licht type : Iso (isophased)
