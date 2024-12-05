@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-12-03T14:31:07.685000Z</time>
+    <time>2024-12-05T13:07:15.103000Z</time>
   </metadata>
   <wpt lat="51.8911937920329" lon="4.22924947768186">
     <name>Rozenburgsesluis</name>
@@ -39,6 +39,13 @@ VHF:     20
 Contact PhoneNumber:06-23997313
 
 Bedieningstijden
+Periode 01-01 tot 05-01 (note: Bij geen gehoor van een aanvraag bel: 0900 - 9394):
+   23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+Periode 06-01 tot 31-03:
+   23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   08:00 - 11:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   12:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 01-04 tot 15-04:
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 16-04 tot 31-05:
@@ -52,10 +59,20 @@ Periode 16-09 tot 15-10:
    16:30 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 16-10 tot 31-10:
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
-Periode 01-11 tot 31-03:
-   23:00 - 22:59: Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 15-12:
+   23:00 - 22:59: Za, Zo, excl. feestdagen. 
    08:00 - 11:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    12:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+Periode 16-12 tot 22-12:
+   23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   08:00 - 11:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   12:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+Periode 23-12 tot 29-12 (note: Bij geen gehoor van een aanvraag bel: 0900 - 9394):
+   23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+Periode 30-12 tot 31-12 (note: Bij geen gehoor van een aanvraag bel: 0900 - 9394):
+   23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Alleen op afroep, opening aanvragen tijdens bedieningstijden via telefoonnummer: 06-29683151.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/4439">
@@ -1337,7 +1354,7 @@ Op 24 en 31 december eindigt de bediening op 16;00.):
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.9777622941911" lon="4.65487718582153">
+  <wpt lat="51.9778684445995" lon="4.6548994421197">
     <name>Snellesluis</name>
     <desc>Locatie: Verbindingsvaartje naar Hollandsche IJssel
 Contact PhoneNumber:0182-373248
@@ -1381,7 +1398,7 @@ Note: De Kolksluis staat in de regel open.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.4174697214489" lon="5.22262573242187">
+  <wpt lat="52.4178429577289" lon="5.22234894358193">
     <name>Zuidersluis Almere</name>
     <desc>Locatie: Hoge Vaart
 VHF:     64
@@ -1431,7 +1448,7 @@ Via de digitale vaarkaart van de provincie kunt u de bedientijden en overige inf
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.2545830626849" lon="4.95093941688538">
+  <wpt lat="52.2546655312493" lon="4.9510251880426">
     <name>Proostdijersluis</name>
     <desc>Locatie: Vaart naar de Vinkeveensche Plassen (Sluisvaart)
 Contact PhoneNumber:0294-283383
@@ -1819,7 +1836,7 @@ Periode 16-10 tot 30-03:
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.090304384464645" lon="5.08938670182033">
+  <wpt lat="52.0906005972208" lon="5.08912120062761">
     <name>Muntsluis</name>
     <desc>Locatie: Merwedekanaal (benoorden de Lek)
 Contact PhoneNumber:088-7973901
@@ -1862,7 +1879,7 @@ Periode 20-05 tot 30-03 (note: Alleen op afroep, 48 uur van tevoren aanvragen vi
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.2070785880462" lon="4.73520398139954">
+  <wpt lat="52.20739579548183" lon="4.7353219985961905">
     <name>Tolhuissluis</name>
     <desc>Locatie: Amstel
 Contact PhoneNumber:0172 - 538 115
@@ -1893,12 +1910,19 @@ Note: Afhankelijk aanbod wegverkeer, bediening per kwartier of per half uur. Aan
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.3089192868642" lon="5.04201382398605">
+  <wpt lat="52.3089927235373" lon="5.04234454148044">
     <name>Sluis Weesp</name>
     <desc>Locatie: Smal Weesp
 Contact PhoneNumber:0654-943122
 
 Bedieningstijden
+Periode 01-01 tot 05-01 (note: Bij geen gehoor van een aanvraag bel: 0900 - 9394):
+   23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+Periode 06-01 tot 31-03:
+   23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   08:00 - 11:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   12:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 01-04 tot 15-04:
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 16-04 tot 31-05:
@@ -1912,10 +1936,20 @@ Periode 16-09 tot 15-10:
    16:30 - 18:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 16-10 tot 31-10:
    08:00 - 15:30: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
-Periode 01-11 tot 31-03:
-   23:00 - 22:59: Za, Zo, incl. feestdagen. 
+Periode 01-11 tot 15-12:
+   23:00 - 22:59: Za, Zo, excl. feestdagen. 
    08:00 - 11:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    12:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+Periode 16-12 tot 22-12:
+   23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   08:00 - 11:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   12:30 - 15:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+Periode 23-12 tot 29-12 (note: Bij geen gehoor van een aanvraag bel: 0900 - 9394):
+   23:00 - 22:59: Za, Zo, incl. feestdagen. 
+   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+Periode 30-12 tot 31-12 (note: Bij geen gehoor van een aanvraag bel: 0900 - 9394):
+   23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
 Note: Alleen op afroep, opening aanvragen tijdens bedieningstijden via telefoonnummer: 06-29683151.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/28942">
@@ -1980,7 +2014,7 @@ Note: Wanneer 1e paasdag valt voor 1 april, dan geldt Goede Vrijdag als start va
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.3674290058616" lon="4.95314955711365">
+  <wpt lat="52.3674865144266" lon="4.95356791487355">
     <name>Zeeburgerschutsluis</name>
     <desc>Locatie: Nieuwe Vaart
 
@@ -1996,7 +2030,7 @@ Periode 01-01 tot 31-12 (note: Geen bedientijden bekend.):
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.4131386457431" lon="4.68165099620819">
+  <wpt lat="52.4125013123989" lon="4.68073635064929">
     <name>Rijnlandsluizen</name>
     <desc>Locatie: Zijkanaal C
 VHF:     18
