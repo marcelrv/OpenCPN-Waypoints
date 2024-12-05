@@ -3339,6 +3339,7 @@ model : spits Groen</desc>
   <wpt lat="51.677599999872534" lon="4.100149999784962">
     <name>6 GMO</name>
     <desc>vaarweg : GREVELINGEN
+lich kleur : .
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -45259,6 +45260,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="52.99777777757377" lon="5.371144443855963">
     <name>MW 30</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
+lich kleur : .
 model : spar Rood/wit repeterend</desc>
     <sym>1561</sym>
     <extensions>
@@ -45268,6 +45270,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="52.99331388881208" lon="5.372280555709918">
     <name>MW 32</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
+lich kleur : .
 model : spar Rood/wit repeterend</desc>
     <sym>1561</sym>
     <extensions>
@@ -58055,6 +58058,7 @@ model : stomp Geel</desc>
   <wpt lat="51.602877777393275" lon="3.66853333363695">
     <name>R 3Z</name>
     <desc>vaarweg : ROOMPOT
+lich kleur : .
 model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
@@ -62697,6 +62701,15 @@ model : spar Rood</desc>
     <desc>vaarweg : GREVELINGEN
 model : spits Groen</desc>
     <sym>1001</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4659388892372" lon="4.631630555628758">
+    <name>RB-A</name>
+    <desc>vaarweg : NOORDZEEKANAAL
+model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -79758,7 +79771,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.95741111094701" lon="5.018711111775952">
+  <wpt lat="52.958008332914545" lon="5.017366666751403">
     <name>VG 19</name>
     <desc>vaarweg : VISJAGERSGAATJE
 licht type : Q (quick-flashing)
@@ -79787,7 +79800,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.95860000010673" lon="5.019488889001728">
+  <wpt lat="52.959188888717975" lon="5.018144443821572">
     <name>VG 20</name>
     <desc>vaarweg : VISJAGERSGAATJE
 licht type : Q (quick-flashing)
@@ -79798,7 +79811,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.956097222427466" lon="5.021413889325279">
+  <wpt lat="52.95662777761858" lon="5.021038889410815">
     <name>VG 21</name>
     <desc>vaarweg : VISJAGERSGAATJE
 licht type : Iso (isophased)
@@ -79810,7 +79823,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.95695555538798" lon="5.022791666950257">
+  <wpt lat="52.957530555424064" lon="5.022413888469472">
     <name>VG 22</name>
     <desc>vaarweg : VISJAGERSGAATJE
 licht type : Iso (isophased)
@@ -79822,7 +79835,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.95470277794238" lon="5.02356944373093">
+  <wpt lat="52.95474722182042" lon="5.023836111199298">
     <name>VG 23</name>
     <desc>vaarweg : VISJAGERSGAATJE
 licht type : Q (quick-flashing)
@@ -79833,7 +79846,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.955147222277795" lon="5.025352777759186">
+  <wpt lat="52.95547222207867" lon="5.025319444813548">
     <name>VG 24</name>
     <desc>vaarweg : VISJAGERSGAATJE
 licht type : Q (quick-flashing)
@@ -94731,6 +94744,7 @@ model : spar Rood</desc>
   <wpt lat="51.752533333658526" lon="3.93856666626422">
     <name>ZW 3</name>
     <desc>vaarweg : GREVELINGEN
+lich kleur : .
 model : spits Geel</desc>
     <sym>3001</sym>
     <extensions>
