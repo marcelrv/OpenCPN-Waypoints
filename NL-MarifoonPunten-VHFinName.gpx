@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2024-12-12T13:07:26.876000Z</time>
+    <time>2024-12-13T08:41:40.301000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>VHF 20</name>
@@ -18111,6 +18111,19 @@ RadioTraffic: INBOUND</desc>
       <text>Meldpunt Havendienst Terneuzen online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.64759386026631" lon="4.827927136684592">
+    <name>VHF 78</name>
+    <desc>Naam:         Meldpunt Wachtplaats Markbrug Boven - Rechter oever Oosterhout
+VHF:          78
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/15367523">
+      <text>Meldpunt Wachtplaats Markbrug Boven - Rechter oever Oosterhout online info</text>
+    </link>
+    <sym>Info-Info</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
