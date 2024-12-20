@@ -17880,7 +17880,6 @@ model : spar Rood</desc>
     <name>EV 1</name>
     <desc>vaarweg : ENGELSCHE VAARWATER
 model : spar Groen</desc>
-    <sym>1043</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40645,6 +40644,7 @@ model : spar Geel</desc>
   <wpt lat="52.9894388892607" lon="4.713419444880799">
     <name>MG-G</name>
     <desc>vaarweg : MOLENGAT (ZEEGAT DEN HELDER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -68477,6 +68477,16 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.464600000204044" lon="6.062233333030386">
+    <name>SG-OW</name>
+    <desc>vaarweg : SMERIGGAT
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.43936111124476" lon="3.56305555485175">
     <name>SG-W</name>
     <desc>vaarweg : SARDIJNGEUL
@@ -68485,15 +68495,6 @@ licht periode : 5
 lich kleur : Wit
 model : Pilaar Zwart/geel/zwart</desc>
     <sym>2123</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.464600000204044" lon="6.062233333030386">
-    <name>SG-WNB</name>
-    <desc>vaarweg : SMERIGGAT
-model : spar Geel</desc>
-    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -79589,6 +79590,7 @@ model : spar Rood</desc>
   <wpt lat="51.74551666625245" lon="4.338186111225926">
     <name>VG 14A</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -79655,6 +79657,7 @@ model : spar Rood</desc>
   <wpt lat="51.73688055567739" lon="4.362852778422971">
     <name>VG 16A</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -81749,7 +81752,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.54342222221553" lon="3.857783332842626">
+  <wpt lat="51.54351944425164" lon="3.857491666916645">
     <name>VM 1</name>
     <desc>vaarweg : VEERSE MEER
 licht type : Iso (isophased)
@@ -82175,7 +82178,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.543463889176266" lon="3.855894444375367">
+  <wpt lat="51.543569444016434" lon="3.855769444783875">
     <name>VM 3</name>
     <desc>vaarweg : VEERSE MEER
 model : spits Groen</desc>
@@ -84741,7 +84744,6 @@ model : spar Groen</desc>
     <name>VO 18</name>
     <desc>vaarweg : VAARWATER NAAR OOSTMAHORN
 model : spar Rood</desc>
-    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -92501,6 +92503,17 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.057972221883546" lon="4.169638889011828">
+    <name>ZM 1</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.616244444287936" lon="5.864633333603908">
     <name>ZM 1</name>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
@@ -92569,6 +92582,17 @@ model : spar Groen/wit repeterend</desc>
     <desc>vaarweg : ZWARTEMEER RECREATIE (RANDMEREN)
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.066555555372005" lon="4.152619445093296">
+    <name>ZM 2</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : stomp Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
