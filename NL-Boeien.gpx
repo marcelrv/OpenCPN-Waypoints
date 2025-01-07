@@ -57620,6 +57620,7 @@ model : stomp Geel</desc>
   <wpt lat="51.59933888903036" lon="3.674980555408803">
     <name>R 1ZZZ</name>
     <desc>vaarweg : ROOMPOT
+lich kleur : X
 model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
@@ -66236,17 +66237,78 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.82112222183044" lon="5.59575833289315">
-    <name>SB-WNB 100</name>
+  <wpt lat="52.821161111155284" lon="5.599877777739772">
+    <name>SB-OW 108</name>
     <desc>vaarweg : STEILEBANK (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.821161111155284" lon="5.599877777739772">
-    <name>SB-WNB 100A</name>
+  <wpt lat="52.83405555519817" lon="5.515630554931087">
+    <name>SB-OW 54</name>
+    <desc>vaarweg : STEILEBANK (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.83317222182618" lon="5.519880555224892">
+    <name>SB-OW 56</name>
+    <desc>vaarweg : STEILEBANK (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.83234444401289" lon="5.523955555085659">
+    <name>SB-OW 58</name>
+    <desc>vaarweg : STEILEBANK (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.83147500012696" lon="5.528269444470642">
+    <name>SB-OW 60</name>
+    <desc>vaarweg : STEILEBANK (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.83066944428241" lon="5.532433332856006">
+    <name>SB-OW 62</name>
+    <desc>vaarweg : STEILEBANK (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.82981388844494" lon="5.536722222379979">
+    <name>SB-OW 64</name>
+    <desc>vaarweg : STEILEBANK (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.82112222183044" lon="5.59575833289315">
+    <name>SB-WNB 100</name>
     <desc>vaarweg : STEILEBANK (IJSSELMEER)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -66553,60 +66615,6 @@ model : spar Geel</desc>
   </wpt>
   <wpt lat="52.84412777802032" lon="5.469869444406884">
     <name>SB-WNB 34</name>
-    <desc>vaarweg : STEILEBANK (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.835675000108075" lon="5.516850000399844">
-    <name>SB-WNB 52</name>
-    <desc>vaarweg : STEILEBANK (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.83430833340465" lon="5.521997221660156">
-    <name>SB-WNB 54</name>
-    <desc>vaarweg : STEILEBANK (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.83293888879494" lon="5.527141666595246">
-    <name>SB-WNB 56</name>
-    <desc>vaarweg : STEILEBANK (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.83159444431604" lon="5.532297221948898">
-    <name>SB-WNB 58</name>
-    <desc>vaarweg : STEILEBANK (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.830258333438884" lon="5.537430555245254">
-    <name>SB-WNB 60</name>
-    <desc>vaarweg : STEILEBANK (IJSSELMEER)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.83105833309974" lon="5.538908333672103">
-    <name>SB-WNB 62</name>
     <desc>vaarweg : STEILEBANK (IJSSELMEER)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -68487,7 +68495,7 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.464600000204044" lon="6.062233333030386">
+  <wpt lat="53.464002778044616" lon="6.062105555786125">
     <name>SG-OW</name>
     <desc>vaarweg : SMERIGGAT
 model : spar Geel</desc>
@@ -79204,27 +79212,190 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.977480555445666" lon="5.393291666822454">
-    <name>VF-WNB 100</name>
+  <wpt lat="53.00285555537367" lon="5.380369444412581">
+    <name>VF-OW 100</name>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.973830555377106" lon="5.395372222843199">
-    <name>VF-WNB 102</name>
+  <wpt lat="52.99969444405231" lon="5.381569443761798">
+    <name>VF-OW 102</name>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.97019444408405" lon="5.397458334056833">
-    <name>VF-WNB 104</name>
+  <wpt lat="52.99638611081842" lon="5.382749999569935">
+    <name>VF-OW 104</name>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.99331388862765" lon="5.383908333836675">
+    <name>VF-OW 106</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.99025277773942" lon="5.385024999435445">
+    <name>VF-OW 108</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.98713888873588" lon="5.386183333648782">
+    <name>VF-OW 110</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.98410277784243" lon="5.38731944395514">
+    <name>VF-OW 112</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.98106666635401" lon="5.388413888853482">
+    <name>VF-OW 114</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.959366667079536" lon="5.403194444149984">
+    <name>VF-OW 142</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.06840833308842" lon="5.3561305551657">
+    <name>VF-OW 26</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.06664722244528" lon="5.3579638885981">
+    <name>VF-OW 28</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.064855555658156" lon="5.359919443779428">
+    <name>VF-OW 30</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.063141666381384" lon="5.361697222839839">
+    <name>VF-OW 32</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.06136111151286" lon="5.363586110762353">
+    <name>VF-OW 34</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.05963333349437" lon="5.365369444419517">
+    <name>VF-OW 36</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.057894444782754" lon="5.367255555758224">
+    <name>VF-OW 38</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.05639722250124" lon="5.368844445087476">
+    <name>VF-OW 40</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.05579444449542" lon="5.370855555292017">
+    <name>VF-OW 42</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.00607222212191" lon="5.379272221632664">
+    <name>VF-OW 98</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -79233,15 +79404,6 @@ model : spar Geel</desc>
   </wpt>
   <wpt lat="52.97021388922084" lon="5.399466666674281">
     <name>VF-WNB 106</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.959366667079536" lon="5.403194444149984">
-    <name>VF-WNB 120</name>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -79357,143 +79519,8 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.068727777538165" lon="5.357175000009107">
-    <name>VF-WNB 20</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.06695277779126" lon="5.358947221790894">
-    <name>VF-WNB 22</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.065169444367065" lon="5.360686111674308">
-    <name>VF-WNB 24</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.06336111105082" lon="5.362363888840372">
-    <name>VF-WNB 26</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.06154722253779" lon="5.364008333964765">
-    <name>VF-WNB 28</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.05973055579855" lon="5.365669444693839">
-    <name>VF-WNB 30</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.05796666655006" lon="5.36748055510949">
-    <name>VF-WNB 32</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.05642777758868" lon="5.369027777557307">
-    <name>VF-WNB 34</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.05579444449542" lon="5.370855555292017">
-    <name>VF-WNB 36</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.002561111034645" lon="5.380791667104448">
     <name>VF-WNB 86</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.99933611089666" lon="5.380794444919849">
-    <name>VF-WNB 88</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.995691666658125" lon="5.38286111162736">
-    <name>VF-WNB 90</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.992041667044816" lon="5.384925000390195">
-    <name>VF-WNB 92</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.98840277772215" lon="5.387008333543617">
-    <name>VF-WNB 94</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.98476111082114" lon="5.389091666530756">
-    <name>VF-WNB 96</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.98112222223252" lon="5.391191666783596">
-    <name>VF-WNB 98</name>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -86230,7 +86257,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.87916666644077" lon="6.026149999882684">
+  <wpt lat="51.87808055536326" lon="6.026647222699542">
     <name>W 16</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -86251,7 +86278,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.87466388857173" lon="6.032997222530738">
+  <wpt lat="51.87481388905962" lon="6.033047222539422">
     <name>W 16A</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
