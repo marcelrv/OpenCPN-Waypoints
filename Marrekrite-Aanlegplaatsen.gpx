@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-01-13T13:22:35.174235Z</time>
+    <time>2025-01-14T13:26:20.948984Z</time>
   </metadata>
   <wpt lat="52.966346" lon="5.515595">
     <name>FL16A Hammigegreft (Damwand)</name>
@@ -662,7 +662,7 @@ Kanovoorziening             False
     <name>PR04P2 Roune Sawne (Damwand)</name>
     <desc>Naam                  Roune Sawne
 Vaarwater             ALDE FEANEN
-Lengte aanleg                  51
+Lengte aanleg                  44
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -865,7 +865,7 @@ Kanovoorziening             False
     <name>PR14 Unthjit (Damwand)</name>
     <desc>Naam                      Unthjit
 Vaarwater             ALDE FEANEN
-Lengte aanleg                 100
+Lengte aanleg                  88
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -874,7 +874,7 @@ Aansluiting wandelnetwerk   False
 Container                    True
 Kamperen                    False
 Meerpalen (aantal)              0
-Kanovoorziening             False
+Kanovoorziening              True
 </desc>
     <sym>Service-Dock</sym>
     <extensions>
@@ -1708,10 +1708,10 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.034758" lon="5.801765">
-    <name>SN10C Skonkepllen (Damwand)</name>
-    <desc>Naam                  Skonkepllen
+    <name>SN10C Skonkepuollen (Damwand)</name>
+    <desc>Naam                Skonkepuollen
 Vaarwater    TERKAPLESTER PUOLLEN
-Lengte aanleg                  67
+Lengte aanleg                  62
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -1720,7 +1720,7 @@ Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              0
-Kanovoorziening             False
+Kanovoorziening              True
 </desc>
     <sym>Service-Dock</sym>
     <extensions>
@@ -1932,7 +1932,7 @@ Kanovoorziening              True
     <name>SN26C Lytse Griene (Damwand)</name>
     <desc>Naam                 Lytse Griene
 Vaarwater GOAIINGARYPSTER PUOLLEN
-Lengte aanleg                  80
+Lengte aanleg                  70
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -2052,7 +2052,7 @@ Kanovoorziening              True
     <name>SN37A Vrijegrassloot (Damwand)</name>
     <desc>Naam               Vrijegrassloot
 Vaarwater           FRIJGERSSLEAT
-Lengte aanleg                  80
+Lengte aanleg                  69
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -2112,7 +2112,7 @@ Kanovoorziening             False
     <name>SN39B Vrije Grazen (Damwand)</name>
     <desc>Naam                 Vrije Grazen
 Vaarwater           FRIJGERSSLEAT
-Lengte aanleg                  56
+Lengte aanleg                  40
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -2355,7 +2355,7 @@ Kanovoorziening             False
     <name>SN72 Slingerrak (Damwand)</name>
     <desc>Naam                   Slingerrak
 Vaarwater              SLINGERRAK
-Lengte aanleg                  54
+Lengte aanleg                  47
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -2737,7 +2737,7 @@ Kanovoorziening              True
     <name>SN24B Groot Schareiland (Damwand)</name>
     <desc>Naam            Groot Schareiland
 Vaarwater             SNITSER MAR
-Lengte aanleg                  66
+Lengte aanleg                  49
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -3033,7 +3033,7 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.90047" lon="5.77497">
+  <wpt lat="52.900517" lon="5.775147">
     <name>TJ08B Ganzetippe (Damwand)</name>
     <desc>Naam                   Ganzetippe
 Vaarwater               Tsjûkemar
@@ -9892,7 +9892,7 @@ Kanovoorziening              True
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9014" lon="5.77553">
+  <wpt lat="52.901357" lon="5.775287">
     <name>TJ08A Ganzetippe (Steiger)</name>
     <desc>Naam                   Ganzetippe
 Vaarwater               Tsjûkemar
@@ -9912,7 +9912,7 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.899603" lon="5.774426">
+  <wpt lat="52.899822" lon="5.774683">
     <name>TJ08C Ganzetippe (Steiger)</name>
     <desc>Naam                   Ganzetippe
 Vaarwater               Tsjûkemar
@@ -9983,6 +9983,47 @@ Walverbinding               False
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
 Wandelmogelijkheid          False
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.029662" lon="5.771804">
+    <name>SN15A Adam (Steiger)</name>
+    <desc>Naam                         Adam
+Vaarwater             SNITSER MAR
+Lengte aanleg                 108
+Walverbinding                True
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid          False
+Aansluiting wandelnetwerk   False
+Container                    True
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.090493" lon="5.878941">
+    <name>PR47 Aegehoek west (Steiger)</name>
+    <desc>Naam                Aegehoek west
+Vaarwater                 WIDE IE
+Container open in winterperiode True
+Lengte aanleg                  35
+Walverbinding                True
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
@@ -10455,27 +10496,6 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.090658" lon="5.87882">
-    <name>PR47 Aegehoek west (Tuigsteiger)</name>
-    <desc>Naam                Aegehoek west
-Vaarwater                 WIDE IE
-Container open in winterperiode True
-Lengte aanleg                  28
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.005867" lon="5.881897">
     <name>PR62 None (Tuigsteiger)</name>
     <desc>Naam                         None
@@ -10869,26 +10889,6 @@ Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)           None
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.029662" lon="5.771804">
-    <name>SN15A Adam (Tuigsteiger)</name>
-    <desc>Naam                         Adam
-Vaarwater             SNITSER MAR
-Lengte aanleg                 120
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid          False
-Aansluiting wandelnetwerk   False
-Container                    True
-Kamperen                    False
-Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -11605,6 +11605,26 @@ Kanovoorziening             False
 Vaarwater                Fluessen
 Container open in winterperiode True
 Lengte aanleg                  84
+Walverbinding                True
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.090696" lon="5.878742">
+    <name>PR46E Aegehoeke (Tuigsteiger)</name>
+    <desc>Naam                    Aegehoeke
+Vaarwater                 Wide Ie
+Lengte aanleg                  28
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
