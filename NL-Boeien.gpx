@@ -8024,7 +8024,7 @@ model : afwijkend Geel</desc>
   <wpt lat="51.46747777747328" lon="4.005122222106035">
     <name>BL VT 1</name>
     <desc>vaarweg : KANAAL DOOR ZUID BEVELAND
-model : stomp Geel</desc>
+model : afwijkend Geel</desc>
     <sym>5511</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -54514,6 +54514,7 @@ model : spar Groen</desc>
   <wpt lat="53.18099444432466" lon="5.382622222801058">
     <name>P-DAM 2</name>
     <desc>vaarweg : POLLENDAM
+lich kleur : X
 model : stomp Geel/zwart</desc>
     <sym>2211</sym>
     <extensions>
@@ -65186,6 +65187,15 @@ model : stomp Rood/wit repeterend</desc>
 lich kleur : X
 model : spits Groen/wit repeterend</desc>
     <sym>1502</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.86324444433655" lon="5.834324999760095">
+    <name>Rode HO Spiegelwaal</name>
+    <desc>vaarweg : SPIEGELWAAL
+lich kleur : X
+model : stomp Rood/wit repeterend</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -77394,6 +77404,7 @@ model : spar Groen</desc>
   <wpt lat="51.521038888923016" lon="4.158902777712252">
     <name>TG A</name>
     <desc>vaarweg : THOLENSCHE GAT
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -77412,6 +77423,7 @@ model : spar Geel</desc>
   <wpt lat="51.51491666687388" lon="4.16910000027985">
     <name>TG C</name>
     <desc>vaarweg : THOLENSCHE GAT
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -94792,7 +94804,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.30983888849542" lon="4.959191666746268">
+  <wpt lat="53.321088889273696" lon="4.970438888186466">
     <name>ZS 1</name>
     <desc>vaarweg : ZUIDER STORTEMELK
 licht type : VQ (very quick-flashing)
@@ -94848,7 +94860,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.321533333089825" lon="4.975433333228379">
+  <wpt lat="53.32311666690632" lon="4.993500000284746">
     <name>ZS 1A</name>
     <desc>vaarweg : ZUIDER STORTEMELK
 licht type : Iso (isophased)
@@ -94914,7 +94926,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.31367777754159" lon="4.952102777488514">
+  <wpt lat="53.32696111082727" lon="4.969002778249035">
     <name>ZS 2</name>
     <desc>vaarweg : ZUIDER STORTEMELK
 licht type : VQ (very quick-flashing)
@@ -94970,7 +94982,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.327913888839376" lon="4.97446944462234">
+  <wpt lat="53.32899722186481" lon="4.992019444428275">
     <name>ZS 2A</name>
     <desc>vaarweg : ZUIDER STORTEMELK
 licht type : Iso (isophased)
@@ -95055,10 +95067,11 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32311666690632" lon="4.993500000284746">
+  <wpt lat="53.32220833374789" lon="5.009488889090716">
     <name>ZS 3</name>
     <desc>vaarweg : ZUIDER STORTEMELK
-licht type : Q (quick-flashing)
+licht type : LFl (long-flashing)
+licht periode : 5
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1005</sym>
@@ -95093,20 +95106,8 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.3210388885773" lon="5.009502777179335">
-    <name>ZS 3A</name>
-    <desc>vaarweg : ZUIDER STORTEMELK
-licht type : LFl (long-flashing)
-licht periode : 5
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.31527222225113" lon="5.009552777517349">
-    <name>ZS 3B</name>
+    <name>ZS 3A</name>
     <desc>vaarweg : ZUIDER STORTEMELK
 licht type : VQ (very quick-flashing)
 lich kleur : Groen
@@ -95116,7 +95117,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32945277741154" lon="4.999222222008767">
+  <wpt lat="53.32949444475525" lon="5.006725000298519">
     <name>ZS 4</name>
     <desc>vaarweg : ZUIDER STORTEMELK
 licht type : Q (quick-flashing)
@@ -95136,7 +95137,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32461666696238" lon="5.01798333345243">
+  <wpt lat="53.32597222259761" lon="5.018011111762921">
     <name>ZS 4A</name>
     <desc>vaarweg : ZUIDER STORTEMELK
 licht type : LFl (long-flashing)
@@ -95148,7 +95149,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.319283332898564" lon="5.018033332900186">
+  <wpt lat="53.320636110867085" lon="5.018058332623718">
     <name>ZS 4B</name>
     <desc>vaarweg : ZUIDER STORTEMELK
 licht type : VQ (very quick-flashing)
@@ -95332,7 +95333,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.30463611113787" lon="4.937194444333427">
+  <wpt lat="53.32161111094395" lon="4.942191666805115">
     <name>ZS</name>
     <desc>vaarweg : ZUIDER STORTEMELK
 licht type : Iso (isophased)
