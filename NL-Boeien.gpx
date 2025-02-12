@@ -690,6 +690,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="51.37028333334972" lon="3.751000000580876">
     <name>12</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -699,6 +700,7 @@ model : spar Rood</desc>
   <wpt lat="51.5451833329262" lon="3.848433332660928">
     <name>12</name>
     <desc>vaarweg : VEERSE MEER
+lich kleur : X
 model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
@@ -912,6 +914,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="51.39280000033279" lon="3.697449999322266">
     <name>13A</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -951,6 +954,7 @@ model : stomp Geel</desc>
   <wpt lat="51.360383333362755" lon="3.779199999332045">
     <name>14</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -1000,6 +1004,7 @@ model : stomp Geel</desc>
   <wpt lat="51.43474444464629" lon="3.636486111695848">
     <name>1</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -1154,6 +1159,7 @@ model : stomp Geel</desc>
   <wpt lat="51.37453333289542" lon="3.724266666037779">
     <name>17</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -1357,6 +1363,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="51.34872500012667" lon="3.825863889481476">
     <name>20</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -1396,6 +1403,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="51.348533333083786" lon="3.833388888360242">
     <name>20A</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -1455,6 +1463,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="51.36087222249751" lon="3.747686111023508">
     <name>21</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -1840,6 +1849,7 @@ model : stomp Geel</desc>
   <wpt lat="51.33996388916785" lon="3.840677777932232">
     <name>27</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -1936,6 +1946,7 @@ model : stomp Geel</desc>
   <wpt lat="51.36232777735725" lon="3.898616666418378">
     <name>28</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -1987,6 +1998,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="51.373863888907515" lon="3.922227777733345">
     <name>28B</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -2289,6 +2301,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="51.394224999741716" lon="3.947438888372853">
     <name>34</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -3368,6 +3381,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="51.374252777576196" lon="4.072161110546851">
     <name>54</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -3746,6 +3760,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="51.374994444795156" lon="4.135194443938733">
     <name>62</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -3842,6 +3857,7 @@ model : stomp Rood</desc>
   <wpt lat="51.38201666624624" lon="4.152833332708979">
     <name>64B</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -4099,7 +4115,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
-    <sym>1045</sym>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -4169,6 +4185,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="51.387586110989176" lon="4.171694444988235">
     <name>71</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -4578,6 +4595,7 @@ model : spar Groen/wit repeterend</desc>
   <wpt lat="51.38324999963822" lon="3.72653333363178">
     <name>8</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -5420,6 +5438,7 @@ model : spar Geel</desc>
   <wpt lat="52.38123333292094" lon="4.931666665956315">
     <name>A</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -5509,6 +5528,7 @@ model : spar Geel</desc>
   <wpt lat="52.37740555599081" lon="4.949030555335276">
     <name>AB-A</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -5518,6 +5538,7 @@ model : spar Geel</desc>
   <wpt lat="52.37694722236222" lon="4.949061111131902">
     <name>AB-B</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -5527,6 +5548,7 @@ model : spar Geel</desc>
   <wpt lat="52.37634722193049" lon="4.94846388855875">
     <name>AB-C</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -6920,6 +6942,7 @@ model : spar Geel</desc>
   <wpt lat="51.37713333314271" lon="4.133716666654291">
     <name>ATLANTIDE</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel/zwart</desc>
     <sym>2231</sym>
     <extensions>
@@ -7329,6 +7352,7 @@ model : spar Geel/zwart/geel</desc>
   <wpt lat="53.49616666667206" lon="6.467827778017752">
     <name>B-OW 1</name>
     <desc>vaarweg : BOSCHGAT
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -7368,6 +7392,7 @@ model : spar Geel</desc>
   <wpt lat="52.381286111171086" lon="4.935363889235793">
     <name>B</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -7407,6 +7432,7 @@ model : spar Geel</desc>
   <wpt lat="51.36537500019106" lon="4.101866667178922">
     <name>BAALHOEK OOST</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Zwart/geel/zwart</desc>
     <sym>2131</sym>
     <extensions>
@@ -7416,6 +7442,7 @@ model : spar Zwart/geel/zwart</desc>
   <wpt lat="51.366022222413896" lon="4.10328611081254">
     <name>BAALHOEK WEST</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel/zwart/geel</desc>
     <sym>2331</sym>
     <extensions>
@@ -8003,7 +8030,7 @@ model : stomp Rood</desc>
 licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Wit
-model : bol Rood/wit repeterend</desc>
+model : stomp Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -10496,7 +10523,7 @@ model : spar Geel</desc>
 licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Wit
-model : bol Rood/wit repeterend</desc>
+model : stomp Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -10508,7 +10535,7 @@ model : bol Rood/wit repeterend</desc>
 licht type : Mo (morse)
 licht periode : 8
 lich kleur : Wit
-model : bol Rood/wit repeterend</desc>
+model : stomp Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -11836,6 +11863,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="53.493113888600654" lon="6.465238888878077">
     <name>BW 2</name>
     <desc>vaarweg : BOSCHWAD
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -11855,6 +11883,7 @@ model : spar Geel</desc>
   <wpt lat="53.48356666657884" lon="6.469816667095994">
     <name>BW 4</name>
     <desc>vaarweg : BOSCHWAD
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -11864,6 +11893,7 @@ model : spar Geel</desc>
   <wpt lat="53.48315555561149" lon="6.483363888348572">
     <name>BW 6</name>
     <desc>vaarweg : BOSCHWAD
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -11873,6 +11903,7 @@ model : spar Geel</desc>
   <wpt lat="53.4839777774976" lon="6.501463889160922">
     <name>BW 8</name>
     <desc>vaarweg : BOSCHWAD
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -12522,6 +12553,7 @@ model : spar Geel</desc>
   <wpt lat="52.38132222233257" lon="4.938025000066014">
     <name>C</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -12955,7 +12987,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : stomp Geel</desc>
-    <sym>5301</sym>
+    <sym>3801</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -14247,6 +14279,7 @@ model : spar Geel</desc>
   <wpt lat="52.38126944404207" lon="4.940752777304655">
     <name>D</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -14266,6 +14299,7 @@ model : spar Geel</desc>
   <wpt lat="51.37358055574934" lon="4.221522222933046">
     <name>DAM 2</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -14275,6 +14309,7 @@ model : spar Geel</desc>
   <wpt lat="52.462500000041466" lon="4.562413889237817">
     <name>DAM A</name>
     <desc>vaarweg : HAVEN IJMUIDEN
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -14284,6 +14319,7 @@ model : spar Geel</desc>
   <wpt lat="52.461563888863786" lon="4.561752777129533">
     <name>DAM B</name>
     <desc>vaarweg : HAVEN IJMUIDEN
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -14293,6 +14329,7 @@ model : spar Geel</desc>
   <wpt lat="52.460841666870294" lon="4.561177777506246">
     <name>DAM C</name>
     <desc>vaarweg : HAVEN IJMUIDEN
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -14612,6 +14649,7 @@ model : spar Geel</desc>
   <wpt lat="51.38814722183817" lon="3.599530556156683">
     <name>DAM</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Zwart/geel</desc>
     <sym>2031</sym>
     <extensions>
@@ -14911,6 +14949,7 @@ model : spits Groen</desc>
   <wpt lat="53.31801666671243" lon="6.162536111044602">
     <name>DD 39-DG 2</name>
     <desc>vaarweg : DOKKUMERDIEP
+lich kleur : X
 model : spar Groen/rood</desc>
     <sym>1211</sym>
     <extensions>
@@ -15546,6 +15585,7 @@ model : spar Groen</desc>
   <wpt lat="53.39941666681047" lon="5.743266666418399">
     <name>DG-OW</name>
     <desc>vaarweg : DANTZIGGAT
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -15715,6 +15755,7 @@ model : spar Rood</desc>
   <wpt lat="51.47975555579439" lon="3.452044444078461">
     <name>DL 5</name>
     <desc>vaarweg : DEURLOO
+lich kleur : X
 model : spar Groen</desc>
     <sym>1003</sym>
     <extensions>
@@ -16772,6 +16813,7 @@ model : spits Geel</desc>
   <wpt lat="51.856486111501106" lon="5.418827777254243">
     <name>DR-C</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
 model : spits Geel</desc>
     <sym>5501</sym>
     <extensions>
@@ -16781,6 +16823,7 @@ model : spits Geel</desc>
   <wpt lat="51.8567027774257" lon="5.418872222747344">
     <name>DR-D</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
 model : spits Geel</desc>
     <sym>5501</sym>
     <extensions>
@@ -17781,6 +17824,7 @@ model : spar Geel</desc>
   <wpt lat="52.38118888910571" lon="4.943461111761236">
     <name>E</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -19639,7 +19683,7 @@ model : bol Rood/wit repeterend</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : bol Rood/wit repeterend</desc>
+model : stomp Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -19950,6 +19994,7 @@ model : spar Geel/zwart</desc>
   <wpt lat="51.36137777751311" lon="3.779530556172189">
     <name>F 14</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -19959,6 +20004,7 @@ model : spar Geel</desc>
   <wpt lat="51.356461111018604" lon="3.794638888421825">
     <name>F 16</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -19968,6 +20014,7 @@ model : spar Geel</desc>
   <wpt lat="51.35016388892467" lon="3.814383333425972">
     <name>F 18</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -20017,6 +20064,7 @@ model : spar Geel</desc>
   <wpt lat="51.35756388871798" lon="3.884630556178845">
     <name>F 26</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -20026,6 +20074,7 @@ model : spar Geel</desc>
   <wpt lat="51.36285277737564" lon="3.897308332675935">
     <name>F 28</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20035,6 +20084,7 @@ model : spar Geel</desc>
   <wpt lat="51.36876666630764" lon="3.909533333162885">
     <name>F 28A</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20044,6 +20094,7 @@ model : spar Geel</desc>
   <wpt lat="51.374533333385855" lon="3.920983334005406">
     <name>F 28B</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20053,6 +20104,7 @@ model : spar Geel</desc>
   <wpt lat="51.38073333364033" lon="3.933469444894199">
     <name>F 30</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20062,6 +20114,7 @@ model : spar Geel</desc>
   <wpt lat="51.36761666706618" lon="3.929250000660722">
     <name>F 31</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -20071,6 +20124,7 @@ model : spar Geel</desc>
   <wpt lat="51.38760000009643" lon="3.939100000448924">
     <name>F 32</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20080,6 +20134,7 @@ model : spar Geel</desc>
   <wpt lat="51.37321666634939" lon="3.942783333390892">
     <name>F 33</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20089,6 +20144,7 @@ model : spar Geel</desc>
   <wpt lat="51.394733333033074" lon="3.945416666889698">
     <name>F 34</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -20098,6 +20154,7 @@ model : spar Geel</desc>
   <wpt lat="51.38383333308353" lon="3.95703333362495">
     <name>F 35</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20107,6 +20164,7 @@ model : spar Geel</desc>
   <wpt lat="51.4019611114844" lon="3.948652777111194">
     <name>F 36</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20116,6 +20174,7 @@ model : spar Geel</desc>
   <wpt lat="51.390866666876285" lon="3.959900000257735">
     <name>F 37</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -20125,6 +20184,7 @@ model : spar Geel</desc>
   <wpt lat="51.4143611108068" lon="3.952694444234722">
     <name>F 38</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20134,6 +20194,7 @@ model : spar Geel</desc>
   <wpt lat="51.42716388929901" lon="3.957588889294068">
     <name>F 40</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20152,6 +20213,7 @@ model : spar Geel</desc>
   <wpt lat="51.41144722256133" lon="3.967577777931857">
     <name>F 41</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -20161,6 +20223,7 @@ model : spar Geel</desc>
   <wpt lat="51.42835277747451" lon="4.034475000052156">
     <name>F 42</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -20170,6 +20233,7 @@ model : spar Geel</desc>
   <wpt lat="51.42173333346729" lon="4.044363889364471">
     <name>F 42A</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20179,6 +20243,7 @@ model : spar Geel</desc>
   <wpt lat="51.42238333327092" lon="3.97619722189585">
     <name>F 43</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20188,6 +20253,7 @@ model : spar Geel</desc>
   <wpt lat="51.41062499974604" lon="4.043858333690079">
     <name>F 44</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20197,6 +20263,7 @@ model : spar Geel</desc>
   <wpt lat="51.432738889219436" lon="3.98862777755748">
     <name>F 45 A</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20206,6 +20273,7 @@ model : spar Geel</desc>
   <wpt lat="51.428805555775085" lon="3.984738888828379">
     <name>F 45</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20235,6 +20303,7 @@ model : spar Geel</desc>
   <wpt lat="51.393311110682376" lon="4.04306111159037">
     <name>F 48</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20274,6 +20343,7 @@ model : spar Geel</desc>
   <wpt lat="51.37799444411809" lon="4.05860277805222">
     <name>F 52</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20303,6 +20373,7 @@ model : spar Geel</desc>
   <wpt lat="51.375280555422144" lon="4.072594443792252">
     <name>F 54</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20312,6 +20383,7 @@ model : spar Geel</desc>
   <wpt lat="51.402194444640166" lon="4.02695555509556">
     <name>F 55</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -20341,6 +20413,7 @@ model : spar Geel</desc>
   <wpt lat="51.380333332920046" lon="4.142666667168683">
     <name>F 64A</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20350,6 +20423,7 @@ model : spar Geel</desc>
   <wpt lat="51.38344999981162" lon="4.151500000176801">
     <name>F 64B</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20359,6 +20433,7 @@ model : spar Geel</desc>
   <wpt lat="51.36710277740148" lon="4.117855555947284">
     <name>F 65</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -20368,6 +20443,7 @@ model : spar Geel</desc>
   <wpt lat="51.36881388856845" lon="4.136544444415244">
     <name>F 65A</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20377,6 +20453,7 @@ model : spar Geel</desc>
   <wpt lat="51.388266666915804" lon="4.161416666923428">
     <name>F 66</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -20386,6 +20463,7 @@ model : spar Geel</desc>
   <wpt lat="51.37071388915547" lon="4.144636111834134">
     <name>F 67</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20395,6 +20473,7 @@ model : spar Geel</desc>
   <wpt lat="51.396788889237534" lon="4.213019444575419">
     <name>F 68</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -20404,6 +20483,7 @@ model : spar Geel</desc>
   <wpt lat="51.37319722223718" lon="4.151911111346529">
     <name>F 69</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20413,6 +20493,7 @@ model : spar Geel</desc>
   <wpt lat="51.39000277814565" lon="4.219458333776803">
     <name>F 70</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -20422,6 +20503,7 @@ model : spar Geel</desc>
   <wpt lat="51.38151944418292" lon="4.220830555162252">
     <name>F 72</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -20463,6 +20545,7 @@ model : spar Geel</desc>
   <wpt lat="52.380983333245275" lon="4.946166666643816">
     <name>F</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -20859,6 +20942,7 @@ model : spar Geel</desc>
   <wpt lat="52.60814444419009" lon="5.63183888821783">
     <name>FR-D</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -20892,6 +20976,7 @@ model : spar Geel</desc>
   <wpt lat="52.60746388877016" lon="5.625222222195417">
     <name>FR-G</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -20901,6 +20986,7 @@ model : spar Geel</desc>
   <wpt lat="52.606905555292535" lon="5.621661111796906">
     <name>FR-H</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -20910,6 +20996,7 @@ model : spar Geel</desc>
   <wpt lat="52.60631944462142" lon="5.618100000236693">
     <name>FR-I</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -20931,6 +21018,7 @@ model : spar Geel</desc>
   <wpt lat="52.60515555545999" lon="5.610963888498436">
     <name>FR-K</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -20940,6 +21028,7 @@ model : spar Geel</desc>
   <wpt lat="52.60456944438654" lon="5.60740277842548">
     <name>FR-L</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -20949,6 +21038,7 @@ model : spar Geel</desc>
   <wpt lat="52.60398333311497" lon="5.60384444429185">
     <name>FR-M</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -20970,6 +21060,7 @@ model : spar Geel</desc>
   <wpt lat="52.60281111116624" lon="5.596705555346985">
     <name>FR-O</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -20979,6 +21070,7 @@ model : spar Geel</desc>
   <wpt lat="52.602230555276364" lon="5.593147222159591">
     <name>FR-P</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -20988,6 +21080,7 @@ model : spar Geel</desc>
   <wpt lat="52.601644444255854" lon="5.58958611058332">
     <name>FR-Q</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -21009,6 +21102,7 @@ model : spar Geel</desc>
   <wpt lat="52.60046944463631" lon="5.582469444346247">
     <name>FR-S</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -21018,6 +21112,7 @@ model : spar Geel</desc>
   <wpt lat="52.59988333288994" lon="5.578908333268775">
     <name>FR-T</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -21027,6 +21122,7 @@ model : spar Geel</desc>
   <wpt lat="52.599294444032324" lon="5.575333332605444">
     <name>FR-U</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -21084,6 +21180,7 @@ model : spar Geel</desc>
   <wpt lat="52.59383611085189" lon="5.555488889523152">
     <name>FR-Z-A</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -21093,6 +21190,7 @@ model : spar Geel</desc>
   <wpt lat="52.59231111142597" lon="5.552783333429348">
     <name>FR-Z-B</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -21102,6 +21200,7 @@ model : spar Geel</desc>
   <wpt lat="52.590730555910845" lon="5.550152778503048">
     <name>FR-Z-C</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -21123,6 +21222,7 @@ model : spar Geel</desc>
   <wpt lat="52.58748611153477" lon="5.545033333130503">
     <name>FR-Z-E</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -21132,6 +21232,7 @@ model : spar Geel</desc>
   <wpt lat="52.58585277781463" lon="5.542519444559016">
     <name>FR-Z-F</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -21141,6 +21242,7 @@ model : spar Geel</desc>
   <wpt lat="52.58421111066966" lon="5.539988889117855">
     <name>FR-Z-G</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -21162,6 +21264,7 @@ model : spar Geel</desc>
   <wpt lat="52.582202777348776" lon="5.53812499937511">
     <name>FR-Z-I</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -21183,6 +21286,7 @@ model : spar Geel</desc>
   <wpt lat="52.58146388846471" lon="5.539405555500637">
     <name>FR-Z-K</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -22296,6 +22400,7 @@ model : spar Geel</desc>
   <wpt lat="52.38005555567052" lon="4.948477778268599">
     <name>G</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -24758,7 +24863,6 @@ model : spar Groen</desc>
   <wpt lat="52.317950000107714" lon="5.272147222215848">
     <name>GM 16-AHH 1</name>
     <desc>vaarweg : GOOIMEER (RANDMEREN)
-lich kleur : X
 model : spar Rood/groen</desc>
     <sym>1261</sym>
     <extensions>
@@ -26308,6 +26412,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="51.349727777556616" lon="3.887172221696956">
     <name>GRT-W</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel/zwart/geel</desc>
     <sym>2331</sym>
     <extensions>
@@ -28327,6 +28432,7 @@ model : spar Geel</desc>
   <wpt lat="52.3778833335019" lon="4.949233333642517">
     <name>H</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -29538,6 +29644,7 @@ model : spar Geel/zwart</desc>
   <wpt lat="51.82018888912003" lon="4.122344443981589">
     <name>HELIUS A</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -29547,6 +29654,7 @@ model : spar Geel</desc>
   <wpt lat="51.819972222146134" lon="4.123797222745406">
     <name>HELIUS B</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -29556,6 +29664,7 @@ model : spar Geel</desc>
   <wpt lat="51.81978611117187" lon="4.125122222522563">
     <name>HELIUS C</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -29565,6 +29674,7 @@ model : spar Geel</desc>
   <wpt lat="51.81954999970823" lon="4.126583333539525">
     <name>HELIUS D</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -29764,6 +29874,7 @@ model : spar Groen</desc>
   <wpt lat="51.960944444429614" lon="4.640186111697179">
     <name>HIJ 10</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -29773,6 +29884,7 @@ model : spar Rood</desc>
   <wpt lat="51.94491944452254" lon="4.638213889268375">
     <name>HIJ 11</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -29794,6 +29906,7 @@ model : spar Rood</desc>
   <wpt lat="51.95932222214241" lon="4.643030555263425">
     <name>HIJ 13</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -29803,6 +29916,7 @@ model : spar Groen</desc>
   <wpt lat="51.96417777796962" lon="4.635822222913774">
     <name>HIJ 14</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -29824,6 +29938,7 @@ model : spar Groen</desc>
   <wpt lat="51.92598888906038" lon="4.599466666450315">
     <name>HIJ 1</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -29845,6 +29960,7 @@ model : spar Rood</desc>
   <wpt lat="51.97066111077352" lon="4.636527778474858">
     <name>HIJ 17</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -29866,6 +29982,7 @@ model : spar Rood</desc>
   <wpt lat="51.97834444453659" lon="4.666247222246671">
     <name>HIJ 19</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -29875,6 +29992,7 @@ model : spar Groen</desc>
   <wpt lat="51.97676111125416" lon="4.65562222255129">
     <name>HIJ 20</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -29884,6 +30002,7 @@ model : spar Rood</desc>
   <wpt lat="51.97900277794298" lon="4.669269444224919">
     <name>HIJ 21</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -29893,6 +30012,7 @@ model : spar Groen</desc>
   <wpt lat="51.97866388854133" lon="4.664330555659321">
     <name>HIJ 22</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -29926,6 +30046,7 @@ model : spar Rood</desc>
   <wpt lat="51.99686666707857" lon="4.697172222933013">
     <name>HIJ 25</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -29959,6 +30080,7 @@ model : spar Rood</desc>
   <wpt lat="52.00569999966297" lon="4.712400000257341">
     <name>HIJ 27</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -29968,6 +30090,7 @@ model : spar Groen</desc>
   <wpt lat="51.98502222190237" lon="4.671686111545339">
     <name>HIJ 28</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -29977,6 +30100,7 @@ model : spar Rood</desc>
   <wpt lat="51.99250833347083" lon="4.681586111468686">
     <name>HIJ 30</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -29986,6 +30110,7 @@ model : spar Rood</desc>
   <wpt lat="51.926266666784024" lon="4.601352778295368">
     <name>HIJ 3</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -29995,6 +30120,7 @@ model : spar Groen</desc>
   <wpt lat="51.92754166683653" lon="4.614650000040959">
     <name>HIJ 4</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -30004,6 +30130,7 @@ model : spar Rood</desc>
   <wpt lat="51.924872222117656" lon="4.61007777805828">
     <name>HIJ 5</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -30037,6 +30164,7 @@ model : spits Groen</desc>
   <wpt lat="51.93407222182716" lon="4.620477778021697">
     <name>HIJ 7A</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -30058,6 +30186,7 @@ model : spar Rood</desc>
   <wpt lat="51.93584722221717" lon="4.623683333008987">
     <name>HIJ 9</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -30067,6 +30196,7 @@ model : spar Groen</desc>
   <wpt lat="51.936047222213126" lon="4.627261110828727">
     <name>HIJ 9A</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -30076,6 +30206,7 @@ model : spar Groen</desc>
   <wpt lat="51.94688888925157" lon="4.638777777361252">
     <name>HIJ-11A</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -30085,6 +30216,7 @@ model : spar Groen</desc>
   <wpt lat="51.96614444414852" lon="4.632661111081906">
     <name>HIJ-14A</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -30094,6 +30226,7 @@ model : spar Rood</desc>
   <wpt lat="51.97105277768692" lon="4.634186111688203">
     <name>HIJ-14B</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -30103,6 +30236,7 @@ model : spar Rood</desc>
   <wpt lat="51.977005555645654" lon="4.657363889087165">
     <name>HIJ-20A</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -30112,6 +30246,7 @@ model : spar Rood</desc>
   <wpt lat="51.97801388898001" lon="4.661833333775726">
     <name>HIJ-20B</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -30121,6 +30256,7 @@ model : spar Rood</desc>
   <wpt lat="51.98029166650298" lon="4.670913888207409">
     <name>HIJ-21A</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -30130,6 +30266,7 @@ model : spar Groen</desc>
   <wpt lat="51.990741667033745" lon="4.680244444509856">
     <name>HIJ-21B</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -30139,6 +30276,7 @@ model : spar Groen</desc>
   <wpt lat="51.98950833289882" lon="4.677986110970203">
     <name>HIJ-28A</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -30148,6 +30286,7 @@ model : spar Rood</desc>
   <wpt lat="51.99548888868062" lon="4.686727777221242">
     <name>HIJ-30A</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -30157,6 +30296,7 @@ model : spar Rood</desc>
   <wpt lat="51.95256944452781" lon="4.641402777164009">
     <name>HIJ-6A</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -30885,6 +31025,7 @@ model : spits Groen</desc>
   <wpt lat="52.36638055544817" lon="4.968027777217983">
     <name>HS 1</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -30904,6 +31045,7 @@ model : stomp Geel</desc>
   <wpt lat="52.366647222143705" lon="4.966980555335858">
     <name>HS 2</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -30913,6 +31055,7 @@ model : spar Geel</desc>
   <wpt lat="52.36621111114021" lon="4.966338889248736">
     <name>HS 3</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -30932,6 +31075,7 @@ model : stomp Geel</desc>
   <wpt lat="52.36579722215681" lon="4.965713888188191">
     <name>HS 4</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -30941,6 +31085,7 @@ model : spar Geel</desc>
   <wpt lat="52.365377778036006" lon="4.966452777257055">
     <name>HS 5</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -30960,6 +31105,7 @@ model : stomp Geel</desc>
   <wpt lat="52.36504722256741" lon="4.96729166626147">
     <name>HS 6</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -30969,6 +31115,7 @@ model : spar Geel</desc>
   <wpt lat="52.36482499997943" lon="4.968219444021565">
     <name>HS 7</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -30988,6 +31135,7 @@ model : stomp Geel</desc>
   <wpt lat="52.36463055549651" lon="4.969175000232505">
     <name>HS 8</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -31773,6 +31921,7 @@ model : spar Geel</desc>
   <wpt lat="52.36484722239453" lon="4.997252777971008">
     <name>HW 1-SE 2</name>
     <desc>vaarweg : HAVENEILAND WEST (MARKERMEER)
+lich kleur : X
 model : spar Rood/groen repeterend</desc>
     <sym>1421</sym>
     <extensions>
@@ -31782,6 +31931,7 @@ model : spar Rood/groen repeterend</desc>
   <wpt lat="52.36214166699129" lon="4.991283333632276">
     <name>HW 10</name>
     <desc>vaarweg : HAVENEILAND WEST (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -31791,6 +31941,7 @@ model : spar Rood</desc>
   <wpt lat="52.361566666759096" lon="4.988730555120727">
     <name>HW 11</name>
     <desc>vaarweg : HAVENEILAND WEST (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -31800,6 +31951,7 @@ model : spar Groen</desc>
   <wpt lat="52.360316666961914" lon="4.987336110472916">
     <name>HW 12</name>
     <desc>vaarweg : HAVENEILAND WEST (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -31809,6 +31961,7 @@ model : spar Rood</desc>
   <wpt lat="52.36060833363215" lon="4.987055555241255">
     <name>HW 13</name>
     <desc>vaarweg : HAVENEILAND WEST (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -31828,6 +31981,7 @@ model : spar Geel</desc>
   <wpt lat="52.36460000039192" lon="4.996522222639006">
     <name>HW 3</name>
     <desc>vaarweg : HAVENEILAND WEST (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -31847,6 +32001,7 @@ model : spar Geel</desc>
   <wpt lat="52.36360277741262" lon="4.997877777318128">
     <name>HW 4</name>
     <desc>vaarweg : HAVENEILAND WEST (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -31856,6 +32011,7 @@ model : spar Rood</desc>
   <wpt lat="52.36397222226902" lon="4.994902778289867">
     <name>HW 5</name>
     <desc>vaarweg : HAVENEILAND WEST (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -31885,6 +32041,7 @@ model : spar Rood</desc>
   <wpt lat="52.363302777422675" lon="4.99298611068463">
     <name>HW 7</name>
     <desc>vaarweg : HAVENEILAND WEST (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -31894,6 +32051,7 @@ model : spar Groen</desc>
   <wpt lat="52.36266111114082" lon="4.99361944384852">
     <name>HW 8</name>
     <desc>vaarweg : HAVENEILAND WEST (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -31903,6 +32061,7 @@ model : spar Rood</desc>
   <wpt lat="52.36253055538097" lon="4.990894444049093">
     <name>HW 9</name>
     <desc>vaarweg : HAVENEILAND WEST (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -32008,6 +32167,7 @@ model : spits Groen</desc>
   <wpt lat="52.58989722266863" lon="5.737736110564145">
     <name>HZR 10</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -32017,6 +32177,7 @@ model : spar Rood</desc>
   <wpt lat="52.5872361107386" lon="5.743749999368121">
     <name>HZR 11</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -32026,6 +32187,7 @@ model : spar Groen</desc>
   <wpt lat="52.58860000042096" lon="5.744455555286805">
     <name>HZR 12</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -32035,6 +32197,7 @@ model : spar Rood</desc>
   <wpt lat="52.58593888868633" lon="5.750483333589709">
     <name>HZR 13</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -32044,6 +32207,7 @@ model : spar Groen</desc>
   <wpt lat="52.58731388932112" lon="5.751186110692812">
     <name>HZR 14</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -32053,6 +32217,7 @@ model : spar Rood</desc>
   <wpt lat="52.584644444561775" lon="5.757213889384243">
     <name>HZR 15</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -32074,6 +32239,7 @@ model : spar Groen</desc>
   <wpt lat="52.58601666627359" lon="5.757919444146298">
     <name>HZR 16</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -32107,6 +32273,7 @@ model : spar Rood</desc>
   <wpt lat="52.58328611148274" lon="5.766175000361202">
     <name>HZR 19-KH 2</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Groen/rood</desc>
     <sym>1201</sym>
     <extensions>
@@ -32116,6 +32283,7 @@ model : spar Groen/rood</desc>
   <wpt lat="52.584316666265686" lon="5.770491666004311">
     <name>HZR 20</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -32125,6 +32293,7 @@ model : spar Rood</desc>
   <wpt lat="52.583211111215284" lon="5.769758332613796">
     <name>HZR 21</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -32134,6 +32303,7 @@ model : spar Groen</desc>
   <wpt lat="52.58401111103366" lon="5.776594445124391">
     <name>HZR 22</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : Rood
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -32143,6 +32313,7 @@ model : spar Rood</desc>
   <wpt lat="52.58311666709912" lon="5.773352778526857">
     <name>HZR 23</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -32152,6 +32323,7 @@ model : spar Groen</desc>
   <wpt lat="52.58310555543216" lon="5.777372222940942">
     <name>HZR 25-VOM 2</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Groen/rood</desc>
     <sym>1211</sym>
     <extensions>
@@ -32220,6 +32392,7 @@ model : spar Rood</desc>
   <wpt lat="52.58981944454604" lon="5.730283333557922">
     <name>HZR 7</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -32229,6 +32402,7 @@ model : spar Groen</desc>
   <wpt lat="52.591191666402295" lon="5.731002777329747">
     <name>HZR 8</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -32238,6 +32412,7 @@ model : spar Rood</desc>
   <wpt lat="52.588525000167444" lon="5.737016666744728">
     <name>HZR 9</name>
     <desc>vaarweg : HANZERAK-KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -32267,6 +32442,7 @@ model : spar Geel</desc>
   <wpt lat="52.377249999979796" lon="4.949549999737144">
     <name>I</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -32430,6 +32606,7 @@ model : stomp Rood</desc>
   <wpt lat="52.37600000015378" lon="4.951549999612475">
     <name>IJ 17</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -32463,6 +32640,7 @@ model : spits Groen</desc>
   <wpt lat="52.37450555519831" lon="4.953013888461389">
     <name>IJ 21</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -32472,6 +32650,7 @@ model : spar Groen</desc>
   <wpt lat="52.37373611129205" lon="4.953947221723948">
     <name>IJ 23</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -32485,7 +32664,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
-    <sym>1005</sym>
+    <sym>1008</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -32661,8 +32840,9 @@ model : spits Groen</desc>
   <wpt lat="52.394380555916335" lon="4.894569444668754">
     <name>IJ A</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : Rood
 model : spar Rood/wit repeterend</desc>
-    <sym>1561</sym>
+    <sym>1564</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -32670,6 +32850,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="52.38976666707798" lon="4.897141667004882">
     <name>IJ B</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Rood/wit repeterend</desc>
     <sym>1561</sym>
     <extensions>
@@ -32679,6 +32860,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="52.38686388845735" lon="4.898172222549269">
     <name>IJ C</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Rood/wit repeterend</desc>
     <sym>1561</sym>
     <extensions>
@@ -32768,6 +32950,7 @@ model : spar Geel</desc>
   <wpt lat="52.34271111094177" lon="5.114261111533986">
     <name>IJM 10</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -32777,6 +32960,7 @@ model : spar Rood</desc>
   <wpt lat="52.35097222185602" lon="5.10735555562322">
     <name>IJM 11</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -32797,6 +32981,7 @@ model : spar Rood/groen</desc>
   <wpt lat="52.35763055588239" lon="5.098388888445005">
     <name>IJM 13</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -32806,6 +32991,7 @@ model : spar Groen</desc>
   <wpt lat="52.34976111109624" lon="5.104605556272354">
     <name>IJM 14</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -32851,6 +33037,7 @@ model : spar Groen</desc>
   <wpt lat="52.35657777784807" lon="5.095269443750231">
     <name>IJM 16</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -32860,6 +33047,7 @@ model : spar Rood</desc>
   <wpt lat="52.3709388885818" lon="5.08043055624513">
     <name>IJM 17</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -32881,6 +33069,7 @@ model : spar Rood</desc>
   <wpt lat="52.37759444429822" lon="5.071455555442738">
     <name>IJM 19</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -32902,6 +33091,7 @@ model : spar Groen</desc>
   <wpt lat="52.36979722253469" lon="5.077136111003631">
     <name>IJM 20</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -32911,6 +33101,7 @@ model : spar Rood</desc>
   <wpt lat="52.37640833326938" lon="5.068072222809629">
     <name>IJM 22</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -32944,6 +33135,7 @@ model : spar Rood</desc>
   <wpt lat="52.4624611115485" lon="4.561222222548567">
     <name>IJM 3-SPM 2</name>
     <desc>vaarweg : HAVEN IJMUIDEN
+lich kleur : X
 model : spar Groen/rood</desc>
     <sym>1201</sym>
     <extensions>
@@ -32977,7 +33169,8 @@ model : spar Rood</desc>
   <wpt lat="52.337141666800576" lon="5.126036110626035">
     <name>IJM 5-JH 2</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
-model : spar Groen/rood</desc>
+lich kleur : X
+model : bol Groen/rood</desc>
     <sym>1201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -32986,6 +33179,7 @@ model : spar Groen/rood</desc>
   <wpt lat="52.335777777949154" lon="5.123752777488315">
     <name>IJM 6</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -32995,6 +33189,7 @@ model : spar Rood</desc>
   <wpt lat="52.34066111137783" lon="5.121230556126211">
     <name>IJM 7</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -33004,6 +33199,7 @@ model : spar Groen</desc>
   <wpt lat="52.339558333195335" lon="5.118580555133515">
     <name>IJM 8</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -33028,7 +33224,7 @@ model : spar Groen</desc>
 licht type : Mo (morse)
 licht periode : 8
 lich kleur : Wit
-model : bol Rood/wit repeterend</desc>
+model : stomp Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -33264,6 +33460,7 @@ model : spar Geel/zwart/geel</desc>
   <wpt lat="53.19616111069041" lon="5.150044444185642">
     <name>IN 10</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -33273,6 +33470,7 @@ model : spar Rood</desc>
   <wpt lat="53.18461388850095" lon="5.14995833314991">
     <name>IN 11</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -33282,6 +33480,7 @@ model : spar Groen</desc>
   <wpt lat="53.18475277734419" lon="5.152950000557619">
     <name>IN 12</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -33291,6 +33490,7 @@ model : spar Rood</desc>
   <wpt lat="53.17784999990577" lon="5.160613888336997">
     <name>IN 13</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -33300,6 +33500,7 @@ model : spar Groen</desc>
   <wpt lat="53.17929166649538" lon="5.162852777482637">
     <name>IN 14</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -33309,6 +33510,7 @@ model : spar Rood</desc>
   <wpt lat="53.17338611123718" lon="5.176638889095855">
     <name>IN 15-SO 52</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Groen/rood/groen</desc>
     <sym>1321</sym>
     <extensions>
@@ -33328,6 +33530,7 @@ model : spar Groen</desc>
   <wpt lat="53.17392777772975" lon="5.17903055494086">
     <name>IN 16</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -33337,6 +33540,7 @@ model : spar Rood</desc>
   <wpt lat="53.16860277752249" lon="5.190272222763205">
     <name>IN 17</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -33346,6 +33550,7 @@ model : spar Groen</desc>
   <wpt lat="53.16963611094716" lon="5.191163888558507">
     <name>IN 18</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -33355,6 +33560,7 @@ model : spar Rood</desc>
   <wpt lat="53.23931666675809" lon="5.153850000582101">
     <name>IN 1A</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -33364,6 +33570,7 @@ model : spar Groen</desc>
   <wpt lat="53.23931666642282" lon="5.157280555450565">
     <name>IN 2A</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -33373,6 +33580,7 @@ model : spar Rood</desc>
   <wpt lat="53.22963611095219" lon="5.154069444226441">
     <name>IN 3</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -33382,6 +33590,7 @@ model : spar Groen</desc>
   <wpt lat="53.22960000035146" lon="5.157647221829036">
     <name>IN 4</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -33391,6 +33600,7 @@ model : spar Rood</desc>
   <wpt lat="53.217194444620894" lon="5.155469444900049">
     <name>IN 5</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -33400,6 +33610,7 @@ model : spar Groen</desc>
   <wpt lat="53.21693055541541" lon="5.158688888280678">
     <name>IN 6</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -33409,6 +33620,7 @@ model : spar Rood</desc>
   <wpt lat="53.20802222218252" lon="5.151477777472179">
     <name>IN 7</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -33418,6 +33630,7 @@ model : spar Groen</desc>
   <wpt lat="53.207758333280125" lon="5.154472222152956">
     <name>IN 8</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -33427,6 +33640,7 @@ model : spar Rood</desc>
   <wpt lat="53.195386110710686" lon="5.144663888889144">
     <name>IN 9</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -33436,6 +33650,7 @@ model : spar Groen</desc>
   <wpt lat="53.187063888961646" lon="5.156849999890724">
     <name>IN-GAS W1</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Geel/zwart/geel</desc>
     <sym>2331</sym>
     <extensions>
@@ -33445,6 +33660,7 @@ model : spar Geel/zwart/geel</desc>
   <wpt lat="53.1688111106792" lon="5.192213888259359">
     <name>IN-GAS W</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Geel/zwart/geel</desc>
     <sym>2331</sym>
     <extensions>
@@ -33454,6 +33670,7 @@ model : spar Geel/zwart/geel</desc>
   <wpt lat="53.16708888850341" lon="5.19552500017189">
     <name>IN-GAS Z 1</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Geel/zwart</desc>
     <sym>2231</sym>
     <extensions>
@@ -33463,6 +33680,7 @@ model : spar Geel/zwart</desc>
   <wpt lat="53.18198888853816" lon="5.166497222750207">
     <name>IN-GAS Z</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Geel/zwart</desc>
     <sym>2231</sym>
     <extensions>
@@ -33472,6 +33690,7 @@ model : spar Geel/zwart</desc>
   <wpt lat="53.16287500021287" lon="5.194086111695588">
     <name>IN-KL 1</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -33481,6 +33700,7 @@ model : spar Geel</desc>
   <wpt lat="53.156513888607385" lon="5.207580555054443">
     <name>IN-KL 2</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -33551,6 +33771,7 @@ model : spar Geel</desc>
   <wpt lat="52.37658333289768" lon="4.949816667105884">
     <name>J</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -34939,6 +35160,7 @@ model : spar Geel</desc>
   <wpt lat="52.37526666654522" lon="4.950533332641315">
     <name>K</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -36336,6 +36558,7 @@ model : stomp Geel</desc>
   <wpt lat="52.84269444468994" lon="5.693644444456854">
     <name>KITE 26</name>
     <desc>vaarweg : LEMSTERGEUL (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -36345,6 +36568,7 @@ model : spar Geel</desc>
   <wpt lat="52.83927222263455" lon="5.699927777378451">
     <name>KITE 27</name>
     <desc>vaarweg : LEMSTERGEUL (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -36354,6 +36578,7 @@ model : spar Geel</desc>
   <wpt lat="52.83929722241866" lon="5.693591666318925">
     <name>KITE 28</name>
     <desc>vaarweg : LEMSTERGEUL (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -37508,6 +37733,7 @@ model : stomp Geel</desc>
   <wpt lat="51.43691944471806" lon="3.698544444487954">
     <name>KL-A</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -37527,6 +37753,7 @@ model : spar Geel</desc>
   <wpt lat="51.431186110878095" lon="3.706163888535375">
     <name>KL-B</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -37806,7 +38033,6 @@ model : spar Rood/groen</desc>
   <wpt lat="52.610127777474915" lon="5.802880554900219">
     <name>KM 2-RAG 1</name>
     <desc>vaarweg : KETELMEER RECREATIE (RANDMEREN)
-lich kleur : X
 model : spar Rood/groen</desc>
     <sym>1261</sym>
     <extensions>
@@ -37817,7 +38043,7 @@ model : spar Rood/groen</desc>
     <name>KM 20</name>
     <desc>vaarweg : KETELMEER RECREATIE (RANDMEREN)
 lich kleur : X
-model : spar Rood/groen</desc>
+model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -37827,7 +38053,7 @@ model : spar Rood/groen</desc>
     <name>KM 22</name>
     <desc>vaarweg : KETELMEER RECREATIE (RANDMEREN)
 lich kleur : X
-model : spar Rood/groen</desc>
+model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -37837,7 +38063,7 @@ model : spar Rood/groen</desc>
     <name>KM 24</name>
     <desc>vaarweg : KETELMEER RECREATIE (RANDMEREN)
 lich kleur : X
-model : spar Rood/groen</desc>
+model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -37847,7 +38073,7 @@ model : spar Rood/groen</desc>
     <name>KM 26</name>
     <desc>vaarweg : KETELMEER RECREATIE (RANDMEREN)
 lich kleur : X
-model : spar Rood/groen</desc>
+model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -37857,7 +38083,7 @@ model : spar Rood/groen</desc>
     <name>KM 28</name>
     <desc>vaarweg : KETELMEER RECREATIE (RANDMEREN)
 lich kleur : X
-model : spar Rood/groen</desc>
+model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -37867,7 +38093,7 @@ model : spar Rood/groen</desc>
     <name>KM 30</name>
     <desc>vaarweg : KETELMEER RECREATIE (RANDMEREN)
 lich kleur : X
-model : spar Rood/groen</desc>
+model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -38245,7 +38471,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.97769444481583" lon="5.688527777263936">
+  <wpt lat="52.97769999967453" lon="5.688511110660481">
     <name>KR 2</name>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
 lich kleur : X
@@ -38631,7 +38857,7 @@ model : spar Groen</desc>
     <name>KT 1-EV 2</name>
     <desc>vaarweg : KEETEN-MASTGAT-ZIJPE
 licht type : Q (quick-flashing)
-lich kleur : Wit
+lich kleur : Groen
 model : spar Groen/rood</desc>
     <sym>1212</sym>
     <extensions>
@@ -38858,7 +39084,7 @@ model : spar Rood</desc>
     <name>KT 27-KR 2</name>
     <desc>vaarweg : KEETEN-MASTGAT-ZIJPE
 licht type : Q (quick-flashing)
-lich kleur : Wit
+lich kleur : Groen
 model : spar Groen/rood</desc>
     <sym>1212</sym>
     <extensions>
@@ -39048,7 +39274,7 @@ model : spar Groen</desc>
     <name>KT 42-ZG 1</name>
     <desc>vaarweg : KEETEN-MASTGAT-ZIJPE
 licht type : Q (quick-flashing)
-lich kleur : Wit
+lich kleur : Rood
 model : spar Rood/groen</desc>
     <sym>1262</sym>
     <extensions>
@@ -39793,6 +40019,7 @@ model : stomp Geel</desc>
   <wpt lat="52.347394444041996" lon="5.13263888817426">
     <name>Kite-MZ 10</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -39802,6 +40029,7 @@ model : spar Geel</desc>
   <wpt lat="52.369913888831576" lon="5.123622222127565">
     <name>Kite-MZ 11</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -39811,6 +40039,7 @@ model : spar Geel</desc>
   <wpt lat="52.36523055585279" lon="5.125663889583072">
     <name>Kite-MZ 12</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -39820,6 +40049,7 @@ model : spar Geel</desc>
   <wpt lat="52.360605555888874" lon="5.12804722154335">
     <name>Kite-MZ 13</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -39829,6 +40059,7 @@ model : spar Geel</desc>
   <wpt lat="52.35591944446162" lon="5.130313889364355">
     <name>Kite-MZ 14</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -39838,6 +40069,7 @@ model : spar Geel</desc>
   <wpt lat="52.3512305554346" lon="5.13246944482638">
     <name>Kite-MZ 15</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -39847,6 +40079,7 @@ model : spar Geel</desc>
   <wpt lat="52.37469722252051" lon="5.121552777845544">
     <name>Kite-MZ 1</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -39856,6 +40089,7 @@ model : spar Geel</desc>
   <wpt lat="52.37036111147915" lon="5.116827777520069">
     <name>Kite-MZ 2</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -39865,6 +40099,7 @@ model : spar Geel</desc>
   <wpt lat="52.36603333355809" lon="5.112063889176564">
     <name>Kite-MZ 3</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -39874,6 +40109,7 @@ model : spar Geel</desc>
   <wpt lat="52.36170555574237" lon="5.107236111215341">
     <name>Kite-MZ 4</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -39883,6 +40119,7 @@ model : spar Geel</desc>
   <wpt lat="52.357161110730125" lon="5.102280555422507">
     <name>Kite-MZ 5</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -39892,6 +40129,7 @@ model : spar Geel</desc>
   <wpt lat="52.353119444083276" lon="5.107913889127564">
     <name>Kite-MZ 6</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -39901,6 +40139,7 @@ model : spar Geel</desc>
   <wpt lat="52.34901944428979" lon="5.113633333721594">
     <name>Kite-MZ 7</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -39910,6 +40149,7 @@ model : spar Geel</desc>
   <wpt lat="52.345136111546495" lon="5.119338889203974">
     <name>Kite-MZ 8</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -39919,6 +40159,7 @@ model : spar Geel</desc>
   <wpt lat="52.34625555556213" lon="5.126213889456538">
     <name>Kite-MZ 9</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -41449,6 +41690,7 @@ model : spar Geel</desc>
   <wpt lat="52.374336110844645" lon="4.951094444924909">
     <name>L</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -42879,6 +43121,7 @@ model : spar Geel</desc>
   <wpt lat="52.373502778146815" lon="4.951711111378864">
     <name>M</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -43522,6 +43765,7 @@ model : stomp Rood</desc>
   <wpt lat="52.34361944482175" lon="5.095047221797117">
     <name>MG 10</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -43552,6 +43796,7 @@ model : spits Groen</desc>
   <wpt lat="52.34454444481382" lon="5.094922222006589">
     <name>MG 11</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -43583,6 +43828,7 @@ model : stomp Rood</desc>
   <wpt lat="52.3434194440484" lon="5.09066111138084">
     <name>MG 12</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -43614,6 +43860,7 @@ model : spits Groen</desc>
   <wpt lat="52.34433611132804" lon="5.090536111811573">
     <name>MG 13</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -43655,6 +43902,7 @@ model : stomp Rood</desc>
   <wpt lat="52.34321944460867" lon="5.086258333277242">
     <name>MG 14</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -43706,6 +43954,7 @@ model : spits Groen</desc>
   <wpt lat="52.34412777793724" lon="5.086150000512148">
     <name>MG 15</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -43715,6 +43964,7 @@ model : spar Groen</desc>
   <wpt lat="52.34299166637708" lon="5.081872221785311">
     <name>MG 16</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -43744,6 +43994,7 @@ model : spar Groen</desc>
   <wpt lat="52.34392777744739" lon="5.081763889103896">
     <name>MG 17</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -43753,6 +44004,7 @@ model : spar Groen</desc>
   <wpt lat="52.34288888923491" lon="5.077472221862287">
     <name>MG 18</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -43784,6 +44036,7 @@ model : spits Groen</desc>
   <wpt lat="52.34383333323666" lon="5.077361111327588">
     <name>MG 19</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -43803,6 +44056,7 @@ model : spar Groen</desc>
   <wpt lat="52.342852777828526" lon="5.073011111728102">
     <name>MG 20</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -43812,6 +44066,7 @@ model : spar Rood</desc>
   <wpt lat="52.343805555688505" lon="5.072944443914833">
     <name>MG 21</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -43831,6 +44086,7 @@ model : spar Rood</desc>
   <wpt lat="52.34179722239643" lon="5.111127778477659">
     <name>MG 2</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -43862,6 +44118,7 @@ model : spits Groen</desc>
   <wpt lat="52.342136110681786" lon="5.110727777843989">
     <name>MG 3</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -43891,6 +44148,7 @@ model : spar Rood</desc>
   <wpt lat="52.34141944476162" lon="5.107358333535738">
     <name>MG 4</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -43920,6 +44178,7 @@ model : spar Groen</desc>
   <wpt lat="52.342336111138636" lon="5.107644445142805">
     <name>MG 5</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -43949,6 +44208,7 @@ model : spar Rood</desc>
   <wpt lat="52.34267777756125" lon="5.103227778486122">
     <name>MG 6</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -43980,6 +44240,7 @@ model : spits Groen</desc>
   <wpt lat="52.3434777781505" lon="5.103880555139518">
     <name>MG 7</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -44011,6 +44272,7 @@ model : spar Rood</desc>
   <wpt lat="52.34381944450207" lon="5.099549999363415">
     <name>MG 8</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -44050,6 +44312,7 @@ model : spar Groen</desc>
   <wpt lat="52.34476111107926" lon="5.099677777084998">
     <name>MG 9</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -44069,6 +44332,7 @@ model : spar Groen</desc>
   <wpt lat="53.04347222209336" lon="4.671361111133876">
     <name>MG-A</name>
     <desc>vaarweg : MOLENGAT (ZEEGAT DEN HELDER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -44078,6 +44342,7 @@ model : spar Geel</desc>
   <wpt lat="53.03380277779155" lon="4.681286110416676">
     <name>MG-B</name>
     <desc>vaarweg : MOLENGAT (ZEEGAT DEN HELDER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -44219,6 +44484,7 @@ model : spar Rood</desc>
   <wpt lat="51.37666388928322" lon="3.648622221554054">
     <name>MHC A</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -44228,6 +44494,7 @@ model : spar Geel</desc>
   <wpt lat="51.37589166706878" lon="3.65726388905864">
     <name>MHC B</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -44237,6 +44504,7 @@ model : spar Geel</desc>
   <wpt lat="51.37582222251967" lon="3.670274999461116">
     <name>MHC C</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -47772,6 +48040,7 @@ model : spar Groen</desc>
   <wpt lat="51.580966666488" lon="3.640847221671972">
     <name>MP 1</name>
     <desc>vaarweg : VEERSE MEER
+lich kleur : X
 model : stomp Geel</desc>
     <sym>3601</sym>
     <extensions>
@@ -49427,6 +49696,7 @@ model : spar Geel</desc>
   <wpt lat="52.372633333565766" lon="4.952352777828448">
     <name>N</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -53012,6 +53282,7 @@ model : spar Geel/zwart/geel</desc>
   <wpt lat="51.42381944435763" lon="3.709813888275244">
     <name>NOORDNOL</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel/zwart/geel</desc>
     <sym>2331</sym>
     <extensions>
@@ -53021,6 +53292,7 @@ model : spar Geel/zwart/geel</desc>
   <wpt lat="51.436333333217554" lon="3.508833333118939">
     <name>NP 2</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -53030,6 +53302,7 @@ model : spar Geel</desc>
   <wpt lat="51.43540277795104" lon="3.522175000404999">
     <name>NP 4</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -53039,6 +53312,7 @@ model : spar Geel</desc>
   <wpt lat="51.43633055589963" lon="3.53558888952085">
     <name>NP 6</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -55810,6 +56084,7 @@ model : spar Zwart/geel</desc>
   <wpt lat="53.21826666655175" lon="5.192319443800018">
     <name>O-IN OBSTN</name>
     <desc>vaarweg : INSCHOT
+lich kleur : X
 model : spar Zwart/geel</desc>
     <sym>2031</sym>
     <extensions>
@@ -55899,6 +56174,7 @@ model : spar Rood/groen repeterend</desc>
   <wpt lat="51.821500000270085" lon="4.114833333426111">
     <name>O</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -55938,6 +56214,7 @@ model : spar Geel</desc>
   <wpt lat="51.72964444474587" lon="4.384055555164327">
     <name>OBSTAKEL A</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -55947,6 +56224,7 @@ model : spar Geel</desc>
   <wpt lat="51.726391666622334" lon="4.391205556116999">
     <name>OBSTAKEL B</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -55956,6 +56234,7 @@ model : spar Geel</desc>
   <wpt lat="51.72392222185848" lon="4.398033332749645">
     <name>OBSTAKEL C</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -58406,6 +58685,7 @@ model : spar Rood/groen repeterend</desc>
   <wpt lat="52.38335277734574" lon="4.931272222620636">
     <name>P</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
@@ -61241,6 +61521,7 @@ model : spar Groen</desc>
   <wpt lat="53.40084166703168" lon="5.811922221756708">
     <name>PS 10</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -61250,6 +61531,7 @@ model : spar Geel</desc>
   <wpt lat="53.40131388849443" lon="5.812844443870239">
     <name>PS 12</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -61269,6 +61551,7 @@ model : spar Geel</desc>
   <wpt lat="53.39927222202683" lon="5.810405555871649">
     <name>PS 1</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -61308,6 +61591,7 @@ model : spar Geel</desc>
   <wpt lat="53.399836110971236" lon="5.814019444420936">
     <name>PS 3</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -61329,6 +61613,7 @@ model : spar Groen</desc>
   <wpt lat="53.41370555582679" lon="5.802155555437201">
     <name>PS 4</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -61348,6 +61633,7 @@ model : spar Geel</desc>
   <wpt lat="53.411708332991765" lon="5.802963888358646">
     <name>PS 6</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -61367,6 +61653,7 @@ model : spar Geel</desc>
   <wpt lat="53.40907777765089" lon="5.80253055484722">
     <name>PS 8</name>
     <desc>vaarweg : VEERBOOT ROUTE AMELAND
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -61387,6 +61674,7 @@ model : spar Geel</desc>
   <wpt lat="51.75714166671235" lon="4.289972222476863">
     <name>PUT 1</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -61430,6 +61718,7 @@ model : Pilaar Zwart/geel/zwart</desc>
   <wpt lat="51.35059444434064" lon="3.853416667191271">
     <name>PVT-ZE</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel/zwart</desc>
     <sym>2231</sym>
     <extensions>
@@ -61439,6 +61728,7 @@ model : spar Geel/zwart</desc>
   <wpt lat="51.40166666645578" lon="4.024297221925756">
     <name>PW 1</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -61515,6 +61805,7 @@ model : spar Geel</desc>
   <wpt lat="51.83984166646504" lon="4.073591666313979">
     <name>Q 10</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -61524,6 +61815,7 @@ model : spar Geel</desc>
   <wpt lat="51.83950833295896" lon="4.074372221824245">
     <name>Q 12</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -61533,6 +61825,7 @@ model : spar Geel</desc>
   <wpt lat="51.83960555514075" lon="4.074686111617251">
     <name>Q 14</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -61542,6 +61835,7 @@ model : spar Geel</desc>
   <wpt lat="51.83971944439002" lon="4.07504444512465">
     <name>Q 16</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -61551,6 +61845,7 @@ model : spar Geel</desc>
   <wpt lat="51.84165000011166" lon="4.072052777071936">
     <name>Q 2</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -61560,6 +61855,7 @@ model : spar Geel</desc>
   <wpt lat="51.841136111410265" lon="4.07237222272785">
     <name>Q 4</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -61569,6 +61865,7 @@ model : spar Geel</desc>
   <wpt lat="51.840797222332704" lon="4.072719444869776">
     <name>Q 6</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -61578,6 +61875,7 @@ model : spar Geel</desc>
   <wpt lat="51.84041944470806" lon="4.07313888845152">
     <name>Q 8</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -62102,6 +62400,7 @@ model : spar Rood/groen</desc>
   <wpt lat="51.61933611082777" lon="3.782013888507139">
     <name>R 17</name>
     <desc>vaarweg : ROOMPOT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -63146,6 +63445,7 @@ model : spar Geel</desc>
   <wpt lat="51.68681666630435" lon="4.372891667123335">
     <name>R-112</name>
     <desc>vaarweg : HELLEGAT
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -63155,6 +63455,7 @@ model : spar Geel</desc>
   <wpt lat="51.688816666599855" lon="4.37566666600287">
     <name>R-114</name>
     <desc>vaarweg : HELLEGAT
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -63484,6 +63785,7 @@ model : spar Geel</desc>
   <wpt lat="51.644088889162084" lon="4.226219443966087">
     <name>R-36</name>
     <desc>vaarweg : ZUID VLIJE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -65283,6 +65585,7 @@ model : spar Rood/groen repeterend</desc>
   <wpt lat="51.72416944401154" lon="4.400861110529594">
     <name>R-HVB-A</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -65292,6 +65595,7 @@ model : spar Geel</desc>
   <wpt lat="51.72363055523555" lon="4.400405555986556">
     <name>R-HVB-B</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -65301,6 +65605,7 @@ model : spar Geel</desc>
   <wpt lat="51.72297222247738" lon="4.399855555195503">
     <name>R-HVB-C</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -65310,6 +65615,7 @@ model : spar Geel</desc>
   <wpt lat="51.72273888928662" lon="4.400613888862884">
     <name>R-HVB-D</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -65319,6 +65625,7 @@ model : spar Geel</desc>
   <wpt lat="51.721238889035206" lon="4.406572222639602">
     <name>R-HVB-E</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -65328,6 +65635,7 @@ model : spar Geel</desc>
   <wpt lat="51.72044722251385" lon="4.40686944496069">
     <name>R-HVB-F</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -65337,6 +65645,7 @@ model : spar Geel</desc>
   <wpt lat="51.72020555594008" lon="4.407780555850087">
     <name>R-HVB-G</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -65346,6 +65655,7 @@ model : spar Geel</desc>
   <wpt lat="51.719980555345764" lon="4.408683333763606">
     <name>R-HVB-H</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -65355,6 +65665,7 @@ model : spar Geel</desc>
   <wpt lat="51.72023611083981" lon="4.40980555536654">
     <name>R-HVB-I</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -67103,6 +67414,7 @@ model : spar Rood/groen repeterend</desc>
   <wpt lat="52.3833999999099" lon="4.934150000671476">
     <name>R</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
@@ -67172,6 +67484,7 @@ model : spar Geel</desc>
   <wpt lat="52.32611111138623" lon="5.138069443957622">
     <name>RADAR 3</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -67181,6 +67494,7 @@ model : spar Geel</desc>
   <wpt lat="52.32583888930871" lon="5.137438889309268">
     <name>RADAR 4</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -67781,6 +68095,7 @@ model : spits Groen</desc>
   <wpt lat="52.4659388892372" lon="4.631630555628758">
     <name>RB-A</name>
     <desc>vaarweg : NOORDZEEKANAAL
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -68365,6 +68680,7 @@ model : spar Zwart/geel/zwart</desc>
   <wpt lat="53.16128055537266" lon="4.917880555300767">
     <name>RG-V</name>
     <desc>vaarweg : VAARWATER NAAR DE COCKSDORP
+lich kleur : X
 model : spar Geel/zwart/geel</desc>
     <sym>2331</sym>
     <extensions>
@@ -68687,7 +69003,7 @@ model : spar Rood</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : spar Rood/wit repeterend</desc>
+model : spar Rood/wit</desc>
     <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -71237,6 +71553,7 @@ model : spar Geel</desc>
   <wpt lat="52.38346666687665" lon="4.935611111828899">
     <name>S</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
@@ -72344,6 +72661,7 @@ model : stomp Rood</desc>
   <wpt lat="51.62143888909039" lon="3.828527777544994">
     <name>SC-A</name>
     <desc>vaarweg : OOSTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -72875,6 +73193,7 @@ model : spar Rood</desc>
   <wpt lat="52.39345555577498" lon="4.890400000499406">
     <name>SD-A</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -72896,6 +73215,7 @@ model : spits Geel</desc>
   <wpt lat="52.39311666686946" lon="4.891311111642029">
     <name>SD-C</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -72917,6 +73237,7 @@ model : spits Geel</desc>
   <wpt lat="52.392202777842655" lon="4.891991666497371">
     <name>SD-E</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -72938,6 +73259,7 @@ model : spits Geel</desc>
   <wpt lat="52.39151388924584" lon="4.891713888971377">
     <name>SD-G</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -75277,6 +75599,7 @@ model : spar Geel</desc>
   <wpt lat="51.38443055598681" lon="4.176902778135982">
     <name>SN 1</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -75286,6 +75609,7 @@ model : spar Geel</desc>
   <wpt lat="51.391591666764114" lon="4.186913889253824">
     <name>SN 2</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -75295,6 +75619,7 @@ model : spar Geel</desc>
   <wpt lat="51.38746111094423" lon="4.191619444227174">
     <name>SN 3</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -75328,6 +75653,7 @@ model : spits Geel</desc>
   <wpt lat="51.3858388892499" lon="4.204591667257104">
     <name>SN 7</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -75337,6 +75663,7 @@ model : spar Geel</desc>
   <wpt lat="51.3815305554965" lon="4.209661111771551">
     <name>SN 9</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -77211,6 +77538,7 @@ model : spar Geel</desc>
   <wpt lat="52.53137222265615" lon="5.427119445160624">
     <name>SPH-F</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -77320,6 +77648,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="51.806894444658965" lon="4.151794444042147">
     <name>SPM 11</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -77379,8 +77708,9 @@ model : spar Groen/wit repeterend</desc>
   <wpt lat="52.46190000016534" lon="4.559513889594164">
     <name>SPM 1</name>
     <desc>vaarweg : HAVEN IJMUIDEN
+lich kleur : X
 model : spar Groen</desc>
-    <sym>1001</sym>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -77498,8 +77828,9 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="52.46173055542767" lon="4.560380556135804">
     <name>SPM 4</name>
     <desc>vaarweg : HAVEN IJMUIDEN
+lich kleur : X
 model : spar Rood</desc>
-    <sym>1101</sym>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -77527,6 +77858,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="51.80713611087896" lon="4.143077777727708">
     <name>SPM 7</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
     <extensions>
@@ -77577,7 +77909,7 @@ model : spar Rood/groen repeterend</desc>
     <name>SPN 10</name>
     <desc>vaarweg : HARINGVLIET
 lich kleur : X
-model : spar Rood/wit</desc>
+model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -77696,6 +78028,7 @@ model : spar Groen/wit repeterend</desc>
   <wpt lat="51.80788611098925" lon="4.155766666553057">
     <name>SPN O</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Rood/groen repeterend</desc>
     <sym>1421</sym>
     <extensions>
@@ -77715,6 +78048,7 @@ model : spar Rood/groen repeterend</desc>
   <wpt lat="52.38201388884763" lon="4.957069443886624">
     <name>SPO 1</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -77724,6 +78058,7 @@ model : spar Geel</desc>
   <wpt lat="52.38194722242894" lon="4.956833334004564">
     <name>SPO 2</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -77733,6 +78068,7 @@ model : spar Geel</desc>
   <wpt lat="52.38188055542631" lon="4.956600000525516">
     <name>SPO 3</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -77742,6 +78078,7 @@ model : spar Geel</desc>
   <wpt lat="52.381177777883416" lon="4.960611111383937">
     <name>SPO 4</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : stomp Geel</desc>
     <sym>5511</sym>
     <extensions>
@@ -77751,6 +78088,7 @@ model : stomp Geel</desc>
   <wpt lat="52.38114444401227" lon="4.960544443777128">
     <name>SPO 5</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : stomp Geel</desc>
     <sym>5511</sym>
     <extensions>
@@ -79456,6 +79794,7 @@ model : spar Zwart/geel</desc>
   <wpt lat="51.42777500024545" lon="3.639747221881616">
     <name>STELLA</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel/zwart/geel</desc>
     <sym>2331</sym>
     <extensions>
@@ -81436,7 +81775,7 @@ model : spar Rood</desc>
     <name>SVY 20-VWG 1</name>
     <desc>vaarweg : SCHAAR VAN YERSEKE
 lich kleur : X
-model : spar Rood/groen</desc>
+model : Niet toegewezen Rood/groen</desc>
     <sym>1261</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -81777,6 +82116,7 @@ model : spar Geel</desc>
   <wpt lat="52.52038055576394" lon="5.858422221982888">
     <name>Spui DM-2</name>
     <desc>vaarweg : DRONTERMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -81786,6 +82126,7 @@ model : spar Geel</desc>
   <wpt lat="52.520324999665895" lon="5.858161111675457">
     <name>Spui DM-4</name>
     <desc>vaarweg : DRONTERMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -82453,6 +82794,7 @@ model : spar Zwart/geel</desc>
   <wpt lat="52.38346666678618" lon="4.937033333767893">
     <name>T</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
@@ -83272,6 +83614,7 @@ model : Pilaar Zwart/geel</desc>
   <wpt lat="52.24489444435485" lon="6.815811111046924">
     <name>TWK 2</name>
     <desc>vaarweg : Twentekanalen
+lich kleur : X
 model : stomp Rood</desc>
     <sym>1103</sym>
     <extensions>
@@ -83579,6 +83922,7 @@ model : spits Groen/wit repeterend</desc>
   <wpt lat="52.38345000036936" lon="4.93856666735099">
     <name>U</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
@@ -84033,6 +84377,7 @@ model : spar Rood/wit repeterend</desc>
   <wpt lat="53.16704722257985" lon="4.956863888254225">
     <name>V 10</name>
     <desc>vaarweg : VOGELZWIN
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -84042,6 +84387,7 @@ model : spar Rood</desc>
   <wpt lat="53.29085555588957" lon="5.512872221615981">
     <name>V 11</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84051,6 +84397,7 @@ model : spar Groen</desc>
   <wpt lat="53.2917555556271" lon="5.518452778042468">
     <name>V 11A-K 40</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen/rood/groen</desc>
     <sym>1321</sym>
     <extensions>
@@ -84060,6 +84407,7 @@ model : spar Groen/rood/groen</desc>
   <wpt lat="53.16793888872082" lon="4.967472222447729">
     <name>V 12</name>
     <desc>vaarweg : VOGELZWIN
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -84069,6 +84417,7 @@ model : spar Rood</desc>
   <wpt lat="53.29599444414829" lon="5.521419444108273">
     <name>V 13</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84078,6 +84427,7 @@ model : spar Groen</desc>
   <wpt lat="53.17024722260354" lon="4.972980555811485">
     <name>V 14</name>
     <desc>vaarweg : VOGELZWIN
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -84087,6 +84437,7 @@ model : spar Rood</desc>
   <wpt lat="53.30131388910874" lon="5.522202777189063">
     <name>V 15</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84096,6 +84447,7 @@ model : spar Groen</desc>
   <wpt lat="53.29548055527432" lon="5.46020833308096">
     <name>V 1</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -84105,6 +84457,7 @@ model : spar Groen</desc>
   <wpt lat="53.30503611131746" lon="5.527013888930533">
     <name>V 17</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84114,6 +84467,7 @@ model : spar Groen</desc>
   <wpt lat="53.3075444440719" lon="5.532947222504838">
     <name>V 19</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84123,6 +84477,7 @@ model : spar Groen</desc>
   <wpt lat="53.30987222194642" lon="5.538280555777654">
     <name>V 21</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84132,6 +84487,7 @@ model : spar Groen</desc>
   <wpt lat="53.31300833310814" lon="5.546394444739977">
     <name>V 23</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84141,6 +84497,7 @@ model : spar Groen</desc>
   <wpt lat="53.3170861114402" lon="5.554361110624679">
     <name>V 25</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84150,6 +84507,7 @@ model : spar Groen</desc>
   <wpt lat="53.16546944420237" lon="4.907911110512208">
     <name>V 2</name>
     <desc>vaarweg : VOGELZWIN
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -84159,6 +84517,7 @@ model : spar Rood</desc>
   <wpt lat="53.29746944445284" lon="5.459111111501279">
     <name>V 2</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -84168,6 +84527,7 @@ model : spar Rood</desc>
   <wpt lat="53.32192777777234" lon="5.560683332860461">
     <name>V 27</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84177,6 +84537,7 @@ model : spar Groen</desc>
   <wpt lat="53.32645555546611" lon="5.56685555621643">
     <name>V 29</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84186,6 +84547,7 @@ model : spar Groen</desc>
   <wpt lat="53.328824999819425" lon="5.570977777295782">
     <name>V 31</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84195,6 +84557,7 @@ model : spar Groen</desc>
   <wpt lat="53.16057777771865" lon="4.933005554977586">
     <name>V 3</name>
     <desc>vaarweg : VOGELZWIN
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84204,6 +84567,7 @@ model : spar Groen</desc>
   <wpt lat="53.29915277757703" lon="5.479147222846947">
     <name>V 3</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84213,6 +84577,7 @@ model : spar Groen</desc>
   <wpt lat="53.16484444480958" lon="4.920552778220062">
     <name>V 4</name>
     <desc>vaarweg : VOGELZWIN
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -84222,6 +84587,7 @@ model : spar Rood</desc>
   <wpt lat="53.16090555546351" lon="4.947952777834314">
     <name>V 5</name>
     <desc>vaarweg : VOGELZWIN
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84231,6 +84597,7 @@ model : spar Groen</desc>
   <wpt lat="53.303322222382604" lon="5.488008333539695">
     <name>V 5</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84240,6 +84607,7 @@ model : spar Groen</desc>
   <wpt lat="53.30311944459082" lon="5.494111110598516">
     <name>V 5A</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84249,6 +84617,7 @@ model : spar Groen</desc>
   <wpt lat="53.16525000040669" lon="4.932658333057772">
     <name>V 6</name>
     <desc>vaarweg : VOGELZWIN
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -84258,6 +84627,7 @@ model : spar Rood</desc>
   <wpt lat="53.162397222422726" lon="4.963038889046622">
     <name>V 7</name>
     <desc>vaarweg : VOGELZWIN
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84267,6 +84637,7 @@ model : spar Groen</desc>
   <wpt lat="53.30073611110455" lon="5.497780555909717">
     <name>V 7</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84276,6 +84647,7 @@ model : spar Groen</desc>
   <wpt lat="53.165977778220125" lon="4.944761111484073">
     <name>V 8</name>
     <desc>vaarweg : VOGELZWIN
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -84285,6 +84657,7 @@ model : spar Rood</desc>
   <wpt lat="53.29518055584977" lon="5.499836110740629">
     <name>V 9</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84294,6 +84667,7 @@ model : spar Groen</desc>
   <wpt lat="53.291988888598624" lon="5.503877777526903">
     <name>V 9A</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -84303,6 +84677,7 @@ model : spar Groen</desc>
   <wpt lat="53.291408332902805" lon="5.506844444659188">
     <name>V-KL 1</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -84312,6 +84687,7 @@ model : spar Geel</desc>
   <wpt lat="53.319055555261066" lon="5.55826944394338">
     <name>V-KL 3</name>
     <desc>vaarweg : VINGEGAT
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -84481,6 +84857,7 @@ model : stomp Rood/wit</desc>
   <wpt lat="52.38349999991402" lon="4.939999999872932">
     <name>V</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
@@ -84957,7 +85334,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -85095,6 +85472,7 @@ model : spar Groen</desc>
   <wpt lat="53.26678888862528" lon="5.110388888129174">
     <name>VB 10</name>
     <desc>vaarweg : VLIELANDER BALG
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -85104,6 +85482,7 @@ model : spar Rood</desc>
   <wpt lat="53.278161110771094" lon="5.092247221728536">
     <name>VB 11</name>
     <desc>vaarweg : VLIELANDER BALG
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85113,6 +85492,7 @@ model : spar Groen</desc>
   <wpt lat="53.28992777745525" lon="5.091347221736092">
     <name>VB 2</name>
     <desc>vaarweg : VLIELANDER BALG
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -85122,6 +85502,7 @@ model : spar Rood</desc>
   <wpt lat="53.290083333360286" lon="5.089272222956781">
     <name>VB 3</name>
     <desc>vaarweg : VLIELANDER BALG
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85131,6 +85512,7 @@ model : spar Groen</desc>
   <wpt lat="53.27457222202959" lon="5.094900000543181">
     <name>VB 4</name>
     <desc>vaarweg : VLIELANDER BALG
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -85140,6 +85522,7 @@ model : spar Rood</desc>
   <wpt lat="53.28615555594584" lon="5.088533332918764">
     <name>VB 5</name>
     <desc>vaarweg : VLIELANDER BALG
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85149,6 +85532,7 @@ model : spar Groen</desc>
   <wpt lat="53.271258333095325" lon="5.099719443800034">
     <name>VB 6</name>
     <desc>vaarweg : VLIELANDER BALG
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -85158,6 +85542,7 @@ model : spar Rood</desc>
   <wpt lat="53.28386944464818" lon="5.089736110509966">
     <name>VB 7</name>
     <desc>vaarweg : VLIELANDER BALG
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85167,6 +85552,7 @@ model : spar Groen</desc>
   <wpt lat="53.26866111089501" lon="5.103783333954553">
     <name>VB 8</name>
     <desc>vaarweg : VLIELANDER BALG
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -85176,6 +85562,7 @@ model : spar Rood</desc>
   <wpt lat="53.28075833343491" lon="5.091105555539885">
     <name>VB 9</name>
     <desc>vaarweg : VLIELANDER BALG
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85185,6 +85572,7 @@ model : spar Groen</desc>
   <wpt lat="53.267394444285536" lon="5.116238889038705">
     <name>VB-12</name>
     <desc>vaarweg : VLIELANDER BALG
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -85194,6 +85582,7 @@ model : spar Rood</desc>
   <wpt lat="53.26803888929408" lon="5.122158332819469">
     <name>VB-14</name>
     <desc>vaarweg : VLIELANDER BALG
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -85203,6 +85592,7 @@ model : spar Rood</desc>
   <wpt lat="53.26869444411079" lon="5.128102777073389">
     <name>VB-16</name>
     <desc>vaarweg : VLIELANDER BALG
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -85212,6 +85602,7 @@ model : spar Rood</desc>
   <wpt lat="53.26933055572034" lon="5.134005556038321">
     <name>VB-18</name>
     <desc>vaarweg : VLIELANDER BALG
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -85281,6 +85672,7 @@ model : spar Geel</desc>
   <wpt lat="53.0920111115103" lon="4.923372222695181">
     <name>VC 11</name>
     <desc>vaarweg : VAARWATER NAAR DE COCKSDORP
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -85290,6 +85682,7 @@ model : spar Groen</desc>
   <wpt lat="53.09614444468968" lon="4.93114444466622">
     <name>VC 13</name>
     <desc>vaarweg : VAARWATER NAAR DE COCKSDORP
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85299,6 +85692,7 @@ model : spar Groen</desc>
   <wpt lat="53.10018611139762" lon="4.931247221505974">
     <name>VC 15</name>
     <desc>vaarweg : VAARWATER NAAR DE COCKSDORP
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85308,6 +85702,7 @@ model : spar Groen</desc>
   <wpt lat="53.10495277805193" lon="4.932394444507045">
     <name>VC 17</name>
     <desc>vaarweg : VAARWATER NAAR DE COCKSDORP
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85317,6 +85712,7 @@ model : spar Groen</desc>
   <wpt lat="53.1100944442808" lon="4.937269444727951">
     <name>VC 19</name>
     <desc>vaarweg : VAARWATER NAAR DE COCKSDORP
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85326,6 +85722,7 @@ model : spar Groen</desc>
   <wpt lat="53.06520277765486" lon="4.901333333575312">
     <name>VC 3</name>
     <desc>vaarweg : VAARWATER NAAR DE COCKSDORP
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85335,6 +85732,7 @@ model : spar Groen</desc>
   <wpt lat="53.07193888918239" lon="4.900363888520982">
     <name>VC 5</name>
     <desc>vaarweg : VAARWATER NAAR DE COCKSDORP
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85344,6 +85742,7 @@ model : spar Groen</desc>
   <wpt lat="53.079436111140225" lon="4.909380555817868">
     <name>VC 7</name>
     <desc>vaarweg : VAARWATER NAAR DE COCKSDORP
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85353,6 +85752,7 @@ model : spar Groen</desc>
   <wpt lat="53.08710277757215" lon="4.917058333464337">
     <name>VC 9</name>
     <desc>vaarweg : VAARWATER NAAR DE COCKSDORP
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -85362,6 +85762,7 @@ model : spar Groen</desc>
   <wpt lat="53.07690555530614" lon="4.906169443789766">
     <name>VC-GAS</name>
     <desc>vaarweg : VAARWATER NAAR DE COCKSDORP
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -85371,6 +85772,7 @@ model : spar Geel</desc>
   <wpt lat="53.06525555540654" lon="4.87743055593055">
     <name>VC-KITE 1</name>
     <desc>vaarweg : VAARWATER NAAR DE COCKSDORP
+lich kleur : X
 model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
@@ -85380,6 +85782,7 @@ model : stomp Geel</desc>
   <wpt lat="53.05660277771711" lon="4.874838889438482">
     <name>VC-KITE 2</name>
     <desc>vaarweg : VAARWATER NAAR DE COCKSDORP
+lich kleur : X
 model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
@@ -85389,6 +85792,7 @@ model : stomp Geel</desc>
   <wpt lat="53.06503333334225" lon="4.888386111652876">
     <name>VC-KITE N</name>
     <desc>vaarweg : VAARWATER NAAR DE COCKSDORP
+lich kleur : X
 model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
@@ -85398,6 +85802,7 @@ model : stomp Geel</desc>
   <wpt lat="53.05898611079615" lon="4.884338888617203">
     <name>VC-KITE Z</name>
     <desc>vaarweg : VAARWATER NAAR DE COCKSDORP
+lich kleur : X
 model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
@@ -85407,6 +85812,7 @@ model : stomp Geel</desc>
   <wpt lat="52.490527777936784" lon="5.080147221554985">
     <name>VD 1</name>
     <desc>vaarweg : VOLENDAM (MARKERMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85416,6 +85822,7 @@ model : spar Groen</desc>
   <wpt lat="52.488847222079244" lon="5.080880555422868">
     <name>VD 4-PM 1</name>
     <desc>vaarweg : VOLENDAM (MARKERMEER)
+lich kleur : X
 model : spar Rood/groen</desc>
     <sym>1261</sym>
     <extensions>
@@ -85515,6 +85922,7 @@ model : spar Geel</desc>
   <wpt lat="53.02537777740159" lon="5.341361111073287">
     <name>VF 10</name>
     <desc>vaarweg : VAARWATER LANGS FRIESE KUST (IJSSELMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -85524,6 +85932,7 @@ model : spar Rood</desc>
   <wpt lat="53.01518888893119" lon="5.329755555872049">
     <name>VF 11</name>
     <desc>vaarweg : VAARWATER LANGS FRIESE KUST (IJSSELMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85533,6 +85942,7 @@ model : spar Groen</desc>
   <wpt lat="53.01451944444736" lon="5.331863889037697">
     <name>VF 12</name>
     <desc>vaarweg : VAARWATER LANGS FRIESE KUST (IJSSELMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -85576,6 +85986,7 @@ model : spar Groen</desc>
   <wpt lat="53.061849999816786" lon="5.340847221818595">
     <name>VF 1</name>
     <desc>vaarweg : VAARWATER LANGS FRIESE KUST (IJSSELMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -85619,6 +86030,7 @@ model : spar Rood</desc>
   <wpt lat="53.062677777785765" lon="5.34445555539415">
     <name>VF 2-MA 1</name>
     <desc>vaarweg : VAARWATER LANGS FRIESE KUST (IJSSELMEER)
+lich kleur : X
 model : spar Rood/groen</desc>
     <sym>1261</sym>
     <extensions>
@@ -85628,6 +86040,7 @@ model : spar Rood/groen</desc>
   <wpt lat="53.05747222199509" lon="5.341730555477998">
     <name>VF 3</name>
     <desc>vaarweg : VAARWATER LANGS FRIESE KUST (IJSSELMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85637,6 +86050,7 @@ model : spar Groen</desc>
   <wpt lat="53.05770833317382" lon="5.343772222420228">
     <name>VF 4</name>
     <desc>vaarweg : VAARWATER LANGS FRIESE KUST (IJSSELMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -85646,6 +86060,7 @@ model : spar Rood</desc>
   <wpt lat="53.04706111065436" lon="5.345275000408646">
     <name>VF 5</name>
     <desc>vaarweg : VAARWATER LANGS FRIESE KUST (IJSSELMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85655,6 +86070,7 @@ model : spar Groen</desc>
   <wpt lat="53.047294444540746" lon="5.34731944473766">
     <name>VF 6</name>
     <desc>vaarweg : VAARWATER LANGS FRIESE KUST (IJSSELMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -85688,6 +86104,7 @@ model : spar Rood</desc>
   <wpt lat="53.02604722250435" lon="5.339252778162208">
     <name>VF 9</name>
     <desc>vaarweg : VAARWATER LANGS FRIESE KUST (IJSSELMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -85700,7 +86117,7 @@ model : spar Groen</desc>
 licht type : LFl (long-flashing)
 licht periode : 10
 lich kleur : Wit
-model : spar Rood/wit repeterend</desc>
+model : stomp Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -85712,7 +86129,7 @@ model : spar Rood/wit repeterend</desc>
 licht type : OC (occulting)
 licht periode : 6
 lich kleur : Wit
-model : spar Rood/wit repeterend</desc>
+model : stomp Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -86131,6 +86548,7 @@ model : stomp Geel</desc>
   <wpt lat="52.947269444321286" lon="5.402883332773601">
     <name>VF-OW-156</name>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
 model : stomp Geel</desc>
     <sym>5511</sym>
     <extensions>
@@ -86151,6 +86569,7 @@ model : bol Groen/rood</desc>
   <wpt lat="51.75391944425122" lon="4.302583332958587">
     <name>VG 10</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -86194,6 +86613,7 @@ model : spits Groen</desc>
   <wpt lat="51.7515861111604" lon="4.316613888322081">
     <name>VG 12</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -86215,6 +86635,7 @@ model : stomp Rood</desc>
   <wpt lat="51.73060277798907" lon="4.368016666572122">
     <name>VG 13</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -86234,6 +86655,7 @@ model : spar Groen</desc>
   <wpt lat="51.7483638892989" lon="4.327863888533323">
     <name>VG 14</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -86273,6 +86695,7 @@ model : spits Groen</desc>
   <wpt lat="51.72491388846897" lon="4.382099999456419">
     <name>VG 15</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -86304,6 +86727,7 @@ model : spits Groen</desc>
   <wpt lat="51.743091666675255" lon="4.348666667055194">
     <name>VG 16</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -86356,6 +86780,7 @@ model : spits Groen</desc>
   <wpt lat="51.73086388868903" lon="4.377030555816105">
     <name>VG 18</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -86398,6 +86823,7 @@ model : spar Groen</desc>
   <wpt lat="51.72475277737402" lon="4.389530555203035">
     <name>VG 20</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -86464,6 +86890,7 @@ model : spar Rood</desc>
   <wpt lat="51.76641944449878" lon="4.230638888945419">
     <name>VG 2</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -86505,6 +86932,7 @@ model : spits Groen</desc>
   <wpt lat="51.756697222499994" lon="4.25369444469908">
     <name>VG 3</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -86534,6 +86962,7 @@ model : stomp Rood</desc>
   <wpt lat="51.76336388857747" lon="4.243972221840604">
     <name>VG 4</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -86563,6 +86992,7 @@ model : spits Groen</desc>
   <wpt lat="51.75447499989888" lon="4.272305555227804">
     <name>VG 5</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -86592,6 +87022,7 @@ model : stomp Rood</desc>
   <wpt lat="51.76114166661509" lon="4.25730555559434">
     <name>VG 6</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -86621,6 +87052,7 @@ model : bol Rood/groen repeterend</desc>
   <wpt lat="51.75169722223135" lon="4.290361110501063">
     <name>VG 7</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -86664,6 +87096,7 @@ model : stomp Rood</desc>
   <wpt lat="51.74516111134171" lon="4.320586110395791">
     <name>VG 9</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -86733,6 +87166,7 @@ model : spar Geel</desc>
   <wpt lat="51.387513888704525" lon="3.618172222635465">
     <name>VH 1 A</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -86742,6 +87176,7 @@ model : spar Groen</desc>
   <wpt lat="51.388875000353835" lon="3.618000000196772">
     <name>VH 10</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -86761,6 +87196,7 @@ model : spar Rood</desc>
   <wpt lat="51.378952777927466" lon="3.680258333279899">
     <name>VH 11</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
     <extensions>
@@ -86770,6 +87206,7 @@ model : spar Groen</desc>
   <wpt lat="53.20695277764274" lon="4.923238889374852">
     <name>VH 11</name>
     <desc>vaarweg : VLIEHORS
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -86789,6 +87226,7 @@ model : spar Groen</desc>
   <wpt lat="51.38829722239435" lon="3.627955555315205">
     <name>VH 12</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -86808,6 +87246,7 @@ model : spar Rood</desc>
   <wpt lat="53.21711388881429" lon="4.933986111503873">
     <name>VH 13</name>
     <desc>vaarweg : VLIEHORS
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -86827,6 +87266,7 @@ model : spar Groen</desc>
   <wpt lat="51.38768333336645" lon="3.640366667104863">
     <name>VH 14</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -86858,6 +87298,7 @@ model : spar Groen</desc>
   <wpt lat="53.220819444289475" lon="4.942702777903381">
     <name>VH 15</name>
     <desc>vaarweg : VLIEHORS
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -86887,6 +87328,7 @@ model : spar Groen</desc>
   <wpt lat="51.38625277743084" lon="3.652269445119434">
     <name>VH 16</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -86906,6 +87348,7 @@ model : spar Rood</desc>
   <wpt lat="53.22208055561818" lon="4.953022222382544">
     <name>VH 17</name>
     <desc>vaarweg : VLIEHORS
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -86915,6 +87358,7 @@ model : spar Groen</desc>
   <wpt lat="51.384197222047234" lon="3.666805555174995">
     <name>VH 18</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -86924,6 +87368,7 @@ model : spar Rood</desc>
   <wpt lat="53.2218055559432" lon="4.966947221956057">
     <name>VH 19</name>
     <desc>vaarweg : VLIEHORS
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -86933,6 +87378,7 @@ model : spar Groen</desc>
   <wpt lat="51.3802361109312" lon="3.683541666648495">
     <name>VH 20</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -86952,6 +87398,7 @@ model : spar Rood</desc>
   <wpt lat="53.22130277749074" lon="4.977733332980824">
     <name>VH 21</name>
     <desc>vaarweg : VLIEHORS
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -87015,6 +87462,7 @@ model : spar Rood</desc>
   <wpt lat="53.19395833354074" lon="4.878494444240078">
     <name>VH 2</name>
     <desc>vaarweg : VLIEHORS
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -87054,6 +87502,7 @@ model : spar Rood</desc>
   <wpt lat="51.40191944452501" lon="3.571388889443492">
     <name>VH 2A</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -87093,6 +87542,7 @@ model : spar Rood</desc>
   <wpt lat="51.386016667042526" lon="3.628150000723458">
     <name>VH 3</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -87102,6 +87552,7 @@ model : spar Groen</desc>
   <wpt lat="53.192055555637815" lon="4.873127777374003">
     <name>VH 3</name>
     <desc>vaarweg : VLIEHORS
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -87171,6 +87622,7 @@ model : spar Rood</desc>
   <wpt lat="51.39751388922934" lon="3.580047221903481">
     <name>VH 4</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -87190,6 +87642,7 @@ model : spar Rood</desc>
   <wpt lat="53.195486111247554" lon="4.893094444084932">
     <name>VH 4</name>
     <desc>vaarweg : VLIEHORS
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -87229,6 +87682,7 @@ model : spar Rood</desc>
   <wpt lat="53.201186110965914" lon="4.907255554978063">
     <name>VH 4A</name>
     <desc>vaarweg : VLIEHORS
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -87238,6 +87692,7 @@ model : spar Rood</desc>
   <wpt lat="51.385752777821494" lon="3.640300000149088">
     <name>VH 5</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -87247,6 +87702,7 @@ model : spar Groen</desc>
   <wpt lat="53.19229722266689" lon="4.887488889110642">
     <name>VH 5</name>
     <desc>vaarweg : VLIEHORS
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -87266,6 +87722,7 @@ model : spar Groen</desc>
   <wpt lat="51.39400277789616" lon="3.589413888717768">
     <name>VH 6</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -87285,6 +87742,7 @@ model : spar Rood</desc>
   <wpt lat="53.208638889252505" lon="4.917983333354699">
     <name>VH 6</name>
     <desc>vaarweg : VLIEHORS
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -87304,6 +87762,7 @@ model : spar Rood</desc>
   <wpt lat="51.3907666669764" lon="3.599950000226015">
     <name>VH 6A</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -87313,6 +87772,7 @@ model : spar Rood</desc>
   <wpt lat="51.383916666890364" lon="3.651949999741131">
     <name>VH 7</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -87322,6 +87782,7 @@ model : spar Groen</desc>
   <wpt lat="53.19437777757969" lon="4.899733333416416">
     <name>VH 7</name>
     <desc>vaarweg : VLIEHORS
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -87341,6 +87802,7 @@ model : spar Groen</desc>
   <wpt lat="51.388341666793536" lon="3.608050000095551">
     <name>VH 8</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
     <extensions>
@@ -87370,6 +87832,7 @@ model : spar Rood</desc>
   <wpt lat="51.382166666547384" lon="3.666697221733513">
     <name>VH 9</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -87379,6 +87842,7 @@ model : spar Groen</desc>
   <wpt lat="53.197697222006276" lon="4.911816666032604">
     <name>VH 9</name>
     <desc>vaarweg : VLIEHORS
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -87920,6 +88384,7 @@ model : stomp Rood</desc>
   <wpt lat="52.83529999995918" lon="5.694766666058666">
     <name>VL 10</name>
     <desc>vaarweg : LEMSTERGEUL (IJSSELMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -87941,6 +88406,7 @@ model : spits Groen</desc>
   <wpt lat="52.83608333336601" lon="5.698166666590028">
     <name>VL 12</name>
     <desc>vaarweg : LEMSTERGEUL (IJSSELMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -87950,6 +88416,7 @@ model : spar Rood</desc>
   <wpt lat="52.83710000000527" lon="5.703299999776981">
     <name>VL 14</name>
     <desc>vaarweg : LEMSTERGEUL (IJSSELMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -88099,6 +88566,7 @@ model : spar Groen</desc>
   <wpt lat="52.83337222243147" lon="5.679722222251772">
     <name>VL 3</name>
     <desc>vaarweg : LEMSTERGEUL (IJSSELMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -88142,6 +88610,7 @@ model : stomp Rood</desc>
   <wpt lat="52.83387499991189" lon="5.672677777664635">
     <name>VL 4</name>
     <desc>vaarweg : LEMSTERGEUL (IJSSELMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -88184,6 +88653,7 @@ model : spits Groen</desc>
   <wpt lat="52.83392777808852" lon="5.687647221732586">
     <name>VL 5</name>
     <desc>vaarweg : LEMSTERGEUL (IJSSELMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -88215,6 +88685,7 @@ model : stomp Rood</desc>
   <wpt lat="52.834352777470436" lon="5.680038888855836">
     <name>VL 6</name>
     <desc>vaarweg : LEMSTERGEUL (IJSSELMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -88256,6 +88727,7 @@ model : spits Groen</desc>
   <wpt lat="52.834491666560496" lon="5.695591666319114">
     <name>VL 7</name>
     <desc>vaarweg : LEMSTERGEUL (IJSSELMEER)
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -88277,6 +88749,7 @@ model : Pilaar Geel/zwart/geel</desc>
   <wpt lat="52.83482777760992" lon="5.687402777663179">
     <name>VL 8</name>
     <desc>vaarweg : LEMSTERGEUL (IJSSELMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -88313,7 +88786,7 @@ model : spar Groen</desc>
 licht type : LFl (long-flashing)
 licht periode : 10
 lich kleur : Wit
-model : bol Rood/wit repeterend</desc>
+model : stomp Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -88325,7 +88798,7 @@ model : bol Rood/wit repeterend</desc>
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Wit
-model : bol Rood/wit repeterend</desc>
+model : stomp Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -88337,7 +88810,7 @@ model : bol Rood/wit repeterend</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : bol Rood/wit repeterend</desc>
+model : stomp Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -94343,6 +94816,7 @@ model : stomp Geel</desc>
   <wpt lat="51.85300277759949" lon="5.858533333208964">
     <name>W-F</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
 model : stomp Geel</desc>
     <sym>5511</sym>
     <extensions>
@@ -94352,6 +94826,7 @@ model : stomp Geel</desc>
   <wpt lat="51.85241944410961" lon="5.869463889549691">
     <name>W-G</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
 model : stomp Geel</desc>
     <sym>5511</sym>
     <extensions>
@@ -94361,6 +94836,7 @@ model : stomp Geel</desc>
   <wpt lat="51.852411111433" lon="5.869880555190925">
     <name>W-H</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
 model : stomp Geel</desc>
     <sym>5511</sym>
     <extensions>
@@ -94370,6 +94846,7 @@ model : stomp Geel</desc>
   <wpt lat="51.852394444577655" lon="5.87033611166965">
     <name>W-I</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
 model : stomp Geel</desc>
     <sym>5511</sym>
     <extensions>
@@ -94379,6 +94856,7 @@ model : stomp Geel</desc>
   <wpt lat="51.852555555966326" lon="5.870983333709502">
     <name>W-J</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
 model : stomp Geel</desc>
     <sym>5511</sym>
     <extensions>
@@ -94388,6 +94866,7 @@ model : stomp Geel</desc>
   <wpt lat="51.85272222228521" lon="5.871102778030682">
     <name>W-K</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
 model : stomp Geel</desc>
     <sym>5511</sym>
     <extensions>
@@ -94397,6 +94876,7 @@ model : stomp Geel</desc>
   <wpt lat="51.852874999679905" lon="5.871175000628597">
     <name>W-L</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
 model : stomp Geel</desc>
     <sym>5511</sym>
     <extensions>
@@ -94506,6 +94986,7 @@ model : spar Geel</desc>
   <wpt lat="52.38349999993155" lon="4.941466666034485">
     <name>W</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
@@ -94886,6 +95367,7 @@ model : stomp Rood/wit</desc>
   <wpt lat="51.40638333292632" lon="3.712750000103176">
     <name>WAAK</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -94905,6 +95387,7 @@ model : spar Geel</desc>
   <wpt lat="51.380830555240465" lon="4.038544444225201">
     <name>WALSOORDEN</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -95236,6 +95719,7 @@ model : spar Geel</desc>
   <wpt lat="53.068027778081095" lon="5.302591666151378">
     <name>WBK-J</name>
     <desc>vaarweg : KORNWERDERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -95973,6 +96457,7 @@ model : spar Geel</desc>
   <wpt lat="52.58453333310975" lon="5.768794444883996">
     <name>WKM-A</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -95982,6 +96467,7 @@ model : spar Geel</desc>
   <wpt lat="52.5856972221649" lon="5.768686111820197">
     <name>WKM-B</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -95991,6 +96477,7 @@ model : spar Geel</desc>
   <wpt lat="52.58682222189351" lon="5.768594445056889">
     <name>WKM-C</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : stomp Geel</desc>
     <sym>5511</sym>
     <extensions>
@@ -96000,6 +96487,7 @@ model : stomp Geel</desc>
   <wpt lat="52.587963889067865" lon="5.76849722279188">
     <name>WKM-D</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : stomp Geel</desc>
     <sym>5511</sym>
     <extensions>
@@ -96009,6 +96497,7 @@ model : stomp Geel</desc>
   <wpt lat="52.58914444422055" lon="5.768847222727746">
     <name>WKM-E</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -96018,6 +96507,7 @@ model : spar Geel</desc>
   <wpt lat="52.59037777817624" lon="5.769255555025606">
     <name>WKM-F</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -96027,6 +96517,7 @@ model : spar Geel</desc>
   <wpt lat="52.591505555911446" lon="5.769663888637774">
     <name>WKM-G</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -96036,6 +96527,7 @@ model : spar Geel</desc>
   <wpt lat="52.59136944413191" lon="5.77198888878839">
     <name>WKM-H</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -96045,6 +96537,7 @@ model : spar Geel</desc>
   <wpt lat="52.59123888927612" lon="5.774338889647293">
     <name>WKM-I</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -96054,6 +96547,7 @@ model : spar Geel</desc>
   <wpt lat="52.59109444399965" lon="5.776730555484384">
     <name>WKM-J</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -96063,6 +96557,7 @@ model : spar Geel</desc>
   <wpt lat="52.589980555364185" lon="5.776711110376195">
     <name>WKM-K</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -96072,6 +96567,7 @@ model : spar Geel</desc>
   <wpt lat="52.58759722261149" lon="5.776688889317638">
     <name>WKM-L</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -96081,6 +96577,7 @@ model : spar Geel</desc>
   <wpt lat="52.586422222458374" lon="5.776688889628161">
     <name>WKM-M</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -96090,6 +96587,7 @@ model : spar Geel</desc>
   <wpt lat="52.585269444597515" lon="5.776669444914776">
     <name>WKM-N</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -96099,6 +96597,7 @@ model : spar Geel</desc>
   <wpt lat="52.58407499984327" lon="5.776669443774698">
     <name>WKM-O</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -96108,6 +96607,7 @@ model : spar Geel</desc>
   <wpt lat="52.5841888893253" lon="5.774636110446274">
     <name>WKM-P</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -96117,6 +96617,7 @@ model : spar Geel</desc>
   <wpt lat="52.58430555527776" lon="5.772644444364992">
     <name>WKM-Q</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
@@ -98015,6 +98516,7 @@ model : bol Geel</desc>
   <wpt lat="52.38353333348215" lon="4.942916666180075">
     <name>X</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
 model : spar Rood/wit repeterend</desc>
     <sym>1562</sym>
     <extensions>
@@ -99490,7 +99992,8 @@ model : spits Groen</desc>
   <wpt lat="51.381661111328235" lon="3.63137222192">
     <name>ZINK-A</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
-model : stomp Geel</desc>
+lich kleur : X
+model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -99499,7 +100002,8 @@ model : stomp Geel</desc>
   <wpt lat="51.37753611069776" lon="3.647494443862603">
     <name>ZINK-B</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
-model : stomp Geel</desc>
+lich kleur : X
+model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -99508,7 +100012,8 @@ model : stomp Geel</desc>
   <wpt lat="51.376663889035825" lon="3.647094444337435">
     <name>ZINK-C</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
-model : stomp Geel</desc>
+lich kleur : X
+model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -99517,7 +100022,8 @@ model : stomp Geel</desc>
   <wpt lat="51.37961666671369" lon="3.630472221758011">
     <name>ZINK-D</name>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
-model : stomp Geel</desc>
+lich kleur : X
+model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -101818,6 +102324,7 @@ model : spar Rood</desc>
   <wpt lat="51.36016944435789" lon="4.222183333410681">
     <name>ZS 3</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -101944,6 +102451,7 @@ model : stomp Rood</desc>
   <wpt lat="51.353386111278624" lon="4.23039444395469">
     <name>ZS 5</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
