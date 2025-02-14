@@ -50807,36 +50807,6 @@ model : bol Groen/rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.79834722188777" lon="5.235275000665962">
-    <name>NK 10</name>
-    <desc>vaarweg : KREIL (IJSSELMEER)
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.795186111368814" lon="5.24062222207987">
-    <name>NK 11</name>
-    <desc>vaarweg : KREIL (IJSSELMEER)
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.792400000200736" lon="5.232672222081835">
-    <name>NK 1</name>
-    <desc>vaarweg : KREIL (IJSSELMEER)
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.46693888898757" lon="4.566772222422092">
     <name>NK 2</name>
     <desc>vaarweg : HAVEN IJMUIDEN
@@ -50845,16 +50815,6 @@ licht periode : 4
 lich kleur : Rood
 model : stomp Rood</desc>
     <sym>1105</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.79383055544414" lon="5.22714722283869">
-    <name>NK 2</name>
-    <desc>vaarweg : KREIL (IJSSELMEER)
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -50881,26 +50841,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.79553611109958" lon="5.221886110711314">
-    <name>NK 3</name>
-    <desc>vaarweg : KREIL (IJSSELMEER)
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.79760000026099" lon="5.21674444399808">
-    <name>NK 4</name>
-    <desc>vaarweg : KREIL (IJSSELMEER)
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.466933332992035" lon="4.579033333389823">
     <name>NK 5</name>
     <desc>vaarweg : HAVEN IJMUIDEN
@@ -50913,8 +50853,68 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.79834722188777" lon="5.235275000665962">
+    <name>NK-OW 10</name>
+    <desc>vaarweg : KREIL (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.795186111368814" lon="5.24062222207987">
+    <name>NK-OW 11</name>
+    <desc>vaarweg : KREIL (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.792400000200736" lon="5.232672222081835">
+    <name>NK-OW 1</name>
+    <desc>vaarweg : KREIL (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.79383055544414" lon="5.22714722283869">
+    <name>NK-OW 2</name>
+    <desc>vaarweg : KREIL (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.79553611109958" lon="5.221886110711314">
+    <name>NK-OW 3</name>
+    <desc>vaarweg : KREIL (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.79760000026099" lon="5.21674444399808">
+    <name>NK-OW 4</name>
+    <desc>vaarweg : KREIL (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.8010472219992" lon="5.214344444405004">
-    <name>NK 5</name>
+    <name>NK-OW 5</name>
     <desc>vaarweg : KREIL (IJSSELMEER)
 lich kleur : X
 model : spar Geel</desc>
@@ -50924,7 +50924,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.804461110919476" lon="5.217038888670511">
-    <name>NK 6</name>
+    <name>NK-OW 6</name>
     <desc>vaarweg : KREIL (IJSSELMEER)
 lich kleur : X
 model : spar Geel</desc>
@@ -50934,7 +50934,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.80763333314055" lon="5.220263888232761">
-    <name>NK 7</name>
+    <name>NK-OW 7</name>
     <desc>vaarweg : KREIL (IJSSELMEER)
 lich kleur : X
 model : spar Geel</desc>
@@ -50944,7 +50944,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.804527778053945" lon="5.225347222225973">
-    <name>NK 8</name>
+    <name>NK-OW 8</name>
     <desc>vaarweg : KREIL (IJSSELMEER)
 lich kleur : X
 model : spar Geel</desc>
@@ -50954,7 +50954,7 @@ model : spar Geel</desc>
     </extensions>
   </wpt>
   <wpt lat="52.80148888868222" lon="5.230402777598014">
-    <name>NK 9</name>
+    <name>NK-OW 9</name>
     <desc>vaarweg : KREIL (IJSSELMEER)
 lich kleur : X
 model : spar Geel</desc>
@@ -80895,16 +80895,6 @@ model : spar Geel</desc>
   </wpt>
   <wpt lat="52.45564722222198" lon="5.082336111183825">
     <name>SVG 7</name>
-    <desc>vaarweg : GOUWZEE (MARKERMEER)
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.45099166682314" lon="5.087336111056567">
-    <name>SVG 9</name>
     <desc>vaarweg : GOUWZEE (MARKERMEER)
 lich kleur : X
 model : spar Geel</desc>
