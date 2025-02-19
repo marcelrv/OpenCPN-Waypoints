@@ -17855,7 +17855,7 @@ model : spar Geel</desc>
 licht type : LFl (long-flashing)
 licht periode : 10
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -17867,7 +17867,7 @@ model : stomp Rood/wit</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -18464,7 +18464,7 @@ model : spits Groen</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -18476,7 +18476,7 @@ model : stomp Rood/wit</desc>
 licht type : LFl (long-flashing)
 licht periode : 10
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -19910,7 +19910,7 @@ model : spar Groen</desc>
 licht type : LFl (long-flashing)
 licht periode : 10
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6043</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -19922,7 +19922,7 @@ model : stomp Rood/wit</desc>
 licht type : OC (occulting)
 licht periode : 6
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -19934,7 +19934,7 @@ model : stomp Rood/wit</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -19946,7 +19946,7 @@ model : stomp Rood/wit</desc>
 licht type : Iso (isophased)
 licht periode : 6
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -20515,6 +20515,25 @@ model : spar Geel</desc>
 lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.83243055551812" lon="4.073619443766351">
+    <name>F-B</name>
+    <desc>vaarweg : HARINGVLIET
+model : spar Geel</desc>
+    <sym>3801</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.825119444423876" lon="4.087177778395545">
+    <name>F-C</name>
+    <desc>vaarweg : HARINGVLIET
+lich kleur : X
+model : spar Geel</desc>
+    <sym>3801</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -27400,7 +27419,7 @@ model : spits Groen</desc>
     <name>H 12-SD 1</name>
     <desc>vaarweg : HOORN (MARKERMEER)
 licht type : Q (quick-flashing)
-lich kleur : Wit
+lich kleur : Rood
 model : spar Rood/groen</desc>
     <sym>1262</sym>
     <extensions>
@@ -28877,7 +28896,6 @@ model : spar Groen</desc>
   <wpt lat="51.713863888840024" lon="4.437083333881032">
     <name>HD 0-NMD 1</name>
     <desc>vaarweg : HOLLANDSCH DIEP
-lich kleur : X
 model : spar Rood/groen</desc>
     <sym>1261</sym>
     <extensions>
@@ -31300,7 +31318,6 @@ model : stomp Rood</desc>
   <wpt lat="51.80058611146525" lon="4.182580555662572">
     <name>HV 10A-HG 5</name>
     <desc>vaarweg : HARINGVLIET
-lich kleur : X
 model : spar Rood/groen</desc>
     <sym>1261</sym>
     <extensions>
@@ -35021,7 +35038,7 @@ model : spar Rood</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -35317,7 +35334,6 @@ model : spar Rood</desc>
   <wpt lat="52.59102500043046" lon="5.822450000244497">
     <name>KATD 19-STRG 28</name>
     <desc>vaarweg : KETELMEER RECREATIE (RANDMEREN)
-lich kleur : X
 model : spar Groen/rood</desc>
     <sym>1211</sym>
     <extensions>
@@ -36144,7 +36160,7 @@ model : spar Groen</desc>
     <name>KG 29-BR 2</name>
     <desc>vaarweg : KRABBERSGAT (MARKERMEER)
 licht type : Q (quick-flashing)
-lich kleur : Wit
+lich kleur : Groen
 model : spar Groen/rood</desc>
     <sym>1212</sym>
     <extensions>
@@ -36412,7 +36428,6 @@ model : spar Groen</desc>
   <wpt lat="52.58257500025977" lon="5.764005555326055">
     <name>KH 4-JK 1</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
-lich kleur : X
 model : spar Rood/groen</desc>
     <sym>1261</sym>
     <extensions>
@@ -37513,7 +37528,7 @@ model : spar Geel</desc>
     <name>KL 1-VL 2</name>
     <desc>vaarweg : KANAAL LEMMER (IJSSELMEER)
 licht type : Q (quick-flashing)
-lich kleur : Wit
+lich kleur : Groen
 model : spar Groen/rood</desc>
     <sym>1212</sym>
     <extensions>
@@ -38792,7 +38807,7 @@ model : spar Groen</desc>
 licht type : Iso (isophased)
 licht periode : 6
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -39134,7 +39149,7 @@ model : spar Groen</desc>
     <name>KT 3-BV 2</name>
     <desc>vaarweg : KEETEN-MASTGAT-ZIJPE
 licht type : Q (quick-flashing)
-lich kleur : Wit
+lich kleur : Groen
 model : spar Groen/rood</desc>
     <sym>1212</sym>
     <extensions>
@@ -41147,7 +41162,7 @@ model : spar Rood</desc>
     <name>L 61-JHP 2</name>
     <desc>vaarweg : LEK
 lich kleur : X
-model : spar Groen/rood</desc>
+model : Niet toegewezen Groen/rood</desc>
     <sym>1211</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -43089,6 +43104,18 @@ model : spar Zwart/geel/zwart</desc>
 lich kleur : X
 model : spar Geel/zwart</desc>
     <sym>2231</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.61618055569278" lon="5.638838889549262">
+    <name>M-R</name>
+    <desc>vaarweg : URK (IJSSELMEER)
+licht type : LFl (long-flashing)
+licht periode : 10
+lich kleur : Wit
+model : stomp Rood/wit</desc>
+    <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -59236,7 +59263,6 @@ model : spar Groen/wit repeterend</desc>
   <wpt lat="52.37738055597766" lon="4.970963888449316">
     <name>PG 29-JHS 2</name>
     <desc>vaarweg : PAMPUS RECREATIE (MARKERMEER)
-lich kleur : X
 model : spar Groen/rood</desc>
     <sym>1211</sym>
     <extensions>
@@ -62236,7 +62262,7 @@ model : stomp Geel</desc>
     <name>R 13-SH 2</name>
     <desc>vaarweg : ROOMPOT
 licht type : Q (quick-flashing)
-lich kleur : Wit
+lich kleur : Groen
 model : spar Groen/rood</desc>
     <sym>1212</sym>
     <extensions>
@@ -62359,7 +62385,7 @@ model : spar Rood</desc>
     <name>R 15-SVC 2</name>
     <desc>vaarweg : ROOMPOT
 licht type : Q (quick-flashing)
-lich kleur : Wit
+lich kleur : Groen
 model : spar Groen/rood</desc>
     <sym>1212</sym>
     <extensions>
@@ -62419,7 +62445,6 @@ model : spar Rood</desc>
   <wpt lat="51.6156361114652" lon="3.701058332931126">
     <name>R 16A-G 1</name>
     <desc>vaarweg : ROOMPOT
-lich kleur : X
 model : spar Rood/groen</desc>
     <sym>1261</sym>
     <extensions>
@@ -78647,7 +78672,7 @@ model : stomp Geel</desc>
 licht type : LFl (long-flashing)
 licht periode : 10
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -78679,7 +78704,7 @@ model : stomp Geel</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -80416,7 +80441,6 @@ model : spar Rood</desc>
   <wpt lat="52.58669166635273" lon="5.784705555298834">
     <name>STRG 5-AANL 2</name>
     <desc>vaarweg : KETELMEER RECREATIE (RANDMEREN)
-lich kleur : X
 model : spar Groen/rood</desc>
     <sym>1211</sym>
     <extensions>
@@ -86140,7 +86164,7 @@ model : spar Groen</desc>
 licht type : LFl (long-flashing)
 licht periode : 10
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -86152,7 +86176,7 @@ model : stomp Rood/wit</desc>
 licht type : OC (occulting)
 licht periode : 6
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -95381,7 +95405,7 @@ model : spar Geel/zwart</desc>
     <name>WA</name>
     <desc>vaarweg : WESTGAT (AMELAND)
 lich kleur : X
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -97458,7 +97482,7 @@ model : spar Rood</desc>
     <name>WW 10-RGH 15</name>
     <desc>vaarweg : WOLDERWIJD (RANDMEREN)
 licht type : Q (quick-flashing)
-lich kleur : Wit
+lich kleur : Rood
 model : spar Rood/groen</desc>
     <sym>1262</sym>
     <extensions>
@@ -99801,7 +99825,7 @@ model : stomp Rood</desc>
     <name>ZG 9</name>
     <desc>vaarweg : ZUID GREVELINGEN
 lich kleur : X
-model : stomp Groen</desc>
+model : spits Groen</desc>
     <sym>1043</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
