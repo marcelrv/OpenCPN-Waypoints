@@ -295,16 +295,6 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.559183333291" lon="3.673733333330466">
-    <name>1102</name>
-    <desc>vaarweg : VEERSE MEER
-lich kleur : X
-model : stomp Rood</desc>
-    <sym>1101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.52433333327134" lon="3.724916666339612">
     <name>110</name>
     <desc>vaarweg : VEERSE MEER
@@ -20523,7 +20513,6 @@ model : spar Geel</desc>
     <name>F-B</name>
     <desc>vaarweg : HARINGVLIET
 model : spar Geel</desc>
-    <sym>3801</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -29725,7 +29714,6 @@ model : spar Zwart/geel</desc>
   <wpt lat="51.68280833313927" lon="4.373144444181347">
     <name>HG 10-OP 1</name>
     <desc>vaarweg : HELLEGAT
-lich kleur : X
 model : spar Rood/groen</desc>
     <sym>1261</sym>
     <extensions>
@@ -32187,9 +32175,9 @@ model : stomp Rood</desc>
     <desc>vaarweg : NOORDZEE
 licht type : Iso (isophased)
 licht periode : 8
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
+lich kleur : Rood
+model : stomp Rood</desc>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43115,7 +43103,6 @@ licht type : LFl (long-flashing)
 licht periode : 10
 lich kleur : Wit
 model : stomp Rood/wit</desc>
-    <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87117,6 +87104,16 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.559183333291" lon="3.673733333330466">
+    <name>VG 8</name>
+    <desc>vaarweg : VEERSE MEER
+lich kleur : X
+model : stomp Rood</desc>
+    <sym>1101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.75891944481122" lon="4.273975000323198">
     <name>VG 8</name>
     <desc>vaarweg : HITSERTSE OF VUILE GAT
@@ -100295,7 +100292,7 @@ model : spits Groen</desc>
     <name>ZKR 28</name>
     <desc>vaarweg : ZOUTKAMPERRIL
 lich kleur : X
-model : spits Groen</desc>
+model : stomp Rood</desc>
     <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
