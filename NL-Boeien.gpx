@@ -11928,26 +11928,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.38886388912387" lon="6.893494445224468">
-    <name>BW-KB 1</name>
-    <desc>vaarweg : BOCHT VAN WATUM
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.38661388901635" lon="6.896969444203314">
-    <name>BW-KB 2</name>
-    <desc>vaarweg : BOCHT VAN WATUM
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.43322222262116" lon="6.195986111272764">
     <name>BZ 11</name>
     <desc>vaarweg : GEUL VAN BRAKZAND
@@ -83888,16 +83868,6 @@ model : spits Groen</desc>
 lich kleur : X
 model : spits Groen</desc>
     <sym>1001</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.963383333207155" lon="5.803966666461291">
-    <name>Ton 891.605R</name>
-    <desc>vaarweg : NEDERRIJN
-lich kleur : X
-model : stomp Rood/wit repeterend</desc>
-    <sym>1552</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
