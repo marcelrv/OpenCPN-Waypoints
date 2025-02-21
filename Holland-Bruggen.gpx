@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-02-20T11:41:18.706000Z</time>
+    <time>2025-02-21T12:02:58.895000Z</time>
   </metadata>
   <wpt lat="52.8349518997784" lon="4.81026448308057">
     <name>Brug over Oude sluis Oudesluis</name>
@@ -1026,7 +1026,7 @@ Type:    Vaste Brug</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.1905751548322" lon="4.6770938711772">
+  <wpt lat="52.19050052591328" lon="4.677156848347295">
     <name>Brug in de N207 Rijnsaterwoude</name>
     <desc>Locatie: Leidsche Vaart
 Type:    Vaste Brug</desc>
@@ -8726,7 +8726,7 @@ Periode 26-12 tot 31-12 (note: Alleen op afroep, 24-uur van te voren voor 10:00 
     </extensions>
   </wpt>
   <wpt lat="52.1496877018278" lon="4.51081573963165">
-    <name>Julius Caesarbrug (fiets-/voetbrug)</name>
+    <name>Julius Caesarbrug</name>
     <desc>Locatie: Rijn-Schiekanaal
 Type:    Bedienbare Brug
 VHF:     22
@@ -8771,7 +8771,7 @@ Periode 31-12 tot 31-12:
 Note: Bediening op afstand via bedieningscentrale  Steekterpoort tel: 070-4417731.
 De Nieuwe Rovers- en Trekvlietbrug worden ook Lokaal bediend.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/18912">
-      <text>Julius Caesarbrug (fiets-/voetbrug) online info</text>
+      <text>Julius Caesarbrug online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
     <extensions>
@@ -24207,24 +24207,6 @@ Periode 31-12 tot 31-12:
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.8635031751934" lon="4.30750697851181">
-    <name>Zoetwaterkanaalbrug</name>
-    <desc>Locatie: Scheepvaartkanaal en Voedingskanaal
-Type:    Vaste Brug
-Contact PhoneNumber:088-7985132
-
-Bedieningstijden
-Periode 01-01 tot 31-12:
-   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/46753">
-      <text>Zoetwaterkanaalbrug online info</text>
-    </link>
-    <sym>Landmarks-Bridge1</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.4326743655155" lon="4.75125432014465">
     <name>Nauernaschebrug</name>
     <desc>Locatie: Zijkanaal D
@@ -30216,12 +30198,12 @@ Note: Alleen op afroep, aanvragen op tel. 036-5399427.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.1496160572958" lon="4.4841756362286">
-    <name>Fiets-/voetbrug Leiden</name>
+  <wpt lat="52.14976769964068" lon="4.484183415688676">
+    <name>Groene Deputatenbrug</name>
     <desc>Locatie: Leidse Trekvliet, Leidsche Vliet
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/58640">
-      <text>Fiets-/voetbrug Leiden online info</text>
+      <text>Groene Deputatenbrug online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -31126,11 +31108,11 @@ Type:    Vaste Brug</desc>
     </extensions>
   </wpt>
   <wpt lat="52.22009040666691" lon="5.124116478000359">
-    <name>Kortenhoef (fietsbrug)</name>
+    <name>Kortenhoefbrug</name>
     <desc>Locatie: Hilversumsch Kanaal
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/5979384">
-      <text>Kortenhoef (fietsbrug) online info</text>
+      <text>Kortenhoefbrug online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
@@ -34351,7 +34333,7 @@ Note: Alleen bediening voor in- en uitvaren van woonboten.</desc>
   </wpt>
   <wpt lat="52.0876332956596" lon="5.09534955024719">
     <name>Abel Tasmanbrug Utrecht</name>
-    <desc>Locatie: Merwedekanaal (benoorden de Lek)
+    <desc>Locatie: Leidse Rijn
 Type:    Bedienbare Brug
 
 Bedieningstijden
@@ -39030,6 +39012,24 @@ De brug mag bediend worden tot en met een gemiddelde windsnelheid (gemeten over 
       <text>Calandbrug Rozenburg online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8635031751934" lon="4.30750697851181">
+    <name>Zoetwaterkanaalbrug</name>
+    <desc>Locatie: Scheepvaartkanaal en Voedingskanaal
+Type:    Vaste Brug
+Contact PhoneNumber:088-7985132
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/61318504">
+      <text>Zoetwaterkanaalbrug online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
