@@ -42386,7 +42386,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.430836110767686" lon="6.315400000100303">
+  <wpt lat="53.43142222183244" lon="6.315152777267482">
     <name>LW-A3</name>
     <desc>vaarweg : LUTJEWAD
 lich kleur : X
@@ -49880,8 +49880,8 @@ model : bol Geel</desc>
   <wpt lat="53.238130555732035" lon="4.094005556240462">
     <name>NAM 53</name>
     <desc>vaarweg : NOORDZEE
-licht type : LFl (long-flashing)
-licht periode : 10
+licht type : Fl (flashing)
+licht periode : 5
 lich kleur : Geel
 model : bol Geel</desc>
     <sym>4201</sym>
@@ -93563,7 +93563,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.855563888664506" lon="5.849277777750603">
+  <wpt lat="51.85543333342484" lon="5.848616666283609">
     <name>W 12A</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -93635,7 +93635,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85789999977973" lon="5.882249999490378">
+  <wpt lat="51.85806666705755" lon="5.882199999873574">
     <name>W 13</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -93657,7 +93657,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.861205555144444" lon="5.884636111046719">
+  <wpt lat="51.86146666703059" lon="5.884216666919782">
     <name>W 13A</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -93669,7 +93669,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.865008333403786" lon="5.888605556092532">
+  <wpt lat="51.86503333310674" lon="5.888050000266233">
     <name>W 13B</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -93681,7 +93681,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.867802777426306" lon="5.89306944479104">
+  <wpt lat="51.867791666526294" lon="5.892427777482321">
     <name>W 13C</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -94781,6 +94781,18 @@ licht periode : 10
 lich kleur : Geel
 model : bol Geel</desc>
     <sym>4201</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1462555557041" lon="3.955333333444072">
+    <name>W-C</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : bol Geel</desc>
+    <sym>8002</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
