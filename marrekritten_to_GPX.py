@@ -12,11 +12,11 @@ __version__ = "1.0.2"
 
 import datetime
 import xml.etree.ElementTree as mod_etree
-import requests
-from requests.exceptions import HTTPError
+
 import gpxpy
 import gpxpy.gpx
-
+import requests
+from requests.exceptions import HTTPError
 
 # adjust to OpenCPN Scale (at which scale this is visible) disable if not needed
 _UseScale = True
@@ -35,7 +35,7 @@ gpx.author_name = 'Marcel Verpaalen'
 gpx.copyright_year = '2022'
 gpx.copyright_license = 'CC BY-NC-SA 4.0'
  
-gpx.time = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+gpx.time = datetime.datetime.now(datetime.UTC).replace(tzinfo=datetime.timezone.utc)
 
 # definition of extension
 namespace = '{opencpn}'
