@@ -38,7 +38,7 @@ def md5hash(stringToHash: str) -> str:
 
 class ChartInfo:
     def __init__(self, name: str, description: str, source_filename: str, md5: str = '', sort: int = -1,
-                 updated=datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc).isoformat()):
+                 updated=datetime.datetime.now(datetime.UTC).replace(tzinfo=datetime.timezone.utc).isoformat()):
         self.name: str = name
         self.filename: str = source_filename
         self.md5: str = md5
