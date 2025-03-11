@@ -217,8 +217,8 @@ if __name__ == "__main__":
     _UseScale = True
     _ScaleMin = 100000
 
-    for boeien_bestand in [nederland, friesland]:
-
+    #for boeien_bestand in [nederland, friesland]: Friesland Temprary disabled as source changed / not working
+    for boeien_bestand in [nederland:
         update_source_data(boeien_bestand.source_filename, boeien_bestand.url)
         process_gml(boeien_bestand.source_filename, boeien_bestand.outputFileName, boeien_bestand.field_mapping,
                     boeien_bestand.icon_mapping, boeien_bestand.epsg)
