@@ -28868,6 +28868,7 @@ model : spar Groen</desc>
   <wpt lat="51.713863888840024" lon="4.437083333881032">
     <name>HD 0-NMD 1</name>
     <desc>vaarweg : HOLLANDSCH DIEP
+lich kleur : X
 model : spar Rood/groen</desc>
     <sym>1261</sym>
     <extensions>
@@ -29697,6 +29698,7 @@ model : spar Zwart/geel</desc>
   <wpt lat="51.68280833313927" lon="4.373144444181347">
     <name>HG 10-OP 1</name>
     <desc>vaarweg : HELLEGAT
+lich kleur : X
 model : spar Rood/groen</desc>
     <sym>1261</sym>
     <extensions>
@@ -31289,6 +31291,7 @@ model : stomp Rood</desc>
   <wpt lat="51.80058611146525" lon="4.182580555662572">
     <name>HV 10A-HG 5</name>
     <desc>vaarweg : HARINGVLIET
+lich kleur : X
 model : spar Rood/groen</desc>
     <sym>1261</sym>
     <extensions>
@@ -35305,6 +35308,7 @@ model : spar Rood</desc>
   <wpt lat="52.59102500043046" lon="5.822450000244497">
     <name>KATD 19-STRG 28</name>
     <desc>vaarweg : KETELMEER RECREATIE (RANDMEREN)
+lich kleur : X
 model : spar Groen/rood</desc>
     <sym>1211</sym>
     <extensions>
@@ -36399,6 +36403,7 @@ model : spar Groen</desc>
   <wpt lat="52.58257500025977" lon="5.764005555326055">
     <name>KH 4-JK 1</name>
     <desc>vaarweg : KETELMEER (RANDMEREN)
+lich kleur : X
 model : spar Rood/groen</desc>
     <sym>1261</sym>
     <extensions>
@@ -42996,7 +43001,7 @@ licht type : Q (quick-flashing)
 licht periode : 10
 lich kleur : Wit
 model : spar Zwart/geel/zwart</desc>
-    <sym>1045</sym>
+    <sym>2133</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43008,7 +43013,7 @@ licht type : Q (quick-flashing)
 licht periode : 15
 lich kleur : Wit
 model : spar Geel/zwart/geel</desc>
-    <sym>1045</sym>
+    <sym>2333</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43020,7 +43025,7 @@ licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5542</sym>
+    <sym>5301</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43032,7 +43037,7 @@ licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Geel
 model : spar Geel</desc>
-    <sym>1145</sym>
+    <sym>5301</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48143,26 +48148,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.580966666488" lon="3.640847221671972">
-    <name>MP 1</name>
-    <desc>vaarweg : VEERSE MEER
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>3601</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.564255555508716" lon="3.642633332924725">
-    <name>MP 2</name>
-    <desc>vaarweg : VEERSE MEER
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>3601</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.764752777820256" lon="4.222861111189087">
     <name>MP</name>
     <desc>vaarweg : HARINGVLIET
@@ -49154,6 +49139,7 @@ model : spar Geel</desc>
     <desc>vaarweg : NOORDZEE
 licht type : Fl (flashing)
 licht periode : 20
+lich kleur : Geel
 model : spar Geel</desc>
     <sym>4301</sym>
     <extensions>
@@ -59285,6 +59271,7 @@ model : spar Groen/wit repeterend</desc>
   <wpt lat="52.37738055597766" lon="4.970963888449316">
     <name>PG 29-JHS 2</name>
     <desc>vaarweg : PAMPUS RECREATIE (MARKERMEER)
+lich kleur : X
 model : spar Groen/rood</desc>
     <sym>1211</sym>
     <extensions>
@@ -62467,6 +62454,7 @@ model : spar Rood</desc>
   <wpt lat="51.6156361114652" lon="3.701058332931126">
     <name>R 16A-G 1</name>
     <desc>vaarweg : ROOMPOT
+lich kleur : X
 model : spar Rood/groen</desc>
     <sym>1261</sym>
     <extensions>
@@ -80543,6 +80531,7 @@ model : spar Rood</desc>
   <wpt lat="52.58669166635273" lon="5.784705555298834">
     <name>STRG 5-AANL 2</name>
     <desc>vaarweg : KETELMEER RECREATIE (RANDMEREN)
+lich kleur : X
 model : spar Groen/rood</desc>
     <sym>1211</sym>
     <extensions>
