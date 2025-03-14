@@ -24416,7 +24416,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.999997222005476" lon="6.112172222844279">
+  <wpt lat="52.000566666531796" lon="6.112888889008222">
     <name>GIJ 69B-A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24436,7 +24436,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.99805277787473" lon="6.110625000007299">
+  <wpt lat="51.99915555600523" lon="6.112052777936681">
     <name>GIJ 69C</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24446,7 +24446,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.997433333464514" lon="6.109866666305336">
+  <wpt lat="51.99790277807212" lon="6.110905555502092">
     <name>GIJ 69D</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -62127,6 +62127,16 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.61100833297929" lon="3.692005555314059">
+    <name>R 12AV</name>
+    <desc>vaarweg : ROOMPOT
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.61440555544409" lon="3.693383333708752">
     <name>R 12N</name>
     <desc>vaarweg : ROOMPOT
@@ -83936,6 +83946,23 @@ model : spits Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.973505555531354" lon="5.39552499935727">
+    <name>Ton 923.100</name>
+    <desc>vaarweg : NEDERRIJN
+model : spar Rood</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.97265277798105" lon="5.393327778155048">
+    <name>Ton 923.300</name>
+    <desc>vaarweg : NEDERRIJN
+model : spar Rood</desc>
+    <sym>1105</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.81698333340362" lon="5.377263888351836">
     <name>Ton 923.725L</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
@@ -99747,7 +99774,6 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -99759,7 +99785,6 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -99771,7 +99796,6 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
