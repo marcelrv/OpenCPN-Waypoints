@@ -7391,6 +7391,34 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.57551111153062" lon="5.673397222460857">
+    <name>BA 1A</name>
+    <desc>vaarweg : OPHEF LOCATIE
+lich kleur : X
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.586613888469294" lon="5.751605555823305">
+    <name>BA 2A</name>
+    <desc>vaarweg : NOORDZEE
+lich kleur : X
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.56780555544452" lon="5.7416111104521">
+    <name>BA 3A</name>
+    <desc>vaarweg : NOORDZEE
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.38910277768795" lon="3.897313888625543">
     <name>BA-A</name>
     <desc>vaarweg : EVERINGEN
@@ -7427,6 +7455,39 @@ model : spar Zwart/geel/zwart</desc>
 lich kleur : X
 model : spar Geel/zwart/geel</desc>
     <sym>2331</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.577052777684884" lon="5.672572222204369">
+    <name>BACI 1</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : bol Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.58815277738653" lon="5.750786111651526">
+    <name>BACI 2</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : bol Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.56934722193316" lon="5.740794445144993">
+    <name>BACI 3</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : bol Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -9840,7 +9901,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.780811111356996" lon="3.733000000144631">
+  <wpt lat="51.77993333374928" lon="3.75500277836865">
     <name>BO-OW 1</name>
     <desc>vaarweg : NOORDZEE
 lich kleur : X
@@ -9950,7 +10011,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.80540277753855" lon="3.841866666358194">
+  <wpt lat="51.80811111075199" lon="3.838347221525618">
     <name>BO-OW 33</name>
     <desc>vaarweg : NOORDZEE
 lich kleur : X
@@ -9960,7 +10021,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.78904166711131" lon="3.733763888300818">
+  <wpt lat="51.786438888468005" lon="3.757813889367058">
     <name>BO-OW 3</name>
     <desc>vaarweg : NOORDZEE
 lich kleur : X
@@ -9970,7 +10031,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.798663888631566" lon="3.836802777890416">
+  <wpt lat="51.80322777791527" lon="3.828822222801105">
     <name>BO-OW 35</name>
     <desc>vaarweg : NOORDZEE
 lich kleur : X
@@ -9980,7 +10041,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.79186944435742" lon="3.831569444807823">
+  <wpt lat="51.79798611078372" lon="3.8189499995183">
     <name>BO-OW 37</name>
     <desc>vaarweg : NOORDZEE
 lich kleur : X
@@ -9990,7 +10051,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.785072222135334" lon="3.826674999461368">
+  <wpt lat="51.79288888878296" lon="3.809036110757555">
     <name>BO-OW 39</name>
     <desc>vaarweg : NOORDZEE
 lich kleur : X
@@ -10020,7 +10081,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.79330277788959" lon="3.745136110848215">
+  <wpt lat="51.79270555519826" lon="3.761699999499548">
     <name>BO-OW 5</name>
     <desc>vaarweg : NOORDZEE
 lich kleur : X
@@ -10040,7 +10101,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.797494444161856" lon="3.756466667228987">
+  <wpt lat="51.79874444408187" lon="3.766422222881167">
     <name>BO-OW 7</name>
     <desc>vaarweg : NOORDZEE
 lich kleur : X
@@ -18080,6 +18141,7 @@ model : spar Geel</desc>
     <desc>vaarweg : KRABBERSGAT (IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -18089,6 +18151,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : KRABBERSGAT (IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -18098,6 +18161,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : KRABBERSGAT (IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -18106,7 +18170,8 @@ model : stomp Geel</desc>
     <name>ED-Kite J</name>
     <desc>vaarweg : KRABBERSGAT (IJSSELMEER)
 lich kleur : X
-model : spar Geel</desc>
+model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -18398,6 +18463,7 @@ model : spar Groen</desc>
     <desc>vaarweg : KRABBERSGAT (IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -18407,6 +18473,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : KRABBERSGAT (IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -24280,7 +24347,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.09106944416704" lon="6.182683333951053">
+  <wpt lat="52.09099722231295" lon="6.183438888203018">
     <name>GIJ 60</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24290,7 +24357,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.09113055597032" lon="6.18176388823245">
+  <wpt lat="52.09120833372004" lon="6.181799999419189">
     <name>GIJ 60A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -25426,7 +25493,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.312416666448705" lon="5.291855556099246">
+  <wpt lat="52.310030555113144" lon="5.28789722244268">
     <name>GMR 10</name>
     <desc>vaarweg : GOOIMEER RECREATIE (RANDMEREN)
 lich kleur : X
@@ -25456,7 +25523,7 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.313561111479665" lon="5.288827777936723">
+  <wpt lat="52.31099722245064" lon="5.284727778368887">
     <name>GMR 12</name>
     <desc>vaarweg : GOOIMEER RECREATIE (RANDMEREN)
 lich kleur : X
@@ -25476,7 +25543,7 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.31471111128864" lon="5.285761110563776">
+  <wpt lat="52.31195555553688" lon="5.281547222295579">
     <name>GMR 14</name>
     <desc>vaarweg : GOOIMEER RECREATIE (RANDMEREN)
 lich kleur : X
@@ -25506,7 +25573,7 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.31586111085832" lon="5.282694445072428">
+  <wpt lat="52.312938888978834" lon="5.278322222304542">
     <name>GMR 16</name>
     <desc>vaarweg : GOOIMEER RECREATIE (RANDMEREN)
 lich kleur : X
@@ -25526,7 +25593,7 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.31656111084124" lon="5.278130554985406">
+  <wpt lat="52.31389722241279" lon="5.275130554877393">
     <name>GMR 18</name>
     <desc>vaarweg : GOOIMEER RECREATIE (RANDMEREN)
 lich kleur : X
@@ -25546,7 +25613,7 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.3067388887325" lon="5.302013888641989">
+  <wpt lat="52.30381944417806" lon="5.29839722282571">
     <name>GMR 2 A</name>
     <desc>vaarweg : GOOIMEER RECREATIE (RANDMEREN)
 lich kleur : X
@@ -25556,7 +25623,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.306122222459386" lon="5.298805555351928">
+  <wpt lat="52.30468055571927" lon="5.296997222859257">
     <name>GMR 2 B</name>
     <desc>vaarweg : GOOIMEER RECREATIE (RANDMEREN)
 lich kleur : X
@@ -25576,7 +25643,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.317255555664" lon="5.273561111544347">
+  <wpt lat="52.31488888886968" lon="5.271913888917623">
     <name>GMR 20</name>
     <desc>vaarweg : GOOIMEER RECREATIE (RANDMEREN)
 lich kleur : X
@@ -25636,7 +25703,7 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.30733611092281" lon="5.305219444114549">
+  <wpt lat="52.302944444544025" lon="5.299802777445066">
     <name>GMR 2</name>
     <desc>vaarweg : GOOIMEER RECREATIE (RANDMEREN)
 lich kleur : X
@@ -26136,7 +26203,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.31031944430368" lon="5.292819443717412">
+  <wpt lat="52.30904722222738" lon="5.291111110940021">
     <name>GMR 8</name>
     <desc>vaarweg : GOOIMEER RECREATIE (RANDMEREN)
 lich kleur : X
@@ -40255,6 +40322,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40264,6 +40332,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40273,6 +40342,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40282,6 +40352,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40291,6 +40362,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40300,6 +40372,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40309,6 +40382,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40318,6 +40392,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40327,6 +40402,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40336,6 +40412,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40345,6 +40422,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40354,6 +40432,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40363,6 +40442,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40372,6 +40452,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40381,6 +40462,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40390,6 +40472,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40399,6 +40482,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40408,6 +40492,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40417,6 +40502,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40426,6 +40512,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40435,6 +40522,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40444,6 +40532,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40453,6 +40542,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40462,6 +40552,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40471,6 +40562,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40480,6 +40572,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40489,6 +40582,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40498,6 +40592,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40507,6 +40602,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40516,6 +40612,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40525,6 +40622,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40534,6 +40632,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND RECREATIE BET.(IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48482,7 +48581,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.747519444817854" lon="3.732088888609059">
+  <wpt lat="51.750252777672294" lon="3.73396944489333">
     <name>MPZ-OW 4</name>
     <desc>vaarweg : NOORDZEE
 lich kleur : X
@@ -48502,7 +48601,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.74224444469149" lon="3.737797221610831">
+  <wpt lat="51.74845555574221" lon="3.745863889156846">
     <name>MPZ-OW 6</name>
     <desc>vaarweg : NOORDZEE
 lich kleur : X
@@ -48512,7 +48611,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.76636666664369" lon="3.731619445021112">
+  <wpt lat="51.7598777779252" lon="3.740536110835119">
     <name>MPZ-OW 7</name>
     <desc>vaarweg : NOORDZEE
 lich kleur : X
@@ -86610,6 +86709,15 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.97480000015033" lon="5.390711110732646">
+    <name>VF-OW 118</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.959366667079536" lon="5.403194444149984">
     <name>VF-OW 142</name>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
@@ -102792,6 +102900,7 @@ licht type : LFl (long-flashing)
 licht periode : 8
 lich kleur : Groen
 model : spits Groen</desc>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
