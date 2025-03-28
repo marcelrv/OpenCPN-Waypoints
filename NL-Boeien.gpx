@@ -88029,6 +88029,16 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.386016667042526" lon="3.628150000723458">
+    <name>VH 3</name>
+    <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
+lich kleur : X
+model : spar Groen</desc>
+    <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.192055555637815" lon="4.873127777374003">
     <name>VH 3</name>
     <desc>vaarweg : VLIEHORS
@@ -99635,17 +99645,6 @@ model : spar Groen</desc>
 lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.575902777906904" lon="3.477880555586089">
-    <name>ZAND-N</name>
-    <desc>vaarweg : DOMBURGER RASSEN
-licht type : VQ (very quick-flashing)
-lich kleur : Wit
-model : Pilaar Zwart/geel</desc>
-    <sym>2023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
