@@ -48506,6 +48506,24 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.77026388899726" lon="3.924833333231778">
+    <name>MP 1</name>
+    <desc>vaarweg : GREVELINGEN
+lich kleur : X
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.754772222106524" lon="3.973352777418012">
+    <name>MP 2</name>
+    <desc>vaarweg : GREVELINGEN
+lich kleur : X
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.764752777820256" lon="4.222861111189087">
     <name>MP</name>
     <desc>vaarweg : HARINGVLIET
@@ -60359,6 +60377,17 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.95215277757591" lon="5.361163889307754">
+    <name>PM 11</name>
+    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.87450555531534" lon="5.689694444893233">
     <name>PM 11</name>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
@@ -60519,6 +60548,17 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.9515277773779" lon="5.362208333685616">
+    <name>PM 13</name>
+    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spits Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.87771944400785" lon="5.691291666692406">
     <name>PM 13</name>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
@@ -60549,6 +60589,18 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.950897222631475" lon="5.363252777493599">
+    <name>PM 15</name>
+    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spits Geel</desc>
+    <sym>1202</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.88115555576938" lon="5.692994443776051">
     <name>PM 15</name>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
@@ -60557,6 +60609,17 @@ licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.956044444261295" lon="5.350452777479154">
+    <name>PM 1</name>
+    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spits Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -60811,6 +60874,18 @@ model : spar Rood</desc>
 lich kleur : X
 model : spar Groen/rood</desc>
     <sym>1211</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.955722222609566" lon="5.351819445176985">
+    <name>PM 3</name>
+    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spits Geel</desc>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61089,6 +61164,18 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.95540555511684" lon="5.353186110943043">
+    <name>PM 5</name>
+    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spits Geel</desc>
+    <sym>1005</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.48860277749292" lon="5.073536111154983">
     <name>PM 5</name>
     <desc>vaarweg : PIETERMAN (MARKERMEER)
@@ -61344,6 +61431,18 @@ licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.9551000000086" lon="5.354508333492251">
+    <name>PM 7</name>
+    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spits Geel</desc>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61616,6 +61715,17 @@ model : spar Rood</desc>
 lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.952777778127455" lon="5.360119443994606">
+    <name>PM 9</name>
+    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spits Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
