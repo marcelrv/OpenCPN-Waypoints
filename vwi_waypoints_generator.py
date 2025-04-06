@@ -16,8 +16,8 @@ __version__ = "1.0.3"
 import datetime
 import json
 import os
-import sys
 import re
+import sys
 import time
 import xml.etree.ElementTree as mod_etree
 
@@ -67,45 +67,52 @@ class BridgeInfo:
     def get_openingHours(self, openingId):
         openings = self.find_id(self.operatingtimes, openingId)
         openingDescription = '\r\nBedieningstijden\r\n'
-        for OperatingPeriod in openings.get('OperatingPeriods'):
-            note = ''
-            if OperatingPeriod.get('Note') is not None and OperatingPeriod.get('Note') != "":
-                note = ' (note: ' + OperatingPeriod.get('Note') + ')'
-            openingDescription += 'Periode ' + OperatingPeriod['Start'][2:] + '-' + OperatingPeriod['Start'][:2] + \
-                ' tot ' + OperatingPeriod['End'][2:] + '-' + OperatingPeriod['End'][:2] + note + ':\r\n'
+        try:
+            for OperatingPeriod in openings.get('OperatingPeriods'):
+                note = ''
+                if OperatingPeriod.get('Note') is not None and OperatingPeriod.get('Note') != "":
+                    note = ' (note: ' + OperatingPeriod.get('Note') + ')'
+                openingDescription += 'Periode ' + OperatingPeriod['Start'][2:] + '-' + OperatingPeriod['Start'][:2] + \
+                    ' tot ' + OperatingPeriod['End'][2:] + '-' + OperatingPeriod['End'][:2] + note + ':\r\n'
 
-            for OperatingRule in sorted(OperatingPeriod['OperatingRules'], key=self.operatinghours_sort_key):
-                if OperatingRule.get('From') is not None and \
-                        OperatingRule.get('To') is not None and OperatingRule.get('From') > 0:
-                    openingDescription += '   ' + \
-                        datetime.datetime.fromtimestamp(OperatingRule['From'] / 1000.0).strftime('%H:%M') + \
-                        ' - ' + datetime.datetime.fromtimestamp(OperatingRule['To'] / 1000.0).strftime('%H:%M') + ': '
-                else:
-                    openingDescription += '   Gesloten: '
-                if OperatingRule.get('IsMonday'):
-                    openingDescription += 'Ma, '
-                if OperatingRule.get('IsTuesday'):
-                    openingDescription += 'Di, '
-                if OperatingRule.get('IsWednesday'):
-                    openingDescription += 'Wo, '
-                if OperatingRule.get('IsThursday'):
-                    openingDescription += 'Do, '
-                if OperatingRule.get('IsFriday'):
-                    openingDescription += 'Vr, '
-                if OperatingRule.get('IsSaturday'):
-                    openingDescription += 'Za, '
-                if OperatingRule.get('IsSunday'):
-                    openingDescription += 'Zo, '
-                if OperatingRule.get('IsHoliday'):
-                    openingDescription += 'incl. feestdagen.'
-                else:
-                    openingDescription += 'excl. feestdagen.'
-                if OperatingRule.get('Note') is not None:
-                    openingDescription += ' ' + OperatingRule.get('Note')
-                openingDescription += '\r\n'
-        if openings.get('Note') is not None:
-            openingDescription += '\r\nNote: ' + openings.get('Note')
-        return openingDescription
+                for OperatingRule in sorted(OperatingPeriod['OperatingRules'], key=self.operatinghours_sort_key):
+                    if OperatingRule.get('From') is not None and \
+                            OperatingRule.get('To') is not None and OperatingRule.get('From') > 0:
+                        openingDescription += '   ' + \
+                            datetime.datetime.fromtimestamp(OperatingRule['From'] / 1000.0).strftime('%H:%M') + \
+                            ' - ' + datetime.datetime.fromtimestamp(OperatingRule['To'] / 1000.0).strftime('%H:%M') + ': '
+                    else:
+                        openingDescription += '   Gesloten: '
+                    if OperatingRule.get('IsMonday'):
+                        openingDescription += 'Ma, '
+                    if OperatingRule.get('IsTuesday'):
+                        openingDescription += 'Di, '
+                    if OperatingRule.get('IsWednesday'):
+                        openingDescription += 'Wo, '
+                    if OperatingRule.get('IsThursday'):
+                        openingDescription += 'Do, '
+                    if OperatingRule.get('IsFriday'):
+                        openingDescription += 'Vr, '
+                    if OperatingRule.get('IsSaturday'):
+                        openingDescription += 'Za, '
+                    if OperatingRule.get('IsSunday'):
+                        openingDescription += 'Zo, '
+                    if OperatingRule.get('IsHoliday'):
+                        openingDescription += 'incl. feestdagen.'
+                    else:
+                        openingDescription += 'excl. feestdagen.'
+                    if OperatingRule.get('Note') is not None:
+                        openingDescription += ' ' + OperatingRule.get('Note')
+                    openingDescription += '\r\n'
+            if openings.get('Note') is not None:
+                openingDescription += '\r\nNote: ' + openings.get('Note')
+            return openingDescription
+        except Exception as err:
+            print(f'Failed to create opening hours for entry {openingId}: "{ openings}". Error occurred: {err}')
+            return 'Bedieningstijden onbekend.\r\n' + str(err)
+        return 'Bedieningstijden onbekend.\r\n'
+    
+
 
     def create_header(self, region, geotype):
         gpx = create_GPXheader()
@@ -332,7 +339,8 @@ def create_GPXheader():
     gpx.author_name = 'Marcel Verpaalen'
     gpx.copyright_year = '2022'
     gpx.copyright_license = 'CC BY-NC-SA 4.0'
-    gpx.time = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+    #gpx.time = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
+    gpx.time = datetime.datetime.now(datetime.UTC)
     return gpx
 
 
