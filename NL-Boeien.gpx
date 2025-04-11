@@ -24392,7 +24392,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.09099722231295" lon="6.183438888203018">
+  <wpt lat="52.09108888847713" lon="6.183166666546247">
     <name>GIJ 60</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24402,7 +24402,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.09120833372004" lon="6.181799999419189">
+  <wpt lat="52.09128333317107" lon="6.181727778206509">
     <name>GIJ 60A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -31117,7 +31117,6 @@ model : spits Groen</desc>
     <desc>vaarweg : MAAS
 lich kleur : X
 model : stomp Rood</desc>
-    <sym>1103</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -34768,7 +34767,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="50.99773333321478" lon="5.772055555121504">
+  <wpt lat="51.003133333586476" lon="5.774355554879969">
     <name>JK-A</name>
     <desc>vaarweg : JULIANAKANAAL
 licht type : Fl (flashing)
@@ -34780,7 +34779,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="50.99777777782142" lon="5.771772222311539">
+  <wpt lat="51.0028027782369" lon="5.773952777134409">
     <name>JK-B</name>
     <desc>vaarweg : JULIANAKANAAL
 licht type : Fl (flashing)
@@ -34792,7 +34791,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="50.99576388923382" lon="5.771211111118026">
+  <wpt lat="51.00243611144701" lon="5.77358055516803">
     <name>JK-C</name>
     <desc>vaarweg : JULIANAKANAAL
 licht type : Fl (flashing)
@@ -34804,7 +34803,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="50.99577777810622" lon="5.770925000543089">
+  <wpt lat="51.00076388905832" lon="5.772711111330946">
     <name>JK-D</name>
     <desc>vaarweg : JULIANAKANAAL
 licht type : Fl (flashing)
@@ -34812,6 +34811,39 @@ licht periode : 5
 lich kleur : Geel
 model : stomp Geel</desc>
     <sym>3701</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.99983888866461" lon="5.772347222218745">
+    <name>JK-E</name>
+    <desc>vaarweg : OPHEF LOCATIE
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.99937222189333" lon="5.772330556215945">
+    <name>JK-F</name>
+    <desc>vaarweg : JULIANAKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="50.99888888884529" lon="5.772338889535314">
+    <name>JK-G</name>
+    <desc>vaarweg : JULIANAKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -95705,7 +95737,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.453547222462255" lon="5.596136110837674">
+  <wpt lat="53.452469444773016" lon="5.593897222284438">
     <name>WA 12</name>
     <desc>vaarweg : WESTGAT (AMELAND)
 licht type : Q (quick-flashing)
@@ -95726,7 +95758,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.44115833304767" lon="5.607494444197015">
+  <wpt lat="53.439841666417415" lon="5.602736111196405">
     <name>WA 14</name>
     <desc>vaarweg : WESTGAT (AMELAND)
 lich kleur : X
@@ -100782,7 +100814,6 @@ licht type : VQ (very quick-flashing)
 licht periode : 10
 lich kleur : Wit
 model : spar Geel/zwart/geel</desc>
-    <sym>2333</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
