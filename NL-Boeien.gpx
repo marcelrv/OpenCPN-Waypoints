@@ -24162,7 +24162,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.22655277797093" lon="6.174063888413353">
+  <wpt lat="52.1998111113415" lon="6.158747222791956">
     <name>GIJ 52B</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24192,7 +24192,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.20093611122637" lon="6.162302777414042">
+  <wpt lat="52.2010861111314" lon="6.162138888753858">
     <name>GIJ 54</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24202,7 +24202,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.20041944447262" lon="6.1599944438627">
+  <wpt lat="52.20041111088875" lon="6.159858333933706">
     <name>GIJ 54A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24262,7 +24262,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.19855000045878" lon="6.157819444229412">
+  <wpt lat="52.198530555378156" lon="6.157447222257578">
     <name>GIJ 56</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -34817,7 +34817,7 @@ model : stomp Geel</desc>
   </wpt>
   <wpt lat="50.99983888866461" lon="5.772347222218745">
     <name>JK-E</name>
-    <desc>vaarweg : OPHEF LOCATIE
+    <desc>vaarweg : JULIANAKANAAL
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
@@ -48767,16 +48767,6 @@ model : spar Geel</desc>
 lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.39509444442254" lon="4.106536110875179">
-    <name>MPZ</name>
-    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>3601</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -69239,6 +69229,48 @@ model : spar Groen</desc>
 lich kleur : X
 model : spar Groen/rood</desc>
     <sym>1211</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.38693888905456" lon="4.092513888922003">
+    <name>REC-A</name>
+    <desc>vaarweg : SCHAAR VAN VALKENISSE
+licht type : Iso (isophased)
+licht periode : 8
+lich kleur : X
+model : stomp Rood/wit</desc>
+    <sym>6003</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.380111110896074" lon="4.094455555646088">
+    <name>REC-B</name>
+    <desc>vaarweg : SCHAAR VAN VALKENISSE
+lich kleur : X
+model : stomp Rood/wit</desc>
+    <sym>6041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.375299999802756" lon="4.096072221499654">
+    <name>REC-C</name>
+    <desc>vaarweg : SCHAAR VAN VALKENISSE
+lich kleur : X
+model : stomp Rood/wit</desc>
+    <sym>6041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.37198611110498" lon="4.099633332983065">
+    <name>REC-D</name>
+    <desc>vaarweg : SCHAAR VAN VALKENISSE
+lich kleur : X
+model : stomp Rood/wit</desc>
+    <sym>2233</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -93560,6 +93592,7 @@ licht type : Fl (flashing)
 licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>3801</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -93571,6 +93604,7 @@ licht type : Fl (flashing)
 licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>3801</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -93582,6 +93616,7 @@ licht type : Fl (flashing)
 licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>3801</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
