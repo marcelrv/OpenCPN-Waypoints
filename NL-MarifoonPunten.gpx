@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-04-08T15:34:06.068000Z</time>
+    <time>2025-04-14T10:55:29.727000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -18109,6 +18109,19 @@ VHF:          78
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/15367523">
       <text>Meldpunt Wachtplaats Markbrug Boven - Rechter oever Oosterhout online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.0244650108755" lon="5.94212173268548">
+    <name>Meldpunt Poolsbrug</name>
+    <desc>Naam:         Meldpunt Poolsbrug
+VHF:          80
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/21949">
+      <text>Meldpunt Poolsbrug online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
