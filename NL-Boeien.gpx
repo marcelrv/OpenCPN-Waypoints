@@ -17488,7 +17488,7 @@ model : spar Zwart/geel/zwart</desc>
     <desc>vaarweg : BOCHT VAN WATUM
 licht type : Q (quick-flashing)
 licht periode : 10
-lich kleur : X
+lich kleur : Wit
 model : spar Zwart/geel/zwart</desc>
     <sym>2131</sym>
     <extensions>
@@ -26811,7 +26811,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.49823055570468" lon="3.383661111150926">
+  <wpt lat="51.49878333299314" lon="3.383666667073101">
     <name>GVW 3 (virtuele)</name>
     <desc>vaarweg : GEUL VAN DE WALVISCHSTAART
 lich kleur : X
@@ -26831,7 +26831,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.49165833331367" lon="3.396191666933143">
+  <wpt lat="51.492016666886926" lon="3.397183333327337">
     <name>GVW 5 (virtuele)</name>
     <desc>vaarweg : GEUL VAN DE WALVISCHSTAART
 lich kleur : X
@@ -67080,7 +67080,7 @@ model : stomp Geel</desc>
     <name>R-SA 10</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
-model : stomp Rood/wit repeterend</desc>
+model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -67090,7 +67090,7 @@ model : stomp Rood/wit repeterend</desc>
     <name>R-SA 12</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
-model : spar Rood/wit repeterend</desc>
+model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -67100,7 +67100,7 @@ model : spar Rood/wit repeterend</desc>
     <name>R-SA 14</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
-model : stomp Rood/wit repeterend</desc>
+model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -67110,7 +67110,7 @@ model : stomp Rood/wit repeterend</desc>
     <name>R-SA 16</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
-model : stomp Rood/wit repeterend</desc>
+model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -67120,7 +67120,7 @@ model : stomp Rood/wit repeterend</desc>
     <name>R-SA 2</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
-model : spar Rood/wit repeterend</desc>
+model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -67130,7 +67130,7 @@ model : spar Rood/wit repeterend</desc>
     <name>R-SA 4</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
-model : spar Rood/wit repeterend</desc>
+model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -67140,7 +67140,7 @@ model : spar Rood/wit repeterend</desc>
     <name>R-SA 6</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
-model : stomp Rood/wit repeterend</desc>
+model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -67150,7 +67150,7 @@ model : stomp Rood/wit repeterend</desc>
     <name>R-SA 8</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
-model : spar Rood/wit repeterend</desc>
+model : stomp Geel</desc>
     <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -69026,8 +69026,8 @@ model : spar Groen/rood</desc>
     <desc>vaarweg : SCHAAR VAN VALKENISSE
 licht type : Iso (isophased)
 licht periode : 8
-lich kleur : X
-model : stomp Rood/wit</desc>
+lich kleur : Wit
+model : bol Rood/wit</desc>
     <sym>6007</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -72041,7 +72041,7 @@ model : spar Groen</desc>
     <desc>vaarweg : NOORDZEE
 licht type : VQ (very quick-flashing)
 licht periode : 5
-lich kleur : X
+lich kleur : Wit
 model : spar Zwart/geel/zwart</desc>
     <sym>2123</sym>
     <extensions>
@@ -72132,7 +72132,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.36756944442623" lon="4.956577777773039">
+  <wpt lat="52.36755277739854" lon="4.956524999916814">
     <name>SA-C</name>
     <desc>vaarweg : AMSTERDAM-RIJNKANAAL
 licht type : Fl (flashing)
@@ -100671,6 +100671,7 @@ model : spits Groen</desc>
     <desc>vaarweg : ZUID HOLLANDSCH DIEP
 lich kleur : X
 model : stomp Rood</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -103890,6 +103891,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : OUDE MAAS
 lich kleur : X
 model : spar Geel</desc>
+    <sym>3101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -103899,6 +103901,7 @@ model : spar Geel</desc>
     <desc>vaarweg : OUDE MAAS
 lich kleur : X
 model : spar Geel</desc>
+    <sym>3101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
