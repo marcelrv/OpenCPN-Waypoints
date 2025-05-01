@@ -16273,6 +16273,42 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.46374444485233" lon="5.124622221896868">
+    <name>DM-Y</name>
+    <desc>vaarweg : MARKEN (MARKERMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.46518888893909" lon="5.116405556171824">
+    <name>DM-Z-A</name>
+    <desc>vaarweg : MARKEN (MARKERMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.464488888866214" lon="5.112288889483859">
+    <name>DM-Z-B</name>
+    <desc>vaarweg : MARKEN (MARKERMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.46542499964587" lon="5.121272222060314">
+    <name>DM-Z</name>
+    <desc>vaarweg : MARKEN (MARKERMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.92738333317869" lon="5.051300000382387">
     <name>DO 10</name>
     <desc>vaarweg : DEN OEVER (IJSSELMEER)
@@ -17791,6 +17827,33 @@ model : spar Zwart/geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.52181111138872" lon="5.0729888883296">
+    <name>ED-KITE F</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.52647500011403" lon="5.066002778288651">
+    <name>ED-Kite A</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.52693333347234" lon="5.069430555145955">
+    <name>ED-Kite B</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.52741111137879" lon="5.072788888644314">
     <name>ED-Kite C</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
@@ -17861,7 +17924,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.71503055525258" lon="5.301552777296381">
+  <wpt lat="52.52077777801195" lon="5.07021388929245">
     <name>ED-Kite G</name>
     <desc>vaarweg : KRABBERSGAT (IJSSELMEER)
 lich kleur : X
@@ -20061,7 +20124,7 @@ model : spar Geel</desc>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 lich kleur : X
 model : spar Geel</desc>
-    <sym>3101</sym>
+    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -34455,90 +34518,6 @@ model : spar Rood</desc>
 lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.003133333586476" lon="5.774355554879969">
-    <name>JK-A</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.0028027782369" lon="5.773952777134409">
-    <name>JK-B</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.00243611144701" lon="5.77358055516803">
-    <name>JK-C</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.00076388905832" lon="5.772711111330946">
-    <name>JK-D</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.99983888866461" lon="5.772347222218745">
-    <name>JK-E</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.99937222189333" lon="5.772330556215945">
-    <name>JK-F</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="50.99888888884529" lon="5.772338889535314">
-    <name>JK-G</name>
-    <desc>vaarweg : JULIANAKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -96368,6 +96347,136 @@ model : spar Geel</desc>
     <desc>vaarweg : KORNWERDERZAND (IJSSELMEER)
 lich kleur : X
 model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.57322500006872" lon="5.033622222881922">
+    <name>WD-Kite A</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.57350277783968" lon="5.036719443818816">
+    <name>WD-Kite B</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.573763888961146" lon="5.039827778328505">
+    <name>WD-Kite C</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.57257777781842" lon="5.042241666326309">
+    <name>WD-Kite D</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.57138888926982" lon="5.044700000175833">
+    <name>WD-Kite E</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.57019999963023" lon="5.047113888417536">
+    <name>WD-Kite F</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5690027774957" lon="5.049555555339404">
+    <name>WD-Kite G</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.5678055559516" lon="5.051997222390475">
+    <name>WD-Kite H</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.56661666680876" lon="5.054411111335116">
+    <name>WD-Kite I</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.565438888898655" lon="5.051472222918859">
+    <name>WD-Kite J</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.56432777748081" lon="5.048561111407144">
+    <name>WD-Kite K</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.563186110712074" lon="5.045561111666525">
+    <name>WD-Kite L</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.562280555531046" lon="5.043222222166121">
+    <name>WD-Kite M</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : stomp Geel</desc>
     <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
