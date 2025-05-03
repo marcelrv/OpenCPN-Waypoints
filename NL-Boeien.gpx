@@ -6537,7 +6537,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.952169444361594" lon="4.92744166616762">
+  <wpt lat="52.95122777806545" lon="4.927897222691417">
     <name>AMD 3</name>
     <desc>vaarweg : [WANTIJ]AMSTELDIEP
 lich kleur : X
@@ -6547,7 +6547,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.942633333010306" lon="4.924713889145313">
+  <wpt lat="52.943086110870176" lon="4.925455555554558">
     <name>AMD 5</name>
     <desc>vaarweg : [WANTIJ]AMSTELDIEP
 lich kleur : X
@@ -8039,7 +8039,7 @@ model : stomp Rood</desc>
 licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -10240,7 +10240,7 @@ model : spar Geel</desc>
 licht type : LFl (long-flashing)
 licht periode : 5
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -10252,7 +10252,7 @@ model : stomp Rood/wit</desc>
 licht type : Mo (morse)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -12827,7 +12827,7 @@ model : Pilaar Zwart/geel</desc>
 licht type : Mo (morse)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -16278,6 +16278,7 @@ model : spar Geel</desc>
     <desc>vaarweg : MARKEN (MARKERMEER)
 lich kleur : X
 model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -16287,6 +16288,7 @@ model : spar Geel</desc>
     <desc>vaarweg : MARKEN (MARKERMEER)
 lich kleur : X
 model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -16296,6 +16298,7 @@ model : spar Geel</desc>
     <desc>vaarweg : MARKEN (MARKERMEER)
 lich kleur : X
 model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -16305,6 +16308,7 @@ model : spar Geel</desc>
     <desc>vaarweg : MARKEN (MARKERMEER)
 lich kleur : X
 model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -17832,6 +17836,7 @@ model : spar Zwart/geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -17841,6 +17846,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -17850,6 +17856,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -17926,7 +17933,7 @@ model : spar Geel</desc>
   </wpt>
   <wpt lat="52.52077777801195" lon="5.07021388929245">
     <name>ED-Kite G</name>
-    <desc>vaarweg : KRABBERSGAT (IJSSELMEER)
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
     <sym>3500</sym>
@@ -17934,11 +17941,12 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.52077777801195" lon="5.07021388929245">
+  <wpt lat="52.71503055514856" lon="5.301522222153777">
     <name>ED-Kite G</name>
-    <desc>vaarweg : MARKERMEER (MARKERMEER)
+    <desc>vaarweg : KRABBERSGAT (IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -17979,7 +17987,7 @@ model : stomp Geel</desc>
 licht type : Mo (morse)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -17991,7 +17999,7 @@ model : stomp Rood/wit</desc>
 licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -18003,7 +18011,7 @@ model : stomp Rood/wit</desc>
 licht type : LFl (long-flashing)
 licht periode : 10
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -19520,7 +19528,7 @@ model : bol Rood/wit repeterend</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -21165,7 +21173,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.43011666695892" lon="5.966866666578675">
+  <wpt lat="53.42987499989294" lon="5.966413888382734">
     <name>FW 10-HB 1</name>
     <desc>vaarweg : FRIESCHE WAD
 lich kleur : X
@@ -21195,7 +21203,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.431783333028434" lon="5.961777777094612">
+  <wpt lat="53.4332277781934" lon="5.95865277813902">
     <name>FW 1</name>
     <desc>vaarweg : FRIESCHE WAD
 lich kleur : X
@@ -21215,7 +21223,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.43005833361992" lon="5.965513889137553">
+  <wpt lat="53.431741666754334" lon="5.962950000238008">
     <name>FW 3</name>
     <desc>vaarweg : FRIESCHE WAD
 lich kleur : X
@@ -21235,7 +21243,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.42721388911601" lon="5.970244444746156">
+  <wpt lat="53.42662499986956" lon="5.969380554948338">
     <name>FW 5</name>
     <desc>vaarweg : FRIESCHE WAD
 lich kleur : X
@@ -21255,7 +21263,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.425044444705016" lon="5.974847221982277">
+  <wpt lat="53.42543611118775" lon="5.974027778108026">
     <name>FW 7</name>
     <desc>vaarweg : FRIESCHE WAD
 lich kleur : X
@@ -21265,7 +21273,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.43254166655539" lon="5.963063888636198">
+  <wpt lat="53.432675000318206" lon="5.963219444193321">
     <name>FW 8</name>
     <desc>vaarweg : FRIESCHE WAD
 lich kleur : X
@@ -21275,7 +21283,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.42267222245405" lon="5.978202777337442">
+  <wpt lat="53.423891666772114" lon="5.977238889617416">
     <name>FW 9</name>
     <desc>vaarweg : FRIESCHE WAD
 lich kleur : X
@@ -33087,7 +33095,7 @@ model : spar Groen</desc>
 licht type : Mo (morse)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : Pilaar Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -33099,7 +33107,7 @@ model : stomp Rood/wit</desc>
 licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -35030,7 +35038,7 @@ model : spar Geel/zwart</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -35712,7 +35720,7 @@ model : stomp Geel</desc>
 licht type : Mo (morse)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6043</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -44634,7 +44642,7 @@ model : spar Geel</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -44736,7 +44744,7 @@ model : spar Geel</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -50625,7 +50633,7 @@ model : spits Groen</desc>
 licht type : Mo (morse)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -50637,7 +50645,7 @@ model : stomp Rood/wit</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -51000,7 +51008,7 @@ model : spar Groen</desc>
 licht type : LFl (long-flashing)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -51012,7 +51020,7 @@ model : stomp Rood/wit</desc>
 licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -65309,7 +65317,6 @@ model : spar Rood/wit repeterend</desc>
     <desc>vaarweg : HOLLANDSCH DIEP
 lich kleur : X
 model : spar Groen/wit repeterend</desc>
-    <sym>1512</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -69035,7 +69042,7 @@ model : bol Rood/wit</desc>
     <name>REC-B</name>
     <desc>vaarweg : SCHAAR VAN VALKENISSE
 lich kleur : X
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -69045,7 +69052,7 @@ model : stomp Rood/wit</desc>
     <name>REC-C</name>
     <desc>vaarweg : SCHAAR VAN VALKENISSE
 lich kleur : X
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -69706,7 +69713,7 @@ model : spar Zwart/geel/zwart</desc>
 licht type : Iso (isophased)
 licht periode : 10
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -72115,6 +72122,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5542</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72126,6 +72134,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5542</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72137,6 +72146,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
+    <sym>5542</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -73435,7 +73445,7 @@ model : spar Rood</desc>
 licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -75123,7 +75133,7 @@ model : bol Rood/wit</desc>
 licht type : Mo (morse)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : Pilaar Rood/wit</desc>
     <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -83570,7 +83580,7 @@ model : spar Groen</desc>
 licht type : Mo (morse)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -83582,7 +83592,7 @@ model : stomp Rood/wit</desc>
 licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -83594,7 +83604,7 @@ model : stomp Rood/wit</desc>
 licht type : LFl (long-flashing)
 licht periode : 10
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -85481,7 +85491,7 @@ model : spar Geel</desc>
     <name>V-R</name>
     <desc>vaarweg : RA
 lich kleur : X
-model : stomp Rood/wit</desc>
+model : spar Rood/wit</desc>
     <sym>6041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -89429,7 +89439,7 @@ model : spar Groen</desc>
 licht type : LFl (long-flashing)
 licht periode : 10
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -89441,7 +89451,7 @@ model : stomp Rood/wit</desc>
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -89453,7 +89463,7 @@ model : stomp Rood/wit</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -96003,7 +96013,7 @@ model : spar Geel/zwart</desc>
 licht type : LFl (long-flashing)
 licht periode : 10
 lich kleur : Wit
-model : spar Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -96376,6 +96386,7 @@ model : spar Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -96385,6 +96396,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -96394,6 +96406,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -96403,6 +96416,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -96412,6 +96426,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -96421,6 +96436,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -96430,6 +96446,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -96439,6 +96456,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -96448,6 +96466,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -96457,6 +96476,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3301</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -96466,6 +96486,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -96475,6 +96496,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -96484,6 +96506,7 @@ model : stomp Geel</desc>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -97031,7 +97054,7 @@ model : spar Geel</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -103545,7 +103568,7 @@ model : spar Geel</desc>
 licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Wit
-model : stomp Rood/wit</desc>
+model : bol Rood/wit</desc>
     <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
