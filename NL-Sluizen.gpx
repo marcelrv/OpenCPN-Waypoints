@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-05-06T12:47:38.999000Z</time>
+    <time>2025-05-07T12:47:30.659000Z</time>
   </metadata>
   <wpt lat="53.024144051866614" lon="7.139342688024044">
     <name>Vlagtweddersluis</name>
@@ -5636,7 +5636,7 @@ Bedieningstijden
 Periode 01-01 tot 31-03:
    23:00 - 22:59: Zo, incl. feestdagen. 
    04:30 - 20:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 19:45: Za, excl. feestdagen. 
+   05:00 - 16:45: Za, excl. feestdagen. 
 Periode 01-04 tot 04-05:
    04:30 - 20:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:45: Za, excl. feestdagen. 
@@ -5652,8 +5652,7 @@ Periode 29-05 tot 31-05:
 Periode 01-06 tot 15-09:
    04:30 - 20:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 20:45: Za, excl. feestdagen. 
-   07:00 - 19:45: Zo, excl. feestdagen. 
-   07:00 - 20:45: incl. feestdagen. 
+   07:00 - 20:45: Zo, incl. feestdagen. 
 Periode 16-09 tot 31-10:
    04:30 - 20:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    05:00 - 19:45: Za, excl. feestdagen. 
@@ -5661,13 +5660,13 @@ Periode 16-09 tot 31-10:
 Periode 01-11 tot 23-12:
    23:00 - 22:59: Zo, incl. feestdagen. 
    04:30 - 20:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 19:45: Za, excl. feestdagen. 
+   05:00 - 16:45: Za, excl. feestdagen. 
 Periode 24-12 tot 24-12:
    04:30 - 15:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 25-12 tot 30-12:
    23:00 - 22:59: Zo, incl. feestdagen. 
    04:30 - 20:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 19:45: Za, excl. feestdagen. 
+   05:00 - 16:45: Za, excl. feestdagen. 
 Periode 31-12 tot 31-12:
    04:30 - 15:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
@@ -7334,7 +7333,7 @@ Periode 30-12 tot 31-12 (note: Aanvraag bediening 24 uur van te voren aanvragen 
     <desc>Locatie: Zuideramstelkanaal
 
 Bedieningstijden
-Periode 01-01 tot 31-12 (note: Bedientijden onbekend):
+Periode 01-01 tot 31-12 (note: Staat altijd open.):
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 
 Note: </desc>
@@ -7536,15 +7535,12 @@ Periode 01-02 tot 29-02 (note: Pauze alle dagen van 12:00-12:45.):
    06:30 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    11:45 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 Periode 01-03 tot 17-04 (note: Pauze alle dagen van 12:00-12:45.
-Vaste schuttijden recreatievaart Oude IJssel van 18 april tot en met 12 oktober:
-Ma t/m Do om: 10:00, 11:00, 13:00, 15:00, 16:00 en 17:45. 
-Vr en Za om: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 17:45. 
-Zo en Feestdagen: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 16:45.):
+):
    23:00 - 22:59: Zo, excl. feestdagen. 
    06:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    11:45 - 17:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 Periode 18-04 tot 26-04 (note: Pauze alle dagen van 12:00-12:45.
-Vaste schuttijden recreatievaart Oude IJssel:
+Vaste schuttijden recreatievaart Oude IJssel van 18 april tot en met 12 oktober:
 Ma t/m Do om: 10:00, 11:00, 13:00, 15:00, 16:00 en 17:45. 
 Vr en Za om: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 17:45. 
 Zo en Feestdagen: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 16:45.):
@@ -7554,7 +7550,7 @@ Zo en Feestdagen: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 16:45.):
    11:45 - 17:30: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    11:45 - 16:30: Zo, excl. feestdagen. 
 Periode 27-04 tot 12-10 (note: Pauze alle dagen van 12:00-12:45.
-Vaste schuttijden recreatievaart Oude IJssel:
+Vaste schuttijden recreatievaart Oude IJssel van 18 april tot en met 12 oktober:
 Ma t/m Do om: 10:00, 11:00, 13:00, 15:00, 16:00 en 17:45. 
 Vr en Za om: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 17:45. 
 Zo en Feestdagen: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 16:45.):
@@ -7645,15 +7641,12 @@ Periode 01-02 tot 29-02 (note: Pauze alle dagen van 12:00-12:45.):
    06:30 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    11:45 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 Periode 01-03 tot 17-04 (note: Pauze alle dagen van 12:00-12:45.
-Vaste schuttijden recreatievaart Oude IJssel van 18 april tot en met 12 oktober:
-Ma t/m Do om: 10:00, 11:00, 13:00, 15:00, 16:00 en 17:45. 
-Vr en Za om: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 17:45. 
-Zo en Feestdagen: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 16:45.):
+):
    23:00 - 22:59: Zo, excl. feestdagen. 
    06:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    11:45 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 Periode 18-04 tot 26-04 (note: Pauze alle dagen van 12:00-12:45.
-Vaste schuttijden recreatievaart Oude IJssel van 18 april tot en met 12 oktober:
+Vaste schuttijden recreatievaart Oude IJssel van 18 april tot en met 12 oktober.
 Ma t/m Do om: 10:00, 11:00, 13:00, 15:00, 16:00 en 17:45. 
 Vr en Za om: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 17:45. 
 Zo en Feestdagen: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 16:45.):
@@ -7663,7 +7656,7 @@ Zo en Feestdagen: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 16:45.):
    11:45 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    11:45 - 16:30: Zo, excl. feestdagen. 
 Periode 27-04 tot 12-10 (note: Pauze alle dagen van 12:00-12:45.
-Vaste schuttijden recreatievaart Oude IJssel van 18 april tot en met 12 oktober:
+Vaste schuttijden recreatievaart Oude IJssel van 18 april tot en met 12 oktober.
 Ma t/m Do om: 10:00, 11:00, 13:00, 15:00, 16:00 en 17:45. 
 Vr en Za om: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 17:45. 
 Zo en Feestdagen: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 16:45.):
@@ -7672,10 +7665,7 @@ Zo en Feestdagen: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 16:45.):
    11:45 - 17:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    11:45 - 16:30: Zo, incl. feestdagen. 
 Periode 13-10 tot 31-10 (note: Pauze alle dagen van 12:00-12:45.
-Vaste schuttijden recreatievaart Oude IJssel van 18 april tot en met 12 oktober:
-Ma t/m Do om: 10:00, 11:00, 13:00, 15:00, 16:00 en 17:45. 
-Vr en Za om: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 17:45. 
-Zo en Feestdagen: 10:00, 11:00, 13:00, 14:00, 15:00, 16:00 en 16:45.):
+):
    23:00 - 22:59: Zo, excl. feestdagen. 
    06:00 - 11:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
    11:45 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
