@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-05-08T12:50:10.392000Z</time>
+    <time>2025-05-09T12:35:53.946000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>VHF 20</name>
@@ -18094,6 +18094,58 @@ VHF:          80
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/21949">
       <text>Meldpunt Poolsbrug online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7924032189374" lon="4.91375735526876">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Waardbrug Anna Paulowna
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/8861">
+      <text>Meldpunt Waardbrug Anna Paulowna online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.708755074652686" lon="4.820043593645095">
+    <name>VHF 20</name>
+    <desc>Naam:         Meldpunt Roskamsluis
+VHF:          20
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/40430">
+      <text>Meldpunt Roskamsluis online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.79735270100457" lon="4.881938248872756">
+    <name>VHF 18</name>
+    <desc>Naam:         Meldpunt Molenkolksluis
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/21142">
+      <text>Meldpunt Molenkolksluis online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.783602682538344" lon="4.8951938934624195">
+    <name>VHF 18</name>
+    <desc>Naam:         Meldpunt Braaksluis
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/42542">
+      <text>Meldpunt Braaksluis online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
