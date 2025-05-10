@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-05-09T12:35:53.946000Z</time>
+    <time>2025-05-09T14:18:57.661000Z</time>
   </metadata>
   <wpt lat="52.2507194217856" lon="4.56760162786651">
     <name>WV Lisse (1)</name>
@@ -14730,6 +14730,19 @@ PhoneNumber: 0597-482000</desc>
 Tankstation:      : Nee</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/54774000">
       <text>Maastricht Marina online info</text>
+    </link>
+    <sym>Anchor</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.319905198729344" lon="6.695208102464677">
+    <name>Jachthaven Stedum</name>
+    <desc>Locatie: Stedumermaar
+Tankstation:      : Nee
+PhoneNumber: 14 0596</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/shipstation/62531501">
+      <text>Jachthaven Stedum online info</text>
     </link>
     <sym>Anchor</sym>
     <extensions>
