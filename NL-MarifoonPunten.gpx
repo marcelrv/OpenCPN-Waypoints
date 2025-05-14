@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-05-12T14:32:15.187000Z</time>
+    <time>2025-05-14T13:05:11.523000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -18146,6 +18146,19 @@ VHF:          18
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/42542">
       <text>Meldpunt Braaksluis online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.1843408020006" lon="5.54862750787666">
+    <name>Meldpunt Stationsbrug Franeker</name>
+    <desc>Naam:         Meldpunt Stationsbrug Franeker
+VHF:          80
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/21028">
+      <text>Meldpunt Stationsbrug Franeker online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
