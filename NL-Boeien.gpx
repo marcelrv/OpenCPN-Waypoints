@@ -10168,7 +10168,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.07732499981888" lon="5.04070555608855">
+  <wpt lat="53.07710277809468" lon="5.040869443864814">
     <name>BR 2B</name>
     <desc>vaarweg : BINNEN BREESEM
 lich kleur : X
@@ -10188,7 +10188,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.08061944437884" lon="5.045841667394294">
+  <wpt lat="53.08053055530716" lon="5.046661110811026">
     <name>BR 4</name>
     <desc>vaarweg : BINNEN BREESEM
 lich kleur : X
@@ -10208,7 +10208,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.09679722259434" lon="5.047280556164386">
+  <wpt lat="53.09788333331657" lon="5.04936388946844">
     <name>BR 8</name>
     <desc>vaarweg : BINNEN BREESEM
 lich kleur : X
@@ -50048,8 +50048,8 @@ model : bol Geel</desc>
   <wpt lat="53.05928333304433" lon="3.53788888945967">
     <name>NAM 23</name>
     <desc>vaarweg : NOORDZEE
-licht type : LFl (long-flashing)
-licht periode : 10
+licht type : Fl (flashing)
+licht periode : 5
 lich kleur : Geel
 model : bol Geel</desc>
     <sym>4201</sym>
@@ -74099,7 +74099,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.328438889107865" lon="5.176425000666367">
+  <wpt lat="53.328277778022446" lon="5.176755555342029">
     <name>SG 10</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -74163,7 +74163,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.33066388919489" lon="5.180602777738704">
+  <wpt lat="53.33069166679168" lon="5.180525000147732">
     <name>SG 12</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -74185,7 +74185,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.33271388906682" lon="5.185813888326792">
+  <wpt lat="53.33266944446546" lon="5.186069443733955">
     <name>SG 13</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -74261,7 +74261,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.33584166644335" lon="5.186777777161439">
+  <wpt lat="53.33573611098817" lon="5.187766667271313">
     <name>SG 15</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -74323,7 +74323,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.336249999907764" lon="5.185299999694877">
+  <wpt lat="53.33621666662441" lon="5.185527778026145">
     <name>SG 16</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -74333,7 +74333,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.33859722235047" lon="5.189044443723279">
+  <wpt lat="53.33851388847189" lon="5.189375000541692">
     <name>SG 17</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -74363,7 +74363,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.341763888491286" lon="5.193263889498172">
+  <wpt lat="53.341586111030345" lon="5.193611111221014">
     <name>SG 19</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -74383,7 +74383,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.31987222196419" lon="5.167952777154239">
+  <wpt lat="53.31988611096533" lon="5.167747222108987">
     <name>SG 1A</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -74478,7 +74478,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.347555555995264" lon="5.209319444102691">
+  <wpt lat="53.347755555580136" lon="5.209094444614638">
     <name>SG 25</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -74658,7 +74658,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32222777822207" lon="5.169044444699523">
+  <wpt lat="53.322511111237944" lon="5.168486111308512">
     <name>SG 3</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -74953,7 +74953,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32757222217055" lon="5.177963888224931">
+  <wpt lat="53.327469444541464" lon="5.178169444173855">
     <name>SG 9</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -86128,7 +86128,6 @@ licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -86140,7 +86139,6 @@ licht type : Fl (flashing)
 licht periode : 3
 lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -86152,7 +86150,6 @@ licht type : Fl (flashing)
 licht periode : 3
 lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -86164,7 +86161,6 @@ licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Geel
 model : spar Geel</desc>
-    <sym>3201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
