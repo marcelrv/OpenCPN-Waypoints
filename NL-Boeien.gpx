@@ -50448,7 +50448,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.974416666992326" lon="5.398549999618919">
+  <wpt lat="51.97265277798105" lon="5.393327778155048">
     <name>NDR 2</name>
     <desc>vaarweg : NEDERRIJN
 lich kleur : X
@@ -50458,7 +50458,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.974816667008575" lon="5.400349999964279">
+  <wpt lat="51.97350555516751" lon="5.395516666080455">
     <name>NDR 2A</name>
     <desc>vaarweg : NEDERRIJN
 lich kleur : X
@@ -50468,7 +50468,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.973505555531354" lon="5.39552499935727">
+  <wpt lat="51.97441666634848" lon="5.398563888150981">
     <name>NDR 2B</name>
     <desc>vaarweg : NEDERRIJN
 lich kleur : X
@@ -50478,7 +50478,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.97265277798105" lon="5.393327778155048">
+  <wpt lat="51.974816667008575" lon="5.400349999964279">
     <name>NDR 2C</name>
     <desc>vaarweg : NEDERRIJN
 lich kleur : X
@@ -79941,6 +79941,17 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.60203888857855" lon="4.191130555322438">
+    <name>SRK 89</name>
+    <desc>vaarweg : SCHELDE RIJN KANAAL
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spar Groen</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.635488888618916" lon="4.237511110675096">
     <name>SRK 90</name>
     <desc>vaarweg : ZUID VLIJE
@@ -92929,7 +92940,7 @@ model : spar Rood/groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.40471111131798" lon="6.184175000544355">
+  <wpt lat="53.404777778157886" lon="6.185030555974771">
     <name>VO 3</name>
     <desc>vaarweg : VAARWATER NAAR OOSTMAHORN
 lich kleur : X
@@ -92959,7 +92970,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.40435277809854" lon="6.184313889665074">
+  <wpt lat="53.4044055554324" lon="6.183969444364037">
     <name>VO 6</name>
     <desc>vaarweg : VAARWATER NAAR OOSTMAHORN
 lich kleur : X
