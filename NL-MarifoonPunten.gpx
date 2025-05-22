@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-05-21T12:06:51.606000Z</time>
+    <time>2025-05-22T12:40:34.205000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -3437,12 +3437,12 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="53.2073384722291" lon="6.09716324905641">
-    <name>Meldpunt Brug Kootstertille</name>
-    <desc>Naam:         Meldpunt Brug Kootstertille
+    <name>Meldpunt Kootstertille</name>
+    <desc>Naam:         Meldpunt Kootstertille
 VHF:          81
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/16010">
-      <text>Meldpunt Brug Kootstertille online info</text>
+      <text>Meldpunt Kootstertille online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -10073,19 +10073,6 @@ VHF:          22
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/44448">
       <text>Meldpunt Rhijnvreugdbrug online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.9277683336908" lon="4.42983554894003">
-    <name>Meldpunt Giessenbrug</name>
-    <desc>Naam:         Meldpunt Giessenbrug
-VHF:          22
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/44477">
-      <text>Meldpunt Giessenbrug online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
