@@ -17611,16 +17611,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.44896944454188" lon="6.340327778216087">
-    <name>EB 12</name>
-    <desc>vaarweg : EILANDER BALG
-lich kleur : X
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.49760555531352" lon="6.33726388857936">
     <name>EB 14</name>
     <desc>vaarweg : EILANDER BALG
@@ -17691,7 +17681,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.438419444089746" lon="6.316544444635127">
+  <wpt lat="53.4369416662879" lon="6.31575833308096">
     <name>EB 2</name>
     <desc>vaarweg : EILANDER BALG
 lich kleur : X
@@ -17741,7 +17731,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.43666388903281" lon="6.31677499966471">
+  <wpt lat="53.43836944471104" lon="6.317294443956982">
     <name>EB 3</name>
     <desc>vaarweg : EILANDER BALG
 lich kleur : X
@@ -17751,7 +17741,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.44175277812286" lon="6.320977777317228">
+  <wpt lat="53.44051944470139" lon="6.318094444033864">
     <name>EB 4</name>
     <desc>vaarweg : EILANDER BALG
 lich kleur : X
@@ -17761,7 +17751,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.4398833335186" lon="6.318830555402733">
+  <wpt lat="53.44138611070979" lon="6.322024999671411">
     <name>EB 5</name>
     <desc>vaarweg : EILANDER BALG
 lich kleur : X
@@ -17771,7 +17761,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.4442388892296" lon="6.324644443982129">
+  <wpt lat="53.44380000035946" lon="6.323580556138308">
     <name>EB 6</name>
     <desc>vaarweg : EILANDER BALG
 lich kleur : X
@@ -100459,42 +100449,6 @@ model : spar Groen</desc>
 lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.46518888878118" lon="4.603313888253678">
-    <name>ZE-A</name>
-    <desc>vaarweg : NOORDZEEKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5542</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.46481944411361" lon="4.604263889602461">
-    <name>ZE-B</name>
-    <desc>vaarweg : NOORDZEEKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5542</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.464497222027084" lon="4.60331388868361">
-    <name>ZE-C</name>
-    <desc>vaarweg : NOORDZEEKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5542</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
