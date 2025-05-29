@@ -80058,7 +80058,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.4204944444244" lon="3.632033333346327">
+  <wpt lat="51.42099444466848" lon="3.631744444189528">
     <name>SS 3</name>
     <desc>vaarweg : SCHAAR VAN DE SPIJKERPLAAT
 licht type : Q (quick-flashing)
@@ -80079,7 +80079,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.42231944486771" lon="3.654219443817562">
+  <wpt lat="51.423144444131374" lon="3.654094444906583">
     <name>SS 5</name>
     <desc>vaarweg : SCHAAR VAN DE SPIJKERPLAAT
 licht type : Iso (isophased)
@@ -80103,7 +80103,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.41879722240706" lon="3.667138888652523">
+  <wpt lat="51.42088888876171" lon="3.665388888686719">
     <name>SS 7</name>
     <desc>vaarweg : SCHAAR VAN DE SPIJKERPLAAT
 licht type : Iso (isophased)
@@ -85855,18 +85855,6 @@ licht periode : 8
 lich kleur : Rood
 model : spar Rood</desc>
     <sym>1145</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.39545555574491" lon="5.845661110877418">
-    <name>VA 37</name>
-    <desc>vaarweg : VEERBOOT ROUTE AMELAND
-licht type : LFl (long-flashing)
-licht periode : 8
-lich kleur : Groen
-model : spar Groen</desc>
-    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
