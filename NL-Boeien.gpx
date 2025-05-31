@@ -95155,6 +95155,24 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.8491972222595" lon="5.413102777329868">
+    <name>W 8 I</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+model : stomp Rood</desc>
+    <sym>1552</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.85084166698297" lon="5.414052777951875">
+    <name>W 8 J</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+model : stomp Rood</desc>
+    <sym>1502</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.42471388910608" lon="3.504566666009966">
     <name>W 8</name>
     <desc>vaarweg : WIELINGEN
