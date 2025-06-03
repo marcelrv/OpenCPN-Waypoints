@@ -19491,18 +19491,6 @@ model : spar Zwart/geel/zwart</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.96141388932012" lon="3.166441666373022">
-    <name>EURO E</name>
-    <desc>vaarweg : EUROGEUL
-licht type : Iso (isophased)
-licht periode : 2
-lich kleur : Wit
-model : bol Rood/wit repeterend</desc>
-    <sym>6005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.909475000316064" lon="2.723188888767299">
     <name>EURO W</name>
     <desc>vaarweg : EUROGEUL
@@ -62080,6 +62068,7 @@ model : spar Geel</desc>
   <wpt lat="51.40103611109757" lon="4.024261111767752">
     <name>PW 2</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
     <extensions>
@@ -95151,6 +95140,15 @@ licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1005</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.84787777789184" lon="5.406852778032878">
+    <name>W 8 H</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+model : stomp Rood</desc>
+    <sym>1552</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
