@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-06-05T15:22:15.339000Z</time>
+    <time>2025-06-10T12:32:15.973000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -6697,12 +6697,17 @@ Type:    Vaste Brug</desc>
   <wpt lat="53.1698287612667" lon="5.42204260826111">
     <name>Balklandbrug</name>
     <desc>Locatie: Bolswardervaart
-Type:    Vaste Brug
-VHF:     11</desc>
+Type:    Bedienbare Brug
+VHF:     11
+
+Bedieningstijden
+Periode 01-01 tot 31-12:
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/38496">
       <text>Balklandbrug online info</text>
     </link>
-    <sym>Landmarks-Bridge1</sym>
+    <sym>Landmarks-Bridge2</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
