@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-06-10T12:32:15.973000Z</time>
+    <time>2025-06-11T08:27:19.204000Z</time>
   </metadata>
   <wpt lat="53.18525007184" lon="5.77394191611127">
     <name>Spoorbrug HRMK</name>
@@ -15245,6 +15245,18 @@ Type:    Vaste Brug</desc>
 Type:    Vaste Brug</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/62538374">
       <text>Balktilsterstuw online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.25567914396265" lon="6.337934806952034">
+    <name>Spoorbrug Juursemakluft</name>
+    <desc>Locatie: Hoerediep
+Type:    Vaste Brug</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/62541095">
+      <text>Spoorbrug Juursemakluft online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
