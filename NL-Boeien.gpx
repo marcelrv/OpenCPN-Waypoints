@@ -33284,6 +33284,16 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.177580555216934" lon="5.161213888701239">
+    <name>IN 13-SO 56</name>
+    <desc>vaarweg : INSCHOT
+lich kleur : X
+model : spar Groen/rood/groen</desc>
+    <sym>1321</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.17893055539397" lon="5.162552777416221">
     <name>IN 14</name>
     <desc>vaarweg : INSCHOT
@@ -33299,16 +33309,6 @@ model : spar Rood</desc>
     <desc>vaarweg : INSCHOT
 lich kleur : X
 model : spar Geel/zwart/geel</desc>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.177580555216934" lon="5.161213888701239">
-    <name>IN 15-SO 56</name>
-    <desc>vaarweg : INSCHOT
-lich kleur : X
-model : spar Groen/rood/groen</desc>
-    <sym>1321</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -56920,7 +56920,7 @@ model : Pilaar Zwart/geel/zwart</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.81620277788494" lon="5.229161110664322">
+  <wpt lat="51.81414722188377" lon="5.229452777631766">
     <name>OH 1</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
@@ -56930,7 +56930,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.81651944461754" lon="5.229458332656821">
+  <wpt lat="51.814388888451575" lon="5.228927777541586">
     <name>OH 3</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
@@ -74429,7 +74429,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85114722179668" lon="3.98590555490181">
+  <wpt lat="51.85085277786228" lon="3.984419443780572">
     <name>SG 14</name>
     <desc>vaarweg : SLIJKGAT
 licht type : Iso (isophased)
@@ -75165,7 +75165,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.849005555641924" lon="3.950194444367698">
+  <wpt lat="51.848708333752164" lon="3.948719444787633">
     <name>SG 9</name>
     <desc>vaarweg : SLIJKGAT
 licht type : Iso (isophased)
