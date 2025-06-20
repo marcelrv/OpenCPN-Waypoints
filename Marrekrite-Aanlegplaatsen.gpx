@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-06-19T13:31:00.879765Z</time>
+    <time>2025-06-20T13:33:11.379039Z</time>
   </metadata>
   <wpt lat="52.966346" lon="5.515595">
     <name>FL16A Hammigegreft (Damwand)</name>
@@ -4021,11 +4021,11 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.326303" lon="6.177987">
+  <wpt lat="53.326223" lon="6.177943">
     <name>LM24C Passantenhaventje Kollumeroord (Steiger)</name>
     <desc>Naam Passantenhaventje Kollumeroord
 Vaarwater           DOKKUMER DJIP
-Lengte aanleg                   3
+Lengte aanleg                  32
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -4033,47 +4033,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)           None
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.326223" lon="6.178001">
-    <name>LM24D Passantenhaventje Kollumeroord (Steiger)</name>
-    <desc>Naam Passantenhaventje Kollumeroord
-Vaarwater           DOKKUMER DJIP
-Lengte aanleg                   3
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)           None
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.326144" lon="6.178015">
-    <name>LM24E Passantenhaventje Kollumeroord (Steiger)</name>
-    <desc>Naam Passantenhaventje Kollumeroord
-Vaarwater           DOKKUMER DJIP
-Lengte aanleg                   3
-Walverbinding                True
-Fietsmogelijkheid           False
-Aansluiting fietsnetwerk    False
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)           None
+Meerpalen (aantal)              2
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
@@ -9196,7 +9156,7 @@ Kanovoorziening             False
     <name>LM25 Zomerhuisgat (Steiger)</name>
     <desc>Naam                 Zomerhuisgat
 Vaarwater           DOKKUMER DJIP
-Lengte aanleg                  70
+Lengte aanleg                  46
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -9204,7 +9164,7 @@ Wandelmogelijkheid           True
 Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
-Meerpalen (aantal)              3
+Meerpalen (aantal)              1
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
