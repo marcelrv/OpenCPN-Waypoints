@@ -19491,6 +19491,18 @@ model : spar Zwart/geel/zwart</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.96141388932012" lon="3.166441666373022">
+    <name>EURO E</name>
+    <desc>vaarweg : EUROGEUL
+licht type : Iso (isophased)
+licht periode : 2
+lich kleur : Wit
+model : bol Rood/wit repeterend</desc>
+    <sym>6005</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.909475000316064" lon="2.723188888767299">
     <name>EURO W</name>
     <desc>vaarweg : EUROGEUL
@@ -26598,6 +26610,15 @@ licht periode : 10
 lich kleur : Wit
 model : Pilaar Zwart/geel/zwart</desc>
     <sym>2123</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.44211111129468" lon="6.149047221957022">
+    <name>GVS 3</name>
+    <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
+lich kleur : X
+model : spar Groen</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -94641,7 +94662,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.877650000178946" lon="6.026766666152991">
+  <wpt lat="51.87705000035829" lon="6.027250000033785">
     <name>W 16</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
