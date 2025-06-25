@@ -19498,7 +19498,6 @@ licht type : Iso (isophased)
 licht periode : 2
 lich kleur : Wit
 model : bol Rood/wit repeterend</desc>
-    <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -26619,6 +26618,7 @@ model : Pilaar Zwart/geel/zwart</desc>
     <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
 lich kleur : X
 model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -62601,7 +62601,7 @@ model : spar Groen</desc>
     <desc>vaarweg : REEGEUL
 lich kleur : X
 model : spits Groen</desc>
-    <sym>1001</sym>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -62831,7 +62831,7 @@ model : spar Groen/rood</desc>
     <desc>vaarweg : REEGEUL
 lich kleur : X
 model : spits Groen</desc>
-    <sym>1001</sym>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -62964,7 +62964,7 @@ model : spar Groen</desc>
     <desc>vaarweg : REEGEUL
 lich kleur : X
 model : spits Groen</desc>
-    <sym>1001</sym>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -63015,16 +63015,6 @@ model : spar Rood/groen</desc>
 lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.43297222238572" lon="5.776213889133594">
-    <name>R 17</name>
-    <desc>vaarweg : REEGEUL
-lich kleur : X
-model : spits Groen</desc>
-    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -63939,7 +63929,7 @@ model : spar Groen</desc>
     <desc>vaarweg : REEGEUL
 lich kleur : X
 model : spits Groen</desc>
-    <sym>1001</sym>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
