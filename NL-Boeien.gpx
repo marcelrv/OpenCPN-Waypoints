@@ -11021,18 +11021,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.21591388866552" lon="5.300247222470936">
-    <name>BS-MEET</name>
-    <desc>vaarweg : BLAUWE SLENK
-licht type : Q (quick-flashing)
-licht periode : 15
-lich kleur : Wit
-model : spar Geel/zwart/geel</desc>
-    <sym>2333</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.196011110689035" lon="5.315161110836465">
     <name>BS-N</name>
     <desc>vaarweg : BLAUWE SLENK
@@ -13922,7 +13910,7 @@ model : spar Rood/groen repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.83591944416161" lon="4.077527777435425">
+  <wpt lat="51.836586111145905" lon="4.076544444546526">
     <name>D</name>
     <desc>vaarweg : HARINGVLIET
 lich kleur : X
@@ -15258,7 +15246,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.83123611148023" lon="4.083366667185632">
+  <wpt lat="51.83193611147821" lon="4.082411110968148">
     <name>DGR 12</name>
     <desc>vaarweg : DELTAGEUL
 lich kleur : X
@@ -15268,7 +15256,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.8333388886546" lon="4.080527778473916">
+  <wpt lat="51.8340277777668" lon="4.079577777155797">
     <name>DGR 14</name>
     <desc>vaarweg : DELTAGEUL
 lich kleur : X
@@ -15278,7 +15266,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.83575555553631" lon="4.077105555104051">
+  <wpt lat="51.8361305555719" lon="4.076749999534601">
     <name>DGR 16</name>
     <desc>vaarweg : DELTAGEUL
 lich kleur : X
@@ -17547,7 +17535,7 @@ model : spar Rood/groen repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.833677777584185" lon="4.080841667181915">
+  <wpt lat="51.83433333344603" lon="4.07983333273387">
     <name>E</name>
     <desc>vaarweg : HARINGVLIET
 lich kleur : X
@@ -20368,7 +20356,7 @@ model : spar Rood/groen repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.831672222612355" lon="4.083841667252604">
+  <wpt lat="51.83233333365247" lon="4.082833333150085">
     <name>F</name>
     <desc>vaarweg : HARINGVLIET
 lich kleur : X
@@ -22231,7 +22219,7 @@ model : spar Rood/groen repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.83083611109712" lon="4.085011110832983">
+  <wpt lat="51.830166667077215" lon="4.086000000215269">
     <name>G</name>
     <desc>vaarweg : HARINGVLIET
 lich kleur : X
@@ -28195,7 +28183,7 @@ model : spar Rood/groen repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.82883055571935" lon="4.087836111204743">
+  <wpt lat="51.828166666898646" lon="4.088833332639993">
     <name>H</name>
     <desc>vaarweg : HARINGVLIET
 lich kleur : X
@@ -32246,7 +32234,7 @@ model : spar Rood/groen repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.82693055557916" lon="4.090911110535534">
+  <wpt lat="51.82626111068104" lon="4.091894444598393">
     <name>I</name>
     <desc>vaarweg : HARINGVLIET
 lich kleur : X
@@ -33329,6 +33317,7 @@ model : spar Rood</desc>
     <desc>vaarweg : INSCHOT
 lich kleur : X
 model : spar Geel/zwart/geel</desc>
+    <sym>2331</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -33368,6 +33357,7 @@ model : spar Rood</desc>
     <desc>vaarweg : INSCHOT
 lich kleur : X
 model : spar Rood</desc>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -34909,16 +34899,6 @@ model : spar Geel</desc>
 lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.18674999975138" lon="5.413372222482549">
-    <name>K-MEET</name>
-    <desc>vaarweg : KIMSTERGAT
-lich kleur : X
-model : spar Geel/zwart/geel</desc>
-    <sym>2331</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48939,16 +48919,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.17573055553906" lon="5.396777777275204">
-    <name>MR-MEET</name>
-    <desc>vaarweg : MOLENRAK
-lich kleur : X
-model : spar Geel/zwart</desc>
-    <sym>2231</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.94618055567968" lon="4.563388889146811">
     <name>MR</name>
     <desc>vaarweg : NOORDZEE
@@ -56976,6 +56946,26 @@ model : Pilaar Zwart/geel/zwart</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.81414722188377" lon="5.229452777631766">
+    <name>OH 1</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : spits Groen</desc>
+    <sym>1003</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.814388888451575" lon="5.228927777541586">
+    <name>OH 3</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : spits Groen</desc>
+    <sym>1003</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.049719444237674" lon="5.806322222407974">
     <name>OH-A</name>
     <desc>vaarweg : JULIANAKANAAL
@@ -58212,7 +58202,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85636388929458" lon="4.001622221646237">
+  <wpt lat="51.8564555551402" lon="4.003074999794165">
     <name>P 1</name>
     <desc>vaarweg : NOORD PAMPUS
 licht type : Iso (isophased)
@@ -58339,7 +58329,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85683888877618" lon="4.01011388914689">
+  <wpt lat="51.85672777751138" lon="4.011572221930821">
     <name>P 1A</name>
     <desc>vaarweg : NOORD PAMPUS
 licht type : Iso (isophased)
@@ -63048,6 +63038,7 @@ model : spar Groen</desc>
     <desc>vaarweg : REEGEUL
 lich kleur : X
 model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -68621,6 +68612,7 @@ model : spits Groen</desc>
     <desc>vaarweg : NOORD
 lich kleur : X
 model : spar Groen</desc>
+    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -74464,7 +74456,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85085277786228" lon="3.984419443780572">
+  <wpt lat="51.85114722179668" lon="3.98590555490181">
     <name>SG 14</name>
     <desc>vaarweg : SLIJKGAT
 licht type : Iso (isophased)
@@ -74948,7 +74940,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85318611115383" lon="3.906797222833875">
+  <wpt lat="51.8530694440867" lon="3.908255555371066">
     <name>SG 4</name>
     <desc>vaarweg : SLIJKGAT
 lich kleur : X
@@ -75042,7 +75034,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85238611105785" lon="3.916233332660387">
+  <wpt lat="51.8522638893274" lon="3.917675000323186">
     <name>SG 6</name>
     <desc>vaarweg : SLIJKGAT
 licht type : Iso (isophased)
@@ -75232,7 +75224,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.84768888847576" lon="3.962463888897913">
+  <wpt lat="51.84753888907084" lon="3.963897221661077">
     <name>SG 9A</name>
     <desc>vaarweg : SLIJKGAT
 lich kleur : X
@@ -77014,6 +77006,7 @@ model : spar Groen</desc>
     <desc>vaarweg : SCHEURRAK-OMDRAAI
 lich kleur : X
 model : spar Rood</desc>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -77023,6 +77016,7 @@ model : spar Rood</desc>
     <desc>vaarweg : SCHEURRAK-OMDRAAI
 lich kleur : X
 model : spar Rood</desc>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
