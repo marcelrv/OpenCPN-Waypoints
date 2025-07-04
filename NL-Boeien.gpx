@@ -9568,16 +9568,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.10814444449505" lon="5.375438889561179">
-    <name>BO-MEET</name>
-    <desc>vaarweg : BOONTJES
-lich kleur : X
-model : spar Geel/zwart/geel</desc>
-    <sym>2331</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.804380555440304" lon="3.771613889523766">
     <name>BO-OW 11</name>
     <desc>vaarweg : NOORDZEE
@@ -29656,6 +29646,16 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.94688888925157" lon="4.638777777361252">
+    <name>HIJ 11A</name>
+    <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
+model : spar Groen</desc>
+    <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.962544444706865" lon="4.638236111013323">
     <name>HIJ 12</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
@@ -29680,6 +29680,26 @@ model : spar Groen</desc>
   </wpt>
   <wpt lat="51.96417777796962" lon="4.635822222913774">
     <name>HIJ 14</name>
+    <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
+model : spar Rood</desc>
+    <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.96614444414852" lon="4.632661111081906">
+    <name>HIJ 14A</name>
+    <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
+model : spar Rood</desc>
+    <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.97105277768692" lon="4.634186111688203">
+    <name>HIJ 14B</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
 lich kleur : X
 model : spar Rood</desc>
@@ -29764,8 +29784,48 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.977005555645654" lon="4.657363889087165">
+    <name>HIJ 20A</name>
+    <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
+model : spar Rood</desc>
+    <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.97801388898001" lon="4.661833333775726">
+    <name>HIJ 20B</name>
+    <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
+model : spar Rood</desc>
+    <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.97900277794298" lon="4.669269444224919">
     <name>HIJ 21</name>
+    <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
+model : spar Groen</desc>
+    <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.98029166650298" lon="4.670913888207409">
+    <name>HIJ 21A</name>
+    <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
+model : spar Groen</desc>
+    <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.990741667033745" lon="4.680244444509856">
+    <name>HIJ 21B</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
 lich kleur : X
 model : spar Groen</desc>
@@ -29862,8 +29922,28 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.98950833289882" lon="4.677986110970203">
+    <name>HIJ 28A</name>
+    <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
+model : spar Rood</desc>
+    <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.99250833347083" lon="4.681586111468686">
     <name>HIJ 30</name>
+    <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
+model : spar Rood</desc>
+    <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.99548888868062" lon="4.686727777221242">
+    <name>HIJ 30A</name>
     <desc>vaarweg : HOLLANDSCHE IJSSEL
 lich kleur : X
 model : spar Rood</desc>
@@ -29910,6 +29990,16 @@ licht periode : 8
 lich kleur : Rood
 model : spar Rood</desc>
     <sym>1145</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.95256944452781" lon="4.641402777164009">
+    <name>HIJ 6A</name>
+    <desc>vaarweg : HOLLANDSCHE IJSSEL
+lich kleur : X
+model : spar Rood</desc>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -29964,106 +30054,6 @@ model : spar Groen</desc>
 lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.94688888925157" lon="4.638777777361252">
-    <name>HIJ-11A</name>
-    <desc>vaarweg : HOLLANDSCHE IJSSEL
-lich kleur : X
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.96614444414852" lon="4.632661111081906">
-    <name>HIJ-14A</name>
-    <desc>vaarweg : HOLLANDSCHE IJSSEL
-lich kleur : X
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.97105277768692" lon="4.634186111688203">
-    <name>HIJ-14B</name>
-    <desc>vaarweg : HOLLANDSCHE IJSSEL
-lich kleur : X
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.977005555645654" lon="4.657363889087165">
-    <name>HIJ-20A</name>
-    <desc>vaarweg : HOLLANDSCHE IJSSEL
-lich kleur : X
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.97801388898001" lon="4.661833333775726">
-    <name>HIJ-20B</name>
-    <desc>vaarweg : HOLLANDSCHE IJSSEL
-lich kleur : X
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.98029166650298" lon="4.670913888207409">
-    <name>HIJ-21A</name>
-    <desc>vaarweg : HOLLANDSCHE IJSSEL
-lich kleur : X
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.990741667033745" lon="4.680244444509856">
-    <name>HIJ-21B</name>
-    <desc>vaarweg : HOLLANDSCHE IJSSEL
-lich kleur : X
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.98950833289882" lon="4.677986110970203">
-    <name>HIJ-28A</name>
-    <desc>vaarweg : HOLLANDSCHE IJSSEL
-lich kleur : X
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.99548888868062" lon="4.686727777221242">
-    <name>HIJ-30A</name>
-    <desc>vaarweg : HOLLANDSCHE IJSSEL
-lich kleur : X
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.95256944452781" lon="4.641402777164009">
-    <name>HIJ-6A</name>
-    <desc>vaarweg : HOLLANDSCHE IJSSEL
-lich kleur : X
-model : spar Rood</desc>
-    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -30551,7 +30541,7 @@ model : spits Geel</desc>
     <name>HP A</name>
     <desc>vaarweg : VLISSINGEN REDE
 lich kleur : X
-model : ton Geel</desc>
+model : spits Geel</desc>
     <sym>3101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -75192,7 +75182,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.848708333752164" lon="3.948719444787633">
+  <wpt lat="51.849005555641924" lon="3.950194444367698">
     <name>SG 9</name>
     <desc>vaarweg : SLIJKGAT
 licht type : Iso (isophased)
