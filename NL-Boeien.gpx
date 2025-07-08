@@ -21135,6 +21135,7 @@ model : spar Geel</desc>
     <name>FR</name>
     <desc>vaarweg : NIEUWE WATERWEG
 model : spar Geel</desc>
+    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48207,15 +48208,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.771766666641646" lon="3.948266666282276">
-    <name>MP 3</name>
-    <desc>vaarweg : GREVELINGEN
-lich kleur : X
-model : bol Geel</desc>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.43405555597738" lon="3.320305555259928">
     <name>MP 4</name>
     <desc>vaarweg : WIELINGEN
@@ -48228,15 +48220,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.71749444448358" lon="3.994969444196474">
-    <name>MP 4</name>
-    <desc>vaarweg : GREVELINGEN
-lich kleur : X
-model : bol Geel</desc>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.43856388920764" lon="3.320080556127492">
     <name>MP 5</name>
     <desc>vaarweg : WIELINGEN
@@ -48245,24 +48228,6 @@ licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
     <sym>5301</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.766697222550825" lon="3.913791666067063">
-    <name>MP 5</name>
-    <desc>vaarweg : GREVELINGEN
-lich kleur : X
-model : bol Geel</desc>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.73779444439931" lon="3.982380555379411">
-    <name>MP 6</name>
-    <desc>vaarweg : GREVELINGEN
-lich kleur : X
-model : bol Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -95353,16 +95318,6 @@ licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.84787777789184" lon="5.406852778032878">
-    <name>W 8 H</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-lich kleur : X
-model : stomp Rood</desc>
-    <sym>1552</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
