@@ -16504,7 +16504,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85544444469401" lon="5.418594445165699">
+  <wpt lat="51.855425000445955" lon="5.418224999309121">
     <name>DR-A</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
@@ -16514,7 +16514,7 @@ model : ton Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85590000006962" lon="5.418680555047882">
+  <wpt lat="51.85592777782221" lon="5.418352777845492">
     <name>DR-B</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
@@ -16524,7 +16524,7 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.856486111501106" lon="5.418827777254243">
+  <wpt lat="51.856488888579314" lon="5.418527778135845">
     <name>DR-C</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
@@ -16534,7 +16534,7 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.8567027774257" lon="5.418872222747344">
+  <wpt lat="51.85684722212562" lon="5.418647221852762">
     <name>DR-D</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
@@ -24229,7 +24229,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.201155555889464" lon="6.169294444046699">
+  <wpt lat="52.201158333129925" lon="6.16978333402597">
     <name>GIJ 61B</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -48208,6 +48208,15 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.771766666641646" lon="3.948266666282276">
+    <name>MP 3</name>
+    <desc>vaarweg : GREVELINGEN
+lich kleur : X
+model : bol Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.43405555597738" lon="3.320305555259928">
     <name>MP 4</name>
     <desc>vaarweg : WIELINGEN
@@ -48220,6 +48229,15 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.71749444448358" lon="3.994969444196474">
+    <name>MP 4</name>
+    <desc>vaarweg : GREVELINGEN
+lich kleur : X
+model : bol Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.43856388920764" lon="3.320080556127492">
     <name>MP 5</name>
     <desc>vaarweg : WIELINGEN
@@ -48228,6 +48246,24 @@ licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
     <sym>5301</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.766697222550825" lon="3.913791666067063">
+    <name>MP 5</name>
+    <desc>vaarweg : GREVELINGEN
+lich kleur : X
+model : bol Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.73779444439931" lon="3.982380555379411">
+    <name>MP 6</name>
+    <desc>vaarweg : GREVELINGEN
+lich kleur : X
+model : bol Geel</desc>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -88034,7 +88070,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.37694999977389" lon="5.700872222662094">
+  <wpt lat="53.376944444100815" lon="5.701847221942013">
     <name>VH 13</name>
     <desc>vaarweg : VAARWATER VAN DE ZWARTE HAAN
 lich kleur : X
@@ -88290,7 +88326,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.360613889325286" lon="5.670261111179948">
+  <wpt lat="53.36221666711158" lon="5.665849999645669">
     <name>VH 30</name>
     <desc>vaarweg : VAARWATER VAN DE ZWARTE HAAN
 lich kleur : X
@@ -88300,7 +88336,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.36165277748912" lon="5.676952777887037">
+  <wpt lat="53.36488333349079" lon="5.669649999302716">
     <name>VH 32</name>
     <desc>vaarweg : VAARWATER VAN DE ZWARTE HAAN
 lich kleur : X
@@ -88310,7 +88346,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.36486944445476" lon="5.677861110988739">
+  <wpt lat="53.367366666602486" lon="5.674066666699942">
     <name>VH 34</name>
     <desc>vaarweg : VAARWATER VAN DE ZWARTE HAAN
 lich kleur : X
@@ -88370,7 +88406,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.3739861112313" lon="5.700474999689232">
+  <wpt lat="53.37461666672168" lon="5.698825000640837">
     <name>VH 40</name>
     <desc>vaarweg : VAARWATER VAN DE ZWARTE HAAN
 lich kleur : X
@@ -88380,7 +88416,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.37821388919618" lon="5.697799999505349">
+  <wpt lat="53.37839166627504" lon="5.698852777605244">
     <name>VH 42</name>
     <desc>vaarweg : VAARWATER VAN DE ZWARTE HAAN
 lich kleur : X
@@ -94055,46 +94091,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.59412777780573" lon="3.913772222074326">
-    <name>VW A</name>
-    <desc>vaarweg : OOSTERSCHELDE
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.594638888888134" lon="3.918402778474735">
-    <name>VW B</name>
-    <desc>vaarweg : OOSTERSCHELDE
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.586555555762814" lon="3.920519443957224">
-    <name>VW C</name>
-    <desc>vaarweg : OOSTERSCHELDE
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.58606111153402" lon="3.916047222773245">
-    <name>VW D</name>
-    <desc>vaarweg : OOSTERSCHELDE
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.493630555948236" lon="4.059272222712861">
     <name>VWG 2</name>
     <desc>vaarweg : SCHAAR VAN YERSEKE
@@ -94161,46 +94157,6 @@ model : spar Groen</desc>
 lich kleur : X
 model : spar Rood</desc>
     <sym>1143</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.54532222236488" lon="3.971574999383427">
-    <name>VZ-A</name>
-    <desc>vaarweg : OOSTERSCHELDE
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.5444555559121" lon="3.981622221832706">
-    <name>VZ-B</name>
-    <desc>vaarweg : OOSTERSCHELDE
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.542230555253546" lon="3.981141665990973">
-    <name>VZ-C</name>
-    <desc>vaarweg : OOSTERSCHELDE
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.54311388908958" lon="3.971066667041959">
-    <name>VZ-D</name>
-    <desc>vaarweg : OOSTERSCHELDE
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -95318,6 +95274,16 @@ licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1005</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.84787777789184" lon="5.406852778032878">
+    <name>W 8 H</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : stomp Rood</desc>
+    <sym>1103</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -99479,7 +99445,7 @@ licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Rood
 model : stomp Rood/groen/rood</desc>
-    <sym>1352</sym>
+    <sym>1362</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -99931,7 +99897,7 @@ licht type : Fl (flashing)
 licht periode : 15
 lich kleur : Rood
 model : stomp Rood/groen/rood</desc>
-    <sym>1352</sym>
+    <sym>1362</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
