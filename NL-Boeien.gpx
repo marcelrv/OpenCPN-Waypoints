@@ -7121,7 +7121,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.52050277803159" lon="6.477008333751707">
+  <wpt lat="53.52067499961228" lon="6.477844443778467">
     <name>B 4</name>
     <desc>vaarweg : BOSCHGAT
 lich kleur : X
@@ -7181,7 +7181,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.5114333336964" lon="6.476402778043928">
+  <wpt lat="53.51124166653704" lon="6.477602777607139">
     <name>B 6</name>
     <desc>vaarweg : BOSCHGAT
 lich kleur : X
@@ -30538,36 +30538,6 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.408383333620826" lon="3.575400000089002">
-    <name>HP A</name>
-    <desc>vaarweg : VLISSINGEN REDE
-lich kleur : X
-model : spits Geel</desc>
-    <sym>3101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.40948333352243" lon="3.594483333026228">
-    <name>HP B</name>
-    <desc>vaarweg : VLISSINGEN REDE
-lich kleur : X
-model : spits Geel</desc>
-    <sym>3101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.41138333300663" lon="3.611816666577379">
-    <name>HP C</name>
-    <desc>vaarweg : VLISSINGEN REDE
-lich kleur : X
-model : spits Geel</desc>
-    <sym>3101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.90527777786792" lon="3.985277777837842">
     <name>HP-OW 11</name>
     <desc>vaarweg : NOORDZEE
@@ -48213,6 +48183,7 @@ model : spar Geel</desc>
     <desc>vaarweg : GREVELINGEN
 lich kleur : X
 model : bol Geel</desc>
+    <sym>4101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48234,6 +48205,7 @@ model : spar Geel</desc>
     <desc>vaarweg : GREVELINGEN
 lich kleur : X
 model : bol Geel</desc>
+    <sym>4101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48255,6 +48227,7 @@ model : spar Geel</desc>
     <desc>vaarweg : GREVELINGEN
 lich kleur : X
 model : bol Geel</desc>
+    <sym>4101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48264,6 +48237,7 @@ model : bol Geel</desc>
     <desc>vaarweg : GREVELINGEN
 lich kleur : X
 model : bol Geel</desc>
+    <sym>4101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -54171,18 +54145,6 @@ licht periode : 5
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1008</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.91915555551691" lon="4.238299999669159">
-    <name>NW 36</name>
-    <desc>vaarweg : NIEUWE WATERWEG
-licht type : LFl (long-flashing)
-licht periode : 8
-lich kleur : Rood
-model : stomp Rood</desc>
-    <sym>1107</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -95274,16 +95236,6 @@ licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.84787777789184" lon="5.406852778032878">
-    <name>W 8 H</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-lich kleur : X
-model : stomp Rood</desc>
-    <sym>1103</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
