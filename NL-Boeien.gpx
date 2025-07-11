@@ -62,18 +62,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.83151388927089" lon="4.446811111049871">
-    <name>10 O</name>
-    <desc>vaarweg : OUDE MAAS
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.57366666688247" lon="3.641399999422259">
     <name>10 SGVM</name>
     <desc>vaarweg : VEERSE MEER
@@ -17689,18 +17677,8 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.49044166656477" lon="6.424597222071299">
+  <wpt lat="53.49325000006211" lon="6.426666666188266">
     <name>EB 30</name>
-    <desc>vaarweg : EILANDER BALG
-lich kleur : X
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.48292222196235" lon="6.427388889425194">
-    <name>EB 32</name>
     <desc>vaarweg : EILANDER BALG
 lich kleur : X
 model : spar Rood</desc>
@@ -19476,6 +19454,7 @@ licht type : Iso (isophased)
 licht periode : 2
 lich kleur : Wit
 model : bol Rood/wit repeterend</desc>
+    <sym>6005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40398,7 +40377,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.546783333270064" lon="6.443200000454722">
+  <wpt lat="53.54807222211899" lon="6.443236111841992">
     <name>L 10</name>
     <desc>vaarweg : LAUWERS
 lich kleur : X
@@ -40728,7 +40707,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.55171666659553" lon="6.362758333716193">
+  <wpt lat="53.55391388914309" lon="6.362958332847644">
     <name>L 2</name>
     <desc>vaarweg : LAUWERS
 lich kleur : X
@@ -41004,7 +40983,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.55037222193403" lon="6.384377777440039">
+  <wpt lat="53.552527777606464" lon="6.384502778480774">
     <name>L 4</name>
     <desc>vaarweg : LAUWERS
 lich kleur : X
@@ -41172,7 +41151,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.548844444144336" lon="6.362541667209245">
+  <wpt lat="53.5520305551513" lon="6.362838889294393">
     <name>L 5</name>
     <desc>vaarweg : LAUWERS
 lich kleur : X
@@ -41320,7 +41299,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.54736388870287" lon="6.405352777874482">
+  <wpt lat="53.5470055555532" lon="6.405344444686214">
     <name>L 6</name>
     <desc>vaarweg : LAUWERS
 lich kleur : X
@@ -41458,7 +41437,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.548261111540555" lon="6.384327777916299">
+  <wpt lat="53.55063888902071" lon="6.38445833263476">
     <name>L 7</name>
     <desc>vaarweg : LAUWERS
 lich kleur : X
@@ -95240,6 +95219,16 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.84787777757948" lon="5.411852777164857">
+    <name>W 8 H</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : stomp Rood</desc>
+    <sym>1103</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.8491972222595" lon="5.413102777329868">
     <name>W 8 I</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
@@ -102244,7 +102233,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.465150000207615" lon="6.563313889204215">
+  <wpt lat="53.46579444409455" lon="6.561677777654134">
     <name>ZOL 17-VN 2</name>
     <desc>vaarweg : ZUID OOST LAUWERS
 lich kleur : X
@@ -102284,7 +102273,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.46608055583469" lon="6.560627777579015">
+  <wpt lat="53.46669444477234" lon="6.56169999950586">
     <name>ZOL 24</name>
     <desc>vaarweg : ZUID OOST LAUWERS
 lich kleur : X
@@ -102424,7 +102413,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.49859999962888" lon="6.443374999334126">
+  <wpt lat="53.4997444441719" lon="6.4420472229759">
     <name>ZOL 4</name>
     <desc>vaarweg : ZUID OOST LAUWERS
 lich kleur : X
@@ -102454,6 +102443,16 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.490841666439685" lon="6.43760833389761">
+    <name>ZOL 5-EB 32</name>
+    <desc>vaarweg : ZUID OOST LAUWERS
+lich kleur : X
+model : spar Groen/rood/groen</desc>
+    <sym>1321</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.47940555545289" lon="6.63796666729687">
     <name>ZOL 50</name>
     <desc>vaarweg : ZUID OOST LAUWERS
@@ -102474,8 +102473,8 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.490841666439685" lon="6.43760833389761">
-    <name>ZOL 5</name>
+  <wpt lat="53.48024444468105" lon="6.439736111166816">
+    <name>ZOL 5A</name>
     <desc>vaarweg : ZUID OOST LAUWERS
 lich kleur : X
 model : spar Groen</desc>
@@ -102484,17 +102483,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.48024444468105" lon="6.439736111166816">
-    <name>ZOL 5A-EB 34</name>
-    <desc>vaarweg : ZUID OOST LAUWERS
-lich kleur : X
-model : spar Groen/rood/groen</desc>
-    <sym>1321</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.493013888587775" lon="6.441052777133879">
+  <wpt lat="53.492686110732045" lon="6.442474999778177">
     <name>ZOL 6</name>
     <desc>vaarweg : ZUID OOST LAUWERS
 lich kleur : X
@@ -102504,7 +102493,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.48262499996663" lon="6.442227778089428">
+  <wpt lat="53.48270277743026" lon="6.443736110901462">
     <name>ZOL 6A</name>
     <desc>vaarweg : ZUID OOST LAUWERS
 lich kleur : X
@@ -102524,7 +102513,7 @@ model : spar Groen/rood/groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.47658611119889" lon="6.444413888887308">
+  <wpt lat="53.47548888879142" lon="6.446269444985043">
     <name>ZOL 8</name>
     <desc>vaarweg : ZUID OOST LAUWERS
 lich kleur : X
