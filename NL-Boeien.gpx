@@ -27702,6 +27702,16 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.65943611073528" lon="3.710505554848897">
+    <name>H 3N</name>
+    <desc>vaarweg : HAMMEN
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>3500</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.6586861112168" lon="3.710080555109761">
     <name>H 3V</name>
     <desc>vaarweg : HAMMEN
