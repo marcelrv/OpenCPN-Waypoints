@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-07-16T13:25:09.111000Z</time>
+    <time>2025-07-17T13:27:02.027000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -4176,12 +4176,12 @@ Spudpalen / Anker</desc>
     </extensions>
   </wpt>
   <wpt lat="52.6396920098947" lon="6.07237854235286">
-    <name>Meldpunt Grote Kolksluis</name>
-    <desc>Naam:         Meldpunt Grote Kolksluis
+    <name>Meldpunt Grote Kolksluis Zwartsluis</name>
+    <desc>Naam:         Meldpunt Grote Kolksluis Zwartsluis
 VHF:          22
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/19046">
-      <text>Meldpunt Grote Kolksluis online info</text>
+      <text>Meldpunt Grote Kolksluis Zwartsluis online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -7885,12 +7885,12 @@ Opmerking: Steigers.</desc>
     </extensions>
   </wpt>
   <wpt lat="52.413158440694" lon="4.68175518308679">
-    <name>Meldpunt Rijnlandsluizen</name>
-    <desc>Naam:         Meldpunt Rijnlandsluizen
+    <name>Meldpunt Grote Sluis Spaarndam (Rijnlandsluizen)</name>
+    <desc>Naam:         Meldpunt Grote Sluis Spaarndam (Rijnlandsluizen)
 VHF:          18
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/33698">
-      <text>Meldpunt Rijnlandsluizen online info</text>
+      <text>Meldpunt Grote Sluis Spaarndam (Rijnlandsluizen) online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -18198,6 +18198,19 @@ VHF:          20
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/11451">
       <text>Meldpunt Fietsbrug Purmerend online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.5101709547038" lon="4.17393768934963">
+    <name>Meldpunt Bergsediepsluis</name>
+    <desc>Naam:         Meldpunt Bergsediepsluis
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/51819">
+      <text>Meldpunt Bergsediepsluis online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>

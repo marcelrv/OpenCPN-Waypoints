@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-07-16T13:25:09.111000Z</time>
+    <time>2025-07-17T13:27:02.027000Z</time>
   </metadata>
   <wpt lat="51.329513054422" lon="3.82392163649492">
     <name>VHF 11</name>
@@ -2851,6 +2851,19 @@ VHF:          78
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/15367523">
       <text>Meldpunt Wachtplaats Markbrug Boven - Rechter oever Oosterhout online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.5101709547038" lon="4.17393768934963">
+    <name>VHF 18</name>
+    <desc>Naam:         Meldpunt Bergsediepsluis
+VHF:          18
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/51819">
+      <text>Meldpunt Bergsediepsluis online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
