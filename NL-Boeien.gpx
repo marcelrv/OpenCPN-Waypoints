@@ -20078,6 +20078,7 @@ model : spar Geel</desc>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 lich kleur : X
 model : spar Geel</desc>
+    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -20127,6 +20128,7 @@ model : spar Geel</desc>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 lich kleur : X
 model : spar Geel</desc>
+    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -60592,7 +60594,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spits Geel</desc>
-    <sym>50</sym>
+    <sym>5502</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61813,7 +61815,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spits Geel</desc>
-    <sym>50</sym>
+    <sym>5502</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -71634,7 +71636,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.643455555542175" lon="3.724102778481124">
+  <wpt lat="51.642947222503864" lon="3.723963889612722">
     <name>S 2V</name>
     <desc>vaarweg : GEUL VAN ROGGEPLAAT
 lich kleur : X
@@ -71814,16 +71816,6 @@ model : stomp Geel</desc>
   </wpt>
   <wpt lat="51.64080555524368" lon="3.730888888290984">
     <name>S 4V</name>
-    <desc>vaarweg : GEUL VAN ROGGEPLAAT
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>3500</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.642944444203124" lon="3.7239555556427">
-    <name>S 4Z</name>
     <desc>vaarweg : GEUL VAN ROGGEPLAAT
 lich kleur : X
 model : stomp Geel</desc>
