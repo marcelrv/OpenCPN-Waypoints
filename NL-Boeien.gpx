@@ -20088,7 +20088,7 @@ model : spar Geel</desc>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 lich kleur : X
 model : spar Geel</desc>
-    <sym>5101</sym>
+    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -26653,7 +26653,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.4450638887128" lon="6.15629444467433">
+  <wpt lat="53.44487777758674" lon="6.156405555429299">
     <name>GVS 6</name>
     <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
 lich kleur : X
@@ -26675,7 +26675,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.446969444456364" lon="6.162305556160417">
+  <wpt lat="53.44678055594898" lon="6.162488889275014">
     <name>GVS 8</name>
     <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
 lich kleur : X
@@ -60594,7 +60594,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spits Geel</desc>
-    <sym>50</sym>
+    <sym>5502</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61815,7 +61815,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spits Geel</desc>
-    <sym>50</sym>
+    <sym>5502</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -84656,6 +84656,36 @@ model : spits Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.856599999818876" lon="5.418349999328315">
+    <name>Ton 918.315L</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : spits Groen</desc>
+    <sym>1003</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.85518333304661" lon="5.417749999637736">
+    <name>Ton 918.475L</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : spits Groen</desc>
+    <sym>1003</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.853683333079" lon="5.417466667086362">
+    <name>Ton 918.725L</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : spits Groen</desc>
+    <sym>1003</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.81698333340362" lon="5.377263888351836">
     <name>Ton 923.725L</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
@@ -87265,36 +87295,6 @@ model : stomp Geel</desc>
   </wpt>
   <wpt lat="53.05963333349437" lon="5.365369444419517">
     <name>VF-OW 36</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.05639722250124" lon="5.368844445087476">
-    <name>VF-OW 40</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.05579444449542" lon="5.370855555292017">
-    <name>VF-OW 42</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.04073888920042" lon="5.38380555533139">
-    <name>VF-OW 44</name>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
 lich kleur : X
 model : stomp Geel</desc>
@@ -96987,7 +96987,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.51586666644504" lon="6.084033332697909">
+  <wpt lat="53.51623333309412" lon="6.084066666884633">
     <name>WG 7A</name>
     <desc>vaarweg : WESTGAT (FRIESCHE ZEEGAT)
 licht type : Iso (isophased)
@@ -96999,7 +96999,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.51519999995437" lon="6.091033332714612">
+  <wpt lat="53.51603333353095" lon="6.09215000025662">
     <name>WG 7B</name>
     <desc>vaarweg : WESTGAT (FRIESCHE ZEEGAT)
 licht type : Q (quick-flashing)
@@ -97032,7 +97032,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.51756666678323" lon="6.0842833328816">
+  <wpt lat="53.51803333321658" lon="6.084283333253349">
     <name>WG 8A</name>
     <desc>vaarweg : WESTGAT (FRIESCHE ZEEGAT)
 licht type : Iso (isophased)
@@ -97044,7 +97044,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.51651666687329" lon="6.094899999528357">
+  <wpt lat="53.51696666624297" lon="6.094900000528512">
     <name>WG 8B</name>
     <desc>vaarweg : WESTGAT (FRIESCHE ZEEGAT)
 licht type : Q (quick-flashing)
