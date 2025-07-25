@@ -20088,7 +20088,7 @@ model : spar Geel</desc>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 lich kleur : X
 model : spar Geel</desc>
-    <sym>5000</sym>
+    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -49235,30 +49235,6 @@ licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
     <sym>4301</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.46912222211532" lon="4.619430555573619">
-    <name>MT-IJ A</name>
-    <desc>vaarweg : HAVEN IJMUIDEN
-licht type : Fl (flashing)
-licht periode : 20
-lich kleur : Geel
-model : Pilaar Geel</desc>
-    <sym>3801</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.46880555579198" lon="4.619294444336262">
-    <name>MT-IJ B</name>
-    <desc>vaarweg : HAVEN IJMUIDEN
-licht type : Fl (flashing)
-licht periode : 20
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>5502</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87295,6 +87271,36 @@ model : stomp Geel</desc>
   </wpt>
   <wpt lat="53.05963333349437" lon="5.365369444419517">
     <name>VF-OW 36</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.05639722250124" lon="5.368844445087476">
+    <name>VF-OW 40</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.05579444449542" lon="5.370855555292017">
+    <name>VF-OW 42</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.04073888920042" lon="5.38380555533139">
+    <name>VF-OW 44</name>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
 lich kleur : X
 model : stomp Geel</desc>
