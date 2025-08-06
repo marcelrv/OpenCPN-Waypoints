@@ -49241,6 +49241,38 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.40864722236774" lon="3.712905556043244">
+    <name>MTB 2</name>
+    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.41353055594097" lon="3.726586110839026">
+    <name>MTB 3</name>
+    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.41155277754251" lon="3.731252777911613">
+    <name>MTB 4</name>
+    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.92500000001847" lon="3.963333333612376">
     <name>MV A</name>
     <desc>vaarweg : MAASVLAKTE-MAASGEUL (NZ)
@@ -87281,6 +87313,16 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.057894444782754" lon="5.367255555758224">
+    <name>VF-OW 38</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.05639722250124" lon="5.368844445087476">
     <name>VF-OW 40</name>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
@@ -87293,16 +87335,6 @@ model : stomp Geel</desc>
   </wpt>
   <wpt lat="53.05579444449542" lon="5.370855555292017">
     <name>VF-OW 42</name>
-    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.057894444782754" lon="5.367255555758224">
-    <name>VF-OW 44</name>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
 lich kleur : X
 model : stomp Geel</desc>
