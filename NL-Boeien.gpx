@@ -31695,6 +31695,30 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.99126111082273" lon="4.093236111708845">
+    <name>HVH 1</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.00064722196248" lon="4.11296111157996">
+    <name>HVH 3</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.005941666946555" lon="4.119311111056892">
+    <name>HVH 5</name>
+    <desc>vaarweg : NOORDZEE
+model : spar Geel</desc>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.36484722239453" lon="4.997252777971008">
     <name>HW 1-SE 2</name>
     <desc>vaarweg : HAVENEILAND WEST (MARKERMEER)
@@ -96159,7 +96183,7 @@ model : spar Geel</desc>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 lich kleur : X
 model : spar Geel</desc>
-    <sym>3101</sym>
+    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
