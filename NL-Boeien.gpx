@@ -18125,7 +18125,7 @@ model : spar Groen</desc>
     <desc>vaarweg : HET IJ (AMSTERDAM)
 lich kleur : X
 model : spar Geel</desc>
-    <sym>5502</sym>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -18135,7 +18135,7 @@ model : spar Geel</desc>
     <desc>vaarweg : HET IJ (AMSTERDAM)
 lich kleur : X
 model : spar Geel</desc>
-    <sym>5502</sym>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -32776,7 +32776,7 @@ model : spar Geel</desc>
     <desc>vaarweg : HET IJ (AMSTERDAM)
 lich kleur : X
 model : spar Geel</desc>
-    <sym>5502</sym>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -60669,8 +60669,8 @@ model : spar Groen</desc>
     <desc>vaarweg : AMSTERDAM-RIJNKANAAL
 licht type : Fl (flashing)
 licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
+lich kleur : X
+model : spits Geel</desc>
     <sym>5502</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -61890,8 +61890,8 @@ model : spar Groen</desc>
     <desc>vaarweg : AMSTERDAM-RIJNKANAAL
 licht type : Fl (flashing)
 licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
+lich kleur : X
+model : spits Geel</desc>
     <sym>5502</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -97399,11 +97399,12 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.2038527780134" lon="5.0234138884852">
+  <wpt lat="52.38718611088207" lon="5.023413888842899">
     <name>WK-OW 1</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
 lich kleur : X
 model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
