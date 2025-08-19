@@ -23939,7 +23939,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.2004277778651" lon="6.161005555684509">
+  <wpt lat="52.20080833314883" lon="6.161136111425434">
     <name>GIJ 54</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -23949,7 +23949,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.19954444476854" lon="6.159111111272654">
+  <wpt lat="52.200150000093835" lon="6.159363888317795">
     <name>GIJ 54A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -23959,7 +23959,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.199038889217015" lon="6.158477777720719">
+  <wpt lat="52.19946111110917" lon="6.158227777290398">
     <name>GIJ 54B</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24029,7 +24029,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.193594444890344" lon="6.156669444724613">
+  <wpt lat="52.19352222254622" lon="6.15654722175399">
     <name>GIJ 56B</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24079,7 +24079,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.192716666258384" lon="6.157338888973162">
+  <wpt lat="52.1927972222382" lon="6.156822222396077">
     <name>GIJ 58</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24089,7 +24089,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.19141388868751" lon="6.157802777337305">
+  <wpt lat="52.191447221989215" lon="6.157580555524812">
     <name>GIJ 58A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24099,7 +24099,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.190466666475594" lon="6.159022222961025">
+  <wpt lat="52.19061944421628" lon="6.158447222026588">
     <name>GIJ 58B</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24259,7 +24259,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.189158333467795" lon="6.163644443875342">
+  <wpt lat="52.189461111488185" lon="6.164144445137183">
     <name>GIJ 65</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24279,7 +24279,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.18929722182825" lon="6.166186111227689">
+  <wpt lat="52.189583333272964" lon="6.166186111651323">
     <name>GIJ 65A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24289,7 +24289,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.1889805554669" lon="6.168238888983101">
+  <wpt lat="52.18926944485582" lon="6.168069444082136">
     <name>GIJ 65B</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -60672,7 +60672,7 @@ model : spar Groen</desc>
     <desc>vaarweg : AMSTERDAM-RIJNKANAAL
 licht type : Fl (flashing)
 licht periode : 5
-lich kleur : X
+lich kleur : Geel
 model : spits Geel</desc>
     <sym>5502</sym>
     <extensions>
@@ -61893,7 +61893,7 @@ model : spar Groen</desc>
     <desc>vaarweg : AMSTERDAM-RIJNKANAAL
 licht type : Fl (flashing)
 licht periode : 5
-lich kleur : X
+lich kleur : Geel
 model : spits Geel</desc>
     <sym>5502</sym>
     <extensions>
@@ -96228,7 +96228,9 @@ model : spar Geel</desc>
   <wpt lat="51.380830555240465" lon="4.038544444225201">
     <name>WALSOORDEN</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
-lich kleur : X
+licht type : Fl (flashing)
+licht periode : 10
+lich kleur : Geel
 model : spar Geel</desc>
     <sym>5301</sym>
     <extensions>
