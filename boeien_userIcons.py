@@ -9,20 +9,21 @@ __author__ = "Marcel Verpaalen"
 __copyright__ = "Copyright 2022"
 __license__ = "AGPL 3.0"
 __version__ = "1.0.1"
+import base64
 import json
 import os
 import time
-import base64
-import requests
 from zipfile import ZipFile
 
+import requests
 
 workingFolder = './UserIcons/'
 input_filename = workingFolder + 'iconsource.json'
 outputFileName = './chartcatalog/usericons.zip'
 max_age = 60 * 60 * 24  # 24h
 
-url = 'https://geoservices.rijkswaterstaat.nl/arcgis2/rest/services/GDR/vaarweg_markeringen/MapServer/legend?f=pjson'
+#url = 'https://geoservices.rijkswaterstaat.nl/arcgis2/rest/services/GDR/vaarweg_markeringen/MapServer/legend?f=pjson'
+url = 'https://geo.rijkswaterstaat.nl/arcgis/rest/services/GDR/vaarweg_markeringen/MapServer/legend?f=pjson'
 
 
 def saveJson(filename, data):

@@ -1444,6 +1444,7 @@ nederland = BoeienSource(
         ('5133', '5101'),  # Geel spar met liggend kruis
         ('5134', '5101'),  # Geel spar met liggend kruis
         ('5135', '5101'),  # Geel spar met liggend kruis
+        ('5149', '5101'),  # Geel spar met liggend kruis
         ('5151', '5101'),  # Geel spar met liggend kruis
         ('5152', '5101'),  # Geel spar met liggend kruis
         ('5153', '5101'),  # Geel spar met liggend kruis
@@ -1619,6 +1620,8 @@ nederland = BoeienSource(
         ('5383', '5301'),  # Geel spar met liggend kruis en geel licht
         ('5384', '5301'),  # Geel spar met liggend kruis en geel licht
         ('5385', '5301'),  # Geel spar met liggend kruis en geel licht
+        ('554', '5501'),  # Geel spits met rood wit rood rechthoek
+        ('5441', '5501'),  # Geel spits met rood wit rood rechthoek
         ('5501', '5501'),  # Geel spits met rood wit rood rechthoek
         ('5502', '5502'),  # Geel spits met rood wit rood rechthoek en geel licht
         ('5511', '5511'),  # Geel stomp met rood wit rood rechthoek
@@ -1629,6 +1632,7 @@ nederland = BoeienSource(
         ('5532', '5532'),  # Geel pilaar met rood wit rood rechthoek en geel licht
         ('5541', '5541'),  # Geel spar met rood wit rood rechthoek
         ('5542', '5542'),  # Geel spar met rood wit rood rechthoek en geel licht
+        ('5547', '5542'),  # Geel spar met rood wit rood rechthoek en geel licht        
         ('6001', '6001'),  # Rood wit bol
         ('6002', '6001'),  # Rood wit bol
         ('6003', '6003'),  # Rood wit bol met rode bol
@@ -1679,6 +1683,24 @@ nederland = BoeienSource(
         ('Zwart/geel', 'Zwart'),  # Zwart; Zwart/geel; Zwart/geel/zwart; Zwart/rood/zwart
         ('Zwart/geel/zwart', 'Zwart'),  # Zwart; Zwart/geel; Zwart/geel/zwart; Zwart/rood/zwart
         ('Zwart/rood/zwart', 'Zwart'),  # Zwart; Zwart/geel; Zwart/geel/zwart; Zwart/rood/zwart
+        ('bijzondere markering spits' , 'NoS57Id'),
+        ('bijzondere markering stomp' , 'NoS57Id'),
+        ('boei groen' , 'Groen'),
+        ('boei rood' , 'Rood'),
+        ('cardinaal boei noord' , '2002'),
+        ('cardinaal boei oost' , '2102'),
+        ('cardinaal boei west' , '2202'),
+        ('cardinaal boei zuid' , '2302'),
+        ('geleidelicht wit' , 'Wit'),
+        ('havenlicht groen' , 'Groen'),
+        ('havenlicht rood' , 'Rood'),
+        ('lichtboei groen' , 'Groen'),
+        ('lichtboei rood' , 'Rood'),
+        ('lichtopstand groen' , 'Groen'),
+        ('lichtopstand rood' , 'Rood'),
+        ('meerboei' , 'NoS57Id'),
+        ('staak bijeengebonden' , 'NoS57Id'),
+        ('staak los' , 'NoS57Id'),
         ('NoS57Id', 'NoS57Id'),  # Geen S57 id
         ('10121', '10121'),  # Laterale baken groen topteken
         ('10125', '10121'),  # Laterale baken groen topteken
