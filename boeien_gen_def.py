@@ -1683,24 +1683,6 @@ nederland = BoeienSource(
         ('Zwart/geel', 'Zwart'),  # Zwart; Zwart/geel; Zwart/geel/zwart; Zwart/rood/zwart
         ('Zwart/geel/zwart', 'Zwart'),  # Zwart; Zwart/geel; Zwart/geel/zwart; Zwart/rood/zwart
         ('Zwart/rood/zwart', 'Zwart'),  # Zwart; Zwart/geel; Zwart/geel/zwart; Zwart/rood/zwart
-        ('bijzondere markering spits' , 'NoS57Id'),
-        ('bijzondere markering stomp' , 'NoS57Id'),
-        ('boei groen' , 'Groen'),
-        ('boei rood' , 'Rood'),
-        ('cardinaal boei noord' , '2002'),
-        ('cardinaal boei oost' , '2102'),
-        ('cardinaal boei west' , '2202'),
-        ('cardinaal boei zuid' , '2302'),
-        ('geleidelicht wit' , 'Wit'),
-        ('havenlicht groen' , 'Groen'),
-        ('havenlicht rood' , 'Rood'),
-        ('lichtboei groen' , 'Groen'),
-        ('lichtboei rood' , 'Rood'),
-        ('lichtopstand groen' , 'Groen'),
-        ('lichtopstand rood' , 'Rood'),
-        ('meerboei' , 'NoS57Id'),
-        ('staak bijeengebonden' , 'NoS57Id'),
-        ('staak los' , 'NoS57Id'),
         ('NoS57Id', 'NoS57Id'),  # Geen S57 id
         ('10121', '10121'),  # Laterale baken groen topteken
         ('10125', '10121'),  # Laterale baken groen topteken
@@ -1945,6 +1927,24 @@ friesland = BoeienSource(
         ('oost cardinaal boei', 'Marks-Cardinal-East'),
         ('west cardinaal boei', 'Marks-Cardinal-West'),
         ('zuid cardinaal boei', 'Marks-Cardinal-South'),
+        ('bijzondere markering spits' , 'NoS57Id'),
+        ('bijzondere markering stomp' , 'NoS57Id'),
+        ('boei groen' , 'Groen'),
+        ('boei rood' , 'Rood'),
+        ('cardinaal boei noord' , '2002'),
+        ('cardinaal boei oost' , '2102'),
+        ('cardinaal boei west' , '2202'),
+        ('cardinaal boei zuid' , '2302'),
+        ('geleidelicht wit' , 'Wit'),
+        ('havenlicht groen' , 'Groen'),
+        ('havenlicht rood' , 'Rood'),
+        ('lichtboei groen' , 'Groen'),
+        ('lichtboei rood' , 'Rood'),
+        ('lichtopstand groen' , 'Groen'),
+        ('lichtopstand rood' , 'Rood'),
+        ('meerboei' , 'NoS57Id'),
+        ('staak bijeengebonden' , 'NoS57Id'),
+        ('staak los' , 'NoS57Id'),
     ]),
     epsg=28992
 )

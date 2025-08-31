@@ -30,9 +30,11 @@ debugging = False
 max_age = 60 * 60 * 24  # 24h
 
 missing = []
+all_icons_allFiles ={}
 
 
 def process_gml(input_filename, outName, field_mapping, icon_mapping, epsg=None):
+    all_icons = set()
 
     if epsg is not None:
         # Define the  projection system (EPSG 28992) sourcedata
@@ -103,6 +105,7 @@ def process_gml(input_filename, outName, field_mapping, icon_mapping, epsg=None)
                               poFeature.GetFID())
 
             description = []
+            has_S57sym = False
 
             for iField in range(poDefn.GetFieldCount()):
                 poFDefn = poDefn.GetFieldDefn(iField)
@@ -121,10 +124,13 @@ def process_gml(input_filename, outName, field_mapping, icon_mapping, epsg=None)
 
                         # for the icons do a lookup
                         if map['dst'] == 'sym':
+                            all_icons.add(value)                            
                             if value in icon_mapping:
                                 outFeature.SetField(map['dst'], str(icon_mapping[value]))
+                                has_S57sym = True
                             else:
                                 outFeature.SetField(map['dst'], poFeature.GetFieldAsString(iField))
+                                has_S57sym =  poFeature.GetFieldAsString(iField)
                                 if value not in missing:
                                     missing.append(value)
 
@@ -138,6 +144,11 @@ def process_gml(input_filename, outName, field_mapping, icon_mapping, epsg=None)
                 if debugging:
                     print(line)
 
+            if has_S57sym == False:
+                outFeature.SetField('sym', "NoS57Sym")
+                print('No S57sym. Setting to nosymbol for:', outFeature.GetField('name'))
+                description.append('No Boei icon available in source data!')
+
             if len(description) > 0:
                 outFeature.SetField('desc', '\n'.join(description))
             outLayer.CreateFeature(outFeature)
@@ -147,6 +158,7 @@ def process_gml(input_filename, outName, field_mapping, icon_mapping, epsg=None)
             poFeature = poLayer.GetNextFeature()
     reader.Destroy()
     outDataSource.Destroy()
+    all_icons_allFiles[input_filename]=all_icons
 
 
 def create_GPXheader(gpx):
@@ -236,7 +248,15 @@ if __name__ == "__main__":
                 gpx_wps.extensions.append(root)
         saveGPX(gpx, boeien_bestand.outputFileName)
 
+    print('All used icons:')
+    for input_filename, all_icons in all_icons_allFiles.items():
+        print(f'Used icons in file: {input_filename}')   
+        for icon in sorted(all_icons):
+            #print("'%s'," % icon)
+            pass
+
     if len(missing) > 0:
         print('TYPE_OMSCHRIJVING missing in the mapping:')
         for m in sorted(missing):
             print("('%s' , '0')," % m)
+
