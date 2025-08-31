@@ -105,7 +105,7 @@ def process_gml(input_filename, outName, field_mapping, icon_mapping, epsg=None)
                               poFeature.GetFID())
 
             description = []
-            has_S57sym = False
+            has_S57Id = False
 
             for iField in range(poDefn.GetFieldCount()):
                 poFDefn = poDefn.GetFieldDefn(iField)
@@ -127,10 +127,10 @@ def process_gml(input_filename, outName, field_mapping, icon_mapping, epsg=None)
                             all_icons.add(value)                            
                             if value in icon_mapping:
                                 outFeature.SetField(map['dst'], str(icon_mapping[value]))
-                                has_S57sym = True
+                                has_S57Id = True
                             else:
                                 outFeature.SetField(map['dst'], poFeature.GetFieldAsString(iField))
-                                has_S57sym =  poFeature.GetFieldAsString(iField)
+                                has_S57Id =  poFeature.GetFieldAsString(iField)
                                 if value not in missing:
                                     missing.append(value)
 
@@ -144,10 +144,10 @@ def process_gml(input_filename, outName, field_mapping, icon_mapping, epsg=None)
                 if debugging:
                     print(line)
 
-            if has_S57sym == False:
-                outFeature.SetField('sym', "NoS57Sym")
-                print('No S57sym. Setting to nosymbol for:', outFeature.GetField('name'))
-                description.append('No Boei icon available in source data!')
+            if has_S57Id == False:
+                outFeature.SetField('sym', "NoS57Id")
+                print('No S57_id field. Setting to no symbol for:', outFeature.GetField('name'))
+                description.append('No boei icon available in source data!')
 
             if len(description) > 0:
                 outFeature.SetField('desc', '\n'.join(description))
