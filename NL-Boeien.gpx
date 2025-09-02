@@ -30962,6 +30962,7 @@ model : spar Geel</desc>
     <desc>vaarweg : NOORDZEEKANAAL
 licht type : Fl (flashing)
 licht periode : 5
+lich kleur : Geel
 model : spar Geel
 No boei icon available in source data!</desc>
     <sym>NoS57Id</sym>
@@ -30984,6 +30985,8 @@ model : spar Geel</desc>
   <wpt lat="52.42834444413921" lon="4.768097221641058">
     <name>HT-C</name>
     <desc>vaarweg : NOORDZEEKANAAL
+licht type : Fl (flashing)
+licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
     <sym>5542</sym>
@@ -95869,7 +95872,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.452469444773016" lon="5.593897222284438">
+  <wpt lat="53.453547222462255" lon="5.596136110837674">
     <name>WA 12</name>
     <desc>vaarweg : WESTGAT (AMELAND)
 licht type : Q (quick-flashing)
@@ -95890,7 +95893,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.439841666417415" lon="5.602736111196405">
+  <wpt lat="53.44115833304767" lon="5.607494444197015">
     <name>WA 14</name>
     <desc>vaarweg : WESTGAT (AMELAND)
 lich kleur : X
@@ -98089,16 +98092,6 @@ model : spar Zwart/geel</desc>
 lich kleur : X
 model : spar Geel/zwart</desc>
     <sym>2231</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.64326666625902" lon="4.225805554844848">
-    <name>WRAK</name>
-    <desc>vaarweg : ZUID VLIJE
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -101096,18 +101089,6 @@ model : spar Geel</desc>
 lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.447752777534205" lon="5.597388889277876">
-    <name>ZINK-WA</name>
-    <desc>vaarweg : OPHEF LOCATIE
-licht type : VQ (very quick-flashing)
-licht periode : 10
-lich kleur : Wit
-model : spar Geel/zwart/geel</desc>
-    <sym>2333</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
