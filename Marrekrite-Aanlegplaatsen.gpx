@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-09-10T13:29:32.767902Z</time>
+    <time>2025-09-11T13:27:05.925551Z</time>
   </metadata>
   <wpt lat="52.966346" lon="5.515595">
     <name>FL16A Hammigegreft (Damwand)</name>
@@ -3682,7 +3682,7 @@ Kanovoorziening             False
     <desc>Naam         Wiebe Postma steiger
 Vaarwater            SWARTE WâLDE
 Vogelrustgebied: Vaar dit gebied niet in &lt;br&gt;tussen 1 oktober en 1 april True
-Lengte aanleg                  50
+Lengte aanleg                  32
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -3703,7 +3703,7 @@ Kanovoorziening             False
     <desc>Naam         Wiebe Postma steiger
 Vaarwater            SWARTE WâLDE
 Vogelrustgebied: Vaar dit gebied niet in &lt;br&gt;tussen 1 oktober en 1 april True
-Lengte aanleg                  50
+Lengte aanleg                  32
 Walverbinding                True
 Fietsmogelijkheid           False
 Aansluiting fietsnetwerk    False
@@ -9976,6 +9976,26 @@ Kanovoorziening             False
       <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.067464" lon="5.851373">
+    <name>PR70B Bokkumermar (Steiger)</name>
+    <desc>Naam                  Bokkumermar
+Vaarwater           Burstumer Rak
+Lengte aanleg                  28
+Walverbinding                True
+Fietsmogelijkheid            True
+Aansluiting fietsnetwerk     True
+Wandelmogelijkheid           True
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              1
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.971385" lon="5.509701">
     <name>FL12 Snmar (Tuigsteiger)</name>
     <desc>Naam                        Snmar
@@ -10450,26 +10470,6 @@ Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)           None
-Kanovoorziening             False
-</desc>
-    <sym>Service-Dock</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.067464" lon="5.851373">
-    <name>PR70B Bokkumermar (Tuigsteiger)</name>
-    <desc>Naam                  Bokkumermar
-Vaarwater           Burstumer Rak
-Lengte aanleg                  32
-Walverbinding                True
-Fietsmogelijkheid            True
-Aansluiting fietsnetwerk     True
-Wandelmogelijkheid           True
-Aansluiting wandelnetwerk   False
-Container                   False
-Kamperen                    False
-Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
