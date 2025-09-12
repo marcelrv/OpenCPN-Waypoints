@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-09-11T13:06:15.116000Z</time>
+    <time>2025-09-12T13:09:00.691000Z</time>
   </metadata>
   <wpt lat="52.8349518997784" lon="4.81026448308057">
     <name>Brug over Zeesluis (Hoge sluis)</name>
@@ -40660,6 +40660,19 @@ Type:    Vaste Brug</desc>
       <text>Huigenbrug (parallelweg oost) online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.91452272852024" lon="4.398238733410835">
+    <name>Taanbrug</name>
+    <desc>Locatie: Lange Haven te Schiedam
+Type:    Bedienbare Brug
+Contact PhoneNumber:(010) 63 15 307 (Maaszijde) / (010) 63 15 309 (Schiezijde)</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/62781949">
+      <text>Taanbrug online info</text>
+    </link>
+    <sym>Landmarks-Bridge2</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
