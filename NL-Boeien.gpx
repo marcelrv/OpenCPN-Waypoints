@@ -22737,7 +22737,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.43188888870999" lon="6.30677222231711">
+  <wpt lat="53.431113889047396" lon="6.315938888858164">
     <name>GB-LW</name>
     <desc>vaarweg : GRONINGERBALG
 lich kleur : X
@@ -42525,7 +42525,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.43152777752992" lon="6.309627777698644">
+  <wpt lat="53.43185555567049" lon="6.305416667119924">
     <name>LW-A1</name>
     <desc>vaarweg : LUTJEWAD
 lich kleur : X
@@ -42535,7 +42535,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.43142222183244" lon="6.315152777267482">
+  <wpt lat="53.43143055588985" lon="6.313683333765398">
     <name>LW-A3</name>
     <desc>vaarweg : LUTJEWAD
 lich kleur : X
@@ -42545,7 +42545,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.429688888692056" lon="6.324027777569255">
+  <wpt lat="53.43013055592009" lon="6.319311110700037">
     <name>LW-A5</name>
     <desc>vaarweg : LUTJEWAD
 lich kleur : X
@@ -42555,12 +42555,22 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.43078888847039" lon="6.332655556008635">
+  <wpt lat="53.429758333539944" lon="6.326661110641519">
     <name>LW-A7</name>
     <desc>vaarweg : LUTJEWAD
 lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.430475000231354" lon="6.332694445133945">
+    <name>LW-A9</name>
+    <desc>vaarweg : LUTJEWAD
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
