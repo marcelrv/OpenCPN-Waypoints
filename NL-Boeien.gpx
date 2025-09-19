@@ -42905,8 +42905,8 @@ model : spar Groen</desc>
 licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Rood
-model : Pilaar Rood/groen/rood</desc>
-    <sym>1352</sym>
+model : stomp Rood/groen/rood</desc>
+    <sym>1362</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -42917,8 +42917,8 @@ model : Pilaar Rood/groen/rood</desc>
 licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Groen
-model : spits Groen/rood/groen</desc>
-    <sym>1302</sym>
+model : Pilaar Groen/rood/groen</desc>
+    <sym>1362</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
