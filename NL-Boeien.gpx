@@ -9556,6 +9556,16 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.10814444449505" lon="5.375438889561179">
+    <name>BO-MEET</name>
+    <desc>vaarweg : BOONTJES
+lich kleur : X
+model : spar Geel/zwart/geel</desc>
+    <sym>2331</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.804380555440304" lon="3.771613889523766">
     <name>BO-OW 11</name>
     <desc>vaarweg : NOORDZEE
@@ -10993,6 +11003,18 @@ model : spar Geel</desc>
 lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.21591388866552" lon="5.300247222470936">
+    <name>BS-MEET</name>
+    <desc>vaarweg : BLAUWE SLENK
+licht type : Q (quick-flashing)
+licht periode : 15
+lich kleur : Wit
+model : spar Geel/zwart/geel</desc>
+    <sym>2333</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -28473,7 +28495,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.88181666685215" lon="4.324461111549138">
+  <wpt lat="52.881816667045015" lon="4.324441666956303">
     <name>HALFWEG</name>
     <desc>vaarweg : NOORDZEE
 licht type : Fl (flashing)
@@ -34959,6 +34981,16 @@ model : spar Geel</desc>
 lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.18674999975138" lon="5.413372222482549">
+    <name>K-MEET</name>
+    <desc>vaarweg : KIMSTERGAT
+lich kleur : X
+model : spar Geel/zwart/geel</desc>
+    <sym>2331</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -48989,6 +49021,16 @@ model : spar Geel</desc>
 lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.17573055553906" lon="5.396777777275204">
+    <name>MR-MEET</name>
+    <desc>vaarweg : MOLENRAK
+lich kleur : X
+model : spar Geel/zwart</desc>
+    <sym>2231</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -93897,7 +93939,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.303616666348745" lon="5.104155554902876">
+  <wpt lat="53.303633332995595" lon="5.104516665973104">
     <name>VS 3</name>
     <desc>vaarweg : VLIESLOOT
 licht type : VQ (very quick-flashing)
@@ -93932,7 +93974,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.304366667069345" lon="5.106025000006393">
+  <wpt lat="53.30448333297306" lon="5.106316666495829">
     <name>VS 6</name>
     <desc>vaarweg : VLIESLOOT
 licht type : VQ (very quick-flashing)
@@ -103419,7 +103461,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.324338888763265" lon="5.018402777182159">
+  <wpt lat="53.32430277752341" lon="5.018116666499672">
     <name>ZS 4A</name>
     <desc>vaarweg : ZUIDER STORTEMELK
 licht type : LFl (long-flashing)
@@ -103431,7 +103473,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.31894444473543" lon="5.017727777961817">
+  <wpt lat="53.319302777608726" lon="5.016869444433874">
     <name>ZS 4B</name>
     <desc>vaarweg : ZUIDER STORTEMELK
 licht type : VQ (very quick-flashing)
