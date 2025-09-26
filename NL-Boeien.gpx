@@ -49381,6 +49381,55 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.46379444442694" lon="4.533847222759965">
+    <name>MT E</name>
+    <desc>vaarweg : HAVEN IJMUIDEN
+licht type : VQ (very quick-flashing)
+licht periode : 5
+lich kleur : Wit
+model : spar Zwart/geel/zwart
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.4640388886835" lon="4.531041666414402">
+    <name>MT IJ</name>
+    <desc>vaarweg : HAVEN IJMUIDEN
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.46464444473891" lon="4.531177777204905">
+    <name>MT N</name>
+    <desc>vaarweg : HAVEN IJMUIDEN
+licht type : VQ (very quick-flashing)
+lich kleur : Wit
+model : spar Zwart/geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.46325000004013" lon="4.530691667397655">
+    <name>MT W</name>
+    <desc>vaarweg : HAVEN IJMUIDEN
+licht type : VQ (very quick-flashing)
+licht periode : 10
+lich kleur : Wit
+model : spar Geel/zwart/geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.92500000001847" lon="3.963333333612376">
     <name>MV A</name>
     <desc>vaarweg : MAASVLAKTE-MAASGEUL (NZ)
@@ -50638,7 +50687,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1107</sym>
+    <sym>1103</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
