@@ -49387,9 +49387,8 @@ model : spar Geel</desc>
 licht type : VQ (very quick-flashing)
 licht periode : 5
 lich kleur : Wit
-model : spar Zwart/geel/zwart
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Zwart/geel/zwart</desc>
+    <sym>2133</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -49398,9 +49397,8 @@ No boei icon available in source data!</desc>
     <name>MT IJ</name>
     <desc>vaarweg : HAVEN IJMUIDEN
 lich kleur : X
-model : spar Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Geel</desc>
+    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -49410,9 +49408,8 @@ No boei icon available in source data!</desc>
     <desc>vaarweg : HAVEN IJMUIDEN
 licht type : VQ (very quick-flashing)
 lich kleur : Wit
-model : spar Zwart/geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Zwart/geel</desc>
+    <sym>2033</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -49423,9 +49420,8 @@ No boei icon available in source data!</desc>
 licht type : VQ (very quick-flashing)
 licht periode : 10
 lich kleur : Wit
-model : spar Geel/zwart/geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Geel/zwart/geel</desc>
+    <sym>2333</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72366,7 +72362,7 @@ model : spar Groen</desc>
 licht type : VQ (very quick-flashing)
 licht periode : 5
 lich kleur : Wit
-model : spar Zwart/geel/zwart</desc>
+model : Pilaar Zwart/geel/zwart</desc>
     <sym>2123</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -88882,6 +88878,245 @@ model : spar Geel</desc>
 lich kleur : X
 model : spar Geel/zwart</desc>
     <sym>2231</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.59253611146828" lon="5.557655555646152">
+    <name>VIJ-A</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>2131</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.59299722218772" lon="5.556947222094194">
+    <name>VIJ-B</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.59338333367647" lon="5.556180556070636">
+    <name>VIJ-C</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.593055555988286" lon="5.554130555449706">
+    <name>VIJ-D</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.59149444487311" lon="5.551497221848031">
+    <name>VIJ-E</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.59032777810395" lon="5.551036110521295">
+    <name>VIJ-F</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.589894444346186" lon="5.551800000114535">
+    <name>VIJ-G</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.58950555545972" lon="5.552699999908252">
+    <name>VIJ-H</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.56801666640654" lon="5.517513888542161">
+    <name>VIJ-I</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.56728055583146" lon="5.51624444498666">
+    <name>VIJ-J</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.56654722219709" lon="5.514958333245739">
+    <name>VIJ-K</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.56581111087163" lon="5.513688889397904">
+    <name>VIJ-L</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.56508333316246" lon="5.512427777534127">
+    <name>VIJ-M</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.56478611122794" lon="5.513086111074391">
+    <name>VIJ-N</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.56448333322928" lon="5.513755555794655">
+    <name>VIJ-O</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.553302778198315" lon="5.485044444777046">
+    <name>VIJ-P</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.55384722205751" lon="5.485108332657556">
+    <name>VIJ-Q</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.55378888921692" lon="5.482572222469682">
+    <name>VIJ-R</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.55372777803301" lon="5.480022222795767">
+    <name>VIJ-S</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.55313888888259" lon="5.480227778454017">
+    <name>VIJ-T</name>
+    <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
