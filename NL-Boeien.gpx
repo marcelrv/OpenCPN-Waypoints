@@ -57972,7 +57972,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.50958055567775" lon="5.406383333170614">
+  <wpt lat="52.510955555340544" lon="5.407111110532693">
     <name>OVD 1</name>
     <desc>vaarweg : OOSTVAARDERSDIEP (MARKERMEER)
 licht type : Iso (isophased)
@@ -57984,7 +57984,19 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.50764722225824" lon="5.407561111138775">
+  <wpt lat="52.510155555180255" lon="5.396397222719706">
+    <name>OVD 1A</name>
+    <desc>vaarweg : OOSTVAARDERSDIEP (MARKERMEER)
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spar Groen</desc>
+    <sym>1145</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.50887777769002" lon="5.407555555025669">
     <name>OVD 2</name>
     <desc>vaarweg : OOSTVAARDERSDIEP (MARKERMEER)
 licht type : Iso (isophased)
@@ -57996,7 +58008,19 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.506472222264556" lon="5.390238889591891">
+  <wpt lat="52.50808888864122" lon="5.3969194451062">
+    <name>OVD 2A</name>
+    <desc>vaarweg : OOSTVAARDERSDIEP (MARKERMEER)
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
+model : spar Rood</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.509311111442116" lon="5.385372222893062">
     <name>OVD 3</name>
     <desc>vaarweg : OOSTVAARDERSDIEP (MARKERMEER)
 licht type : LFl (long-flashing)
@@ -58008,7 +58032,19 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.504486110930664" lon="5.391402778345252">
+  <wpt lat="52.507038889144425" lon="5.374519445067455">
+    <name>OVD 3A</name>
+    <desc>vaarweg : OOSTVAARDERSDIEP (MARKERMEER)
+licht type : Fl (flashing)
+licht periode : 10
+lich kleur : Groen
+model : spar Groen</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.50728611128611" lon="5.386308333385966">
     <name>OVD 4</name>
     <desc>vaarweg : OOSTVAARDERSDIEP (MARKERMEER)
 licht type : LFl (long-flashing)
@@ -58020,7 +58056,19 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.50334444437086" lon="5.374066667188769">
+  <wpt lat="52.50518888867312" lon="5.376113889574258">
+    <name>OVD 4A</name>
+    <desc>vaarweg : OOSTVAARDERSDIEP (MARKERMEER)
+licht type : Iso (isophased)
+licht periode : 6
+lich kleur : Rood
+model : spar Rood</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.50205000012503" lon="5.3617861111008">
     <name>OVD 5</name>
     <desc>vaarweg : OOSTVAARDERSDIEP (MARKERMEER)
 licht type : Iso (isophased)
@@ -58032,7 +58080,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.50135833332407" lon="5.375055556178826">
+  <wpt lat="52.50033055534331" lon="5.363738889184146">
     <name>OVD 6</name>
     <desc>vaarweg : OOSTVAARDERSDIEP (MARKERMEER)
 licht type : Iso (isophased)
@@ -58044,7 +58092,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.49098611135522" lon="5.338911110777866">
+  <wpt lat="52.48877500034213" lon="5.329269444094471">
     <name>OVD 7</name>
     <desc>vaarweg : OOSTVAARDERSDIEP (MARKERMEER)
 licht type : LFl (long-flashing)
@@ -58056,7 +58104,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.48925277774244" lon="5.340797221946231">
+  <wpt lat="52.48699444486213" lon="5.331136110451479">
     <name>OVD 8</name>
     <desc>vaarweg : OOSTVAARDERSDIEP (MARKERMEER)
 licht type : LFl (long-flashing)
@@ -89010,7 +89058,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.56508333316246" lon="5.512427777534127">
+  <wpt lat="52.56508333293682" lon="5.512419444409475">
     <name>VIJ-M</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 licht type : Fl (flashing)
