@@ -7303,22 +7303,13 @@ model : spar Geel/zwart/geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.49616666667206" lon="6.467827778017752">
-    <name>B-OW 1</name>
-    <desc>vaarweg : BOSCHGAT
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.482391666819524" lon="6.469616666849079">
     <name>B-OW 2</name>
-    <desc>vaarweg : BOSCHGAT
+    <desc>vaarweg : BOSCHWAD
 lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -9409,7 +9400,7 @@ model : spits Groen</desc>
 licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Rood
-model : stomp Rood/groen/rood</desc>
+model : Pilaar Rood/groen/rood</desc>
     <sym>1362</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -10765,7 +10756,7 @@ model : stomp Rood</desc>
 licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Groen
-model : spits Groen/rood/groen</desc>
+model : Pilaar Groen/rood/groen</desc>
     <sym>1302</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -13872,7 +13863,7 @@ model : spar Geel/zwart/geel</desc>
 licht type : quick-flash plus long- flash
 licht periode : 15
 lich kleur : Wit
-model : Pilaar Geel/zwart</desc>
+model : spar Geel/zwart</desc>
     <sym>2233</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -30223,6 +30214,30 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.76675277789807" lon="3.792355556265471">
+    <name>HKW 1</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 10
+lich kleur : Geel
+model : spits Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.7324888886476" lon="3.87446944510738">
+    <name>HKW 2</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.6720833336832" lon="3.856516666067984">
     <name>HKW 4</name>
     <desc>vaarweg : NOORDZEE
@@ -30248,15 +30263,39 @@ No boei icon available in source data!</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.795402777498424" lon="3.893061110584576">
+    <name>HKW E</name>
+    <desc>vaarweg : NOORDZEE
+licht type : VQ (very quick-flashing)
+licht periode : 5
+lich kleur : Wit
+model : Pilaar Zwart/geel/zwart
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.81805833366118" lon="3.86622222179839">
+    <name>HKW N</name>
+    <desc>vaarweg : NOORDZEE
+licht type : VQ (very quick-flashing)
+lich kleur : Wit
+model : Pilaar Zwart/geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.6316666663056" lon="3.828133332895951">
     <name>HKW S</name>
     <desc>vaarweg : NOORDZEE
 licht type : very quick-flash plus long- fl
 licht periode : 10
 lich kleur : Wit
-model : Pilaar Geel/zwart
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : Pilaar Geel/zwart</desc>
+    <sym>2231</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -30267,9 +30306,8 @@ No boei icon available in source data!</desc>
 licht type : VQ (very quick-flashing)
 licht periode : 10
 lich kleur : Wit
-model : Pilaar Geel/zwart/geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : Pilaar Geel/zwart/geel</desc>
+    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -42988,7 +43026,7 @@ model : spar Groen</desc>
 licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Rood
-model : stomp Rood/groen/rood</desc>
+model : Pilaar Rood/groen/rood</desc>
     <sym>1362</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -43000,7 +43038,7 @@ model : stomp Rood/groen/rood</desc>
 licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Groen
-model : spits Groen/rood/groen</desc>
+model : Pilaar Groen/rood/groen</desc>
     <sym>1312</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -50014,16 +50052,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.306425000357024" lon="7.157297222198573">
-    <name>Meet-Ggat</name>
-    <desc>vaarweg : DOLLARD
-lich kleur : X
-model : spar Geel</desc>
-    <sym>3101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.84910000012075" lon="4.659630556238887">
     <name>N 1-RB 2</name>
     <desc>vaarweg : NOORD
@@ -54591,7 +54619,7 @@ model : bol Geel</desc>
 licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Groen
-model : spits Groen/rood/groen</desc>
+model : Pilaar Groen/rood/groen</desc>
     <sym>1312</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -94144,7 +94172,7 @@ model : spits Groen</desc>
 licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Rood
-model : stomp Rood/groen/rood</desc>
+model : Pilaar Rood/groen/rood</desc>
     <sym>1362</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -99870,7 +99898,7 @@ model : spar Rood/wit repeterend</desc>
 licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Rood
-model : stomp Rood/groen/rood</desc>
+model : Pilaar Rood/groen/rood</desc>
     <sym>1352</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -100322,7 +100350,7 @@ model : spar Rood</desc>
 licht type : Fl (flashing)
 licht periode : 15
 lich kleur : Rood
-model : stomp Rood/groen/rood</desc>
+model : Pilaar Rood/groen/rood</desc>
     <sym>1362</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
