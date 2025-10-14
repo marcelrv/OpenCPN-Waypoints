@@ -9665,6 +9665,7 @@ model : spar Geel</desc>
   <wpt lat="51.82267777808527" lon="3.857380555460267">
     <name>BO-OW 27</name>
     <desc>vaarweg : NOORDZEE
+lich kleur : X
 model : spits Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -9854,6 +9855,7 @@ model : spar Geel</desc>
   <wpt lat="51.78123611076124" lon="3.78006944450005">
     <name>BO-OW E</name>
     <desc>vaarweg : NOORDZEE
+lich kleur : X
 model : stomp Geel</desc>
     <sym>5000</sym>
     <extensions>
@@ -97628,6 +97630,41 @@ model : spar Geel/zwart/geel</desc>
 lich kleur : X
 model : spar Zwart/geel</desc>
     <sym>2031</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.904377777556746" lon="4.475675000441841">
+    <name>WK A</name>
+    <desc>vaarweg : NIEUWE MAAS
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.90479444444966" lon="4.476530554858468">
+    <name>WK B</name>
+    <desc>vaarweg : NIEUWE MAAS
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.905205555531914" lon="4.477413888877954">
+    <name>WK C</name>
+    <desc>vaarweg : NIEUWE MAAS
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
