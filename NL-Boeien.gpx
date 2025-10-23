@@ -7355,7 +7355,7 @@ model : spar Geel</desc>
   </wpt>
   <wpt lat="53.57551111153062" lon="5.673397222460857">
     <name>BA 1A</name>
-    <desc>vaarweg : OPHEF LOCATIE
+    <desc>vaarweg : NOORDZEE
 lich kleur : X
 model : spar Geel</desc>
     <sym>5301</sym>
@@ -26588,7 +26588,7 @@ model : spits Groen</desc>
   </wpt>
   <wpt lat="53.44358611080098" lon="6.141716666803714">
     <name>GVS 2</name>
-    <desc>vaarweg : OPHEF LOCATIE
+    <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
 lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
@@ -35090,7 +35090,7 @@ model : spar Geel/zwart/geel</desc>
   </wpt>
   <wpt lat="53.74511111086308" lon="3.616936110835172">
     <name>K5-F</name>
-    <desc>vaarweg : OPHEF LOCATIE
+    <desc>vaarweg : NOORDZEE
 licht type : Q (quick-flashing)
 lich kleur : Wit
 model : Pilaar Zwart/geel</desc>
@@ -58288,7 +58288,7 @@ model : spar Rood</desc>
   <wpt lat="52.37262500029581" lon="5.018172221664098">
     <name>P 11</name>
     <desc>vaarweg : PAMPUS (MARKERMEER)
-lich kleur : Groen
+lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
     <extensions>
@@ -58991,7 +58991,7 @@ model : spar Zwart/geel</desc>
 licht type : Q (quick-flashing)
 lich kleur : Wit
 model : spar Zwart/geel</desc>
-    <sym>2033</sym>
+    <sym>2031</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -61550,7 +61550,7 @@ model : spar Rood</desc>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
 lich kleur : X
 model : spar Groen/rood</desc>
-    <sym>1211</sym>
+    <sym>1261</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -69470,6 +69470,48 @@ model : spar Groen/rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.38693888905456" lon="4.092513888922003">
+    <name>REC-A</name>
+    <desc>vaarweg : SCHAAR VAN VALKENISSE
+licht type : Iso (isophased)
+licht periode : 8
+lich kleur : Wit
+model : bol Rood/wit</desc>
+    <sym>6007</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.380111110896074" lon="4.094455555646088">
+    <name>REC-B</name>
+    <desc>vaarweg : SCHAAR VAN VALKENISSE
+lich kleur : X
+model : spar Rood/wit</desc>
+    <sym>6041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.374313888710184" lon="4.095877777619528">
+    <name>REC-C</name>
+    <desc>vaarweg : SCHAAR VAN VALKENISSE
+lich kleur : X
+model : spar Rood/wit</desc>
+    <sym>6041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.37216111114297" lon="4.098080555048996">
+    <name>REC-D</name>
+    <desc>vaarweg : SCHAAR VAN VALKENISSE
+lich kleur : X
+model : spar Rood/wit</desc>
+    <sym>6041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.53228611068957" lon="6.305680555974169">
     <name>REGULUS</name>
     <desc>vaarweg : LAUWERS
@@ -69887,7 +69929,7 @@ model : spar Groen</desc>
     <desc>vaarweg : REDE VAN HARLINGEN
 lich kleur : X
 model : spar Rood</desc>
-    <sym>1103</sym>
+    <sym>1143</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
