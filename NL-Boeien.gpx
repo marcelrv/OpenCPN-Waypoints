@@ -8304,7 +8304,7 @@ model : spar Geel</desc>
     <desc>vaarweg : KANAAL DOOR ZUID BEVELAND
 lich kleur : X
 model : spar Geel</desc>
-    <sym>5511</sym>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -35198,7 +35198,7 @@ model : spar Groen</desc>
     <desc>vaarweg : KETELMEER RECREATIE (RANDMEREN)
 lich kleur : X
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1143</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -37560,7 +37560,7 @@ licht type : Iso (isophased)
 licht periode : 2
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1147</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -47044,7 +47044,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1101</sym>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -47228,7 +47228,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1101</sym>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -80522,7 +80522,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1147</sym>
+    <sym>1047</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -80544,7 +80544,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1145</sym>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -99928,8 +99928,8 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.97114444484945" lon="4.046302777770671">
-    <name>YK C</name>
+  <wpt lat="51.97180833325309" lon="4.045361110624603">
+    <name>YK A</name>
     <desc>vaarweg : YANGTZEKANAAL
 licht type : Fl (flashing)
 licht periode : 3
@@ -99937,6 +99937,31 @@ lich kleur : Geel
 model : spar Geel
 No boei icon available in source data!</desc>
     <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.97145555582649" lon="4.045455555586773">
+    <name>YK B</name>
+    <desc>vaarweg : YANGTZEKANAAL
+licht type : Fl (flashing)
+licht periode : 3
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.97114444484945" lon="4.046302777770671">
+    <name>YK C</name>
+    <desc>vaarweg : YANGTZEKANAAL
+licht type : Fl (flashing)
+licht periode : 3
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
