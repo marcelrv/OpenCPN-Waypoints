@@ -3838,7 +3838,7 @@ model : spar Groen/wit repeterend</desc>
 licht type : Q (quick-flashing)
 lich kleur : Groen
 model : spits Groen</desc>
-    <sym>1008</sym>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -4493,7 +4493,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1041</sym>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -11805,7 +11805,7 @@ model : spar Groen</desc>
     <desc>vaarweg : WOLDERWIJD (RANDMEREN)
 lich kleur : X
 model : spar Rood</desc>
-    <sym>5541</sym>
+    <sym>1143</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -24317,7 +24317,7 @@ model : bol Rood/groen repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.14046944455854" lon="6.189863889292089">
+  <wpt lat="52.14029722192652" lon="6.189513889508533">
     <name>GIJ 69A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24337,7 +24337,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.13974722180768" lon="6.190205554957102">
+  <wpt lat="52.139661111357434" lon="6.18981944484442">
     <name>GIJ 69B</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -28866,7 +28866,7 @@ model : spits Groen</desc>
     <desc>vaarweg : HOLLANDSCH DIEP
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1103</sym>
+    <sym>1107</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -29132,7 +29132,7 @@ licht type : LFl (long-flashing)
 licht periode : 8
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1107</sym>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -66286,7 +66286,7 @@ model : spar Rood/wit repeterend</desc>
     <desc>vaarweg : HOLLANDSCH DIEP
 lich kleur : X
 model : spar Rood/wit repeterend</desc>
-    <sym>1632</sym>
+    <sym>1562</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -99934,9 +99934,8 @@ model : spar Rood/wit repeterend</desc>
 licht type : Fl (flashing)
 licht periode : 3
 lich kleur : Geel
-model : spar Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -99947,9 +99946,8 @@ No boei icon available in source data!</desc>
 licht type : Fl (flashing)
 licht periode : 3
 lich kleur : Geel
-model : spar Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
