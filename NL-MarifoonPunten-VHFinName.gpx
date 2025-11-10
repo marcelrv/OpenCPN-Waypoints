@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-11-06T17:35:21.288000Z</time>
+    <time>2025-11-10T09:37:10.649000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>VHF 20</name>
@@ -173,11 +173,11 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="50.8675906019075" lon="5.68667571629925">
     <name>VHF 20</name>
-    <desc>Naam:         Meldpunt Sluis Bosscherveld
+    <desc>Naam:         Meldpunt Sluis Bosscheveld
 VHF:          20
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/2245">
-      <text>Meldpunt Sluis Bosscherveld online info</text>
+      <text>Meldpunt Sluis Bosscheveld online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -13049,19 +13049,6 @@ VHF:          22
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/57921">
       <text>Meldpunt Parkhavenbrug online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.9027461357148" lon="4.47570660473372">
-    <name>VHF 81</name>
-    <desc>Naam:         Meldpunt Ligplaats Parkkade Rotterdam
-VHF:          81
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/58004">
-      <text>Meldpunt Ligplaats Parkkade Rotterdam online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
