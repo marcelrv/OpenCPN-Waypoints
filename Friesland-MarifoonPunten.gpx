@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-11-13T10:26:17.626000Z</time>
+    <time>2025-11-14T11:38:55.560000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -638,12 +638,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="52.8387837676186" lon="5.67222791927411">
-    <name>Meldpunt Kegelligplaats Lemmer buitenzijde</name>
-    <desc>Naam:         Meldpunt Kegelligplaats Lemmer buitenzijde
+    <name>Meldpunt Kegelligplaats buitenzijde Lemmer</name>
+    <desc>Naam:         Meldpunt Kegelligplaats buitenzijde Lemmer
 VHF:          20
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Maximaal 3 x 24 uur</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170262">
-      <text>Meldpunt Kegelligplaats Lemmer buitenzijde online info</text>
+      <text>Meldpunt Kegelligplaats buitenzijde Lemmer online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -651,12 +652,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="52.8357896947757" lon="5.66895897210495">
-    <name>Meldpunt ligplaats buitenzijde Oostkant Lemmer</name>
-    <desc>Naam:         Meldpunt ligplaats buitenzijde Oostkant Lemmer
+    <name>Meldpunt Ligplaats buitenzijde Oostkant Lemmer</name>
+    <desc>Naam:         Meldpunt Ligplaats buitenzijde Oostkant Lemmer
 VHF:          20
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: Maximaal 3 x 24 uur.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170282">
-      <text>Meldpunt ligplaats buitenzijde Oostkant Lemmer online info</text>
+      <text>Meldpunt Ligplaats buitenzijde Oostkant Lemmer online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -664,12 +666,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="52.841425795663" lon="5.67264474027335">
-    <name>Meldpunt wachtplaats Lemmer buitenzijde</name>
-    <desc>Naam:         Meldpunt wachtplaats Lemmer buitenzijde
+    <name>Meldpunt Wachtplaats buitenzijde Lemmer</name>
+    <desc>Naam:         Meldpunt Wachtplaats buitenzijde Lemmer
 VHF:          20
-RadioTraffic: TWO_WAY</desc>
+RadioTraffic: TWO_WAY
+Opmerking: -</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170325">
-      <text>Meldpunt wachtplaats Lemmer buitenzijde online info</text>
+      <text>Meldpunt Wachtplaats buitenzijde Lemmer online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -677,12 +680,12 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="52.8509027241667" lon="5.67605676231886">
-    <name>Meldpunt wachtplaats Lemmer binnenzijde</name>
-    <desc>Naam:         Meldpunt wachtplaats Lemmer binnenzijde
+    <name>Meldpunt Wachtplaats binnenzijde Lemmer</name>
+    <desc>Naam:         Meldpunt Wachtplaats binnenzijde Lemmer
 VHF:          20
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/14170330">
-      <text>Meldpunt wachtplaats Lemmer binnenzijde online info</text>
+      <text>Meldpunt Wachtplaats binnenzijde Lemmer online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -1068,13 +1071,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="53.1753936020551" lon="5.4114156961441">
-    <name>Meldpunt keersluis Sas</name>
-    <desc>Naam:         Meldpunt keersluis Sas
+    <name>Meldpunt Keersluis Sas</name>
+    <desc>Naam:         Meldpunt Keersluis Sas
 VHF:          11
 RadioStatus: RECOMMENDED
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/EXCEPTIONALNAVIGATIONALSTRUCTURE/16802">
-      <text>Meldpunt keersluis Sas online info</text>
+      <text>Meldpunt Keersluis Sas online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
