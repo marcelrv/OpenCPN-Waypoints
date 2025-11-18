@@ -20688,7 +20688,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1045</sym>
+    <sym>1047</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -20732,6 +20732,7 @@ model : spar Geel</desc>
   <wpt lat="52.60736944419784" lon="5.632188889292536">
     <name>FR-B</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
+lich kleur : X
 model : spar Geel</desc>
     <sym>5512</sym>
     <extensions>
@@ -24397,7 +24398,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.978724999949215" lon="5.999936111088915">
+  <wpt lat="51.97870555558344" lon="6.000947222621544">
     <name>GIJ 71</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24407,7 +24408,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.97793055529111" lon="5.998744444966122">
+  <wpt lat="51.977930555636334" lon="6.015411110664189">
     <name>GIJ 71A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -24417,7 +24418,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.977316667099686" lon="5.997449999404799">
+  <wpt lat="51.97776944403976" lon="5.998988888481707">
     <name>GIJ 71B</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -74453,7 +74454,7 @@ model : spar Geel/zwart</desc>
     <desc>vaarweg : DOKKUMERDIEP
 lich kleur : X
 model : spits Groen</desc>
-    <sym>1001</sym>
+    <sym>1003</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -91717,6 +91718,7 @@ model : stomp Rood</desc>
   <wpt lat="52.38005555537469" lon="5.636827778014566">
     <name>VM 80</name>
     <desc>vaarweg : VELUWEMEER (RANDMEREN)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
