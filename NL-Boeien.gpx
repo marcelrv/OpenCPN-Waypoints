@@ -23918,7 +23918,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.20094444438956" lon="6.163177777418316">
+  <wpt lat="52.20108333324312" lon="6.163072222336001">
     <name>GIJ 54</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -23928,7 +23928,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.20008333319713" lon="6.16008611159766">
+  <wpt lat="52.20016944406024" lon="6.159930555003117">
     <name>GIJ 54A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -23938,7 +23938,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.19957500023217" lon="6.159216666928556">
+  <wpt lat="52.19968055524206" lon="6.159005555922858">
     <name>GIJ 54B</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -48352,36 +48352,6 @@ licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
     <sym>5301</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.390263888748315" lon="4.047397222098128">
-    <name>MP A</name>
-    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>3601</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.39539999993421" lon="4.045738889336327">
-    <name>MP B</name>
-    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>3601</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.40117777783391" lon="4.061208332830016">
-    <name>MP C</name>
-    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>3601</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
