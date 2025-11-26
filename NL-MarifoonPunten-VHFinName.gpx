@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2025-11-25T13:22:03.090000Z</time>
+    <time>2025-11-26T13:16:37.789000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>VHF 20</name>
@@ -669,12 +669,12 @@ RadioTraffic: TWO_WAY</desc>
   </wpt>
   <wpt lat="51.8236307593843" lon="4.69517529650944">
     <name>VHF 71</name>
-    <desc>Naam:         Meldpunt BENEDEN MERWEDE HBR ANKER-/KOPPELPLAATS DUWBAKKEN
+    <desc>Naam:         Meldpunt Ligplaats Beneden Merwede HBR anker-/koppelplaats duwbakken
 VHF:          71
 RadioTraffic: TWO_WAY
 Opmerking: Ankeren alleen met toestemming van RVC Dordrecht. VHF 71</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/4166">
-      <text>Meldpunt BENEDEN MERWEDE HBR ANKER-/KOPPELPLAATS DUWBAKKEN online info</text>
+      <text>Meldpunt Ligplaats Beneden Merwede HBR anker-/koppelplaats duwbakken online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -11793,11 +11793,11 @@ Opmerking: Alleen met toestemming.</desc>
   </wpt>
   <wpt lat="51.8895384054119" lon="4.36700181254151">
     <name>VHF 63</name>
-    <desc>Naam:         Meldpunt 2E PET HBR STG 0
+    <desc>Naam:         Meldpunt Wachtplaats 2e Petroleumhaven HBR STG 0
 VHF:          63
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BERTH/52949">
-      <text>Meldpunt 2E PET HBR STG 0 online info</text>
+      <text>Meldpunt Wachtplaats 2e Petroleumhaven HBR STG 0 online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
@@ -18372,6 +18372,32 @@ VHF:          20
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/12178443">
       <text>Meldpunt Reeuwijkse Verlaat online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.32143528026552" lon="6.916557401418683">
+    <name>VHF 22</name>
+    <desc>Naam:         Meldpunt Roggenkampsluis
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/25908">
+      <text>Meldpunt Roggenkampsluis online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.3233061816915" lon="6.91376120535309">
+    <name>VHF 22</name>
+    <desc>Naam:         Meldpunt Stuurhuisbrug
+VHF:          22
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/24460">
+      <text>Meldpunt Stuurhuisbrug online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
