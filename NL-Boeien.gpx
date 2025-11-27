@@ -34935,6 +34935,18 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.62712777790239" lon="5.626080555099529">
+    <name>K H</name>
+    <desc>vaarweg : URK (IJSSELMEER)
+licht type : Iso (isophased)
+licht periode : 8
+lich kleur : Wit
+model : spar Rood/wit</desc>
+    <sym>6023</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.27472777761635" lon="3.839519443931802">
     <name>K T G</name>
     <desc>vaarweg : Kanaal Gent- Terneuzen
@@ -100915,9 +100927,8 @@ model : spar Groen</desc>
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
-model : spar Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Geel</desc>
+    <sym>5522</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
