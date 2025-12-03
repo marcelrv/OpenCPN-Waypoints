@@ -16995,7 +16995,7 @@ licht type : VQ (very quick-flashing)
 licht periode : 10
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
-    <sym>2323</sym>
+    <sym>2023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -49713,6 +49713,66 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.84455277755546" lon="5.407805554937612">
+    <name>MTW-A</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>1005</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.84448611106196" lon="5.408038888741668">
+    <name>MTW-B</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : stomp Geel</desc>
+    <sym>1005</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.870949999775426" lon="5.429277777509223">
+    <name>MTW-C</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : spits Geel</desc>
+    <sym>1005</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.87094722227871" lon="5.428794444631902">
+    <name>MTW-D</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : spits Geel</desc>
+    <sym>1105</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.887647221996055" lon="5.461813889098549">
+    <name>MTW-E</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : spits Geel</desc>
+    <sym>1105</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.887869444423195" lon="5.461711111271037">
+    <name>MTW-F</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : spits Geel</desc>
+    <sym>1552</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.92500000001847" lon="3.963333333612376">
     <name>MV A</name>
     <desc>vaarweg : MAASVLAKTE-MAASGEUL (NZ)
@@ -62415,9 +62475,8 @@ model : spar Groen</desc>
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
-model : bol Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : bol Geel</desc>
+    <sym>4301</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
