@@ -28468,6 +28468,83 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.71932777749673" lon="4.401905555924234">
+    <name>H-A</name>
+    <desc>vaarweg : HARINGVLIET
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.71917222219848" lon="4.401452777685018">
+    <name>H-B</name>
+    <desc>vaarweg : HARINGVLIET
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.718844444752776" lon="4.401761111471855">
+    <name>H-C</name>
+    <desc>vaarweg : HARINGVLIET
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.71887500022223" lon="4.403802777445569">
+    <name>H-D</name>
+    <desc>vaarweg : HARINGVLIET
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.71859444483013" lon="4.403994445014195">
+    <name>H-E</name>
+    <desc>vaarweg : HARINGVLIET
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.71845555516762" lon="4.403369444614166">
+    <name>H-F</name>
+    <desc>vaarweg : HARINGVLIET
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.67470277811841" lon="3.644811111425338">
     <name>H-S</name>
     <desc>vaarweg : WESTGAT (OOSTERSCHELDE)
@@ -94471,7 +94548,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.2974166667248" lon="5.103433334017547">
+  <wpt lat="53.297280555802196" lon="5.103655555762809">
     <name>VS 10</name>
     <desc>vaarweg : VLIESLOOT
 licht type : Q (quick-flashing)
@@ -94504,7 +94581,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.30805277757208" lon="5.097536111380078">
+  <wpt lat="53.30863611095071" lon="5.098872221586331">
     <name>VS 1</name>
     <desc>vaarweg : VLIESLOOT
 licht type : Iso (isophased)
@@ -94620,7 +94697,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.303633332995595" lon="5.104516665973104">
+  <wpt lat="53.30411388908178" lon="5.105036111725804">
     <name>VS 3</name>
     <desc>vaarweg : VLIESLOOT
 licht type : VQ (very quick-flashing)
@@ -94643,7 +94720,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.30087500028753" lon="5.10324444509431">
+  <wpt lat="53.300830555142966" lon="5.103633334050232">
     <name>VS 5</name>
     <desc>vaarweg : VLIESLOOT
 licht type : LFl (long-flashing)
@@ -94655,7 +94732,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.30448333297306" lon="5.106316666495829">
+  <wpt lat="53.30437777813806" lon="5.106624999638179">
     <name>VS 6</name>
     <desc>vaarweg : VLIESLOOT
 licht type : VQ (very quick-flashing)
@@ -94677,7 +94754,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.30132777771879" lon="5.105519444459748">
+  <wpt lat="53.301555555675236" lon="5.10586388919833">
     <name>VS 8</name>
     <desc>vaarweg : VLIESLOOT
 licht type : LFl (long-flashing)
@@ -95382,7 +95459,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.87705000035829" lon="6.027250000033785">
+  <wpt lat="51.87856666678051" lon="6.024800000713102">
     <name>W 16</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -95404,7 +95481,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.874549999792116" lon="6.033283333888183">
+  <wpt lat="51.87588333363919" lon="6.029900000166875">
     <name>W 16A</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
