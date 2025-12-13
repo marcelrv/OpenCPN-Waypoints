@@ -9333,8 +9333,8 @@ model : spar Rood</desc>
 licht type : Iso (isophased)
 licht periode : 2
 lich kleur : Groen
-model : spar Groen</desc>
-    <sym>1005</sym>
+model : spits Groen</desc>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -26906,11 +26906,11 @@ model : spits Groen</desc>
   <wpt lat="53.44358611080098" lon="6.141716666803714">
     <name>GVS 2</name>
     <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
-licht type : VQ (very quick-flashing)
-licht periode : 10
+licht type : Iso (isophased)
+licht periode : 4
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -26934,7 +26934,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1041</sym>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -26958,7 +26958,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -26992,7 +26992,7 @@ licht type : Fl (flashing)
 licht periode : 6
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -27016,7 +27016,7 @@ licht type : VQ (very quick-flashing)
 licht periode : 10
 lich kleur : X
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -41527,7 +41527,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
-    <sym>1105</sym>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72758,17 +72758,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.334333333487194" lon="5.21908333347016">
-    <name>S 8</name>
-    <desc>vaarweg : SLENK (WADDENZEE)
-licht type : Q (quick-flashing)
-lich kleur : Rood
-model : stomp Rood</desc>
-    <sym>1105</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.36150555541875" lon="6.196766666323823">
     <name>S 8</name>
     <desc>vaarweg : SLENK (LAUWERSMEER)
@@ -82044,7 +82033,7 @@ model : spar Rood/groen</desc>
     <desc>vaarweg : SCHAAR VAN COLIJN
 lich kleur : X
 model : spar Groen</desc>
-    <sym>1041</sym>
+    <sym>1043</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
