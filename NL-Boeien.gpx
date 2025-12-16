@@ -26988,9 +26988,7 @@ model : spar Rood</desc>
   <wpt lat="53.444622221916326" lon="6.156544443818227">
     <name>GVS 6</name>
     <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
-licht type : Fl (flashing)
-licht periode : 6
-lich kleur : Rood
+lich kleur : X
 model : spar Rood</desc>
     <sym>1145</sym>
     <extensions>
@@ -27012,8 +27010,6 @@ model : spar Groen</desc>
   <wpt lat="53.44659722185672" lon="6.162688888601275">
     <name>GVS 8</name>
     <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
-licht type : VQ (very quick-flashing)
-licht periode : 10
 lich kleur : X
 model : spar Rood</desc>
     <sym>1145</sym>
@@ -72754,6 +72750,17 @@ model : stomp Rood</desc>
 lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.334333333487194" lon="5.21908333347016">
+    <name>S 8</name>
+    <desc>vaarweg : SLENK (WADDENZEE)
+licht type : Q (quick-flashing)
+lich kleur : Rood
+model : stomp Rood</desc>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
