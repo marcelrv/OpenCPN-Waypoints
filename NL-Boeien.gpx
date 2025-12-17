@@ -26988,9 +26988,11 @@ model : spar Rood</desc>
   <wpt lat="53.444622221916326" lon="6.156544443818227">
     <name>GVS 6</name>
     <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
-lich kleur : X
+licht type : Iso (isophased)
+licht periode : 6
+lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1145</sym>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -27012,7 +27014,7 @@ model : spar Groen</desc>
     <desc>vaarweg : GAT VAN SCHIERMONNIKOOG
 lich kleur : X
 model : spar Rood</desc>
-    <sym>1145</sym>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -72760,7 +72762,7 @@ model : spar Rood</desc>
 licht type : Q (quick-flashing)
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1105</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
