@@ -49792,6 +49792,29 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.794838888636484" lon="4.163002777218498">
+    <name>MT H</name>
+    <desc>vaarweg : HARINGVLIET
+lich kleur : X
+model : spar Rood/wit repeterend</desc>
+    <sym>1562</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.78245277783501" lon="4.236855555511773">
+    <name>MT-BN</name>
+    <desc>vaarweg : BENINGEN
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.84455277755546" lon="5.407805554937612">
     <name>MTW-A</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
@@ -74559,6 +74582,17 @@ model : spar Groen</desc>
     <name>SD 6</name>
     <desc>vaarweg : SCHARDAM (MARKERMEER)
 lich kleur : X
+model : spar Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.60890833362004" lon="5.091119445137428">
+    <name>SD 6</name>
+    <desc>vaarweg : SCHARDAM (MARKERMEER)
+lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -79147,16 +79181,6 @@ model : spar Rood/wit repeterend</desc>
 lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.794838888636484" lon="4.163002777218498">
-    <name>SPM 20</name>
-    <desc>vaarweg : HARINGVLIET
-lich kleur : X
-model : spar Rood/wit repeterend</desc>
-    <sym>1562</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
