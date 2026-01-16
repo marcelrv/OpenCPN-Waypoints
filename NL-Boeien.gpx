@@ -49809,7 +49809,7 @@ licht type : Fl (flashing)
 licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5101</sym>
+    <sym>5301</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -49833,7 +49833,7 @@ licht type : Fl (flashing)
 licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5301</sym>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -74611,16 +74611,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.60890833362004" lon="5.091119445137428">
-    <name>SD 6</name>
-    <desc>vaarweg : SCHARDAM (MARKERMEER)
-lich kleur : X
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.60783611133895" lon="5.083094444198675">
     <name>SD 8</name>
     <desc>vaarweg : SCHARDAM (MARKERMEER)
@@ -88695,9 +88685,8 @@ model : spar Geel</desc>
     <name>VGK-F</name>
     <desc>vaarweg : KREIL (IJSSELMEER)
 lich kleur : X
-model : stomp Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : stomp Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -88706,9 +88695,8 @@ No boei icon available in source data!</desc>
     <name>VGK-G</name>
     <desc>vaarweg : KREIL (IJSSELMEER)
 lich kleur : X
-model : stomp Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : stomp Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
