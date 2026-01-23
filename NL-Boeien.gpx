@@ -9,7 +9,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <bounds minlat="50.78076666705064" maxlat="54.43287777764768" minlon="2.723188888767299" maxlon="7.207186110875251">
+    <bounds minlat="50.78076666705064" maxlat="54.820658333283646" minlon="2.723188888767299" maxlon="7.207186110875251">
     </bounds>
   </metadata>
   <wpt lat="51.67119999975445" lon="4.092716667347069">
@@ -16870,6 +16870,18 @@ licht periode : 10
 lich kleur : Geel
 model : spar Geel</desc>
     <sym>5301</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="54.820658333283646" lon="4.935777778081072">
+    <name>DP</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : bol Geel</desc>
+    <sym>2023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
