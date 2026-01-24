@@ -16881,7 +16881,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : bol Geel</desc>
-    <sym>2023</sym>
+    <sym>4201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -58636,7 +58636,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -88282,7 +88282,7 @@ model : spits Groen</desc>
 licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
-model : spits Groen</desc>
+model : spar Groen</desc>
     <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -88471,7 +88471,7 @@ model : spar Rood</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Rood
-model : stomp Rood</desc>
+model : spar Rood</desc>
     <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -88482,7 +88482,7 @@ model : stomp Rood</desc>
     <desc>vaarweg : VISJAGERSGAATJE
 licht type : Q (quick-flashing)
 lich kleur : Groen
-model : spits Groen</desc>
+model : spar Groen</desc>
     <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -88537,7 +88537,7 @@ model : spits Groen</desc>
 licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Rood
-model : stomp Rood</desc>
+model : spar Rood</desc>
     <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -88764,7 +88764,7 @@ model : stomp Rood</desc>
 licht type : LFl (long-flashing)
 licht periode : 8
 lich kleur : Rood
-model : stomp Rood</desc>
+model : spar Rood</desc>
     <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -88775,7 +88775,7 @@ model : stomp Rood</desc>
     <desc>vaarweg : VISJAGERSGAATJE
 licht type : Q (quick-flashing)
 lich kleur : Rood
-model : stomp Rood</desc>
+model : spar Rood</desc>
     <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -105218,11 +105218,8 @@ model : spar Geel</desc>
   <wpt lat="52.581800000325984" lon="5.355202777505109">
     <name>ZWM-B</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
-licht type : Fl (flashing)
-licht periode : 10
-lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5542</sym>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -105242,11 +105239,8 @@ model : spar Geel</desc>
   <wpt lat="52.58186944449718" lon="5.349922222275976">
     <name>ZWM-D</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5542</sym>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -105266,11 +105260,8 @@ model : spar Geel</desc>
   <wpt lat="52.584636111029525" lon="5.350525000186339">
     <name>ZWM-F</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5542</sym>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
