@@ -2214,6 +2214,19 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.9884611110292" lon="4.676822222209674">
+    <name>33 HY</name>
+    <desc>vaarweg : HOLLANDSCHE IJSSEL
+licht type : LFl (long-flashing)
+licht periode : 10
+lich kleur : Rood
+model : spar Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.53101666659713" lon="3.686899999349561">
     <name>33</name>
     <desc>vaarweg : VEERSE MEER
@@ -53056,7 +53069,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.91037222241155" lon="4.484538888567986">
+  <wpt lat="51.91041388895944" lon="4.484569444765309">
     <name>NM 2</name>
     <desc>vaarweg : NIEUWE MAAS
 licht type : Iso (isophased)
