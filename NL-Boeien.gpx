@@ -2220,9 +2220,8 @@ model : spar Rood/wit repeterend</desc>
 licht type : LFl (long-flashing)
 licht periode : 10
 lich kleur : Rood
-model : spar Rood
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Rood</desc>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -49555,7 +49554,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.608427777907195" lon="5.589094445139181">
+  <wpt lat="52.608419444519754" lon="5.589561111549735">
     <name>MR 9</name>
     <desc>vaarweg : URK (IJSSELMEER)
 licht type : LFl (long-flashing)
@@ -89746,7 +89745,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.56508333293682" lon="5.512419444409475">
+  <wpt lat="52.56539444439035" lon="5.514536111812067">
     <name>VIJ-M</name>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 licht type : Fl (flashing)
