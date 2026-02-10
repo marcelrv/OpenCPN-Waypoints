@@ -17339,6 +17339,18 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.37098611066206" lon="3.874702778476519">
+    <name>E 12</name>
+    <desc>vaarweg : EVERINGEN
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
+model : stomp Rood</desc>
+    <sym>1105</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.519811111073494" lon="5.084702778285482">
     <name>E 12</name>
     <desc>vaarweg : EDAM (MARKERMEER)
