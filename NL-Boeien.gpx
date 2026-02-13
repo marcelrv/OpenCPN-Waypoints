@@ -11420,7 +11420,7 @@ model : spar Geel/zwart/geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.196011110689035" lon="5.315161110836465">
+  <wpt lat="53.19506944462029" lon="5.315911110982886">
     <name>BS-N</name>
     <desc>vaarweg : BLAUWE SLENK
 lich kleur : X
@@ -11430,7 +11430,7 @@ model : spar Zwart/geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.19375277815482" lon="5.323861111057324">
+  <wpt lat="53.19314166667287" lon="5.323544443766458">
     <name>BS-O 1</name>
     <desc>vaarweg : BLAUWE SLENK
 lich kleur : X
@@ -11440,7 +11440,7 @@ model : spar Zwart/geel/zwart</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.19094444446719" lon="5.329083333269194">
+  <wpt lat="53.19071944469445" lon="5.331552777792323">
     <name>BS-O</name>
     <desc>vaarweg : BLAUWE SLENK
 lich kleur : X
@@ -96354,26 +96354,6 @@ licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.84866388933045" lon="5.412444444754104">
-    <name>W 8 I</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-lich kleur : X
-model : stomp Rood</desc>
-    <sym>1103</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.85084166698297" lon="5.414052777951875">
-    <name>W 8 J</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-lich kleur : X
-model : stomp Rood</desc>
-    <sym>1103</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
