@@ -8114,6 +8114,27 @@ model : bol Rood/wit</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.8080694445343" lon="4.873741666178035">
+    <name>BH 1</name>
+    <desc>vaarweg : NIEUWE MERWEDE
+lich kleur : X
+model : spits Groen</desc>
+    <sym>1003</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.80779722184291" lon="4.874619445101694">
+    <name>BH 3</name>
+    <desc>vaarweg : NIEUWE MERWEDE
+lich kleur : X
+model : spar Groen
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.43983333338714" lon="3.605583332676321">
     <name>BHV</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
@@ -13500,7 +13521,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.31505277825467" lon="7.052769443834567">
+  <wpt lat="53.31750000000482" lon="7.052499999895442">
     <name>D 1A</name>
     <desc>vaarweg : DOLLARD
 lich kleur : X
@@ -13762,7 +13783,7 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.31451944440912" lon="7.077547222933644">
+  <wpt lat="53.31799999991135" lon="7.077999999946115">
     <name>D 3</name>
     <desc>vaarweg : DOLLARD
 lich kleur : X
@@ -13974,7 +13995,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.315388888574915" lon="7.096494444844426">
+  <wpt lat="53.31716666628277" lon="7.097666667180949">
     <name>D 5</name>
     <desc>vaarweg : DOLLARD
 lich kleur : X
@@ -53178,16 +53199,6 @@ licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.8079611112672" lon="4.87418333337942">
-    <name>NM 33</name>
-    <desc>vaarweg : NIEUWE MERWEDE
-lich kleur : X
-model : spits Groen</desc>
-    <sym>1003</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
