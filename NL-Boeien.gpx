@@ -17302,6 +17302,46 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.960574999981155" lon="5.399438888505839">
+    <name>DW-J</name>
+    <desc>vaarweg : WORKUM (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.9637638887138" lon="5.396494444770566">
+    <name>DW-M</name>
+    <desc>vaarweg : WORKUM (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.966288888688716" lon="5.394888888445283">
+    <name>DW-O</name>
+    <desc>vaarweg : WORKUM (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.96941944441767" lon="5.392908333084766">
+    <name>DW-Q</name>
+    <desc>vaarweg : WORKUM (IJSSELMEER)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.947522221865235" lon="2.998938888968987">
     <name>DW</name>
     <desc>vaarweg : NOORDZEE
@@ -37186,32 +37226,12 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.96996111073281" lon="5.397094444286878">
-    <name>KITE 4</name>
-    <desc>vaarweg : WORKUM (IJSSELMEER)
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.05861111143674" lon="5.363522222363503">
     <name>KITE 4</name>
     <desc>vaarweg : MAKKUMERDIEP (IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
     <sym>3500</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.96671666692406" lon="5.397550000405001">
-    <name>KITE 4A</name>
-    <desc>vaarweg : WORKUM (IJSSELMEER)
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -37262,26 +37282,6 @@ model : stomp Geel</desc>
 lich kleur : X
 model : stomp Geel</desc>
     <sym>3500</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.960716666819316" lon="5.398441665983947">
-    <name>KITE 9</name>
-    <desc>vaarweg : WORKUM (IJSSELMEER)
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.96401666686839" lon="5.397966666921681">
-    <name>KITE 9A</name>
-    <desc>vaarweg : WORKUM (IJSSELMEER)
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -50171,7 +50171,7 @@ model : Pilaar Zwart/geel/zwart</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.04226944414893" lon="5.35954444478989">
+  <wpt lat="53.04225555557158" lon="5.359411110788836">
     <name>MW 10</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50181,7 +50181,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.037808333667414" lon="5.360566666846855">
+  <wpt lat="53.03781111142066" lon="5.360580556038245">
     <name>MW 12</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50191,7 +50191,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.03327777781288" lon="5.361700000003938">
+  <wpt lat="53.03328611149043" lon="5.361772222923801">
     <name>MW 14</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50201,7 +50201,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.028880555823115" lon="5.362955556038602">
+  <wpt lat="53.028877778021794" lon="5.362930555454553">
     <name>MW 16</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50211,7 +50211,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.02441944411131" lon="5.363977777589199">
+  <wpt lat="53.0244361106858" lon="5.364099999979112">
     <name>MW 18</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50221,7 +50221,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.02001944459243" lon="5.365577777361424">
+  <wpt lat="53.01998611075482" lon="5.365269444074062">
     <name>MW 20</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50231,7 +50231,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.015497222531366" lon="5.366136110823913">
+  <wpt lat="53.01553333360237" lon="5.366441666266352">
     <name>MW 22</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50241,7 +50241,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.011091666357736" lon="5.367850000599417">
+  <wpt lat="53.01106111153123" lon="5.367616666720901">
     <name>MW 24</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50263,7 +50263,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.0066305559326" lon="5.368986111873103">
+  <wpt lat="53.006602777970784" lon="5.368788888787235">
     <name>MW 26</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50273,7 +50273,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.002166666400484" lon="5.370119443902319">
+  <wpt lat="53.002144444135304" lon="5.369961111793399">
     <name>MW 28</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50283,7 +50283,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.99777777757377" lon="5.371144443855963">
+  <wpt lat="52.99777222190185" lon="5.371108333509906">
     <name>MW 30</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50303,7 +50303,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.98929166633543" lon="5.375622222248569">
+  <wpt lat="52.98918888912124" lon="5.37530833368001">
     <name>MW 34</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50325,7 +50325,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.98507500004197" lon="5.378380555560208">
+  <wpt lat="52.9850611111456" lon="5.37833888950371">
     <name>MW 36</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50335,7 +50335,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.98092222234134" lon="5.381255556197283">
+  <wpt lat="52.980947221915265" lon="5.381355554939142">
     <name>MW 38</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50345,7 +50345,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.97676666698881" lon="5.384475000225982">
+  <wpt lat="52.97675277759523" lon="5.384436110945824">
     <name>MW 40</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50355,7 +50355,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.97261388892734" lon="5.387350000737811">
+  <wpt lat="52.97264444450144" lon="5.387452777578689">
     <name>MW 42</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50365,7 +50365,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.96846111124275" lon="5.390338889279724">
+  <wpt lat="52.96850833330876" lon="5.39048611067426">
     <name>MW 44</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50375,7 +50375,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.05483888918195" lon="5.355944444068777">
+  <wpt lat="53.05484444484" lon="5.356094445211586">
     <name>MW 4</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50385,7 +50385,7 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.96433055518021" lon="5.393333332722436">
+  <wpt lat="52.96438611103689" lon="5.393508333871007">
     <name>MW 46</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50417,7 +50417,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.050433333653885" lon="5.35711111073149">
+  <wpt lat="53.05044722256489" lon="5.357252777712992">
     <name>MW 6</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
@@ -50439,7 +50439,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.04596388890919" lon="5.358594443846727">
+  <wpt lat="53.045947221866804" lon="5.358438889009633">
     <name>MW 8</name>
     <desc>vaarweg : MAKKUM RECREATIE BET. (IJSSELMEER)
 lich kleur : X
