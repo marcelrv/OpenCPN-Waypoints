@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2026-02-25T12:49:31.884000Z</time>
+    <time>2026-02-26T17:58:29.534000Z</time>
   </metadata>
   <wpt lat="53.024144051866614" lon="7.139342688024044">
     <name>Vlagtweddersluis</name>
@@ -13668,6 +13668,17 @@ Note: </desc>
     <desc>Locatie: Linde</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/62792908">
       <text>Driewegsluis online info</text>
+    </link>
+    <sym>Symbol-Spot-Magenta</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.3030773301177" lon="7.0365721732378">
+    <name>Keersluis Munterzijl</name>
+    <desc>Locatie: Buitenhaven te Termunten</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/63042573">
+      <text>Keersluis Munterzijl online info</text>
     </link>
     <sym>Symbol-Spot-Magenta</sym>
     <extensions>
