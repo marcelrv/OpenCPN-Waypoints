@@ -17397,7 +17397,7 @@ model : spar Geel</desc>
     <desc>vaarweg : WORKUM (IJSSELMEER)
 lich kleur : X
 model : spar Geel</desc>
-    <sym>5000</sym>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -17427,7 +17427,7 @@ model : spar Geel</desc>
     <desc>vaarweg : WORKUM (IJSSELMEER)
 lich kleur : X
 model : spar Geel</desc>
-    <sym>5000</sym>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -17447,7 +17447,7 @@ model : spar Geel</desc>
     <desc>vaarweg : WORKUM (IJSSELMEER)
 lich kleur : X
 model : spar Geel</desc>
-    <sym>5000</sym>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -38198,6 +38198,15 @@ model : bol Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.35715277773124" lon="5.208499999787586">
+    <name>KITE-TERN</name>
+    <desc>vaarweg : SCHUITENGAT
+model : stomp Geel</desc>
+    <sym>2321</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.354433333024375" lon="5.215763888573568">
     <name>KITE-TERO</name>
     <desc>vaarweg : SCHUITENGAT
@@ -38208,8 +38217,17 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.35281944425344" lon="5.21128055554458">
+  <wpt lat="53.35548055557451" lon="5.206211110366183">
     <name>KITE-TERW</name>
+    <desc>vaarweg : SCHUITENGAT
+model : stomp Geel</desc>
+    <sym>2321</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.35281944425344" lon="5.21128055554458">
+    <name>KITE-TERZ</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
 model : spar Geel</desc>
@@ -104196,7 +104214,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.3108805554688" lon="5.099305556106486">
+  <wpt lat="53.310419444710284" lon="5.104155555835532">
     <name>ZS 11-VS 2</name>
     <desc>vaarweg : ZUIDER STORTEMELK
 licht type : Q (quick-flashing)
