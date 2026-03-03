@@ -25071,7 +25071,7 @@ model : spar Rood</desc>
     <desc>vaarweg : GLINDER
 licht type : Iso (isophased)
 licht periode : 4
-lich kleur : X
+lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
     <extensions>
@@ -38201,6 +38201,7 @@ model : bol Geel</desc>
   <wpt lat="53.35715277773124" lon="5.208499999787586">
     <name>KITE-TERN</name>
     <desc>vaarweg : SCHUITENGAT
+lich kleur : X
 model : stomp Geel</desc>
     <sym>5511</sym>
     <extensions>
@@ -38220,6 +38221,7 @@ model : stomp Geel</desc>
   <wpt lat="53.35548055557451" lon="5.206211110366183">
     <name>KITE-TERW</name>
     <desc>vaarweg : SCHUITENGAT
+lich kleur : X
 model : stomp Geel</desc>
     <sym>5511</sym>
     <extensions>
@@ -72129,7 +72131,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.355000000219086" lon="6.222588888180897">
+  <wpt lat="53.3552055558784" lon="6.223038889479259">
     <name>S 13</name>
     <desc>vaarweg : SLENK (LAUWERSMEER)
 lich kleur : X
@@ -72194,7 +72196,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.353313888780455" lon="6.224236110745058">
+  <wpt lat="53.35390277753935" lon="6.224666666824569">
     <name>S 15</name>
     <desc>vaarweg : SLENK (LAUWERSMEER)
 lich kleur : X
@@ -72281,7 +72283,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.35139444416765" lon="6.226088888438021">
+  <wpt lat="53.35138888932033" lon="6.226661111882449">
     <name>S 17</name>
     <desc>vaarweg : SLENK (LAUWERSMEER)
 lich kleur : X
@@ -76879,16 +76881,6 @@ model : spar Rood/wit repeterend</desc>
 lich kleur : X
 model : spar Groen/wit repeterend</desc>
     <sym>1512</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.351663888721546" lon="6.227802778290035">
-    <name>SLR 8</name>
-    <desc>vaarweg : SLENK (LAUWERSMEER)
-lich kleur : X
-model : spar Rood/wit repeterend</desc>
-    <sym>1562</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
