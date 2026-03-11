@@ -4373,6 +4373,16 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.77231666635704" lon="3.866866667300712">
+    <name>8 GMW</name>
+    <desc>vaarweg : GREVELINGEN
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.57105000023691" lon="3.643350000591023">
     <name>8 SGVM</name>
     <desc>vaarweg : VEERSE MEER
@@ -7440,7 +7450,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.56780555544452" lon="5.7416111104521">
+  <wpt lat="53.56771388927244" lon="5.741344444453744">
     <name>BA 3A</name>
     <desc>vaarweg : NOORDZEE
 lich kleur : X
@@ -7514,7 +7524,7 @@ model : bol Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.56934722193316" lon="5.740794445144993">
+  <wpt lat="53.56926388902744" lon="5.7398361112031">
     <name>BACI 3</name>
     <desc>vaarweg : NOORDZEE
 licht type : Fl (flashing)
@@ -12093,6 +12103,28 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.36109722181225" lon="5.567024999666133">
+    <name>BZ 10</name>
+    <desc>vaarweg : WOLDERWIJD (RANDMEREN)
+lich kleur : X
+model : spar Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.361969444158575" lon="5.566750000382326">
+    <name>BZ 11</name>
+    <desc>vaarweg : WOLDERWIJD (RANDMEREN)
+lich kleur : X
+model : spar Groen
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.43322222262116" lon="6.195986111272764">
     <name>BZ 11</name>
     <desc>vaarweg : GEUL VAN BRAKZAND
@@ -12123,7 +12155,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.36122222234096" lon="5.568611111041018">
+  <wpt lat="52.358222222117085" lon="5.572355556067561">
     <name>BZ 1</name>
     <desc>vaarweg : WOLDERWIJD (RANDMEREN)
 lich kleur : X
@@ -12153,7 +12185,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.36082777788673" lon="5.568138889334877">
+  <wpt lat="52.3586611109612" lon="5.569277777845016">
     <name>BZ 2</name>
     <desc>vaarweg : WOLDERWIJD (RANDMEREN)
 lich kleur : X
@@ -12163,7 +12195,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.36161111151765" lon="5.567716667002029">
+  <wpt lat="52.359152777900434" lon="5.571069444599193">
     <name>BZ 3</name>
     <desc>vaarweg : WOLDERWIJD (RANDMEREN)
 lich kleur : X
@@ -12183,7 +12215,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.36119722182873" lon="5.56740555568414">
+  <wpt lat="52.359550000175226" lon="5.568458333401985">
     <name>BZ 4</name>
     <desc>vaarweg : WOLDERWIJD (RANDMEREN)
 lich kleur : X
@@ -12203,7 +12235,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.36198055586363" lon="5.566763888307894">
+  <wpt lat="52.36005277739652" lon="5.569766666575584">
     <name>BZ 5</name>
     <desc>vaarweg : WOLDERWIJD (RANDMEREN)
 lich kleur : X
@@ -12223,7 +12255,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.36158611073536" lon="5.566644444442281">
+  <wpt lat="52.3605583336866" lon="5.567522221883165">
     <name>BZ 6</name>
     <desc>vaarweg : WOLDERWIJD (RANDMEREN)
 lich kleur : X
@@ -12243,6 +12275,17 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.36099722228176" lon="5.569766666989673">
+    <name>BZ 7</name>
+    <desc>vaarweg : WOLDERWIJD (RANDMEREN)
+lich kleur : X
+model : spar Groen
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.43809166696794" lon="6.193444443922919">
     <name>BZ 7</name>
     <desc>vaarweg : GEUL VAN BRAKZAND
@@ -12253,12 +12296,34 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.36109722181225" lon="5.567024999666133">
+    <name>BZ 8</name>
+    <desc>vaarweg : WOLDERWIJD (RANDMEREN)
+lich kleur : X
+model : spar Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.44518888866178" lon="6.1855444439132">
     <name>BZ 8</name>
     <desc>vaarweg : GEUL VAN BRAKZAND
 lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.36160000013612" lon="5.567716667314479">
+    <name>BZ 9</name>
+    <desc>vaarweg : WOLDERWIJD (RANDMEREN)
+lich kleur : X
+model : spar Groen
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -24926,7 +24991,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.00063055546217" lon="6.112769444612189">
+  <wpt lat="51.9989500001595" lon="6.111963888898531">
     <name>GIJ 69C</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -68882,7 +68947,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.49724444456973" lon="4.19842222288504">
+  <wpt lat="51.49774444484372" lon="4.198547221539974">
     <name>R-THG 1</name>
     <desc>vaarweg : THOLENSCHE GAT
 lich kleur : X
@@ -68932,7 +68997,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.498077777972064" lon="4.198700000525336">
+  <wpt lat="51.49834722241405" lon="4.19878055550781">
     <name>R-THG 3</name>
     <desc>vaarweg : THOLENSCHE GAT
 lich kleur : X
@@ -96018,7 +96083,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.88065833376808" lon="6.015249999825582">
+  <wpt lat="51.88083333289125" lon="6.015250000065546">
     <name>W 17E</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -96864,7 +96929,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.852572222004504" lon="5.869838888448871">
+  <wpt lat="51.85245833308516" lon="5.869905555255985">
     <name>W-E</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
@@ -96874,7 +96939,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85250833354763" lon="5.870197222304734">
+  <wpt lat="51.85239722203377" lon="5.870100000001504">
     <name>W-F</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
@@ -96884,7 +96949,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85241944410961" lon="5.869463889549691">
+  <wpt lat="51.852597222615366" lon="5.8709583336744">
     <name>W-G</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
@@ -96894,48 +96959,8 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85283888918025" lon="5.870972222795004">
+  <wpt lat="51.8528444444781" lon="5.871133333354142">
     <name>W-H</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.853163888656546" lon="5.871736110387453">
-    <name>W-I</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.853219444818386" lon="5.871972221573225">
-    <name>W-J</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.85326111136759" lon="5.872177778483051">
-    <name>W-K</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.853319444867665" lon="5.872413889082956">
-    <name>W-L</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
 model : stomp Geel</desc>
