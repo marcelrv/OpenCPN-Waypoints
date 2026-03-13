@@ -45869,9 +45869,8 @@ model : stomp Rood</desc>
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
-model : spar Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -45882,9 +45881,8 @@ No boei icon available in source data!</desc>
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
-model : spar Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -55226,6 +55224,19 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.92791388915522" lon="4.227286111347545">
+    <name>NW 32</name>
+    <desc>vaarweg : NIEUWE WATERWEG
+licht type : LFl (long-flashing)
+licht periode : 8
+lich kleur : Rood
+model : stomp Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.982147222319874" lon="4.082158333133092">
     <name>NW 3</name>
     <desc>vaarweg : NIEUWE WATERWEG
@@ -58605,7 +58616,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.37363888886533" lon="6.210641666886239">
+  <wpt lat="53.373577778036" lon="6.210505555924833">
     <name>ORGR 26</name>
     <desc>vaarweg : OUDE ROBBENGAT
 lich kleur : X
@@ -82005,7 +82016,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.37331666697818" lon="6.211516666497759">
+  <wpt lat="53.37301666677595" lon="6.211244444139892">
     <name>STGR 2</name>
     <desc>vaarweg : STROPERSGAT
 lich kleur : X
@@ -82045,7 +82056,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.370311111153235" lon="6.21095277808499">
+  <wpt lat="53.37019444458124" lon="6.211491667124449">
     <name>STGR 6</name>
     <desc>vaarweg : STROPERSGAT
 lich kleur : X
@@ -96136,7 +96147,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.82575555534286" lon="5.084261110787002">
+  <wpt lat="51.8262500000307" lon="5.084116667304599">
     <name>W 1A</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -96148,7 +96159,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.825572221826654" lon="5.090225000073118">
+  <wpt lat="51.8260333330359" lon="5.090449999780023">
     <name>W 1B</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -96160,7 +96171,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.82381388854592" lon="5.09881388932616">
+  <wpt lat="51.82440000004001" lon="5.099233332943273">
     <name>W 1C</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -96318,7 +96329,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.81576111116955" lon="5.173961110824878">
+  <wpt lat="51.815949999609785" lon="5.173416666204663">
     <name>W 3C</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -96342,7 +96353,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.82094444460643" lon="5.114038889624522">
+  <wpt lat="51.82054999967774" lon="5.113650000499455">
     <name>W 4</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -96374,7 +96385,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.819255555940515" lon="5.118288888190214">
+  <wpt lat="51.81835000042426" lon="5.11908333377097">
     <name>W 4A</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -96548,7 +96559,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.814194444877764" lon="5.190002777533998">
+  <wpt lat="51.813600000324186" lon="5.189366666207181">
     <name>W 6</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -96580,7 +96591,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.81141388902587" lon="5.197369445052283">
+  <wpt lat="51.811516666450885" lon="5.197183333601007">
     <name>W 6A</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -96604,7 +96615,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.81088333376622" lon="5.210358332664119">
+  <wpt lat="51.81024999962867" lon="5.210433333944279">
     <name>W 6C</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
@@ -96616,7 +96627,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.811436111347426" lon="5.216838889265037">
+  <wpt lat="51.81074999958514" lon="5.216949999708615">
     <name>W 6D</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 licht type : Iso (isophased)
