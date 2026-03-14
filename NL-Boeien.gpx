@@ -41745,7 +41745,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
-    <sym>1105</sym>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -55230,9 +55230,8 @@ model : spar Groen</desc>
 licht type : LFl (long-flashing)
 licht periode : 8
 lich kleur : Rood
-model : stomp Rood
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : stomp Rood</desc>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
