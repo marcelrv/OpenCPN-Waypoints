@@ -22044,7 +22044,7 @@ model : stomp Rood</desc>
     <desc>vaarweg : GREVELINGEN
 lich kleur : X
 model : spits Groen</desc>
-    <sym>1001</sym>
+    <sym>1003</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -64494,6 +64494,17 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.4609027776492" lon="6.177997222026305">
+    <name>R 2A</name>
+    <desc>vaarweg : REDE SCHIERMONNIKOOG
+lich kleur : X
+model : spar Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.4834749998804" lon="6.652547222381152">
     <name>R 2A</name>
     <desc>vaarweg : RA
@@ -64530,6 +64541,17 @@ model : stomp Geel</desc>
 lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.467538888957314" lon="6.167144443786816">
+    <name>R 30</name>
+    <desc>vaarweg : REDE SCHIERMONNIKOOG
+lich kleur : X
+model : stomp Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -64794,6 +64816,17 @@ model : spar Groen</desc>
 lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.461147222247995" lon="6.175763888642742">
+    <name>R 5A</name>
+    <desc>vaarweg : REDE SCHIERMONNIKOOG
+lich kleur : X
+model : spar Groen
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -75401,7 +75434,7 @@ model : spits Groen</desc>
     <desc>vaarweg : DOKKUMERDIEP
 lich kleur : X
 model : stomp Rood</desc>
-    <sym>1103</sym>
+    <sym>1003</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -78625,7 +78658,7 @@ model : spar Rood</desc>
     <desc>vaarweg : GREVELINGEN
 lich kleur : X
 model : spits Groen</desc>
-    <sym>1001</sym>
+    <sym>1003</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -91083,7 +91116,7 @@ model : spar Rood</desc>
     <desc>vaarweg : VEERSE MEER
 lich kleur : X
 model : spits Groen</desc>
-    <sym>1003</sym>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
