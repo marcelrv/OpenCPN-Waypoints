@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2026-04-02T09:40:53.183000Z</time>
+    <time>2026-04-03T13:33:55.361000Z</time>
   </metadata>
   <wpt lat="51.8941682237253" lon="4.2285788558068">
     <name>Rozenburgsesluis</name>
@@ -3132,11 +3132,11 @@ Periode 01-01 tot 31-12:
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.3382956058968" lon="4.84701894386148">
+  <wpt lat="52.338296" lon="4.847019">
     <name>Nieuwe Meersluis (Sl. 109)</name>
     <desc>Locatie: Schinkel
 VHF:     22, 69
-Contact PhoneNumber:0900-9394
+Contact PhoneNumber:088 - 9394095
 
 Bedieningstijden
 Periode 01-01 tot 04-01:
@@ -3211,10 +3211,10 @@ Periode 26-12 tot 31-12 (note: Wilt u in deze periode door de sluis, vraag dat d
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.36246060342239" lon="4.902498722076416">
+  <wpt lat="52.362461" lon="4.902499">
     <name>Amstelsluizen (Sl. 101)</name>
     <desc>Locatie: Amstel
-Contact PhoneNumber:0900-9394
+Contact PhoneNumber:088-9394095
 
 Bedieningstijden
 Periode 01-01 tot 31-12 (note: -):
@@ -3417,10 +3417,10 @@ Note: Toegang aanvragen door te  bellen met de sluiswachter via 06-24821629.</de
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.35210452547153" lon="4.841076470911503">
+  <wpt lat="52.352105" lon="4.841076">
     <name>Westlandgrachtsluis (Heemstedeschutsluis) (Sl. 118)</name>
     <desc>Locatie: Slotervaart
-Contact PhoneNumber:14020
+Contact PhoneNumber:088 - 9394095
 
 Bedieningstijden
 Periode 01-01 tot 04-01 (note: Houd rekening met aanrijtijd of enige vertraging.
@@ -3430,8 +3430,14 @@ Periode 01-01 tot 04-01 (note: Houd rekening met aanrijtijd of enige vertraging.
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 05-01 tot 31-03 (note: Houd rekening met aanrijtijd of enige vertraging.):
    08:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
-Periode 01-04 tot 31-10 (note: Laatste schutting om 21.45 uur richting Sloterplas.):
+Periode 01-04 tot 04-05 (note: Houd rekening met aanrijtijd of enige vertraging.):
+   09:00 - 21:00: incl. feestdagen. 
+   09:00 - 21:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
+Periode 05-05 tot 13-05 (note: Houd rekening met aanrijtijd of enige vertraging.):
    09:00 - 21:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+Periode 14-05 tot 31-10 (note: Houd rekening met aanrijtijd of enige vertraging.):
+   09:00 - 21:00: incl. feestdagen. 
+   09:00 - 21:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 01-11 tot 14-12 (note:  Houd rekening met aanrijtijd of enige vertraging.):
    08:00 - 17:00: Ma, Di, Wo, Do, Vr, Za, Zo, excl. feestdagen. 
 Periode 15-12 tot 21-12 (note: Houd rekening met aanrijtijd of enige vertraging.
@@ -3449,7 +3455,7 @@ Periode 29-12 tot 31-12 (note: Houd rekening met aanrijtijd of enige vertraging.
    08:00 - 13:00: Za, excl. feestdagen. 
    08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 
-Note: Sluis wordt lokaal bediend. Aanvraag schutting: 06-20683651. </desc>
+Note: Sluis wordt lokaal bediend. Aanvraag schutting: 06-20683651. Aanvraag laatste schutting voor 21:00</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/1022718">
       <text>Westlandgrachtsluis (Heemstedeschutsluis) (Sl. 118) online info</text>
     </link>
@@ -3458,10 +3464,10 @@ Note: Sluis wordt lokaal bediend. Aanvraag schutting: 06-20683651. </desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.37599285811186" lon="4.834490977227687">
+  <wpt lat="52.375993" lon="4.834491">
     <name>Slotermeerschutsluis (Cramersluis) (Sl. 112)</name>
     <desc>Locatie: Burg. Cramergracht
-Contact PhoneNumber:0900-9394
+Contact PhoneNumber:088 - 9394095
 
 Bedieningstijden
 Periode 01-01 tot 04-01 (note: Houd rekening met aanrijtijd of enige vertraging
@@ -3508,9 +3514,10 @@ Laatste schutting Slotermeerschutsluis richting Stad om 21:45 uur.
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.33702667123396" lon="4.902837183326482">
+  <wpt lat="52.337027" lon="4.902837">
     <name>Zorgvliedschutsluis</name>
     <desc>Locatie: Kleine Wetering
+Contact PhoneNumber:088-9394095
 
 Bedieningstijden
 Periode 01-01 tot 31-12:
@@ -3528,10 +3535,10 @@ De aanvraag moet minimaal 24 uur van te voren worden aangevraagd worden bij NIeu
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.34408138960714" lon="4.793484024703502">
+  <wpt lat="52.344081" lon="4.793484">
     <name>Akerschutsluis (Sl. 102)</name>
     <desc>Locatie: Slotervaart
-Contact PhoneNumber:0900-9394
+Contact PhoneNumber:088 - 9394095
 
 Bedieningstijden
 Periode 01-01 tot 04-01 (note:  Houd rekening met aanrijtijd of enige vertraging.
@@ -3544,7 +3551,7 @@ Periode 05-01 tot 31-03 (note: Houd rekening met aanrijtijd of enige vertraging.
 Periode 01-04 tot 30-04 (note: Houd rekening met aanrijtijd of enige vertraging.):
    09:00 - 21:00: Za, Zo, incl. feestdagen. 
    09:00 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-Periode 01-05 tot 31-10 (note: 
+Periode 01-05 tot 31-10 (note: Houd rekening met aanrijtijd of enige vertraging.
 ):
    09:00 - 21:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 01-11 tot 14-12 (note: Houd rekening met aanrijtijd of enige vertraging.
@@ -3790,11 +3797,11 @@ Note: Voor de laatste schutting dienen de schepen 15 minuten voor sluitingstijd 
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.35714000232889" lon="4.989911578595637">
+  <wpt lat="52.35714" lon="4.989912">
     <name>Nijlpaardsluis (Sl. 121)</name>
     <desc>Locatie: Groene Tunnel
 VHF:     Geen
-Contact PhoneNumber:0900-9394
+Contact PhoneNumber:088 - 9394095
 
 Bedieningstijden
 Periode 01-04 tot 31-10:
@@ -3836,11 +3843,11 @@ Periode 21-10 tot 17-04:
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.36450812346" lon="4.98388172727341">
+  <wpt lat="52.364508" lon="4.983882">
     <name>Sluis naar Steigereiland (Sl. 122)</name>
     <desc>Locatie: Steigereiland
 VHF:     Geen
-Contact PhoneNumber:0900-9394
+Contact PhoneNumber:088 - 9394095
 
 Bedieningstijden
 Periode 01-01 tot 04-01 (note: Van ma tot vrij 09:00 uur tot 16:00 uur en za 09:00 uur tot 14:00 uur bezetting aanwezig.
@@ -3899,11 +3906,11 @@ Houd rekening met aanrijtijd of enige vertraging.
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.345989919511595" lon="5.010993741452692">
+  <wpt lat="52.34599" lon="5.010994">
     <name>Betonsluis (Sl. 124)</name>
     <desc>Locatie: Groene Tunnel
 VHF:     Geen
-Contact PhoneNumber:0900-9394
+Contact PhoneNumber:088 - 9394095
 
 Bedieningstijden
 Periode 01-04 tot 31-10:
@@ -3985,11 +3992,11 @@ Periode 16-10 tot 15-04 (note: In overleg met het Hoogheemraadschap de Stichtse 
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.3548299632452" lon="5.00639343899315">
+  <wpt lat="52.35483" lon="5.006393">
     <name>Sluishuissluis (Sl. 123)</name>
     <desc>Locatie: IJburgbaai
 VHF:     Geen
-Contact PhoneNumber:0900-9394
+Contact PhoneNumber:088 - 9394095
 
 Bedieningstijden
 Periode 01-01 tot 04-01 (note: Van ma tot vrij  08:00 uur tot 16:00 uur en za 09:00 uur tot 14:00 uur bezetting aanwezig 
