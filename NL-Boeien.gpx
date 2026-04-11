@@ -17913,7 +17913,7 @@ model : spar Groen</desc>
 licht type : Q (quick-flashing)
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>2231</sym>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -52517,7 +52517,7 @@ model : spar Geel</desc>
     <name>NK-OW 2</name>
     <desc>vaarweg : ZUID VLIJE
 lich kleur : X
-model : stomp Geel</desc>
+model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -85732,16 +85732,6 @@ model : spits Groen</desc>
 lich kleur : X
 model : spits Groen</desc>
     <sym>1001</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.87511666652789" lon="5.796866666369736">
-    <name>Ton 889.425L</name>
-    <desc>vaarweg : BOVEN-RIJN EN WAAL
-lich kleur : X
-model : spits Groen</desc>
-    <sym>1003</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
