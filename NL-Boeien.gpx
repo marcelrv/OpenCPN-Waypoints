@@ -51917,6 +51917,28 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.30071944486151" lon="5.317377777788818">
+    <name>NE-A</name>
+    <desc>vaarweg : EEMMEER (RANDMEREN)
+lich kleur : X
+model : stomp Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.30067499969115" lon="5.317888889280251">
+    <name>NE-B</name>
+    <desc>vaarweg : EEMMEER (RANDMEREN)
+lich kleur : X
+model : stomp Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.66652777788723" lon="4.201605554986195">
     <name>NE-OW 10</name>
     <desc>vaarweg : ZUID VLIJE
@@ -59548,7 +59570,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.518774999746775" lon="6.671122222685422">
+  <wpt lat="53.52559722190576" lon="6.67060555584326">
     <name>OWE-OW</name>
     <desc>vaarweg : OUDE WESTEEMS
 lich kleur : X
@@ -62324,6 +62346,19 @@ model : spar Rood</desc>
 lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.952424999860405" lon="5.361936111365648">
+    <name>PM 18</name>
+    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -89363,7 +89398,7 @@ licht type : Iso (isophased)
 licht periode : 2
 lich kleur : Rood
 model : spar Rood</desc>
-    <sym>1145</sym>
+    <sym>1147</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -89435,7 +89470,7 @@ model : spar Rood</desc>
     <desc>vaarweg : VAARWATER LANGS HOOFDPLAAT
 lich kleur : X
 model : spar Rood</desc>
-    <sym>1141</sym>
+    <sym>1143</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
