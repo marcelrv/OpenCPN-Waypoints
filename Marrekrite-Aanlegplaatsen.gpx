@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2026-04-24T13:37:37.793998Z</time>
+    <time>2026-04-25T13:30:32.747762Z</time>
   </metadata>
   <wpt lat="52.966346" lon="5.515595">
     <name>FL16A Hammigegreft (Damwand)</name>
@@ -4040,7 +4040,7 @@ Kanovoorziening             False
     </extensions>
   </wpt>
   <wpt lat="53.318344" lon="6.122657">
-    <name>LM28 Oud Dokkumerdiep (Steiger)</name>
+    <name>LM28A Oud Dokkumerdiep (Steiger)</name>
     <desc>Naam             Oud Dokkumerdiep
 Vaarwater              ALDE LUNEN
 Lengte aanleg                  40
@@ -4052,6 +4052,26 @@ Aansluiting wandelnetwerk   False
 Container                   False
 Kamperen                    False
 Meerpalen (aantal)              2
+Kanovoorziening             False
+</desc>
+    <sym>Service-Dock</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="50000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.305587" lon="6.132873">
+    <name>LM28B Oud Dokkumerdiep (Steiger)</name>
+    <desc>Naam             Oud Dokkumerdiep
+Vaarwater Oud Dokkumerdiep Ozijde
+Lengte aanleg                  28
+Walverbinding               False
+Fietsmogelijkheid           False
+Aansluiting fietsnetwerk    False
+Wandelmogelijkheid          False
+Aansluiting wandelnetwerk   False
+Container                   False
+Kamperen                    False
+Meerpalen (aantal)              0
 Kanovoorziening             False
 </desc>
     <sym>Service-Dock</sym>
