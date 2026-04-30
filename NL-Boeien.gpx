@@ -14740,9 +14740,8 @@ model : spar Geel</desc>
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
-model : spar Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Geel</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -24991,7 +24990,7 @@ model : bol Rood/groen repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.14059166640247" lon="6.18928611158224">
+  <wpt lat="52.140869444616925" lon="6.189336110953513">
     <name>GIJ 69A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -25011,7 +25010,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.139661111357434" lon="6.18981944484442">
+  <wpt lat="52.13980833350924" lon="6.190036111195723">
     <name>GIJ 69B</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -42846,6 +42845,79 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.00289444462928" lon="5.109894444248002">
+    <name>L 72A</name>
+    <desc>vaarweg : LEK
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
+model : stomp Rood</desc>
+    <sym>1143</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.00243333350121" lon="5.112430555999881">
+    <name>L 72B</name>
+    <desc>vaarweg : LEK
+licht type : LFl (long-flashing)
+licht periode : 8
+lich kleur : Rood
+model : stomp Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.00219166638659" lon="5.113247222098642">
+    <name>L 72C</name>
+    <desc>vaarweg : LEK
+licht type : Iso (isophased)
+licht periode : 8
+lich kleur : Rood
+model : stomp Rood</desc>
+    <sym>1043</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0020388886344" lon="5.113861110979745">
+    <name>L 72D</name>
+    <desc>vaarweg : OPHEF LOCATIE
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
+model : stomp Rood</desc>
+    <sym>1502</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.00166666688686" lon="5.115405555926245">
+    <name>L 72E</name>
+    <desc>vaarweg : LEK
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
+model : stomp Rood</desc>
+    <sym>1143</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.00137222209572" lon="5.116530556127119">
+    <name>L 72F</name>
+    <desc>vaarweg : LEK
+licht type : Iso (isophased)
+licht periode : 8
+lich kleur : Rood
+model : stomp Rood</desc>
+    <sym>1143</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.996813888894025" lon="5.07652222247842">
     <name>L 73</name>
     <desc>vaarweg : LEK
@@ -42868,7 +42940,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.00245555594165" lon="5.106644444744826">
+  <wpt lat="52.00244722248237" lon="5.106636111411243">
     <name>L 75</name>
     <desc>vaarweg : LEK
 licht type : Iso (isophased)
@@ -42912,7 +42984,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.00212777742422" lon="5.109386110710657">
+  <wpt lat="52.002119444452546" lon="5.109374999984104">
     <name>L 77</name>
     <desc>vaarweg : LEK
 lich kleur : X
@@ -42934,7 +43006,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.00170000035874" lon="5.112233333143446">
+  <wpt lat="52.001730555905276" lon="5.112144444144556">
     <name>L 79</name>
     <desc>vaarweg : LEK
 licht type : Iso (isophased)
@@ -42942,6 +43014,55 @@ licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1005</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.001644444649635" lon="5.112830555909906">
+    <name>L 79A</name>
+    <desc>vaarweg : LEK
+licht type : Iso (isophased)
+licht periode : 8
+lich kleur : Groen
+model : spits Groen</desc>
+    <sym>1043</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.001644444649635" lon="5.112830555909906">
+    <name>L 79B</name>
+    <desc>vaarweg : LEK
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spits Groen</desc>
+    <sym>1043</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.00108055591213" lon="5.115119444613218">
+    <name>L 79C</name>
+    <desc>vaarweg : LEK
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spits Groen</desc>
+    <sym>1502</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.000713888951175" lon="5.11612777727388">
+    <name>L 79D</name>
+    <desc>vaarweg : LEK
+licht type : Iso (isophased)
+licht periode : 8
+lich kleur : Groen
+model : spits Groen
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -42956,7 +43077,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.000613889132374" lon="5.116183333732723">
+  <wpt lat="52.00032222243937" lon="5.117191665995845">
     <name>L 81</name>
     <desc>vaarweg : LEK
 lich kleur : X
@@ -84357,20 +84478,8 @@ model : spar Rood/groen/rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.0392444442054" lon="4.892002777460252">
-    <name>T 19</name>
-    <desc>vaarweg : TEXELSTROOM/MARSDIEP
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.04644444462338" lon="4.906163889377969">
-    <name>T 19A-B 2</name>
+  <wpt lat="53.03964722257734" lon="4.892747222836725">
+    <name>T 19-B 2</name>
     <desc>vaarweg : TEXELSTROOM/MARSDIEP
 lich kleur : X
 model : spar Groen/rood/groen</desc>
@@ -84390,7 +84499,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.051272222082076" lon="4.914561110751765">
+  <wpt lat="53.05089166706905" lon="4.91309444452359">
     <name>T 21</name>
     <desc>vaarweg : TEXELSTROOM/MARSDIEP
 lich kleur : X
@@ -84400,7 +84509,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.06924444429562" lon="4.959505554837699">
+  <wpt lat="53.07192222179093" lon="4.958997222639992">
     <name>T 22</name>
     <desc>vaarweg : TEXELSTROOM/MARSDIEP
 lich kleur : X
@@ -84410,7 +84519,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.06332777774376" lon="4.936819444835089">
+  <wpt lat="53.061347222300334" lon="4.930536111366153">
     <name>T 23</name>
     <desc>vaarweg : TEXELSTROOM/MARSDIEP
 licht type : VQ (very quick-flashing)
@@ -84433,12 +84542,14 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.062594444311685" lon="4.959597221654174">
+  <wpt lat="53.0392444442054" lon="4.892002777460252">
     <name>T 25</name>
     <desc>vaarweg : TEXELSTROOM/MARSDIEP
-lich kleur : X
-model : spar Groen</desc>
-    <sym>1041</sym>
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spits Groen</desc>
+    <sym>1005</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -88677,7 +88788,7 @@ model : spar Geel</desc>
     <name>VF-OW 42</name>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
 lich kleur : X
-model : spar Geel</desc>
+model : stomp Geel</desc>
     <sym>5511</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
