@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2026-04-30T13:03:08.451000Z</time>
+    <time>2026-05-06T13:32:40.602000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -17511,19 +17511,6 @@ RadioTraffic: TWO_WAY</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.236014135174" lon="6.6507089138031">
-    <name>Meldpunt Slochtersluis</name>
-    <desc>Naam:         Meldpunt Slochtersluis
-VHF:          7
-RadioTraffic: TWO_WAY</desc>
-    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/7070212">
-      <text>Meldpunt Slochtersluis online info</text>
-    </link>
-    <sym>Info-Info</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.3037214507321" lon="6.84603542089462">
     <name>Meldpunt Groevesluis Zuid</name>
     <desc>Naam:         Meldpunt Groevesluis Zuid
@@ -18158,6 +18145,19 @@ VHF:          78
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/34616715">
       <text>Meldpunt Sint Jozefbrug Leeuwarden online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.236014135174" lon="6.6507089138031">
+    <name>Meldpunt Slochtersluis</name>
+    <desc>Naam:         Meldpunt Slochtersluis
+VHF:          7
+RadioTraffic: TWO_WAY</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/7070212">
+      <text>Meldpunt Slochtersluis online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
