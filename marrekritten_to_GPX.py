@@ -8,7 +8,8 @@ Create marrekrite GPX file for OpenCPN
 __author__ = "Marcel Verpaalen"
 __copyright__ = "Copyright 2020 - 2022"
 __license__ = "AGPL 3.0"
-__version__ = "1.0.2"
+__version__ = "1.0.3"
+__updated__ = "2026-05-07"
 
 import datetime
 import xml.etree.ElementTree as mod_etree
@@ -85,6 +86,9 @@ for ty in "var".split(","):
                     gpx_wps.symbol = "Service-Dock"
                 # print (pnt)
                 loc_attribute = attributes.get(str(point["id"]))
+                if loc_attribute is None:
+                    print(f'Warning: no attributes found for point {point["id"]}, skipping.')
+                    continue
                 desc = ""
                 for a in loc_attribute:
                     name = a["name"]

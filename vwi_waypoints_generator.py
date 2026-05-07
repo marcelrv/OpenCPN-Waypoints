@@ -11,7 +11,8 @@ using https://www.vaarweginformatie.nl/frp/main/#/page/services
 __author__ = "Marcel Verpaalen"
 __copyright__ = "Copyright 2022"
 __license__ = "AGPL 3.0"
-__version__ = "1.0.3"
+__version__ = "1.0.4"
+__updated__ = "2026-05-07"
 
 import datetime
 import json
@@ -67,6 +68,8 @@ class BridgeInfo:
     def get_openingHours(self, openingId):
         openings = self.find_id(self.operatingtimes, openingId)
         openingDescription = '\r\nBedieningstijden\r\n'
+        if openings is None:
+            return 'Bedieningstijden onbekend.\r\n'
         try:
             for OperatingPeriod in openings.get('OperatingPeriods'):
                 note = ''
@@ -108,8 +111,8 @@ class BridgeInfo:
                 openingDescription += '\r\nNote: ' + openings.get('Note')
             return openingDescription
         except Exception as err:
-            print(f'Failed to create opening hours for entry {openingId}: "{ openings}". Error occurred: {err}')
-            return 'Bedieningstijden onbekend.\r\n' + str(err)
+            print(f'Warning: could not create opening hours for entry {openingId}. Error: {err}')
+            return 'Bedieningstijden onbekend.\r\n'
         return 'Bedieningstijden onbekend.\r\n'
     
 
@@ -198,7 +201,7 @@ class BridgeInfo:
                 gpx_wps.symbol = "Circle"
             radiopoint = self.find_child(self.radiocallinpoint, radio_record.get('Id'))
             if radiopoint is not None:
-                description.append('VHF:     ' + ','.join(radiopoint.get('VhfChannels')))
+                description.append('VHF:     ' + ','.join(radiopoint.get('VhfChannels') or []))
             if geo_object.get('PhoneNumber') is not None:
                 description.append('Contact PhoneNumber:' + geo_object.get('PhoneNumber'))
             administration = find_related(geo_object, self.related, 'AdministrationId')
@@ -260,29 +263,30 @@ class RadioInfo:
             gpx_wps = gpxpy.gpx.GPXWaypoint()
             pnt = add_coordinate(gpx_wps, radio["Geometry"])
             related_geo = find_related(radio.get('ParentId'), self.related, radio.get('ParentGeoType'))
+            foreign_code = None
             if related_geo is not None:
                 name = 'Meldpunt %s' % related_geo.get("Name")
                 foreign_code = related_geo.get('ForeignCode')
             else:
                 name = radio["Name"]
-                print('geoType %s not found for radiocallinpoint' % radio.get('ParentGeoType'))
+                print('Warning: geoType %s not found for radiocallinpoint %s' % (radio.get('ParentGeoType'), radio.get('Id')))
             if channelVHFonly:
-                gpx_wps.name = 'VHF ' + ','.join(radio.get('VhfChannels'))
+                gpx_wps.name = 'VHF ' + ','.join(radio.get('VhfChannels') or [])
             else:
                 gpx_wps.name = name
             gpx_wps.link = 'https://vaarweginformatie.nl/frp/main/#/geo/detail/' + \
-                radio.get('ParentGeoType').upper() + '/' + str(radio['ParentId'])
+                (radio.get('ParentGeoType') or '').upper() + '/' + str(radio['ParentId'])
             gpx_wps.link_text = name + ' online info'
             if _UseScale:
                 gpx_wps.extensions.append(root)
             description = []
             gpx_wps.symbol = "Info-Info"
             description.append('Naam:         ' + name)
-            description.append('VHF:          ' + ','.join(radio.get('VhfChannels')))
+            description.append('VHF:          ' + ','.join(radio.get('VhfChannels') or []))
             if radio.get('RadioStatus') is not None:
                 description.append('RadioStatus: ' + radio['RadioStatus'])
                 gpx_wps.symbol = "Symbol-Exclamation-Blue"
-            description.append('RadioTraffic: ' + radio.get('RadioTraffic'))
+            description.append('RadioTraffic: ' + (radio.get('RadioTraffic') or ''))
             if related_geo is not None and related_geo.get('Note') is not None:
                 description.append('Opmerking: %s' % related_geo.get('Note'))
             gpx_wps.description = '\r\n'.join(description)
@@ -315,6 +319,8 @@ def add_coordinate(gpx_wp, location: str):
 
 
 def find_related(data, related_data, id_type: str):
+    if data is None or id_type is None:
+        return None
     if isinstance(data, str) or isinstance(data, int):
         id = data
     else:
