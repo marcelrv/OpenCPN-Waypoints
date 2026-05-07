@@ -11,7 +11,7 @@ using https://www.vaarweginformatie.nl/frp/main/#/page/services
 __author__ = "Marcel Verpaalen"
 __copyright__ = "Copyright 2022"
 __license__ = "AGPL 3.0"
-__version__ = "1.0.4"
+__version__ = "1.0.5"
 __updated__ = "2026-05-07"
 
 import datetime
@@ -36,12 +36,13 @@ max_age = 60 * 60 * 24  # 24h
 class BridgeInfo:
     """Create bridges and locks  waypoints."""
 
-    def __init__(self, bridges, operatingtimes, radiocallinpoint, fairway, related=[]):
+    def __init__(self, bridges, operatingtimes, radiocallinpoint, fairway, related=[], openings=[]):
         self.bridges = bridges
         self.operatingtimes = operatingtimes
         self.radiocallinpoint = radiocallinpoint
         self.fairway = fairway
         self.related = related
+        self.openings = openings
 
     def find_id(self, data, id):
         for rec in data:
@@ -52,6 +53,13 @@ class BridgeInfo:
         for rec in data:
             if rec.get('ParentId') == id:
                 return rec
+
+    def get_openings_for_bridge(self, bridge_id):
+        """Return opening records for a bridge/lock, sorted by opening Number."""
+        return sorted(
+            [o for o in self.openings if o.get('ParentId') == bridge_id],
+            key=lambda o: o.get('Number') or 0
+        )
 
     def operatinghours_sort_key(self, operatingRule):
         t = operatingRule.get('From')
@@ -134,7 +142,7 @@ class BridgeInfo:
         gpx.description = description + ' based on RWS information'
         return gpx
 
-    def create_bridgeGPX(self, region, geotype):
+    def create_bridgeGPX(self, region, geotype, extraInfoInName=False):
 
         # adjust to OpenCPN Scale (at which scale this is visible) disable if not needed
         _UseScale = True
@@ -207,6 +215,10 @@ class BridgeInfo:
             administration = find_related(geo_object, self.related, 'AdministrationId')
             if administration is not None and administration.get('PhoneNumber') is not None:
                 description.append('PhoneNumber: %s' % administration.get('PhoneNumber'))
+            if geotype == 'bridge':
+                bridge_openings = self.get_openings_for_bridge(geo_object['Id'])
+                for op in bridge_openings:
+                    description.append('Opening %d: %s' % (op.get('Number', 1), format_opening_dim(op)))
             if geo_object.get('OperatingTimesId') is not None:
                 openingHours = self.get_openingHours(geo_object.get('OperatingTimesId'))
                 description.append(openingHours)
@@ -216,7 +228,19 @@ class BridgeInfo:
             gpx_wps.link = 'https://vaarweginformatie.nl/frp/main/#/geo/detail/' + link_type + '/' + \
                 str(geo_object["Id"])
             gpx_wps.link_text = name + ' online info'
-            gpx_wps.name = name
+            if extraInfoInName and geotype == 'bridge':
+                name_lines = [name]
+                vhf_str = ','.join(radiopoint.get('VhfChannels') or []) if radiopoint is not None else ''
+                phone_str = geo_object.get('PhoneNumber') or \
+                    (administration.get('PhoneNumber') if administration is not None else None) or ''
+                contact_str = vhf_str if vhf_str else phone_str
+                if contact_str:
+                    name_lines[0] = name + ' [' + contact_str + ']'
+                for op in bridge_openings:
+                    name_lines.append(format_opening_dim(op))
+                gpx_wps.name = '\n'.join(name_lines)
+            else:
+                gpx_wps.name = name
             gpx_wps.description = '\r\n'.join(description)
             country = region.get('country')
             foreign_code = geo_object.get('ForeignCode')
@@ -308,6 +332,19 @@ class RadioInfo:
                    float(pnt[1]) < to_Coord[0] and float(pnt[0]) < to_Coord[1]:
                     gpx.waypoints.append(gpx_wps)
         return gpx
+
+
+def format_opening_dim(opening):
+    """Format opening dimensions as e.g. 'Vast H2.4 W10' or 'BB H0.9 W4.5'"""
+    type_label = 'Vast' if opening.get('Type') == 'VST' else 'BB'
+    h = opening.get('HeightClosed')
+    w = opening.get('Width')
+    h_str = f'{h:.1f}' if h is not None else '?'
+    if w is not None:
+        w_str = f'{w:.1f}' if w < 5 else f'{w:.0f}'
+    else:
+        w_str = '?'
+    return f'{type_label} H{h_str} W{w_str}'
 
 
 def add_coordinate(gpx_wp, location: str):
@@ -466,7 +503,7 @@ if __name__ == "__main__":
     geotypes = ['bridge', 'operatingtimes', 'radiocallinpoint', 'lock',
                 'fairway', 'vinharbour', 'nwbharbour', 'berth', 'vtssector',
                 'touristharbour', 'exceptionalnavigationalstructure',
-                'administration']
+                'administration', 'opening']
 
     for geotype in geotypes:
         fn = workingFolder + geotype + 'Download.json'
@@ -480,6 +517,7 @@ if __name__ == "__main__":
     bridges = readJson(workingFolder + 'bridgeDownload.json')
     locks = readJson(workingFolder + 'lockDownload.json')
     operatingtimes = readJson(workingFolder + 'operatingtimesDownload.json')
+    openings = readJson(workingFolder + 'openingDownload.json')
     radiocallinpoint = readJson(workingFolder + 'radiocallinpointDownload.json')
     fairway = readJson(workingFolder + 'fairwayDownload.json')
     touristharbour = readJson(workingFolder + 'touristharbourDownload.json')
@@ -509,11 +547,15 @@ if __name__ == "__main__":
         regions.append({'name': country, 'country': country})
 
     # create bridge files
-    bridgeInfo = BridgeInfo(bridges, operatingtimes, radiocallinpoint, fairway)
+    bridgeInfo = BridgeInfo(bridges, operatingtimes, radiocallinpoint, fairway, openings=openings)
     for region in regions:
         gpx = bridgeInfo.create_bridgeGPX(region, 'bridge')
         gpx.time = publication_date
         name = region['name'] + "-Bruggen"
+        saveGPX(gpx, name)
+        gpx = bridgeInfo.create_bridgeGPX(region, 'bridge', extraInfoInName=True)
+        gpx.time = publication_date
+        name = region['name'] + "-Bruggen-ExtraInfoInName"
         saveGPX(gpx, name)
 
     # create locks files

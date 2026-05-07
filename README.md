@@ -6,12 +6,14 @@
 * [Friesland-Boeien.gpx](Friesland-Boeien.gpx) - Boeien in Friesland als GPX (bron: provincie Friesland). Note: gebruik de [usericons](./chartcatalog/usericons.zip)  anders zie je alleen circels
 * [Marrekrite-Aanlegplaatsen.gpx](Marrekrite-Aanlegplaatsen.gpx)  - Alle marrekritten aanlegplaatsen for use with OpenCPN. Import as Layer so it can be easily switched on/off
 * [Friesland-Bruggen.gpx](Friesland-Bruggen.gpx) - Alle Friese bruggen met openingstijden en marifoon kanaal
+* [Friesland-Bruggen-ExtraInfoInName.gpx](Friesland-Bruggen-ExtraInfoInName.gpx) - Friese bruggen met opening afmetingen en contact info in de naam (check 'Show WPT Name')
 * [Friesland-Sluizen.gpx](Friesland-Sluizen.gpx) -Alle Friese sluizen met openingstijden en marifoon kanaal
 * [Friesland-Jachthavens.gpx](Friesland-Jachthavens.gpx) - Jachthavens in Friesland
 * [Friesland-MarifoonPunten-VHFinName.gpx](Friesland-MarifoonPunten-VHFinName.gpx) - Marifoon meldpunten met kanaal in de naam om snel te zien in de map (check 'Show WPT Name')
 * [Friesland-MarifoonPunten.gpx](Friesland-MarifoonPunten.gpx) - Marifoon meldpunten Friesland
 * [NL-Boeien.gpx](NL-Boeien.gpx) - Nederlandse Boeien (excl Friesland) als GPX (bron: RWS Friesland). Note: gebruik de [usericons](./chartcatalog/usericons.zip)  anders zie je alleen circels
 * [NL-Bruggen.gpx](NL-Bruggen.gpx) - Alle Nederlandse bruggen met openingstijden en marifoon kanaal 
+* [NL-Bruggen-ExtraInfoInName.gpx](NL-Bruggen-ExtraInfoInName.gpx) - Nederlandse bruggen met opening afmetingen en contact info in de naam (check 'Show WPT Name')
 * [NL-Sluizen.gpx](NL-Sluizen.gpx) - Alle Nederlandse sluizen met openingstijden en marifoon kanaal 
 * [NL-Jachthavens.gpx](NL-Jachthavens.gpx) - Jachthavens in Friesland
 * [NL-MarifoonPunten-VHFinName.gpx](NL-MarifoonPunten-VHFinName.gpx) - Marifoon meldpunten met kanaal in de naam om snel te zien in de map (check 'Show WPT Name')
@@ -22,6 +24,11 @@
 * [BE-Sluizen.gpx](BE-Sluizen.gpx) - Belgium locks
 * [FR-Bruggen.gpx](FR-Bruggen.gpx) - France bridges
 * [FR-Sluizen.gpx](FR-Sluizen.gpx) - France locks
+
+### Regional files (Friesland, Holland, Zeeland)
+* [Friesland-Bruggen-ExtraInfoInName.gpx](Friesland-Bruggen-ExtraInfoInName.gpx) - Friese bruggen met opening afmetingen en contact info in de naam
+* [Holland-Bruggen-ExtraInfoInName.gpx](Holland-Bruggen-ExtraInfoInName.gpx) - Holland bruggen met opening afmetingen en contact info in de naam
+* [Zeeland-Bruggen-ExtraInfoInName.gpx](Zeeland-Bruggen-ExtraInfoInName.gpx) - Zeeland bruggen met opening afmetingen en contact info in de naam
 
 ### Germany, Austria & Swiss (note based on information provided by RWS / vaarweginformatie.nl )
 * [DE-Bruggen.gpx](DE-Bruggen.gpx) - German bridges
