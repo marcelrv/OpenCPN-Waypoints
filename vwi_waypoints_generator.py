@@ -415,6 +415,14 @@ def readJson(filename):
         return json.load(f)
 
 
+def readJsonOrEmpty(filename):
+    """Read a JSON file, returning an empty dict if the file does not exist."""
+    if not os.path.exists(filename):
+        return {}
+    with open(filename) as f:
+        return json.load(f)
+
+
 def saveGPX(gpx, name):
     if debugging:
         print('Created GPX:', gpx.to_xml())
@@ -434,6 +442,8 @@ def saveGPX(gpx, name):
 
 if __name__ == "__main__":
 
+    os.makedirs(workingFolder, exist_ok=True)
+
     response = requests.get(baseURL + 'geogeneration')
     geoInfo = response.json()
     print(f"Latest geoinfomation: {json.dumps(geoInfo,indent=2)}")
@@ -442,7 +452,7 @@ if __name__ == "__main__":
 
     last_publication_filename = 'lastPublication.json'
 
-    if readJson(last_publication_filename).get('GeoGeneration') == geoInfo.get('GeoGeneration'):
+    if readJsonOrEmpty(last_publication_filename).get('GeoGeneration') == geoInfo.get('GeoGeneration'):
         if len(sys.argv) < 2:
             print('Already up-to-date. Skipping update. Note: To force an update provide any command line argument.')
             exit()
