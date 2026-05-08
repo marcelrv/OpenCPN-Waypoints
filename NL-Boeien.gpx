@@ -22992,7 +22992,7 @@ model : bol Groen/rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.744594444285966" lon="3.563469444146711">
+  <wpt lat="51.743080555947394" lon="3.561930555539619">
     <name>GB 2</name>
     <desc>vaarweg : GEUL VAN DE BANJAARD
 lich kleur : X
@@ -23116,7 +23116,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.703430555720175" lon="3.546327778432715">
+  <wpt lat="51.701874999939136" lon="3.547769444772328">
     <name>GB 5A</name>
     <desc>vaarweg : GEUL VAN DE BANJAARD
 lich kleur : X
@@ -23126,7 +23126,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.71595277737886" lon="3.541363889541592">
+  <wpt lat="51.714186111502734" lon="3.541930556260386">
     <name>GB 6</name>
     <desc>vaarweg : GEUL VAN DE BANJAARD
 lich kleur : X
@@ -42744,7 +42744,7 @@ licht type : LFl (long-flashing)
 licht periode : 8
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1043</sym>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -50563,6 +50563,39 @@ licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
     <sym>4301</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.363599999665226" lon="3.700849999332865">
+    <name>MT P-1</name>
+    <desc>vaarweg : VAARWATER LANGS DE PAULINAPOLDER
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.356133333454764" lon="3.723833333347776">
+    <name>MT P-3</name>
+    <desc>vaarweg : VAARWATER LANGS DE PAULINAPOLDER
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.35354999956487" lon="3.731733332832097">
+    <name>MT P-5</name>
+    <desc>vaarweg : VAARWATER LANGS DE PAULINAPOLDER
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -59002,7 +59035,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.64988888877442" lon="3.588325000653077">
+  <wpt lat="51.64859722228269" lon="3.59031944473879">
     <name>OR 3</name>
     <desc>vaarweg : OUDE ROOMPOT
 licht type : Iso (isophased)
@@ -65811,7 +65844,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.60023888904001" lon="3.639488888270848">
+  <wpt lat="51.60030555571797" lon="3.642375000654734">
     <name>R 9</name>
     <desc>vaarweg : ROOMPOT
 licht type : Iso (isophased)
@@ -74404,9 +74437,8 @@ model : stomp Geel</desc>
     <name>SB-OW 4</name>
     <desc>vaarweg : STEILEBANK (IJSSELMEER)
 lich kleur : X
-model : stomp Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : stomp Geel</desc>
+    <sym>5511</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -84397,7 +84429,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.062594444311685" lon="4.959597221654174">
+  <wpt lat="53.0642277779206" lon="4.958147222481523">
     <name>T 25</name>
     <desc>vaarweg : TEXELSTROOM/MARSDIEP
 licht type : Iso (isophased)
