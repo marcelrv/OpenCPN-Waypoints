@@ -32669,26 +32669,6 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.5467666668669" lon="3.681716667340365">
-    <name>HV-C</name>
-    <desc>vaarweg : VEERSE MEER
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.54878333363059" lon="3.680333333464566">
-    <name>HV-D</name>
-    <desc>vaarweg : VEERSE MEER
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.99126111082273" lon="4.093236111708845">
     <name>HVH 1</name>
     <desc>vaarweg : NOORDZEE
@@ -50669,6 +50649,19 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.183633333070844" lon="3.995383333587279">
+    <name>MT-HKZ 6</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : stomp Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.18066666696985" lon="3.992016666988843">
     <name>MT-HKZ 7</name>
     <desc>vaarweg : NOORDZEE
@@ -60667,26 +60660,6 @@ model : spar Rood/wit repeterend</desc>
 lich kleur : X
 model : spar Geel/zwart/geel</desc>
     <sym>2331</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.56293333367886" lon="3.643666666284094">
-    <name>PD-A</name>
-    <desc>vaarweg : VEERSE MEER
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.564616666903994" lon="3.641283333599012">
-    <name>PD-B</name>
-    <desc>vaarweg : VEERSE MEER
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -98443,7 +98416,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.51856944452407" lon="6.083094444328503">
+  <wpt lat="53.51878055513813" lon="6.085102777779863">
     <name>WG 7</name>
     <desc>vaarweg : WESTGAT (FRIESCHE ZEEGAT)
 licht type : LFl (long-flashing)
@@ -98455,7 +98428,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.51694722181503" lon="6.091133332868623">
+  <wpt lat="53.517686111199545" lon="6.090874999687128">
     <name>WG 7A</name>
     <desc>vaarweg : WESTGAT (FRIESCHE ZEEGAT)
 licht type : Iso (isophased)
@@ -98477,7 +98450,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.52126388860728" lon="6.082988889438423">
+  <wpt lat="53.52153888888908" lon="6.085102777121404">
     <name>WG 8</name>
     <desc>vaarweg : WESTGAT (FRIESCHE ZEEGAT)
 licht type : LFl (long-flashing)
@@ -98489,7 +98462,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.51903888877807" lon="6.094711111289985">
+  <wpt lat="53.51978611097023" lon="6.094405556208311">
     <name>WG 8A</name>
     <desc>vaarweg : WESTGAT (FRIESCHE ZEEGAT)
 licht type : Iso (isophased)
@@ -104765,7 +104738,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.31994722257289" lon="5.013036111594404">
+  <wpt lat="53.32029166694079" lon="5.013288888294086">
     <name>ZS 3A</name>
     <desc>vaarweg : ZUIDER STORTEMELK
 licht type : VQ (very quick-flashing)
@@ -104821,7 +104794,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.319302777608726" lon="5.016869444433874">
+  <wpt lat="53.31890833302243" lon="5.016780555531201">
     <name>ZS 4B</name>
     <desc>vaarweg : ZUIDER STORTEMELK
 licht type : VQ (very quick-flashing)
