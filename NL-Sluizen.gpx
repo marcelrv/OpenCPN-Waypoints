@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2026-05-19T13:53:28.015000Z</time>
+    <time>2026-05-20T13:13:48.591000Z</time>
   </metadata>
   <wpt lat="53.024144051866614" lon="7.139342688024044">
     <name>Vlagtweddersluis</name>
@@ -6062,30 +6062,38 @@ Periode 02-01 tot 31-03:
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 01-04 tot 05-04:
    23:00 - 04:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   23:00 - 05:00: Za, Zo, incl. feestdagen. 
+   23:00 - 05:00: Za, excl. feestdagen. 
+   23:00 - 07:00: Zo, incl. feestdagen. 
    04:30 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, Zo, incl. feestdagen. 
+   05:00 - 20:00: Za, excl. feestdagen. 
+   07:00 - 20:00: Zo, incl. feestdagen. 
    20:00 - 22:59: Za, Zo, incl. feestdagen. 
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 06-04 tot 23-05:
    23:00 - 04:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   23:00 - 05:00: Za, Zo, excl. feestdagen. 
+   23:00 - 05:00: Za, excl. feestdagen. 
+   23:00 - 07:00: Zo, excl. feestdagen. 
    04:30 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   05:00 - 20:00: Za, Zo, excl. feestdagen. 
+   05:00 - 20:00: Za, excl. feestdagen. 
+   07:00 - 20:00: Zo, excl. feestdagen. 
    20:00 - 22:59: Za, Zo, excl. feestdagen. 
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 Periode 24-05 tot 24-05:
    23:00 - 04:30: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   23:00 - 05:00: Za, Zo, incl. feestdagen. 
+   23:00 - 05:00: Za, excl. feestdagen. 
+   23:00 - 07:00: Zo, incl. feestdagen. 
    04:30 - 21:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 20:00: Za, Zo, incl. feestdagen. 
+   05:00 - 20:00: Za, excl. feestdagen. 
+   07:00 - 20:00: Zo, incl. feestdagen. 
    20:00 - 22:59: Za, Zo, incl. feestdagen. 
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 25-05 tot 31-05:
    23:00 - 04:30: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   23:00 - 05:00: Za, Zo, excl. feestdagen. 
+   23:00 - 05:00: Za, excl. feestdagen. 
+   23:00 - 07:00: Zo, excl. feestdagen. 
    04:30 - 21:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   05:00 - 20:00: Za, Zo, excl. feestdagen. 
+   05:00 - 20:00: Za, excl. feestdagen. 
+   07:00 - 20:00: Zo, excl. feestdagen. 
    20:00 - 22:59: Za, Zo, excl. feestdagen. 
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 Periode 01-06 tot 15-09:
@@ -11433,19 +11441,19 @@ VHF:     7
 Contact PhoneNumber:+31627440396
 
 Bedieningstijden
-Periode 05-04 tot 05-04:
+Periode 05-04 tot 05-04 (note: Laatste schutting begint uiterlijk een half uur voor einde bedieningstijd.):
    09:00 - 17:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    09:00 - 19:00: Za, Zo, incl. feestdagen. 
-Periode 06-04 tot 23-05:
+Periode 06-04 tot 23-05 (note: Laatste schutting begint uiterlijk een half uur voor einde bedieningstijd.):
    09:00 - 17:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    09:00 - 19:00: Za, Zo, excl. feestdagen. 
-Periode 24-05 tot 24-05:
+Periode 24-05 tot 24-05 (note: Laatste schutting begint uiterlijk een half uur voor einde bedieningstijd.):
    09:00 - 17:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    09:00 - 19:00: Za, Zo, incl. feestdagen. 
-Periode 25-05 tot 24-12:
+Periode 25-05 tot 24-12 (note: Laatste schutting begint uiterlijk een half uur voor einde bedieningstijd.):
    09:00 - 17:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    09:00 - 19:00: Za, Zo, excl. feestdagen. 
-Periode 25-12 tot 04-04:
+Periode 25-12 tot 04-04 (note: Laatste schutting begint uiterlijk een half uur voor einde bedieningstijd.):
    23:00 - 22:59: incl. feestdagen. 
    09:00 - 17:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    09:00 - 19:00: Za, Zo, excl. feestdagen. 
@@ -13499,14 +13507,18 @@ Note: Object nummer 139.</desc>
   <wpt lat="53.09885014587755" lon="5.948063610121607">
     <name>Noordersluis de Veenhoop (Schutsluis)</name>
     <desc>Locatie: Polderhoofdkanaal
+VHF:     20
 Contact PhoneNumber:06-50028250
 
 Bedieningstijden
-Periode 15-05 tot 15-09 (note: Bedieningstijden Polderhoofdkanaal wijken af van bedieningstijden Turfroute.):
-   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. Bediening vanaf Hooidamsbrug: Sms doorvaart naar 06 - 10 77 02 41
+Periode 15-05 tot 15-09 (note: Bediening aanvragen via 06-50028250 
+
+Bedieningstijden Polderhoofdkanaal wijken af van bedieningstijden Turfroute.):
+   08:00 - 19:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
 Periode 16-09 tot 14-05:
    23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-</desc>
+
+Note: </desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/41426829">
       <text>Noordersluis de Veenhoop (Schutsluis) online info</text>
     </link>

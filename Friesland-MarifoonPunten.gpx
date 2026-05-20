@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2026-05-19T13:53:28.015000Z</time>
+    <time>2026-05-20T13:13:48.591000Z</time>
   </metadata>
   <wpt lat="53.1852476165178" lon="5.77393915473789">
     <name>Meldpunt Spoorbrug HRMK</name>
@@ -1071,13 +1071,13 @@ RadioTraffic: TWO_WAY</desc>
     </extensions>
   </wpt>
   <wpt lat="53.1753936020551" lon="5.4114156961441">
-    <name>Meldpunt keersluis Sas</name>
-    <desc>Naam:         Meldpunt keersluis Sas
+    <name>Meldpunt Keersluis Sas</name>
+    <desc>Naam:         Meldpunt Keersluis Sas
 VHF:          11
 RadioStatus: RECOMMENDED
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/EXCEPTIONALNAVIGATIONALSTRUCTURE/16802">
-      <text>Meldpunt keersluis Sas online info</text>
+      <text>Meldpunt Keersluis Sas online info</text>
     </link>
     <sym>Symbol-Exclamation-Blue</sym>
     <extensions>
@@ -1451,6 +1451,19 @@ VHF:          78
 RadioTraffic: TWO_WAY</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/34616715">
       <text>Meldpunt Sint Jozefbrug Leeuwarden online info</text>
+    </link>
+    <sym>Info-Info</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.09874082548697" lon="5.94818539917469">
+    <name>Meldpunt Noordersluis de Veenhoop (Schutsluis)</name>
+    <desc>Naam:         Meldpunt Noordersluis de Veenhoop (Schutsluis)
+VHF:          20
+RadioTraffic: INBOUND</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/41426829">
+      <text>Meldpunt Noordersluis de Veenhoop (Schutsluis) online info</text>
     </link>
     <sym>Info-Info</sym>
     <extensions>
