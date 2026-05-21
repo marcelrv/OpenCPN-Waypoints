@@ -42651,7 +42651,7 @@ model : stomp Rood</desc>
   </wpt>
   <wpt lat="52.0020388886344" lon="5.113861110979745">
     <name>L 72D</name>
-    <desc>vaarweg : OPHEF LOCATIE
+    <desc>vaarweg : LEK
 licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Rood
@@ -75584,7 +75584,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.330638888788904" lon="5.180827777046875">
+  <wpt lat="53.33060277755601" lon="5.181127778180286">
     <name>SG 12</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -75804,7 +75804,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.31992500033557" lon="5.168122222891206">
+  <wpt lat="53.32028055540498" lon="5.167280555349928">
     <name>SG 1A</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -75929,7 +75929,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32264722257228" lon="5.165077778436648">
+  <wpt lat="53.32234722182854" lon="5.16601111066041">
     <name>SG 2</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -76079,7 +76079,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32262222204606" lon="5.169311111253275">
+  <wpt lat="53.32282777795089" lon="5.169413888792497">
     <name>SG 3</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -76130,7 +76130,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32336111142849" lon="5.167844444648389">
+  <wpt lat="53.32324999989007" lon="5.168436111270583">
     <name>SG 4</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -76172,7 +76172,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32361388904311" lon="5.171227777797466">
+  <wpt lat="53.32366944476121" lon="5.171105555982855">
     <name>SG 5</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -76226,7 +76226,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.32417222187498" lon="5.170313888661811">
+  <wpt lat="53.32402499982345" lon="5.17045833276344">
     <name>SG 6</name>
     <desc>vaarweg : SCHUITENGAT
 lich kleur : X
@@ -85924,6 +85924,16 @@ model : stomp Rood/wit repeterend</desc>
 lich kleur : X
 model : stomp Rood/wit repeterend</desc>
     <sym>1552</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.922377777999266" lon="4.808619444129496">
+    <name>Ton 975.340L</name>
+    <desc>vaarweg : LEK
+lich kleur : X
+model : spits Groen/rood</desc>
+    <sym>1103</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
