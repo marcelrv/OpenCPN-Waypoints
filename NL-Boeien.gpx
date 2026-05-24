@@ -12251,7 +12251,7 @@ model : spar Geel</desc>
     <desc>vaarweg : NOORDZEE
 lich kleur : X
 model : spar Geel</desc>
-    <sym>5531</sym>
+    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -14277,7 +14277,7 @@ model : spar Geel</desc>
     <desc>vaarweg : HAMMEN
 lich kleur : X
 model : spar Geel</desc>
-    <sym>5301</sym>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -60779,6 +60779,18 @@ model : bol Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.49305555524661" lon="4.260197221662965">
+    <name>PEN 8</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 10
+lich kleur : Geel
+model : bol Geel</desc>
+    <sym>4201</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.357580555189806" lon="4.224755554862972">
     <name>PEN 9</name>
     <desc>vaarweg : NOORDZEE
@@ -78416,6 +78428,17 @@ model : spar Groen</desc>
 lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.818955555132455" lon="4.373405555478873">
+    <name>SP 12 A</name>
+    <desc>vaarweg : SPUI
+lich kleur : X
+model : spar Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
