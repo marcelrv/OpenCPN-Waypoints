@@ -14532,18 +14532,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.111669444327255" lon="5.076097221490389">
-    <name>DB-A</name>
-    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5201</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="53.35672500040526" lon="6.171119444950651">
     <name>DD 10</name>
     <desc>vaarweg : DOKKUMERDIEP
@@ -89430,7 +89418,7 @@ model : spar Rood</desc>
   </wpt>
   <wpt lat="53.3586694445723" lon="5.620761110835192">
     <name>VH 16A</name>
-    <desc>vaarweg : KROMME BALG
+    <desc>vaarweg : VAARWATER VAN DE ZWARTE HAAN
 lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
