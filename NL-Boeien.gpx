@@ -50515,102 +50515,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.39670000008108" lon="4.050349999661885">
-    <name>MT-HKZ 1</name>
-    <desc>vaarweg : NOORDZEE
-licht type : Fl (flashing)
-licht periode : 20
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>3801</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.397300000016024" lon="4.04839999977789">
-    <name>MT-HKZ 2</name>
-    <desc>vaarweg : NOORDZEE
-licht type : Fl (flashing)
-licht periode : 20
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>3801</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.174033333261" lon="3.939033333120116">
-    <name>MT-HKZ 3</name>
-    <desc>vaarweg : NOORDZEE
-licht type : Fl (flashing)
-licht periode : 20
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>3801</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.173183333217274" lon="3.940750000645326">
-    <name>MT-HKZ 4</name>
-    <desc>vaarweg : NOORDZEE
-licht type : Fl (flashing)
-licht periode : 20
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>3801</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.18278333352539" lon="3.997083332954072">
-    <name>MT-HKZ 5</name>
-    <desc>vaarweg : NOORDZEE
-licht type : Fl (flashing)
-licht periode : 20
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3801</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.183633333070844" lon="3.995383333587279">
-    <name>MT-HKZ 6</name>
-    <desc>vaarweg : NOORDZEE
-licht type : Fl (flashing)
-licht periode : 20
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3801</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.18066666696985" lon="3.992016666988843">
-    <name>MT-HKZ 7</name>
-    <desc>vaarweg : NOORDZEE
-licht type : Fl (flashing)
-licht periode : 20
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>3801</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.1797999997744" lon="3.993766667020088">
-    <name>MT-HKZ 8</name>
-    <desc>vaarweg : NOORDZEE
-licht type : Fl (flashing)
-licht periode : 20
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>3801</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.92500000001847" lon="3.963333333612376">
     <name>MV A</name>
     <desc>vaarweg : MAASVLAKTE-MAASGEUL (NZ)
@@ -81524,7 +81428,7 @@ model : spits Groen</desc>
     <desc>vaarweg : SCHAAR VAN DE SPIJKERPLAAT
 lich kleur : X
 model : spar Rood</desc>
-    <sym>1143</sym>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -85852,6 +85756,26 @@ model : spits Groen</desc>
 lich kleur : X
 model : spits Groen</desc>
     <sym>1001</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.97277222228713" lon="5.974150000540238">
+    <name>Ton 881.950L</name>
+    <desc>vaarweg : GELDERSE IJSSEL
+lich kleur : X
+model : spits Groen</desc>
+    <sym>1001</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.973430555525916" lon="5.977441666856186">
+    <name>Ton 882.400L</name>
+    <desc>vaarweg : GELDERSE IJSSEL
+lich kleur : X
+model : spits Groen</desc>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
