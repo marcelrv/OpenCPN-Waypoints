@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2026-06-05T13:26:36.509000Z</time>
+    <time>2026-06-09T09:50:49.144000Z</time>
   </metadata>
   <wpt lat="51.5893192695988" lon="4.65443776811514">
     <name>Slickbrug</name>
@@ -864,10 +864,10 @@ Periode 05-05 tot 13-05 (note: Een verzoek tot opening tussen 05:04 en 22:37 die
    04:19 - 04:24: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    05:04 - 05:09: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    05:19 - 05:24: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   06:04 - 06:09: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    06:04 - 06:09: Za, Zo, excl. feestdagen. 
-   06:19 - 06:24: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   06:04 - 06:09: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    06:19 - 06:24: Za, Zo, excl. feestdagen. 
+   06:19 - 06:24: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    07:04 - 07:19: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    07:19 - 07:24: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    08:04 - 08:09: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -886,10 +886,10 @@ Periode 05-05 tot 13-05 (note: Een verzoek tot opening tussen 05:04 en 22:37 die
    14:19 - 14:24: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    15:04 - 15:19: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    15:19 - 15:24: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   16:04 - 16:09: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    16:04 - 16:09: Za, Zo, excl. feestdagen. 
-   16:19 - 16:24: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
+   16:04 - 16:09: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    16:19 - 16:24: Za, Zo, excl. feestdagen. 
+   16:19 - 16:24: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    17:04 - 17:09: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    17:19 - 17:24: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    18:04 - 18:09: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -1147,8 +1147,8 @@ Opening 3: Vast H8.6 W20
 
 Bedieningstijden
 Periode 01-04 tot 04-05 (note: Verzoekregeling waarbij scheepvaart voorrang heeft op het treinverkeer.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 06:40: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    07:00 - 15:40: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    16:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -1158,8 +1158,8 @@ Periode 05-05 tot 13-05 (note: Verzoekregeling waarbij scheepvaart voorrang heef
    07:00 - 15:40: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    16:00 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 Periode 14-05 tot 31-03 (note: Verzoekregeling waarbij scheepvaart voorrang heeft op het treinverkeer.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 06:40: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    07:00 - 15:40: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    16:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -1421,8 +1421,8 @@ Opening 3: Vast H8.6 W20
 
 Bedieningstijden
 Periode 01-04 tot 04-05 (note: Verzoekregeling waarbij scheepvaart voorrang heeft op het treinverkeer.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 06:40: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    07:00 - 15:40: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    16:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -1432,8 +1432,8 @@ Periode 05-05 tot 13-05 (note: Verzoekregeling waarbij scheepvaart voorrang heef
    07:00 - 15:40: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    16:00 - 22:59: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
 Periode 14-05 tot 31-03 (note: Verzoekregeling waarbij scheepvaart voorrang heeft op het treinverkeer.):
-   23:00 - 22:59: incl. feestdagen. 
    23:00 - 22:59: Za, Zo, excl. feestdagen. 
+   23:00 - 22:59: incl. feestdagen. 
    23:00 - 06:40: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    07:00 - 15:40: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
    16:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
@@ -1708,8 +1708,8 @@ Bedieningstijden
 Periode 01-01 tot 04-04 (note: Gedurende de nachturen van 00:00-05:57uur voor het gehele jaar wordt de brug op verzoek geopend. Het verzoek hiertoe moet minimaal 1 uur van tevoren worden ingediend bij de RVC Dordrecht 088-7970800 of VHF71. Openingen ma t/m vr 06:57 en 16:57 alleen voor beroepsvaart.):
    23:00 - 04:57: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    04:57 - 05:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   05:57 - 06:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    05:57 - 06:03: Za, Zo, excl. feestdagen. 
+   05:57 - 06:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    06:57 - 07:03: Za, Zo, excl. feestdagen. 
    07:57 - 08:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    08:57 - 09:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -1719,8 +1719,8 @@ Periode 01-01 tot 04-04 (note: Gedurende de nachturen van 00:00-05:57uur voor he
    12:57 - 13:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    13:57 - 14:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    14:57 - 15:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   15:57 - 16:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    15:57 - 16:03: Za, Zo, excl. feestdagen. 
+   15:57 - 16:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    16:57 - 17:03: Za, Zo, excl. feestdagen. 
    17:57 - 18:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    18:57 - 19:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -1752,8 +1752,8 @@ Periode 05-04 tot 05-04 (note: Gedurende de nachturen van 00:00-05:57uur voor he
 Periode 06-04 tot 23-05 (note: Gedurende de nachturen van 00:00-05:57uur voor het gehele jaar wordt de brug op verzoek geopend. Het verzoek hiertoe moet minimaal 1 uur van tevoren worden ingediend bij de RVC Dordrecht 088-7970800 of VHF71. Openingen ma t/m vr 06:57 en 16:57 alleen voor beroepsvaart.):
    23:00 - 04:57: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    04:57 - 05:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   05:57 - 06:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    05:57 - 06:03: Za, Zo, excl. feestdagen. 
+   05:57 - 06:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    06:57 - 07:03: Za, Zo, excl. feestdagen. 
    07:57 - 08:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    08:57 - 09:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -1763,8 +1763,8 @@ Periode 06-04 tot 23-05 (note: Gedurende de nachturen van 00:00-05:57uur voor he
    12:57 - 13:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    13:57 - 14:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    14:57 - 15:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   15:57 - 16:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    15:57 - 16:03: Za, Zo, excl. feestdagen. 
+   15:57 - 16:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    16:57 - 17:03: Za, Zo, excl. feestdagen. 
    17:57 - 18:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    18:57 - 19:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -1796,8 +1796,8 @@ Periode 24-05 tot 24-05 (note: Gedurende de nachturen van 00:00-05:57uur voor he
 Periode 25-05 tot 25-12 (note: Gedurende de nachturen van 00:00-05:57uur voor het gehele jaar wordt de brug op verzoek geopend. Het verzoek hiertoe moet minimaal 1 uur van tevoren worden ingediend bij de RVC Dordrecht 088-7970800 of VHF71. Openingen ma t/m vr 06:57 en 16:57 alleen voor beroepsvaart.):
    23:00 - 04:57: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    04:57 - 05:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   05:57 - 06:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    05:57 - 06:03: Za, Zo, excl. feestdagen. 
+   05:57 - 06:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    06:57 - 07:03: Za, Zo, excl. feestdagen. 
    07:57 - 08:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    08:57 - 09:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -1807,8 +1807,8 @@ Periode 25-05 tot 25-12 (note: Gedurende de nachturen van 00:00-05:57uur voor he
    12:57 - 13:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    13:57 - 14:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    14:57 - 15:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   15:57 - 16:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    15:57 - 16:03: Za, Zo, excl. feestdagen. 
+   15:57 - 16:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    16:57 - 17:03: Za, Zo, excl. feestdagen. 
    17:57 - 18:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    18:57 - 19:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -2093,8 +2093,8 @@ Periode 01-11 tot 31-03 (note: Wanneer Pasen valt vóór 1 april gaat de zomerbe
    10:00 - 10:10: Za, Zo, incl. feestdagen. 
    12:00 - 12:10: Za, Zo, incl. feestdagen. 
    19:00 - 19:10: Ma, Di, Wo, Do, Vr, excl. feestdagen. Bij aanbod, minimaal 24 uur vooraf melden bij RVC Dordrecht
-   19:00 - 22:59: incl. feestdagen. Bij aanbod, tussen iedere brugbediening wachttijd ca: 30min.
    19:00 - 22:59: Za, Zo, excl. feestdagen. Bij aanbod, tussen iedere brugbediening wachttijd ca. 30min.
+   19:00 - 22:59: incl. feestdagen. Bij aanbod, tussen iedere brugbediening wachttijd ca: 30min.
    21:00 - 22:59: Ma, Di, Wo, Do, Vr, excl. feestdagen. Bij aanbod, minimaal 24 uur vooraf melden bij RVC Dordrecht, tussen iedere brugbediening wachttijd ca: 30min.
 
 Note: Bediening kan worden aangevraagd bij de Regionale Verkeerscentrale Dordrecht, per marifoonkanaal VHF 71 of telefonisch via 088-7970800. of de Verkeersmanagement Centrale Rhoon, per marifoon VHF 18 of telefonisch via 088-7985132.
@@ -2288,8 +2288,8 @@ Periode 25-05 tot 31-10:
    05:00 - 22:59: Ma, incl. feestdagen. 
    08:00 - 16:00: Zo, excl. feestdagen. 
 Periode 01-11 tot 31-03:
-   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 22:59: Zo, excl. feestdagen. 
+   23:00 - 22:59: Di, Wo, Do, Vr, excl. feestdagen. 
    23:00 - 13:00: Za, excl. feestdagen. 
    05:00 - 22:59: Ma, excl. feestdagen. 
 
@@ -3297,8 +3297,8 @@ Periode 16-04 tot 23-05:
    14:15 - 14:20: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    15:15 - 15:20: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    16:00 - 16:05: Ma, Di, Wo, Do, incl. feestdagen. Alleen richting Haringvliet.
-   16:15 - 16:20: Ma, Di, Wo, Do, incl. feestdagen. Alleen richting Kanaal door Voorne.
    16:15 - 16:20: Vr, Za, Zo, excl. feestdagen. 
+   16:15 - 16:20: Ma, Di, Wo, Do, incl. feestdagen. Alleen richting Kanaal door Voorne.
    17:15 - 17:20: Vr, Za, Zo, excl. feestdagen. 
    18:00 - 18:05: Vr, Za, Zo, excl. feestdagen. Alleen richting Kanaal door Voorne.
 Periode 24-05 tot 24-05:
@@ -3327,8 +3327,8 @@ Periode 25-05 tot 31-05:
    14:15 - 14:20: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    15:15 - 15:20: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    16:00 - 16:05: Ma, Di, Wo, Do, incl. feestdagen. Alleen richting Haringvliet.
-   16:15 - 16:20: Ma, Di, Wo, Do, incl. feestdagen. Alleen richting Kanaal door Voorne.
    16:15 - 16:20: Vr, Za, Zo, excl. feestdagen. 
+   16:15 - 16:20: Ma, Di, Wo, Do, incl. feestdagen. Alleen richting Kanaal door Voorne.
    17:15 - 17:20: Vr, Za, Zo, excl. feestdagen. 
    18:00 - 18:05: Vr, Za, Zo, excl. feestdagen. Alleen richting Kanaal door Voorne.
 Periode 01-06 tot 31-08:
@@ -3888,8 +3888,8 @@ Periode 01-01 tot 04-04:
    23:00 - 05:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. Bij aanbod, tussen iedere brugbediening wachttijd ca: 30min.
    23:00 - 06:35: Za, Zo, excl. feestdagen. Bij aanbod, tussen iedere brugbediening wachttijd ca: 30min.
    05:35 - 05:40: Ma, Di, Wo, Do, Vr, incl. feestdagen. Recreatievaart mag meeliften, op aanwijzing van de bediening
-   07:50 - 07:55: Ma, Di, Wo, Do, Vr, incl. feestdagen. Recreatievaart mag meeliften, op aanwijzing van de bediening
    07:50 - 07:55: Za, Zo, excl. feestdagen. 
+   07:50 - 07:55: Ma, Di, Wo, Do, Vr, incl. feestdagen. Recreatievaart mag meeliften, op aanwijzing van de bediening
    08:35 - 08:40: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    09:35 - 09:40: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    10:35 - 10:40: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -3922,8 +3922,8 @@ Periode 06-04 tot 23-05:
    23:00 - 05:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. Bij aanbod, tussen iedere brugbediening wachttijd ca: 30min.
    23:00 - 06:35: Za, Zo, excl. feestdagen. Bij aanbod, tussen iedere brugbediening wachttijd ca: 30min.
    05:35 - 05:40: Ma, Di, Wo, Do, Vr, incl. feestdagen. Recreatievaart mag meeliften, op aanwijzing van de bediening
-   07:50 - 07:55: Ma, Di, Wo, Do, Vr, incl. feestdagen. Recreatievaart mag meeliften, op aanwijzing van de bediening
    07:50 - 07:55: Za, Zo, excl. feestdagen. 
+   07:50 - 07:55: Ma, Di, Wo, Do, Vr, incl. feestdagen. Recreatievaart mag meeliften, op aanwijzing van de bediening
    08:35 - 08:40: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    09:35 - 09:40: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    10:35 - 10:40: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -3956,8 +3956,8 @@ Periode 25-05 tot 25-12:
    23:00 - 05:00: Ma, Di, Wo, Do, Vr, incl. feestdagen. Bij aanbod, tussen iedere brugbediening wachttijd ca: 30min.
    23:00 - 06:35: Za, Zo, excl. feestdagen. Bij aanbod, tussen iedere brugbediening wachttijd ca: 30min.
    05:35 - 05:40: Ma, Di, Wo, Do, Vr, incl. feestdagen. Recreatievaart mag meeliften, op aanwijzing van de bediening
-   07:50 - 07:55: Ma, Di, Wo, Do, Vr, incl. feestdagen. Recreatievaart mag meeliften, op aanwijzing van de bediening
    07:50 - 07:55: Za, Zo, excl. feestdagen. 
+   07:50 - 07:55: Ma, Di, Wo, Do, Vr, incl. feestdagen. Recreatievaart mag meeliften, op aanwijzing van de bediening
    08:35 - 08:40: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    09:35 - 09:40: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    10:35 - 10:40: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -4831,8 +4831,8 @@ Bedieningstijden
 Periode 01-01 tot 04-04 (note: Gedurende de nachturen van 00:00-05:57uur voor het gehele jaar wordt de brug op verzoek geopend. Het verzoek hiertoe moet minimaal 1 uur van tevoren worden ingediend bij de RVC Dordrecht 088-7970800 of VHF71. Openingen ma t/m vr 06:57 en 16:57 alleen voor beroepsvaart.):
    23:00 - 04:57: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    04:57 - 05:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   05:57 - 06:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    05:57 - 06:03: Za, Zo, excl. feestdagen. 
+   05:57 - 06:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    06:57 - 07:03: Za, Zo, excl. feestdagen. 
    07:57 - 08:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    08:57 - 09:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -4842,8 +4842,8 @@ Periode 01-01 tot 04-04 (note: Gedurende de nachturen van 00:00-05:57uur voor he
    12:57 - 13:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    13:57 - 14:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    14:57 - 15:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   15:57 - 16:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    15:57 - 16:03: Za, Zo, excl. feestdagen. 
+   15:57 - 16:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    16:57 - 17:03: Za, Zo, excl. feestdagen. 
    17:57 - 18:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    18:57 - 19:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -4875,8 +4875,8 @@ Periode 05-04 tot 05-04 (note: Gedurende de nachturen van 00:00-05:57uur voor he
 Periode 06-04 tot 23-05 (note: Gedurende de nachturen van 00:00-05:57uur voor het gehele jaar wordt de brug op verzoek geopend. Het verzoek hiertoe moet minimaal 1 uur van tevoren worden ingediend bij de RVC Dordrecht 088-7970800 of VHF71. Openingen ma t/m vr 06:57 en 16:57 alleen voor beroepsvaart.):
    23:00 - 04:57: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    04:57 - 05:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   05:57 - 06:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    05:57 - 06:03: Za, Zo, excl. feestdagen. 
+   05:57 - 06:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    06:57 - 07:03: Za, Zo, excl. feestdagen. 
    07:57 - 08:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    08:57 - 09:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -4886,8 +4886,8 @@ Periode 06-04 tot 23-05 (note: Gedurende de nachturen van 00:00-05:57uur voor he
    12:57 - 13:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    13:57 - 14:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    14:57 - 15:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   15:57 - 16:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    15:57 - 16:03: Za, Zo, excl. feestdagen. 
+   15:57 - 16:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    16:57 - 17:03: Za, Zo, excl. feestdagen. 
    17:57 - 18:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    18:57 - 19:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -4919,8 +4919,8 @@ Periode 24-05 tot 24-05 (note: Gedurende de nachturen van 00:00-05:57uur voor he
 Periode 25-05 tot 25-12 (note: Gedurende de nachturen van 00:00-05:57uur voor het gehele jaar wordt de brug op verzoek geopend. Het verzoek hiertoe moet minimaal 1 uur van tevoren worden ingediend bij de RVC Dordrecht 088-7970800 of VHF71. Openingen ma t/m vr 06:57 en 16:57 alleen voor beroepsvaart.):
    23:00 - 04:57: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    04:57 - 05:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   05:57 - 06:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    05:57 - 06:03: Za, Zo, excl. feestdagen. 
+   05:57 - 06:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    06:57 - 07:03: Za, Zo, excl. feestdagen. 
    07:57 - 08:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    08:57 - 09:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
@@ -4930,8 +4930,8 @@ Periode 25-05 tot 25-12 (note: Gedurende de nachturen van 00:00-05:57uur voor he
    12:57 - 13:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    13:57 - 14:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    14:57 - 15:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-   15:57 - 16:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    15:57 - 16:03: Za, Zo, excl. feestdagen. 
+   15:57 - 16:03: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
    16:57 - 17:03: Za, Zo, excl. feestdagen. 
    17:57 - 18:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
    18:57 - 19:03: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
