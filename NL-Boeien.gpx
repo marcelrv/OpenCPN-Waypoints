@@ -50540,9 +50540,8 @@ model : spar Geel</desc>
 licht type : Fl (flashing)
 licht periode : 20
 lich kleur : Geel
-model : spar Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Geel</desc>
+    <sym>5301</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -74078,16 +74077,6 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.84751111099123" lon="5.422994444385239">
-    <name>SB-OW 2</name>
-    <desc>vaarweg : STEILEBANK (IJSSELMEER)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.835705555398285" lon="5.455838889532839">
     <name>SB-OW 26</name>
     <desc>vaarweg : STEILEBANK (IJSSELMEER)
@@ -74130,16 +74119,6 @@ model : stomp Geel</desc>
   </wpt>
   <wpt lat="52.84412777802032" lon="5.469869444406884">
     <name>SB-OW 34</name>
-    <desc>vaarweg : STEILEBANK (IJSSELMEER)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.845236110968905" lon="5.423030555602835">
-    <name>SB-OW 4</name>
     <desc>vaarweg : STEILEBANK (IJSSELMEER)
 lich kleur : X
 model : stomp Geel</desc>
@@ -83728,7 +83707,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.863172222093034" lon="5.836202777357645">
+  <wpt lat="51.86334999969675" lon="5.836249999443776">
     <name>SW 3</name>
     <desc>vaarweg : SPIEGELWAAL
 lich kleur : X
