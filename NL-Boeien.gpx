@@ -7271,30 +7271,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.96076944419869" lon="4.088036111725367">
-    <name>B A</name>
-    <desc>vaarweg : BEERKANAAL
-licht type : Fl (flashing)
-licht periode : 3
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.96001944478253" lon="4.087822222104918">
-    <name>B B</name>
-    <desc>vaarweg : BEERKANAAL
-licht type : Fl (flashing)
-licht periode : 3
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3701</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.74168888882144" lon="3.633680555959219">
     <name>B Z</name>
     <desc>vaarweg : NOORDZEE
@@ -11748,9 +11724,8 @@ model : spar Groen</desc>
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
-model : stomp Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : stomp Geel</desc>
+    <sym>3701</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -11761,9 +11736,8 @@ No boei icon available in source data!</desc>
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
-model : stomp Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : stomp Geel</desc>
+    <sym>3701</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -11774,9 +11748,8 @@ No boei icon available in source data!</desc>
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
-model : stomp Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : stomp Geel</desc>
+    <sym>3701</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -11787,9 +11760,8 @@ No boei icon available in source data!</desc>
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
-model : stomp Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : stomp Geel</desc>
+    <sym>3701</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -11800,9 +11772,8 @@ No boei icon available in source data!</desc>
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
-model : stomp Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : stomp Geel</desc>
+    <sym>3701</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -41609,7 +41580,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.545486110932316" lon="6.435855555334355">
+  <wpt lat="53.544102778235604" lon="6.434766666160198">
     <name>L 11A</name>
     <desc>vaarweg : LAUWERS
 lich kleur : X
@@ -41651,7 +41622,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.544694444751585" lon="6.444327778074078">
+  <wpt lat="53.544577777415974" lon="6.442247222260456">
     <name>L 13</name>
     <desc>vaarweg : LAUWERS
 lich kleur : X
