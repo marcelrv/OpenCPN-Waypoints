@@ -71673,7 +71673,7 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.85299722232425" lon="5.872680554852007">
+  <wpt lat="51.85306388910717" lon="5.873180555148161">
     <name>RW 14</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
@@ -96596,6 +96596,36 @@ licht periode : 4
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1005</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.876024999817446" lon="5.791683333671808">
+    <name>W 9B</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : spits Groen</desc>
+    <sym>1003</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.87552777792314" lon="5.795561110973734">
+    <name>W 9C</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : spits Groen</desc>
+    <sym>1003</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.87475555527961" lon="5.799949999465968">
+    <name>W 9E</name>
+    <desc>vaarweg : BOVEN-RIJN EN WAAL
+lich kleur : X
+model : spits Groen</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
