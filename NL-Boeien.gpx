@@ -33896,7 +33896,7 @@ model : stomp Rood</desc>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
 model : stomp Rood</desc>
-    <sym>1003</sym>
+    <sym>1103</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -36533,9 +36533,8 @@ model : spar Groen</desc>
 licht type : LFl (long-flashing)
 licht periode : 6
 lich kleur : Groen
-model : spar Groen
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Groen</desc>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -46026,30 +46025,6 @@ licht periode : 4
 lich kleur : Rood
 model : stomp Rood</desc>
     <sym>1105</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.002697222429006" lon="5.091486110750627">
-    <name>MK-A</name>
-    <desc>vaarweg : MERWEDE KANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.0027833334751" lon="5.092086111334814">
-    <name>MK-B</name>
-    <desc>vaarweg : MERWEDE KANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
