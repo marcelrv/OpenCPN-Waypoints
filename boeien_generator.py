@@ -57,6 +57,12 @@ def process_gml(input_filename, outName, field_mapping, icon_mapping, epsg=None)
     featureDefn = outLayer.GetLayerDefn()
 
     reader = ogr.Open(input_filename, update=0)
+    if reader is None:
+        raise RuntimeError(
+            f"Failed to open '{input_filename}' as GML data. The downloaded file is "
+            "likely missing, empty or not valid GML (e.g. the source server returned "
+            "an error page instead of data)."
+        )
 
     print("GetLayerCount() = %d\n", reader.GetLayerCount())
     for iLayer in range(reader.GetLayerCount()):
@@ -205,6 +211,11 @@ def update_source_data(fn, urls):
         if not os.path.exists(fn) or (time.time() - os.path.getmtime(fn)) > max_age:
             print('Downloading %s' % fn)
             response = requests.get(url)
+            if not response.ok:
+                raise RuntimeError(
+                    f"Failed to download source data from '{url}': "
+                    f"HTTP {response.status_code} {response.reason}"
+                )
             data = response.text
             safeFile(fn, data)
         else:
