@@ -41441,7 +41441,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : bol Geel</desc>
-    <sym>5101</sym>
+    <sym>4201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -79743,7 +79743,7 @@ model : spar Geel/zwart</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.9344611113677" lon="5.053230555769423">
+  <wpt lat="52.932350000118" lon="5.05333611173474">
     <name>SPUIKAN 10</name>
     <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
 lich kleur : X
@@ -79753,7 +79753,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.935655555268255" lon="5.053119444649583">
+  <wpt lat="52.933169444534066" lon="5.053286110668793">
     <name>SPUIKAN 12</name>
     <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
 lich kleur : X
@@ -79763,7 +79763,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.93041111094848" lon="5.050258334053559">
+  <wpt lat="52.930247222088845" lon="5.049919444472459">
     <name>SPUIKAN 2</name>
     <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
 lich kleur : X
@@ -79783,7 +79783,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.93077222205396" lon="5.051297222159439">
+  <wpt lat="52.93067222180206" lon="5.051044445036115">
     <name>SPUIKAN 4</name>
     <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
 lich kleur : X
@@ -79803,7 +79803,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.93152222181035" lon="5.053344444369133">
+  <wpt lat="52.93108888862058" lon="5.05218611102209">
     <name>SPUIKAN 6</name>
     <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
 lich kleur : X
@@ -79823,7 +79823,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.933247222476005" lon="5.053269444071141">
+  <wpt lat="52.931513889242865" lon="5.053327777206729">
     <name>SPUIKAN 8</name>
     <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
 lich kleur : X
@@ -83595,6 +83595,36 @@ model : spar Geel</desc>
 lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.933977777568956" lon="5.053236111809118">
+    <name>Spuikan 14</name>
+    <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
+lich kleur : X
+model : afwijkend Geel</desc>
+    <sym>5301</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.93479444436017" lon="5.053200000187853">
+    <name>Spuikan 16</name>
+    <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
+lich kleur : X
+model : afwijkend Geel</desc>
+    <sym>5301</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.93560277807075" lon="5.053163888920219">
+    <name>Spuikan 18</name>
+    <desc>vaarweg : WIERINGER VLAAK (IJSSELMEER)
+lich kleur : X
+model : afwijkend Geel</desc>
+    <sym>5301</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -87749,6 +87779,16 @@ model : stomp Geel</desc>
     <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
 lich kleur : X
 model : stomp Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.97480000015033" lon="5.390711110732646">
+    <name>VF-OW 118</name>
+    <desc>vaarweg : NATUURGEBIED LANGS FRIESE KUST(IJSSELM.)
+lich kleur : X
+model : spar Geel</desc>
     <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -93120,12 +93160,38 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.036761111063065" lon="5.296075000593006">
+    <name>VMR-A</name>
+    <desc>vaarweg : KORNWERDERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.37005277758045" lon="5.627116667310405">
     <name>VMR-B</name>
     <desc>vaarweg : VELUWEMEER RECREATIE (RANDMEREN)
 lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.021161110796854" lon="5.306122222686451">
+    <name>VMR-B</name>
+    <desc>vaarweg : KORNWERDERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -93140,12 +93206,64 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="53.00593333377631" lon="5.300711111227963">
+    <name>VMR-C</name>
+    <desc>vaarweg : KORNWERDERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.36807777802512" lon="5.630277777685127">
     <name>VMR-D</name>
     <desc>vaarweg : VELUWEMEER RECREATIE (RANDMEREN)
 lich kleur : X
 model : spar Geel</desc>
     <sym>5000</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.99512499986513" lon="5.290919444453985">
+    <name>VMR-D</name>
+    <desc>vaarweg : KORNWERDERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.979536111305144" lon="5.293411110905049">
+    <name>VMR-E</name>
+    <desc>vaarweg : KORNWERDERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.95618333291019" lon="5.308994444842067">
+    <name>VMR-F</name>
+    <desc>vaarweg : KORNWERDERZAND (IJSSELMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
