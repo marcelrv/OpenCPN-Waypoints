@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2026-07-10T10:17:20.955000Z</time>
+    <time>2026-07-14T12:15:53.401000Z</time>
   </metadata>
   <wpt lat="52.8349518997784" lon="4.81026448308057">
     <name>Brug over Zeesluis (Hoge sluis)
@@ -10506,12 +10506,12 @@ Note: </desc>
   <wpt lat="52.402685307219144" lon="4.656803011894225">
     <name>Schoterbrug (Brug 1) [18]
 BB H5.7 W12
-Vast H9.3 W12</name>
+Vast H6.3 W12</name>
     <desc>Locatie: Noorder Buiten-Spaarne
 Type:    Bedienbare Brug
 VHF:     18
 Opening 1: BB H5.7 W12
-Opening 2: Vast H9.3 W12
+Opening 2: Vast H6.3 W12
 
 Bedieningstijden
 Periode 01-04 tot 04-05 (note: Werkdagen: Tot 22:00 uur de stad in, voor doorvaart door de stad uiterlijk 21:00 uur aanwezig voor de Waarderbrug (brug 2) of de Buitenrustbrug (brug 8).
@@ -45006,6 +45006,20 @@ Note: </desc>
       <text>Taanbrug online info</text>
     </link>
     <sym>Landmarks-Bridge2</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.09653845950385" lon="5.113404840230942">
+    <name>Monicabrug
+Vast H3.2 W?</name>
+    <desc>Locatie: Stadsbuitengracht
+Type:    Vaste Brug
+Opening 1: Vast H3.2 W?</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/63054596">
+      <text>Monicabrug online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
