@@ -24929,7 +24929,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.00261666691444" lon="6.110663888372825">
+  <wpt lat="52.00026111109265" lon="6.112805555643464">
     <name>GIJ 69B-A</name>
     <desc>vaarweg : GELDERSE IJSSEL
 lich kleur : X
@@ -60962,53 +60962,6 @@ model : spits Geel</desc>
 lich kleur : X
 model : spar Zwart/geel</desc>
     <sym>2031</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.21457777793375" lon="4.737102778203246">
-    <name>PIPE-E1</name>
-    <desc>vaarweg : NOORDZEE
-licht type : Q (quick-flashing)
-licht periode : 10
-lich kleur : Wit
-model : Pilaar Zwart/geel/zwart</desc>
-    <sym>2123</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.216222222211734" lon="4.731774999367119">
-    <name>PIPE-N1</name>
-    <desc>vaarweg : NOORDZEE
-licht type : Q (quick-flashing)
-lich kleur : Wit
-model : Pilaar Zwart/geel</desc>
-    <sym>2023</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.20907222251532" lon="4.732444443883894">
-    <name>PIPE-S1</name>
-    <desc>vaarweg : NOORDZEE
-licht type : quick-flash plus long- flash
-licht periode : 15
-lich kleur : Wit
-model : Pilaar Geel/zwart</desc>
-    <sym>2223</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="53.210886110694524" lon="4.727272222797123">
-    <name>PIPE-W1</name>
-    <desc>vaarweg : NOORDZEE
-licht type : Q (quick-flashing)
-licht periode : 15
-lich kleur : Wit
-model : Pilaar Geel/zwart/geel</desc>
-    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
