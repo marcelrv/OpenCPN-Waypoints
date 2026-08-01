@@ -85300,6 +85300,26 @@ model : spar Geel/zwart</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.880116666280664" lon="6.03125000020961">
+    <name>Ton 868.370R</name>
+    <desc>vaarweg : PANNENDERSEKANAAL
+lich kleur : X
+model : stomp Rood</desc>
+    <sym>1552</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8809166667023" lon="6.03053333362668">
+    <name>Ton 868.370R</name>
+    <desc>vaarweg : PANNENDERSEKANAAL
+lich kleur : X
+model : stomp Rood</desc>
+    <sym>1552</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.951616666712674" lon="5.952766666740356">
     <name>Ton 878.640R</name>
     <desc>vaarweg : GELDERSE IJSSEL
@@ -95778,6 +95798,18 @@ model : spits Groen</desc>
 lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8670777780483" lon="5.944224999333189">
+    <name>W 21 G</name>
+    <desc>vaarweg : OPHEF LOCATIE
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
+model : stomp Rood</desc>
+    <sym>1001</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
