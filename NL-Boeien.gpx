@@ -8025,7 +8025,7 @@ model : spar Geel</desc>
     <name>BE 4</name>
     <desc>vaarweg : BOCHT VAN WATUM
 lich kleur : X
-model : spar Geel</desc>
+model : spar Rood</desc>
     <sym>5101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -68793,7 +68793,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.32611111138623" lon="5.138069443957622">
+  <wpt lat="52.3261916670737" lon="5.137974999860201">
     <name>RADAR 3</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
 lich kleur : X
@@ -68803,7 +68803,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.32583888930871" lon="5.137438889309268">
+  <wpt lat="52.32592777767558" lon="5.137352777233122">
     <name>RADAR 4</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
 lich kleur : X
@@ -83034,6 +83034,26 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.41355555526407" lon="4.053738889283614">
+    <name>SVV 2</name>
+    <desc>vaarweg : SCHAAR VAN VALKENISSE
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.40713055561945" lon="4.063933332677878">
+    <name>SVV 4</name>
+    <desc>vaarweg : SCHAAR VAN VALKENISSE
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.40080555529793" lon="4.075638888671901">
     <name>SVV 6</name>
     <desc>vaarweg : SCHAAR VAN VALKENISSE
@@ -85276,9 +85296,8 @@ model : spits Groen</desc>
     <name>Ton 878.815L</name>
     <desc>vaarweg : NEDERRIJN
 lich kleur : X
-model : spits Groen
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spits Groen</desc>
+    <sym>1003</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -85297,9 +85316,8 @@ model : stomp Rood</desc>
     <name>Ton 878.870L</name>
     <desc>vaarweg : NEDERRIJN
 lich kleur : X
-model : spits Groen
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spits Groen</desc>
+    <sym>1003</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -104438,7 +104456,7 @@ licht type : very quick-flash plus long- fl
 licht periode : 10
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
-    <sym>4201</sym>
+    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
