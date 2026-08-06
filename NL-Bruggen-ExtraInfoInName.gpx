@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2026-08-04T12:27:15.269000Z</time>
+    <time>2026-08-06T14:56:19.776000Z</time>
   </metadata>
   <wpt lat="53.075938157953544" lon="7.14852497454558">
     <name>Vriescheloosterbrug
@@ -27491,10 +27491,10 @@ Note: Bij alle buitenbruggen kan er oponthoud zijn i.v.m. veerboten en treinen o
   </wpt>
   <wpt lat="52.0547082142075" lon="5.1087767214299">
     <name>Liesboschbrug
-BB H6.7 W12</name>
+BB H2.5 W12</name>
     <desc>Locatie: Merwedekanaal (benoorden de Lek)
 Type:    Bedienbare Brug
-Opening 1: BB H6.7 W12
+Opening 1: BB H2.5 W12
 
 Bedieningstijden
 Periode 01-04 tot 15-04:
@@ -104543,6 +104543,36 @@ Type:    Vaste Brug
 Opening 1: Vast H3.2 W?</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/63054596">
       <text>Monicabrug online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.69953836113734" lon="4.867625981569289">
+    <name>Spoorwegbrug Geertruidenberg (geruïneerd)
+Vast H? W12
+Vast H? W22</name>
+    <desc>Locatie: Donge
+Type:    Vaste Brug
+Opening 1: Vast H? W12
+Opening 2: Vast H? W22</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/63055279">
+      <text>Spoorwegbrug Geertruidenberg (geruïneerd) online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.6865327640693" lon="6.84988439083099">
+    <name>Voormalige spoorbrug NAM
+BB H? W9</name>
+    <desc>Locatie: Stieltjeskanaal
+Type:    Vaste Brug
+Opening 1: BB H? W9</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/63055307">
+      <text>Voormalige spoorbrug NAM online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
