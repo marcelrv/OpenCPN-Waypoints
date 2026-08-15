@@ -40364,6 +40364,18 @@ model : bol Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="0.000461475494972" lon="-1.488691089162615">
+    <name>KWN 2</name>
+    <desc>vaarweg : MAAS
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
+model : stomp Rood</desc>
+    <sym>1105</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="0.000461478200779" lon="-1.488691099017515">
     <name>KWN 4</name>
     <desc>vaarweg : MAAS
@@ -48362,16 +48374,6 @@ model : stomp Rood</desc>
   </wpt>
   <wpt lat="0.0004612779704" lon="-1.488691446626485">
     <name>ML 52B</name>
-    <desc>vaarweg : MAAS
-lich kleur : X
-model : stomp Rood</desc>
-    <sym>1101</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="0.000461042564427" lon="-1.488691835446822">
-    <name>ML 52C</name>
     <desc>vaarweg : MAAS
 lich kleur : X
 model : stomp Rood</desc>
@@ -83122,32 +83124,12 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="0.000464465407731" lon="-1.488707539675216">
-    <name>SVY 15</name>
-    <desc>vaarweg : SCHAAR VAN YERSEKE
-lich kleur : X
-model : spar Groen</desc>
-    <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="0.000464491563937" lon="-1.48870751727774">
     <name>SVY 16</name>
     <desc>vaarweg : SCHAAR VAN YERSEKE
 lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="0.0004644599961" lon="-1.488707548634211">
-    <name>SVY 17</name>
-    <desc>vaarweg : SCHAAR VAN YERSEKE
-lich kleur : X
-model : spar Groen</desc>
-    <sym>1041</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -83168,26 +83150,6 @@ model : spar Rood</desc>
 lich kleur : X
 model : spar Rood/groen</desc>
     <sym>1261</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="0.000464464505795" lon="-1.488707536987517">
-    <name>SVY 22</name>
-    <desc>vaarweg : SCHAAR VAN YERSEKE
-lich kleur : X
-model : spar Rood</desc>
-    <sym>1141</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="0.000464456388348" lon="-1.488707550426008">
-    <name>SVY 24</name>
-    <desc>vaarweg : SCHAAR VAN YERSEKE
-lich kleur : X
-model : spar Rood</desc>
-    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -104473,9 +104435,8 @@ model : bol Rood/wit</desc>
 licht type : Q (quick-flashing)
 licht periode : 15
 lich kleur : Wit
-model : Pilaar Geel/zwart/geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : Pilaar Geel/zwart/geel</desc>
+    <sym>2323</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -105018,7 +104979,7 @@ model : spar Geel</desc>
 licht type : Q (quick-flashing)
 lich kleur : Wit
 model : Pilaar Zwart/geel</desc>
-    <sym>2323</sym>
+    <sym>2023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
