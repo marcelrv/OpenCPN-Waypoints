@@ -31027,23 +31027,11 @@ model : spits Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.66770555595344" lon="3.763897222102293">
+  <wpt lat="52.59724444469401" lon="3.674061111099211">
     <name>HKW 6</name>
     <desc>vaarweg : NOORDZEE
 licht type : Fl (flashing)
 licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>3801</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.59724444469401" lon="3.674061111099211">
-    <name>HKW 6A</name>
-    <desc>vaarweg : NOORDZEE
-licht type : Fl (flashing)
-licht periode : 3
 lich kleur : Geel
 model : stomp Geel</desc>
     <sym>3801</sym>
@@ -51232,7 +51220,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.95970277802342" lon="5.778472222232373">
+  <wpt lat="51.95958611108544" lon="5.778702778216613">
     <name>NDR 10</name>
     <desc>vaarweg : NEDERRIJN
 licht type : Iso (isophased)
@@ -51256,7 +51244,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.95974722264118" lon="5.781813888567438">
+  <wpt lat="51.959497221945064" lon="5.781541666266795">
     <name>NDR 12</name>
     <desc>vaarweg : NEDERRIJN
 licht type : Iso (isophased)
@@ -51280,7 +51268,7 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.96010000027869" lon="5.784588889450582">
+  <wpt lat="51.9600249998619" lon="5.784449999500633">
     <name>NDR 14</name>
     <desc>vaarweg : NEDERRIJN
 licht type : Iso (isophased)
@@ -51500,7 +51488,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.95996111128015" lon="5.775994444131508">
+  <wpt lat="51.959891666792906" lon="5.776083333373772">
     <name>NDR 8A</name>
     <desc>vaarweg : NEDERRIJN
 licht type : Iso (isophased)
@@ -95296,9 +95284,8 @@ model : spar Rood</desc>
     <name>W 10</name>
     <desc>vaarweg : WORKUM (IJSSELMEER)
 lich kleur : X
-model : spar Rood
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Rood</desc>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
