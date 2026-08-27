@@ -43874,6 +43874,30 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.37608055575439" lon="4.932647222365964">
+    <name>Lijn78 Groen 1</name>
+    <desc>vaarweg : HET IJ (AMSTERDAM)
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Groen
+model : spar Groen</desc>
+    <sym>1045</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.37636111137597" lon="4.932747221755403">
+    <name>Lijn78 Rood 2</name>
+    <desc>vaarweg : HET IJ (AMSTERDAM)
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
+model : spar Rood</desc>
+    <sym>1145</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.33773611090561" lon="5.069319444396612">
     <name>M 10</name>
     <desc>vaarweg : MUIDEN (MARKERMEER)
