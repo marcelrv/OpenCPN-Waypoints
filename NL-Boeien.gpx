@@ -5633,7 +5633,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.26098333360928" lon="6.459897222822296">
+  <wpt lat="53.26110277759404" lon="6.458038889203229">
     <name>AD-A</name>
     <desc>vaarweg : VAN STARKENBORGHKANAAL
 licht type : Fl (flashing)
@@ -5645,8 +5645,32 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.260588889129636" lon="6.469630554860347">
+  <wpt lat="53.260911110893794" lon="6.461922222516157">
     <name>AD-B</name>
+    <desc>vaarweg : VAN STARKENBORGHKANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <sym>3701</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.260727777881876" lon="6.466377778299627">
+    <name>AD-C</name>
+    <desc>vaarweg : VAN STARKENBORGHKANAAL
+licht type : LFl (long-flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel</desc>
+    <sym>3701</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.26060555543016" lon="6.470505554908445">
+    <name>AD-D</name>
     <desc>vaarweg : VAN STARKENBORGHKANAAL
 licht type : Fl (flashing)
 licht periode : 5
@@ -40280,6 +40304,26 @@ model : spar Rood/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.52845555565035" lon="3.721494444850054">
+    <name>KVM-A</name>
+    <desc>vaarweg : VEERSE MEER
+lich kleur : X
+model : bol Geel</desc>
+    <sym>4101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.52830555582206" lon="3.722450000086004">
+    <name>KVM-B</name>
+    <desc>vaarweg : VEERSE MEER
+lich kleur : X
+model : bol Geel</desc>
+    <sym>4101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.06491666644713" lon="5.338099999610508">
     <name>KW 1</name>
     <desc>vaarweg : KORNWERDERZAND (IJSSELMEER)
@@ -58215,7 +58259,7 @@ licht type : VQ (very quick-flashing)
 licht periode : 5
 lich kleur : Wit
 model : Pilaar Zwart/geel/zwart</desc>
-    <sym>2131</sym>
+    <sym>2123</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
