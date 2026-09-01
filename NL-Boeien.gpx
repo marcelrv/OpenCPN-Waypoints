@@ -40324,6 +40324,26 @@ model : bol Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.55981666623482" lon="3.674361111373335">
+    <name>KVM-C</name>
+    <desc>vaarweg : VEERSE MEER
+lich kleur : X
+model : bol Geel</desc>
+    <sym>4101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.559888889296964" lon="3.676025000400351">
+    <name>KVM-D</name>
+    <desc>vaarweg : VEERSE MEER
+lich kleur : X
+model : bol Geel</desc>
+    <sym>4101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.06491666644713" lon="5.338099999610508">
     <name>KW 1</name>
     <desc>vaarweg : KORNWERDERZAND (IJSSELMEER)
@@ -43882,6 +43902,52 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.37857222215345" lon="4.93304722189615">
+    <name>Lijn78 Geel 1</name>
+    <desc>vaarweg : HET IJ (AMSTERDAM)
+licht type : Fl (flashing)
+licht periode : 10
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.38120555561376" lon="4.93315277740339">
+    <name>Lijn78 Geel 3</name>
+    <desc>vaarweg : HET IJ (AMSTERDAM)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.38380555555528" lon="4.933183333183737">
+    <name>Lijn78 Geel 6</name>
+    <desc>vaarweg : HET IJ (AMSTERDAM)
+licht type : Fl (flashing)
+licht periode : 10
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.38378611152005" lon="4.933374999416535">
+    <name>Lijn78 Geel 7</name>
+    <desc>vaarweg : HET IJ (AMSTERDAM)
+licht type : Fl (flashing)
+licht periode : 10
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.37608055575439" lon="4.932647222365964">
     <name>Lijn78 Groen 1</name>
     <desc>vaarweg : HET IJ (AMSTERDAM)
@@ -43890,6 +43956,18 @@ licht periode : 4
 lich kleur : Groen
 model : spar Groen</desc>
     <sym>1045</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.37994166646983" lon="4.933605555707856">
+    <name>Lijn78 Groen 4</name>
+    <desc>vaarweg : HET IJ (AMSTERDAM)
+licht type : Fl (flashing)
+licht periode : 10
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5542</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
