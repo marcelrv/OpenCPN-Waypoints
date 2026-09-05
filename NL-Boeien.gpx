@@ -55571,13 +55571,77 @@ model : bol Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.63922777749098" lon="6.009322222880195">
-    <name>NZM-H-A</name>
+  <wpt lat="52.642452777388606" lon="5.990619443939283">
+    <name>NZM-B</name>
+    <desc>vaarweg : RAMSDIEP (RANDMEREN)
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.64301388896022" lon="5.993552778042729">
+    <name>NZM-C</name>
     <desc>vaarweg : RAMSDIEP (RANDMEREN)
 lich kleur : X
 model : spar Geel
 No boei icon available in source data!</desc>
     <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.64311666701479" lon="5.995886110896537">
+    <name>NZM-D</name>
+    <desc>vaarweg : RAMSDIEP (RANDMEREN)
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.642719444107236" lon="5.998497222188937">
+    <name>NZM-E</name>
+    <desc>vaarweg : RAMSDIEP (RANDMEREN)
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.64189722201131" lon="6.000980554865428">
+    <name>NZM-F</name>
+    <desc>vaarweg : RAMSDIEP (RANDMEREN)
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.64089999996611" lon="6.004027777729102">
+    <name>NZM-G</name>
+    <desc>vaarweg : RAMSDIEP (RANDMEREN)
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.63922777749098" lon="6.009322222880195">
+    <name>NZM-H-A</name>
+    <desc>vaarweg : RAMSDIEP (RANDMEREN)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -55586,15 +55650,24 @@ No boei icon available in source data!</desc>
     <name>NZM-H-B</name>
     <desc>vaarweg : RAMSDIEP (RANDMEREN)
 lich kleur : X
-model : spar Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Geel</desc>
+    <sym>5541</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
   <wpt lat="52.63799444440427" lon="6.01144722207335">
     <name>NZM-H-C</name>
+    <desc>vaarweg : RAMSDIEP (RANDMEREN)
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.6401527780516" lon="6.006011111747815">
+    <name>NZM-H</name>
     <desc>vaarweg : RAMSDIEP (RANDMEREN)
 lich kleur : X
 model : spar Geel
@@ -55670,6 +55743,28 @@ model : stomp Geel</desc>
 lich kleur : X
 model : stomp Geel</desc>
     <sym>5511</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.6404222225144" lon="5.981711110820743">
+    <name>NZM-U</name>
+    <desc>vaarweg : RAMSDIEP (RANDMEREN)
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.64123611123768" lon="5.984205555764271">
+    <name>NZM-V</name>
+    <desc>vaarweg : RAMSDIEP (RANDMEREN)
+lich kleur : X
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -85362,26 +85457,6 @@ model : spits Groen</desc>
     <desc>vaarweg : OPHEF LOCATIE
 model : stomp Rood/wit repeterend</desc>
     <sym>1552</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.97277222228713" lon="5.974150000540238">
-    <name>Ton 881.950L</name>
-    <desc>vaarweg : GELDERSE IJSSEL
-lich kleur : X
-model : spits Groen</desc>
-    <sym>1003</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.973430555525916" lon="5.977441666856186">
-    <name>Ton 882.400L</name>
-    <desc>vaarweg : GELDERSE IJSSEL
-lich kleur : X
-model : spits Groen</desc>
-    <sym>1003</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
