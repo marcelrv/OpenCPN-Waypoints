@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2026-09-03T11:59:18.380000Z</time>
+    <time>2026-09-07T12:07:35.167000Z</time>
   </metadata>
   <wpt lat="53.075938157953544" lon="7.14852497454558">
     <name>Vriescheloosterbrug</name>
@@ -100396,6 +100396,19 @@ Type:    Vaste Brug
 Opening 1: BB H? W9</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/63055307">
       <text>Voormalige spoorbrug NAM online info</text>
+    </link>
+    <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.16130415822258" lon="4.50399823486805">
+    <name>Loviumbrug</name>
+    <desc>Locatie: De Haven
+Type:    Vaste Brug
+Opening 1: Vast H1.1 W10</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/63059232">
+      <text>Loviumbrug online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
     <extensions>
