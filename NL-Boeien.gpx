@@ -11858,7 +11858,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.226261110898925" lon="6.166227777760396">
+  <wpt lat="53.22797777740904" lon="6.172436111542918">
     <name>BV A</name>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
 licht type : Fl (flashing)
@@ -11870,7 +11870,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.226369444899994" lon="6.166891666521806">
+  <wpt lat="53.22789444410776" lon="6.172761110900467">
     <name>BV B</name>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
 licht type : Fl (flashing)
@@ -11882,7 +11882,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.22711111079379" lon="6.169786111431141">
+  <wpt lat="53.29618611113678" lon="6.177105555411432">
     <name>BV C</name>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
 licht type : Fl (flashing)
@@ -11894,7 +11894,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.22823611152588" lon="6.173602777875317">
+  <wpt lat="53.23189444427028" lon="6.182180556196625">
     <name>BV D</name>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
 licht type : Fl (flashing)
@@ -11906,7 +11906,7 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.228402777669835" lon="6.173680555253003">
+  <wpt lat="53.232188888818875" lon="6.182455555165598">
     <name>BV E</name>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
 licht type : Fl (flashing)
@@ -43739,7 +43739,7 @@ licht type : Fl (flashing)
 licht periode : 10
 lich kleur : Geel
 model : spar Geel</desc>
-    <sym>1041</sym>
+    <sym>5542</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -50106,6 +50106,17 @@ model : spits Geel</desc>
 lich kleur : X
 model : stomp Geel</desc>
     <sym>3001</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.39228333322514" lon="4.231949999289966">
+    <name>MT-Bath</name>
+    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
+lich kleur : X
+model : stomp Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
