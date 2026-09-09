@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2026-09-08T10:15:47.898000Z</time>
+    <time>2026-09-09T14:28:34.343000Z</time>
   </metadata>
   <wpt lat="53.075938157953544" lon="7.14852497454558">
     <name>Vriescheloosterbrug
@@ -8322,7 +8322,7 @@ Op zon- en feestdagen is er op deze kanaalvakken geen bediening.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.027371931701396" lon="5.039187899383251">
+  <wpt lat="52.02737438462259" lon="5.039190592069643">
     <name>Kerspelbrug
 Vast H5.5 W18</name>
     <desc>Locatie: Gekanaliseerde Hollandsche IJssel
@@ -16079,7 +16079,7 @@ Periode 01-04 tot 31-03 (note: Alleen op afroep, 48-uur tevoren aanvragen op tel
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.2033304239539" lon="5.70167524764907">
+  <wpt lat="53.203341893972066" lon="5.701728950079996">
     <name>Miedtille
 Vast H2.2 W7</name>
     <desc>Locatie: Ballensvaart
@@ -24902,7 +24902,7 @@ Brug heeft zelf geen marifoon, communicatie loopt via de Nautisch Verkeersleider
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.5208444904158" lon="6.0690450668335">
+  <wpt lat="52.52087033382426" lon="6.069027635094242">
     <name>Frankhuisbrug
 Vast H8.7 W46</name>
     <desc>Locatie: Zwolle-IJsselkanaal
@@ -31613,12 +31613,14 @@ De brug mag bediend worden tot en met een gemiddelde windsnelheid (gemeten over 
   </wpt>
   <wpt lat="52.0009607735451" lon="4.69341392066174">
     <name>Brug over buitenhoofd Julianasluis [18]
+BB H1.9 W12
 BB H1.9 W12</name>
     <desc>Locatie: Gouwekanaal
 Type:    Bedienbare Brug
 VHF:     18
 Contact PhoneNumber:0182-513096
 Opening 1: BB H1.9 W12
+Opening 2: BB H1.9 W12
 
 Bedieningstijden
 Periode 01-01 tot 01-01 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
@@ -53916,7 +53918,7 @@ Note: </desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.4670865899638" lon="5.69358944892883">
+  <wpt lat="51.46709654428406" lon="5.693571095180232">
     <name>Fietsbrug over benedenhoofd sluis Helmond
 Vast H21.0 W13</name>
     <desc>Locatie: Omleiding te Helmond, Zuid-Willemsvaart
@@ -59841,7 +59843,7 @@ Opening 1: Vast H2.5 W17</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.6961945333011" lon="4.85751090153397">
+  <wpt lat="51.69595243452815" lon="4.856728168961126">
     <name>Koedambrug
 Vast H5.5 W20</name>
     <desc>Locatie: Noordergat, Donge
@@ -66883,60 +66885,15 @@ Opening 1: Vast H4.0 W15</desc>
   </wpt>
   <wpt lat="52.7912216048161" lon="4.91702696108122">
     <name>Brug over benedenhoofd Westfrieschesluis [0881110435]
-BB H5.2 W7</name>
+Vast H5.2 W7</name>
     <desc>Locatie: Westfriesche Vaart
-Type:    Bedienbare Brug
+Type:    Vaste Brug
 Contact PhoneNumber:0881110435
-Opening 1: BB H5.2 W7
-
-Bedieningstijden
-Periode 01-01 tot 31-03:
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   04:30 - 20:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 16:45: Za, excl. feestdagen. 
-Periode 01-04 tot 04-05:
-   04:30 - 20:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 19:45: Za, excl. feestdagen. 
-   07:00 - 19:45: Zo, incl. feestdagen. 
-Periode 05-05 tot 13-05:
-   04:30 - 20:45: Ma, Di, Wo, Do, Vr, incl. feestdagen. 
-   05:00 - 19:45: Za, excl. feestdagen. 
-   07:00 - 19:45: Zo, excl. feestdagen. 
-Periode 14-05 tot 23-05:
-   04:30 - 20:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 19:45: Za, excl. feestdagen. 
-   07:00 - 19:45: Zo, incl. feestdagen. 
-Periode 24-05 tot 31-05:
-   04:30 - 20:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 19:45: Za, excl. feestdagen. 
-   07:00 - 19:45: Zo, excl. feestdagen. 
-   07:00 - 20:45: incl. feestdagen. 
-Periode 01-06 tot 15-09:
-   04:30 - 20:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 20:45: Za, excl. feestdagen. 
-   07:00 - 20:45: Zo, excl. feestdagen. 
-Periode 16-09 tot 31-10:
-   04:30 - 20:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 19:45: Za, excl. feestdagen. 
-   07:00 - 19:45: Zo, excl. feestdagen. 
-Periode 01-11 tot 23-12:
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   04:30 - 20:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 16:45: Za, excl. feestdagen. 
-Periode 24-12 tot 24-12:
-   04:30 - 15:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-Periode 25-12 tot 30-12:
-   23:00 - 22:59: Zo, incl. feestdagen. 
-   04:30 - 20:45: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
-   05:00 - 16:45: Za, excl. feestdagen. 
-Periode 31-12 tot 31-12:
-   04:30 - 15:00: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
-
-Note: Bediening van de brug is al vanaf 2014 niet mogelijk.</desc>
+Opening 1: Vast H5.2 W7</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/48419">
       <text>Brug over benedenhoofd Westfrieschesluis online info</text>
     </link>
-    <sym>Landmarks-Bridge2</sym>
+    <sym>Landmarks-Bridge1</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70058,7 +70015,7 @@ Opening 2: BB H1.8 W8
 Bedieningstijden
 Periode 01-01 tot 04-01 (note: Op 24 dec. en 31 dec. bediening tot 16.00 uur.):
    23:00 - 22:59: Zo, incl. feestdagen. 
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+   07:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 Periode 05-01 tot 31-03:
    23:00 - 22:59: Zo, excl. feestdagen. 
    07:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
@@ -70098,10 +70055,10 @@ Periode 15-12 tot 21-12 (note: Op 24 dec. en 31 dec. bediening tot 16.00 uur.):
    07:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 22-12 tot 28-12 (note: Op 24 dec. en 31 dec. bediening tot 16.00 uur.):
    23:00 - 22:59: Za, Zo, incl. feestdagen. 
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
+   07:00 - 16:00: Ma, Di, Wo, Do, Vr, excl. feestdagen. 
 Periode 29-12 tot 31-12 (note: Op 24 dec. en 31 dec. bediening tot 16.00 uur.):
    23:00 - 22:59: Zo, excl. feestdagen. 
-   08:00 - 15:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
+   07:00 - 16:00: Ma, Di, Wo, Do, Vr, Za, excl. feestdagen. 
 
 Note: De laatste schutting begint een kwartier voor sluitingstijd.</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/50937">
@@ -70593,7 +70550,7 @@ Houd rekening met aanrijtijd of enige vertraging.</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.045460705659" lon="5.01848346792268">
+  <wpt lat="52.04539479115374" lon="5.018522369500714">
     <name>Meerlobrug
 Vast H5.2 W25</name>
     <desc>Locatie: Gekanaliseerde Hollandsche IJssel
@@ -79758,12 +79715,14 @@ Note: In dringende gevallen, na voorafgaand verzoek, kan gelegenheid tot doorvaa
   </wpt>
   <wpt lat="52.0022842727081" lon="4.69378720060278">
     <name>Brug over binnenhoofd Julianasluis [18]
+BB H2.6 W12
 BB H2.6 W12</name>
     <desc>Locatie: Gouwekanaal
 Type:    Bedienbare Brug
 VHF:     18
 Contact PhoneNumber:0182-513096
 Opening 1: BB H2.6 W12
+Opening 2: BB H2.6 W12
 
 Bedieningstijden
 Periode 01-01 tot 01-01 (note: Op 24 en 31 december - geen zaterdag of zondag zijnde - wordt bediend tot 18:00 uur.):
@@ -88078,9 +88037,11 @@ Aanmeldtijd voor een brugopening is tot 15 min voor einde bedientijd.</desc>
     </extensions>
   </wpt>
   <wpt lat="52.0824117715547" lon="5.07477164268494">
-    <name>Stadbaan Leidscherijn brug</name>
+    <name>Stadbaan Leidscherijn brug
+Vast H7.5 W16</name>
     <desc>Locatie: Leidsche Rijn
-Type:    Vaste Brug</desc>
+Type:    Vaste Brug
+Opening 1: Vast H7.5 W16</desc>
     <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/20227730">
       <text>Stadbaan Leidscherijn brug online info</text>
     </link>
@@ -94296,7 +94257,7 @@ Opening 1: Vast H2.0 W9</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.4330807171786" lon="4.83415737748146">
+  <wpt lat="52.43303463848295" lon="4.834039027628022">
     <name>Brug Hanenpadsluis
 Vast H2.6 W4.8</name>
     <desc>Locatie: Hanenpadsloot
@@ -98814,7 +98775,7 @@ Opening 1: Vast H7.0 W4.0</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.377333" lon="4.932614">
+  <wpt lat="52.377337871137115" lon="4.9326158248004495">
     <name>Ideebrug (Brug 1985)
 Vast H? W4.0</name>
     <desc>Locatie: Seranggracht
@@ -98870,7 +98831,7 @@ Opening 1: Vast H? W3.0</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.377858" lon="4.929672">
+  <wpt lat="52.377850542185485" lon="4.929699511849321">
     <name>Imagebrug (Brug 1989)
 Vast H? W3.0</name>
     <desc>Locatie: Majanggracht
