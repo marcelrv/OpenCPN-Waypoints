@@ -10785,6 +10785,17 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.39499999993976" lon="4.23696666661349">
+    <name>BS 1</name>
+    <desc>vaarweg : SCHELDE RIJN KANAAL
+lich kleur : X
+model : stomp Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.21783333369724" lon="5.29364166645578">
     <name>BS 15</name>
     <desc>vaarweg : BLAUWE SLENK
@@ -10994,6 +11005,17 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.4021333333131" lon="4.235849999991232">
+    <name>BS 2</name>
+    <desc>vaarweg : SCHELDE RIJN KANAAL
+lich kleur : X
+model : stomp Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.18733611151233" lon="5.331324999663622">
     <name>BS 25</name>
     <desc>vaarweg : BLAUWE SLENK
@@ -11069,6 +11091,17 @@ licht periode : 10
 lich kleur : Groen
 model : Pilaar Groen/rood/groen</desc>
     <sym>1312</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.41015000014512" lon="4.234183333879465">
+    <name>BS 3</name>
+    <desc>vaarweg : SCHELDE RIJN KANAAL
+lich kleur : X
+model : stomp Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -17001,7 +17034,7 @@ licht type : VQ (very quick-flashing)
 licht periode : 5
 lich kleur : Wit
 model : Pilaar Zwart/geel/zwart</desc>
-    <sym>2123</sym>
+    <sym>2131</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -50114,9 +50147,8 @@ model : stomp Geel</desc>
     <name>MT-Bath</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 lich kleur : X
-model : stomp Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -91459,7 +91491,7 @@ licht type : LFl (long-flashing)
 licht periode : 8
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>5512</sym>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
