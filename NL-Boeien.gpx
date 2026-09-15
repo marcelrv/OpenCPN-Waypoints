@@ -55309,7 +55309,7 @@ model : spits Groen</desc>
 licht type : Q (quick-flashing)
 lich kleur : Groen
 model : bol Groen/rood</desc>
-    <sym>1202</sym>
+    <sym>2023</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -96330,18 +96330,6 @@ model : spits Groen</desc>
 lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.959666666622674" lon="5.401866666216114">
-    <name>W 5A</name>
-    <desc>vaarweg : WORKUM (IJSSELMEER)
-licht type : Iso (isophased)
-licht periode : 4
-lich kleur : Groen
-model : spar Groen</desc>
-    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
