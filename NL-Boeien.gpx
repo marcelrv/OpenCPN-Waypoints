@@ -13302,12 +13302,15 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.37337500020539" lon="4.99527499999377">
+  <wpt lat="52.37316666637065" lon="4.994322221767166">
     <name>D 1</name>
     <desc>vaarweg : DURGERDAM (MARKERMEER)
-lich kleur : X
-model : spar Groen</desc>
-    <sym>1041</sym>
+licht type : LFl (long-flashing)
+licht periode : 5
+lich kleur : Groen
+model : spar Groen
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -13379,6 +13382,16 @@ model : spar Groen/rood/groen</desc>
   <wpt lat="53.274900000020075" lon="7.164180555210705">
     <name>D 19</name>
     <desc>vaarweg : DOLLARD
+lich kleur : X
+model : spar Groen</desc>
+    <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.37474722215396" lon="4.993969444690404">
+    <name>D 1A</name>
+    <desc>vaarweg : DURGERDAM (MARKERMEER)
 lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
@@ -13718,7 +13731,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.37309999975741" lon="4.994616666462264">
+  <wpt lat="52.374719444199044" lon="4.993397221678405">
     <name>D 4</name>
     <desc>vaarweg : DURGERDAM (MARKERMEER)
 lich kleur : X
@@ -13886,6 +13899,19 @@ model : spar Rood</desc>
 lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.37338888894031" lon="4.993672222050749">
+    <name>D 6</name>
+    <desc>vaarweg : DURGERDAM (MARKERMEER)
+licht type : LFl (long-flashing)
+licht periode : 5
+lich kleur : Rood
+model : spar Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -40814,7 +40840,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.37469722252051" lon="5.121552777845544">
+  <wpt lat="52.365422222378" lon="5.121227778503903">
     <name>Kite-MZ 1</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
 lich kleur : X
@@ -40824,7 +40850,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.37036111147915" lon="5.116827777520069">
+  <wpt lat="52.36570555568477" lon="5.116674999695996">
     <name>Kite-MZ 2</name>
     <desc>vaarweg : IJMEER (MARKERMEER)
 lich kleur : X
@@ -43630,6 +43656,196 @@ model : spar Geel</desc>
 lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.364713888952366" lon="5.088638888397736">
+    <name>Lijn 74 Geel 1</name>
+    <desc>vaarweg : IJMEER (MARKERMEER)
+licht type : LFl (long-flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.36421944427491" lon="5.084427778428905">
+    <name>Lijn 74 Geel 2</name>
+    <desc>vaarweg : IJMEER (MARKERMEER)
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.36700555558916" lon="5.111352777636874">
+    <name>Lijn 74 Groen 1</name>
+    <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
+model : spar Groen
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.362813888512605" lon="5.069961110652179">
+    <name>Lijn 74 Groen 3</name>
+    <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
+model : spar Groen
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.36011944474251" lon="5.053847222009296">
+    <name>Lijn 74 Groen 5</name>
+    <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
+model : spar Groen
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.36690555588361" lon="5.110311110453575">
+    <name>Lijn 74 Rood 2</name>
+    <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
+model : spar Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.36263055565993" lon="5.068305555686442">
+    <name>Lijn 74 Rood 4</name>
+    <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
+model : spar Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.35996388859304" lon="5.053158333487478">
+    <name>Lijn 74 Rood 6</name>
+    <desc>vaarweg : IJMEER (MARKERMEER)
+lich kleur : X
+model : spar Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.36960277813411" lon="5.037655555651118">
+    <name>Lijn 75 Geel 1</name>
+    <desc>vaarweg : DURGERDAM (MARKERMEER)
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.37415555598622" lon="4.99152222205614">
+    <name>Lijn 75 Geel 2</name>
+    <desc>vaarweg : DURGERDAM (MARKERMEER)
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.3751611109968" lon="4.98873888844992">
+    <name>Lijn 75 Geel 5</name>
+    <desc>vaarweg : DURGERDAM (MARKERMEER)
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.34690833300165" lon="5.047900000032291">
+    <name>Lijn 75 Groen 1</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : spar Groen
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.35351388886601" lon="5.035491666783716">
+    <name>Lijn 75 Groen 3</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : spar Groen
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.36698055574634" lon="5.043611110451744">
+    <name>Lijn 75 Groen 5</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : Groen
+model : spar Groen
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.34641666657722" lon="5.048786110469007">
+    <name>Lijn 75 Rood 2</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : spar Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.35303888899653" lon="5.036388889306384">
+    <name>Lijn 75 Rood 4</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+lich kleur : X
+model : spar Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.353038888849305" lon="5.035888888565895">
+    <name>Lijn 75 Rood 6</name>
+    <desc>vaarweg : MARKERMEER (MARKERMEER)
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
+model : spar Rood
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -90179,7 +90395,7 @@ model : spits Groen</desc>
     <desc>vaarweg : VEERSE MEER
 licht type : LFl (long-flashing)
 licht periode : 5
-lich kleur : Rood
+lich kleur : Groen
 model : spits Groen</desc>
     <sym>1001</sym>
     <extensions>
@@ -92101,7 +92317,9 @@ model : spar Groen</desc>
   <wpt lat="51.52007222226149" lon="3.693777778042799">
     <name>VM 62</name>
     <desc>vaarweg : VEERSE MEER
-lich kleur : X
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
 model : stomp Rood</desc>
     <sym>1101</sym>
     <extensions>
