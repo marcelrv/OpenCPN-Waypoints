@@ -35649,7 +35649,7 @@ licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Groen
 model : spar Groen</desc>
-    <sym>1043</sym>
+    <sym>1047</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -43760,6 +43760,16 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.37498055566903" lon="4.989238888906065">
+    <name>Lijn 75 Geel 4</name>
+    <desc>vaarweg : DURGERDAM (MARKERMEER)
+model : spar Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.3751611109968" lon="4.98873888844992">
     <name>Lijn 75 Geel 5</name>
     <desc>vaarweg : DURGERDAM (MARKERMEER)
@@ -50291,6 +50301,31 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.93887777735181" lon="5.042027777059951">
+    <name>MT-A</name>
+    <desc>vaarweg : VAARWATER NAAR DEN OEVER
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : stomp Geel</desc>
+    <sym>1005</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.93895277733257" lon="5.044022222746876">
+    <name>MT-B</name>
+    <desc>vaarweg : VAARWATER NAAR DEN OEVER
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : stomp Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.39228333322514" lon="4.231949999289966">
     <name>MT-Bath</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
@@ -56025,8 +56060,8 @@ model : spar Rood</desc>
 licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Rood
-model : stomp Rood</desc>
-    <sym>1105</sym>
+model : spar Rood</desc>
+    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -57634,8 +57669,8 @@ model : spits Groen</desc>
 licht type : Iso (isophased)
 licht periode : 8
 lich kleur : Groen
-model : spits Groen</desc>
-    <sym>1005</sym>
+model : spar Groen</desc>
+    <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
