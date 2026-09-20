@@ -43763,9 +43763,8 @@ model : spar Geel</desc>
   <wpt lat="52.37498055566903" lon="4.989238888906065">
     <name>Lijn 75 Geel 4</name>
     <desc>vaarweg : DURGERDAM (MARKERMEER)
-model : spar Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : spar Geel</desc>
+    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -50308,7 +50307,7 @@ licht type : Fl (flashing)
 licht periode : 20
 lich kleur : Geel
 model : stomp Geel</desc>
-    <sym>1005</sym>
+    <sym>3801</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -50319,9 +50318,8 @@ model : stomp Geel</desc>
 licht type : Fl (flashing)
 licht periode : 20
 lich kleur : Geel
-model : stomp Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : stomp Geel</desc>
+    <sym>3801</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
