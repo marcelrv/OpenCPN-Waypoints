@@ -10,7 +10,7 @@
       <year>2022</year>
       <license>CC BY-NC-SA 4.0</license>
     </copyright>
-    <time>2026-09-16T15:05:33.908000Z</time>
+    <time>2026-09-21T11:31:12.031000Z</time>
   </metadata>
   <wpt lat="52.8349518997784" lon="4.81026448308057">
     <name>Brug over Zeesluis (Hoge sluis)
@@ -45000,6 +45000,26 @@ Opening 5: Vast H12.6 W?</desc>
       <text>Hollandse Brug 2 online info</text>
     </link>
     <sym>Landmarks-Bridge1</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.97830075774945" lon="4.652638211846351">
+    <name>Boezembrug [06 20 12 77 27]
+BB H-1.3 W6</name>
+    <desc>Locatie: Ringvaart van de Zuidplaspolder
+Type:    Bedienbare Brug
+Contact PhoneNumber:06 20 12 77 27
+Opening 1: BB H-1.3 W6
+
+Bedieningstijden
+Periode 01-01 tot 31-12 (note: Zelfbediening: Bedientijden: 1 uur na zonsopgang tot 1 uur voor zonsondergang.):
+   23:00 - 22:59: Ma, Di, Wo, Do, Vr, Za, Zo, incl. feestdagen. 
+</desc>
+    <link href="https://vaarweginformatie.nl/frp/main/#/geo/detail/BRIDGE/63060262">
+      <text>Boezembrug online info</text>
+    </link>
+    <sym>Landmarks-Bridge2</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="160000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
