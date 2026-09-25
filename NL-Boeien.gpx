@@ -6128,12 +6128,32 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.89120000015786" lon="5.46139999941599">
+    <name>AK 4</name>
+    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
+lich kleur : X
+model : stomp Rood</desc>
+    <sym>5542</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.35951944411924" lon="4.959377778454898">
     <name>AK 5</name>
     <desc>vaarweg : AMSTERDAM-RIJNKANAAL
 lich kleur : X
 model : spits Groen</desc>
     <sym>1003</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.89050000007056" lon="5.461899999315987">
+    <name>AK 6</name>
+    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
+lich kleur : X
+model : stomp Rood</desc>
+    <sym>5201</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -33639,7 +33659,7 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.89838333358445" lon="5.536533333684502">
+  <wpt lat="51.898388889182506" lon="5.53666666642469">
     <name>IJD 4</name>
     <desc>vaarweg : BOVEN-RIJN EN WAAL
 lich kleur : X
@@ -104443,7 +104463,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.46094722249505" lon="3.522986111391372">
+  <wpt lat="51.4601666669737" lon="3.523666666387557">
     <name>ZS-DH</name>
     <desc>vaarweg : OOSTGAT
 licht type : Q (quick-flashing)
