@@ -2981,7 +2981,7 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.43505277786973" lon="3.99232777760371">
+  <wpt lat="51.435230555901306" lon="3.993058333742083">
     <name>47</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 licht type : Q (quick-flashing)
@@ -3002,7 +3002,7 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.434877777455384" lon="4.000080556031922">
+  <wpt lat="51.43495277780958" lon="3.99998888960224">
     <name>47A</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 licht type : Iso (isophased)
@@ -3088,7 +3088,7 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.430211111250465" lon="4.013330555580694">
+  <wpt lat="51.430591666810706" lon="4.013244445057562">
     <name>49</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 licht type : Iso (isophased)
@@ -3202,7 +3202,7 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.42428333297114" lon="4.022661110529477">
+  <wpt lat="51.424519444889945" lon="4.023302777675489">
     <name>51</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 licht type : Q (quick-flashing)
@@ -3294,7 +3294,7 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.41787499992814" lon="4.02815277725644">
+  <wpt lat="51.4179777776591" lon="4.028952777521705">
     <name>53</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 licht type : Iso (isophased)
@@ -3316,7 +3316,7 @@ model : spar Groen/wit repeterend</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.41096388855902" lon="4.030286110510662">
+  <wpt lat="51.41094444431741" lon="4.030641666531177">
     <name>53A</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 licht type : Iso (isophased)
@@ -7545,6 +7545,16 @@ model : spar Geel/zwart/geel</desc>
 lich kleur : X
 model : spar Geel/zwart</desc>
     <sym>2233</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="53.42142777779394" lon="5.596505555798593">
+    <name>BB 10</name>
+    <desc>vaarweg : BLAUWE BALG
+lich kleur : X
+model : spar Rood</desc>
+    <sym>1141</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -13534,6 +13544,18 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.37338888894031" lon="4.993672222050749">
+    <name>D 2</name>
+    <desc>vaarweg : DURGERDAM (MARKERMEER)
+licht type : LFl (long-flashing)
+licht periode : 5
+lich kleur : Rood
+model : spar Rood</desc>
+    <sym>1145</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="53.040847222488935" lon="5.058827777195234">
     <name>D 2</name>
     <desc>vaarweg : DOOVE BALG
@@ -13908,18 +13930,6 @@ model : spar Rood</desc>
 lich kleur : X
 model : spar Groen</desc>
     <sym>1043</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.37338888894031" lon="4.993672222050749">
-    <name>D 6</name>
-    <desc>vaarweg : DURGERDAM (MARKERMEER)
-licht type : LFl (long-flashing)
-licht periode : 5
-lich kleur : Rood
-model : spar Rood</desc>
-    <sym>1145</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -17229,7 +17239,7 @@ licht type : Q (quick-flashing)
 licht periode : 10
 lich kleur : Wit
 model : Pilaar Zwart/geel/zwart</desc>
-    <sym>2323</sym>
+    <sym>2123</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -20522,7 +20532,7 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.42238333327092" lon="3.97619722189585">
+  <wpt lat="51.42250000010623" lon="3.975566666404007">
     <name>F 43</name>
     <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
 lich kleur : X
@@ -43850,7 +43860,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.353038888849305" lon="5.035888888565895">
+  <wpt lat="52.366561110963175" lon="5.011044444046847">
     <name>Lijn 75 Rood 6</name>
     <desc>vaarweg : MARKERMEER (MARKERMEER)
 licht type : Iso (isophased)
