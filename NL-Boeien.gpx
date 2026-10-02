@@ -6131,9 +6131,11 @@ model : spits Groen</desc>
   <wpt lat="51.89120000015786" lon="5.46139999941599">
     <name>AK 4</name>
     <desc>vaarweg : AMSTERDAM-RIJNKANAAL
-lich kleur : X
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1101</sym>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -6151,9 +6153,11 @@ model : spits Groen</desc>
   <wpt lat="51.89050000007056" lon="5.461899999315987">
     <name>AK 6</name>
     <desc>vaarweg : AMSTERDAM-RIJNKANAAL
-lich kleur : X
+licht type : Iso (isophased)
+licht periode : 4
+lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1101</sym>
+    <sym>1105</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -45861,6 +45865,30 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.002697222429006" lon="5.091486110750627">
+    <name>MK-A</name>
+    <desc>vaarweg : MERWEDE KANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0027833334751" lon="5.092086111334814">
+    <name>MK-B</name>
+    <desc>vaarweg : MERWEDE KANAAL
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.60299999986189" lon="6.024366667102331">
     <name>ML 10</name>
     <desc>vaarweg : MAAS
@@ -49278,6 +49306,30 @@ licht periode : 20
 lich kleur : Geel
 model : spar Geel</desc>
     <sym>5301</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.6930361111632" lon="4.831874999898822">
+    <name>MP-A</name>
+    <desc>vaarweg : AMER
+licht type : Fl (flashing)
+licht periode : 5
+lich kleur : Geel
+model : stomp Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.69293055515464" lon="4.832002778229979">
+    <name>MP-B</name>
+    <desc>vaarweg : AMER
+lich kleur : X
+model : stomp Geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
