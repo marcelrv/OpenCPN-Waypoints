@@ -6157,7 +6157,7 @@ licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Rood
 model : stomp Rood</desc>
-    <sym>1105</sym>
+    <sym>1101</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -11797,7 +11797,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.54726111066489" lon="3.980277777714229">
+  <wpt lat="51.54975277770857" lon="3.978258333576558">
     <name>BV 21</name>
     <desc>vaarweg : BRABANTSCHE VAARWATER
 lich kleur : X
@@ -11810,6 +11810,8 @@ model : spar Groen</desc>
   <wpt lat="51.54741666709295" lon="3.984116667211246">
     <name>BV 22</name>
     <desc>vaarweg : BRABANTSCHE VAARWATER
+licht type : Iso (isophased)
+licht periode : 4
 lich kleur : X
 model : spar Rood</desc>
     <sym>1141</sym>
@@ -11828,7 +11830,7 @@ model : spar Groen/rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.54178333361746" lon="3.989444445147347">
+  <wpt lat="51.54209722222919" lon="3.989936111274413">
     <name>BV 24</name>
     <desc>vaarweg : BRABANTSCHE VAARWATER
 licht type : LFl (long-flashing)
@@ -11980,6 +11982,19 @@ licht periode : 10
 lich kleur : Wit
 model : Pilaar Geel/zwart/geel</desc>
     <sym>2323</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.542613888894486" lon="3.978283333211381">
+    <name>BV-Z</name>
+    <desc>vaarweg : BRABANTSCHE VAARWATER
+licht type : very quick-flash plus long- fl
+licht periode : 10
+lich kleur : X
+model : spar Geel/zwart
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -14469,16 +14484,6 @@ model : spar Geel</desc>
   <wpt lat="51.64793888881082" lon="3.745491666808528">
     <name>DAM O 8</name>
     <desc>vaarweg : HAMMEN-SCHAAR (OLIEGEUL)
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.61066944407442" lon="3.702744444210003">
-    <name>DAM O 9</name>
-    <desc>vaarweg : ROOMPOT
 lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
@@ -17236,18 +17241,6 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.83420000003783" lon="3.629599999653696">
-    <name>DVA</name>
-    <desc>vaarweg : NOORDZEE
-licht type : Q (quick-flashing)
-licht periode : 10
-lich kleur : Wit
-model : Pilaar Zwart/geel/zwart</desc>
-    <sym>2123</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.96031388925778" lon="5.401419444381209">
     <name>DW-I</name>
     <desc>vaarweg : WORKUM (IJSSELMEER)
@@ -19935,7 +19928,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.60685277810361" lon="3.909202777685252">
+  <wpt lat="51.60557777748794" lon="3.908922221547963">
     <name>EV 3</name>
     <desc>vaarweg : ENGELSCHE VAARWATER
 licht type : LFl (long-flashing)
@@ -19957,7 +19950,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.6005777777623" lon="3.906952777944093">
+  <wpt lat="51.600458333350204" lon="3.908536111478228">
     <name>EV 5</name>
     <desc>vaarweg : ENGELSCHE VAARWATER
 lich kleur : X
@@ -19967,7 +19960,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.60557222264322" lon="3.914513889383775">
+  <wpt lat="51.605280555444104" lon="3.915055556081894">
     <name>EV 6</name>
     <desc>vaarweg : ENGELSCHE VAARWATER
 licht type : LFl (long-flashing)
@@ -19979,7 +19972,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.59435277758478" lon="3.905352777857298">
+  <wpt lat="51.593044444010566" lon="3.908086111203224">
     <name>EV 7-O 4</name>
     <desc>vaarweg : ENGELSCHE VAARWATER
 licht type : Q (quick-flashing)
@@ -40038,7 +40031,7 @@ model : spar Rood/groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.60496111078678" lon="3.955169444331281">
+  <wpt lat="51.605444444391736" lon="3.956930555415037">
     <name>KT 5</name>
     <desc>vaarweg : KEETEN-MASTGAT-ZIJPE
 licht type : LFl (long-flashing)
@@ -45872,7 +45865,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5541</sym>
+    <sym>5542</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -45884,7 +45877,7 @@ licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
 model : spar Geel</desc>
-    <sym>5541</sym>
+    <sym>5542</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -49316,9 +49309,8 @@ model : spar Geel</desc>
 licht type : Fl (flashing)
 licht periode : 5
 lich kleur : Geel
-model : stomp Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : stomp Geel</desc>
+    <sym>3701</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -49327,9 +49319,8 @@ No boei icon available in source data!</desc>
     <name>MP-B</name>
     <desc>vaarweg : AMER
 lich kleur : X
-model : stomp Geel
-No boei icon available in source data!</desc>
-    <sym>NoS57Id</sym>
+model : stomp Geel</desc>
+    <sym>3500</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -57849,6 +57840,19 @@ model : spar Geel</desc>
 lich kleur : X
 model : spar Geel</desc>
     <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.862936111438984" lon="3.887919445168239">
+    <name>OBST</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Q (quick-flashing)
+licht periode : 15
+lich kleur : Wit
+model : Pilaar Geel/zwart/geel
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
