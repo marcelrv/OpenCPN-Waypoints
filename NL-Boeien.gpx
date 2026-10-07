@@ -11812,7 +11812,7 @@ model : spar Groen</desc>
     <desc>vaarweg : BRABANTSCHE VAARWATER
 licht type : Iso (isophased)
 licht periode : 4
-lich kleur : X
+lich kleur : Rood
 model : spar Rood</desc>
     <sym>1141</sym>
     <extensions>
@@ -11991,7 +11991,7 @@ model : Pilaar Geel/zwart/geel</desc>
     <desc>vaarweg : BRABANTSCHE VAARWATER
 licht type : very quick-flash plus long- fl
 licht periode : 10
-lich kleur : X
+lich kleur : Wit
 model : spar Geel/zwart</desc>
     <sym>2231</sym>
     <extensions>
@@ -61610,18 +61610,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.95345277741349" lon="5.357769444779097">
-    <name>PM 10</name>
-    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>5512</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.871377777674084" lon="5.687044444616398">
     <name>PM 10</name>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
@@ -61866,18 +61854,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.95332222259393" lon="5.358416666171058">
-    <name>PM 12</name>
-    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>5512</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.87465277792215" lon="5.688641666260549">
     <name>PM 12</name>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
@@ -61970,18 +61946,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.9528638889169" lon="5.360319444920065">
-    <name>PM 14</name>
-    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>5512</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.87784722237142" lon="5.69025277798647">
     <name>PM 14</name>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
@@ -62016,7 +61980,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.95532777813574" lon="5.354761111112755">
+  <wpt lat="51.956044444261295" lon="5.350452777479154">
     <name>PM 1</name>
     <desc>vaarweg : AMSTERDAM-RIJNKANAAL
 licht type : Fl (flashing)
@@ -62040,18 +62004,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.95264999992914" lon="5.361136110768468">
-    <name>PM 16</name>
-    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>5512</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.88127777750132" lon="5.691955555580257">
     <name>PM 16</name>
     <desc>vaarweg : PRINSES MARGRIET KANAAL
@@ -62070,18 +62022,6 @@ model : spar Rood</desc>
 lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.952424999860405" lon="5.361936111365648">
-    <name>PM 18</name>
-    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>5512</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -62166,18 +62106,6 @@ model : spar Rood</desc>
 lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.95494722267896" lon="5.354527777188949">
-    <name>PM 2</name>
-    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>5512</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -62476,18 +62404,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.954394444308114" lon="5.355169443873312">
-    <name>PM 4</name>
-    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>5512</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.48825555599329" lon="5.077247221693113">
     <name>PM 4</name>
     <desc>vaarweg : PIETERMAN (MARKERMEER)
@@ -62746,18 +62662,6 @@ model : spar Rood</desc>
 lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.95399722262397" lon="5.35612222248571">
-    <name>PM 6</name>
-    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>5512</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -63037,18 +62941,6 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.95357222186427" lon="5.357150000491576">
-    <name>PM 8</name>
-    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : stomp Geel</desc>
-    <sym>5512</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="52.488250000116565" lon="5.069930555385385">
     <name>PM 8</name>
     <desc>vaarweg : PIETERMAN (MARKERMEER)
@@ -63255,18 +63147,6 @@ model : spar Rood</desc>
 lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.95550000034226" lon="5.353902777954198">
-    <name>PM A</name>
-    <desc>vaarweg : AMSTERDAM-RIJNKANAAL
-licht type : Fl (flashing)
-licht periode : 5
-lich kleur : Geel
-model : bol Geel</desc>
-    <sym>4301</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -70157,7 +70037,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.193816666323976" lon="4.864280555154299">
+  <wpt lat="53.19331944447686" lon="4.863163888864698">
     <name>RG 2-VH 1</name>
     <desc>vaarweg : ROBBENGAT (BOVEN TEXEL)
 lich kleur : X
@@ -88923,7 +88803,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.21758888892378" lon="4.933636111088683">
+  <wpt lat="53.217686110918095" lon="4.933155555022886">
     <name>VH 13</name>
     <desc>vaarweg : VLIEHORS
 lich kleur : X
@@ -88975,7 +88855,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.22150277749973" lon="4.942519443700502">
+  <wpt lat="53.22108333299104" lon="4.940755554795579">
     <name>VH 15</name>
     <desc>vaarweg : VLIEHORS
 lich kleur : X
@@ -89329,7 +89209,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.195205555451395" lon="4.89343888825086">
+  <wpt lat="53.1946444446827" lon="4.890080555962165">
     <name>VH 4</name>
     <desc>vaarweg : VLIEHORS
 lich kleur : X
@@ -89369,7 +89249,7 @@ model : spar Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.19745555586821" lon="4.90017777833221">
+  <wpt lat="53.196333333199185" lon="4.896344444805203">
     <name>VH 4A</name>
     <desc>vaarweg : VLIEHORS
 lich kleur : X
@@ -89389,7 +89269,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.193388888749006" lon="4.894569444724138">
+  <wpt lat="53.19263055584581" lon="4.891450000134674">
     <name>VH 5</name>
     <desc>vaarweg : VLIEHORS
 lich kleur : X
@@ -89469,7 +89349,7 @@ model : spar Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="53.195555555471834" lon="4.903969444092367">
+  <wpt lat="53.1946416662544" lon="4.899955554830459">
     <name>VH 7</name>
     <desc>vaarweg : VLIEHORS
 lich kleur : X
