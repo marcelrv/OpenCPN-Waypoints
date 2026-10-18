@@ -17706,11 +17706,10 @@ model : stomp Rood</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.37851388900632" lon="3.796669443734463">
+  <wpt lat="51.381597221816676" lon="3.794144444149003">
     <name>E 5</name>
     <desc>vaarweg : EVERINGEN
-licht type : Iso (isophased)
-licht periode : 8
+licht type : VQ (very quick-flashing)
 lich kleur : Groen
 model : spits Groen</desc>
     <sym>1005</sym>
@@ -17736,6 +17735,18 @@ model : spits Geel</desc>
 lich kleur : X
 model : spar Groen</desc>
     <sym>1041</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="51.37931666637427" lon="3.801688889140197">
+    <name>E 5A</name>
+    <desc>vaarweg : EVERINGEN
+licht type : Q (quick-flashing)
+lich kleur : Groen
+model : spits Groen
+No boei icon available in source data!</desc>
+    <sym>NoS57Id</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -50154,6 +50165,30 @@ model : stomp Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="52.15825277757863" lon="4.102400000713067">
+    <name>MT-NZB 1</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
+  <wpt lat="52.161008333343375" lon="4.106244443863779">
+    <name>MT-NZB 2</name>
+    <desc>vaarweg : NOORDZEE
+licht type : Fl (flashing)
+licht periode : 20
+lich kleur : Geel
+model : spar Geel</desc>
+    <sym>5101</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="52.12868611125374" lon="3.933000000676691">
     <name>MT-P 18</name>
     <desc>vaarweg : NOORDZEE
@@ -78834,96 +78869,6 @@ model : spar Geel</desc>
 lich kleur : X
 model : spar Geel</desc>
     <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.375352778075936" lon="3.789236111707908">
-    <name>SPER 1 (150KV)</name>
-    <desc>vaarweg : EVERINGEN
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.37487777762969" lon="3.797224999494705">
-    <name>SPER 11 (150KV)</name>
-    <desc>vaarweg : EVERINGEN
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.37428611111613" lon="3.796672222761098">
-    <name>SPER 13 (150KV)</name>
-    <desc>vaarweg : EVERINGEN
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.37378333349679" lon="3.796113888950533">
-    <name>SPER 15 (150KV)</name>
-    <desc>vaarweg : EVERINGEN
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.373238888488096" lon="3.795702777141406">
-    <name>SPER 17 (150KV)</name>
-    <desc>vaarweg : EVERINGEN
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.37590000037373" lon="3.789719443918445">
-    <name>SPER 3 (150KV)</name>
-    <desc>vaarweg : EVERINGEN
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.376444444784305" lon="3.790202777268771">
-    <name>SPER 5 (150KV)</name>
-    <desc>vaarweg : EVERINGEN
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.37593888869105" lon="3.792591666494445">
-    <name>SPER 7 (150KV)</name>
-    <desc>vaarweg : EVERINGEN
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5000</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="51.37542777743973" lon="3.794763889600061">
-    <name>SPER 9 (150KV)</name>
-    <desc>vaarweg : EVERINGEN
-lich kleur : X
-model : spar Geel</desc>
-    <sym>5000</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
