@@ -14460,6 +14460,16 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
+  <wpt lat="51.61066944407442" lon="3.702744444210003">
+    <name>DAM O 9</name>
+    <desc>vaarweg : ROOMPOT
+lich kleur : X
+model : spar Geel</desc>
+    <sym>5541</sym>
+    <extensions>
+      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
+    </extensions>
+  </wpt>
   <wpt lat="51.618269444365794" lon="3.669847222345386">
     <name>DAM W 11</name>
     <desc>vaarweg : ROOMPOT
@@ -21263,7 +21273,7 @@ model : spar Geel</desc>
     <desc>vaarweg : ENKHUIZERZAND (IJSSELMEER)
 licht type : Fl (flashing)
 licht periode : 5
-lich kleur : Wit
+lich kleur : Geel
 model : spar Geel</desc>
     <sym>5542</sym>
     <extensions>
