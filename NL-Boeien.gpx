@@ -5656,7 +5656,7 @@ model : spar Groen</desc>
     <desc>vaarweg : WOLDERWIJD RECREATIE (RANDMEREN)
 lich kleur : X
 model : spar Groen</desc>
-    <sym>1143</sym>
+    <sym>1043</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -49226,18 +49226,6 @@ model : spar Geel</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="51.351602777551804" lon="4.239466667186305">
-    <name>MP 6</name>
-    <desc>vaarweg : HOOFDVAARWATER WESTERSCHELDE
-licht type : Fl (flashing)
-licht periode : 20
-lich kleur : Geel
-model : spar Geel</desc>
-    <sym>5301</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.6930361111632" lon="4.831874999898822">
     <name>MP-A</name>
     <desc>vaarweg : AMER
@@ -51354,156 +51342,6 @@ model : spits Groen</desc>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
   </wpt>
-  <wpt lat="52.30071944486151" lon="5.317377777788818">
-    <name>NE-A</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.30067499969115" lon="5.317888889280251">
-    <name>NE-B</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.3006111111954" lon="5.318477777304046">
-    <name>NE-C</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.29991944460894" lon="5.319738888687205">
-    <name>NE-D</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.299138889194055" lon="5.32041388910552">
-    <name>NE-E</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.298322222021135" lon="5.321102778334837">
-    <name>NE-F</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.29753055583014" lon="5.321794443967819">
-    <name>NE-G</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.296730555330114" lon="5.322469443998961">
-    <name>NE-H</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.295930555407494" lon="5.323161110659441">
-    <name>NE-I</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.29512222224649" lon="5.323849999283496">
-    <name>NE-J</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.292350000427916" lon="5.316041666327899">
-    <name>NE-K</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.29160277794789" lon="5.315236110468514">
-    <name>NE-L</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.29084166696835" lon="5.314400000649342">
-    <name>NE-M</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.290066666863844" lon="5.313569444651942">
-    <name>NE-N</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.2893194441059" lon="5.31276388840594">
-    <name>NE-O</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
   <wpt lat="51.66652777788723" lon="4.201605554986195">
     <name>NE-OW 10</name>
     <desc>vaarweg : ZUID VLIJE
@@ -51550,26 +51388,6 @@ model : spar Geel</desc>
 lich kleur : X
 model : stomp Geel</desc>
     <sym>5541</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.28855555539474" lon="5.311944443773934">
-    <name>NE-P</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
-    <extensions>
-      <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
-    </extensions>
-  </wpt>
-  <wpt lat="52.287863889027236" lon="5.311197222314994">
-    <name>NE-Q</name>
-    <desc>vaarweg : EEMMEER (RANDMEREN)
-lich kleur : X
-model : stomp Geel</desc>
-    <sym>5511</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -55235,7 +55053,7 @@ model : spits Groen</desc>
 licht type : Q (quick-flashing)
 lich kleur : Groen
 model : bol Groen/rood</desc>
-    <sym>2023</sym>
+    <sym>1202</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
     </extensions>
@@ -85240,7 +85058,7 @@ model : stomp Rood/wit repeterend</desc>
     <name>Ton 975.340L</name>
     <desc>vaarweg : LEK
 lich kleur : X
-model : spits Groen/rood</desc>
+model : spits Groen</desc>
     <sym>1003</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
@@ -97928,7 +97746,7 @@ model : spar Groen</desc>
 licht type : Iso (isophased)
 licht periode : 4
 lich kleur : Groen
-model : spits Groen</desc>
+model : spar Groen</desc>
     <sym>1045</sym>
     <extensions>
       <opencpn:scale_min_max UseScale="True" ScaleMin="100000" ScaleMax="0"></opencpn:scale_min_max>
