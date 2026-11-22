@@ -16,6 +16,7 @@ import xml.etree.ElementTree as mod_etree
 
 import gpxpy
 import gpxpy.gpx
+import sys
 import requests
 from requests.exceptions import HTTPError
 
@@ -112,8 +113,12 @@ for ty in "var".split(","):
     except Exception as err:
         print(f'Other error occurred: {err}')
 
-print('Created GPX:', gpx.to_xml())
 fn = "Marrekrite-Aanlegplaatsen.gpx"
+if len(gpx.waypoints) == 0:
+    # Do not overwrite the published file with an empty one
+    print(f'GPX with 0 waypoints SKIPPED: {fn}')
+    sys.exit(0)
+print('Created GPX:', gpx.to_xml())
 f = open(fn, "w")
 f.write(gpx.to_xml())
 f.close()
