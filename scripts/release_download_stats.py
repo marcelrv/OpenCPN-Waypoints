@@ -13,8 +13,11 @@ snapshot to a `download-stats.json` asset in the same release, and uploads
 that file.
 
 What is new is decided per asset id, so double counting cannot happen:
-  - same asset id as last time: add (count - count at the last snapshot)
+  - asset id seen last time: add (count - count at the last snapshot)
   - new asset id (file was replaced): add its whole count
+Matching on the id (not the name) also covers the temporary names used by
+publish_release_assets.py: an asset renamed to `<name>.previous` or uploaded
+as `<name>.uploading` is counted under `<name>`, and never twice.
 A region that failed to regenerate keeps its old asset and is counted
 correctly on the next run. Downloads in the few seconds between the
 snapshot and the upload are lost; that is the only gap.
@@ -50,6 +53,8 @@ STATS_NAME = "download-stats.json"
 # failed upload would otherwise lose the totals. load_stats() falls back to it.
 BACKUP_NAME = "download-stats.bak.json"
 OWN_NAMES = (STATS_NAME, BACKUP_NAME)
+# Temporary names used by publish_release_assets.py while replacing an asset
+TEMP_SUFFIXES = (".uploading", ".previous")
 DEFAULT_REPO = "marcelrv/OpenCPN-Waypoints"
 KEEP_DAYS = 800
 
@@ -72,17 +77,41 @@ def get_release(tag: str, repo: str):
 
 def load_stats(release: dict, repo: str) -> tuple:
     """(stats, name of the asset they came from, or None). Falls back to the
-    backup when an earlier replacement failed half-way (main deleted, new one
-    not uploaded). Starting from the backup is exact: its per-asset
-    bookkeeping matches the counts it summed."""
+    backup when the main file is missing or unusable (an earlier replacement
+    failed half-way, or an upload left an incomplete asset). Starting from the
+    backup is exact: its per-asset bookkeeping matches the counts it summed.
+    Raises when stats exist but none can be read, rather than starting the
+    totals again from zero."""
     by_name = {a["name"]: a for a in release.get("assets", [])}
+    problems = []
     for name in OWN_NAMES:
-        if name in by_name:
-            if name == BACKUP_NAME:
-                print(f"  {STATS_NAME} missing, recovering from {BACKUP_NAME}", file=sys.stderr)
-            return json.loads(gh_api(f"releases/assets/{by_name[name]['id']}", repo,
-                                     "application/octet-stream")), name
+        asset = by_name.get(name)
+        if asset is None:
+            continue
+        try:
+            if asset.get("state", "uploaded") != "uploaded":
+                raise ValueError(f"asset state is {asset.get('state')}")
+            stats = json.loads(gh_api(f"releases/assets/{asset['id']}", repo,
+                                      "application/octet-stream"))
+            if not isinstance(stats, dict) or "totals" not in stats:
+                raise ValueError("not a stats file")
+        except (ValueError, subprocess.CalledProcessError) as e:
+            problems.append(f"{name}: {e}")
+            print(f"  {name} unusable ({e})", file=sys.stderr)
+            continue
+        if name == BACKUP_NAME:
+            print(f"  recovering from {BACKUP_NAME}", file=sys.stderr)
+        return stats, name
+    if problems:
+        raise RuntimeError("no usable download stats: " + "; ".join(problems))
     return {}, None
+
+
+def canonical_name(name: str) -> str:
+    for suffix in TEMP_SUFFIXES:
+        if name.endswith(suffix):
+            return name[:-len(suffix)]
+    return name
 
 
 def update(stats: dict, release: dict, now: datetime) -> dict:
@@ -91,23 +120,23 @@ def update(stats: dict, release: dict, now: datetime) -> dict:
     stats = copy.deepcopy(stats)
     tag = release["tag_name"]
     totals = stats.get("totals", {}).get("files", {})
-    seen = stats.get("assets", {})
+    # count at the last snapshot, per asset id
+    seen = {v["id"]: v["count"] for v in stats.get("assets", {}).values()}
     daily = stats.get("daily", {})
     day = now.strftime("%Y-%m-%d")
     assets = {}
     for a in release.get("assets", []):
-        name, aid, count = a["name"], a["id"], int(a["download_count"])
-        if name in OWN_NAMES:
+        asset_name, aid, count = a["name"], a["id"], int(a["download_count"])
+        if asset_name in OWN_NAMES:
             continue
-        prev = seen.get(name)
-        new = count - prev["count"] if prev and prev["id"] == aid else count
-        new = max(new, 0)
+        name = canonical_name(asset_name)
+        new = max(count - seen.get(aid, 0), 0)
         if new:
             totals[name] = totals.get(name, 0) + new
             daily.setdefault(day, {})
             daily[day][name] = daily[day].get(name, 0) + new
         totals.setdefault(name, totals.get(name, 0))
-        assets[name] = {"id": aid, "count": count}
+        assets[asset_name] = {"id": aid, "count": count}
     for old in sorted(daily)[:-KEEP_DAYS]:
         del daily[old]
     return {
