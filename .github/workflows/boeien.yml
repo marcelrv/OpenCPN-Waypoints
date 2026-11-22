@@ -102,15 +102,23 @@ jobs:
           if [ "$UPLOAD_ALL" = "true" ]; then python chartcatalog.py --all; else python chartcatalog.py; fi
 
       - name: Record download counts
+        id: stats
         continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python3 scripts/release_download_stats.py waypoints-latest
+        run: python3 scripts/release_download_stats.py waypoints-latest --strict
 
+      # Fresh data has priority over exact counts: publish even when the snapshot
+      # failed. Replaced files then lose their downloads since the last snapshot.
       - name: Publish changed files to the release
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python3 scripts/publish_release_assets.py waypoints-latest --list working/release-assets.txt
+          STATS_OUTCOME: ${{ steps.stats.outcome }}
+        run: |
+          if [ "$STATS_OUTCOME" != "success" ]; then
+            echo "::warning::Download counts were not recorded; replaced files lose their downloads since the last snapshot"
+          fi
+          python3 scripts/publish_release_assets.py waypoints-latest --list working/release-assets.txt
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v11
