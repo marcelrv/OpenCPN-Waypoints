@@ -196,11 +196,35 @@ def publish_file(tag: str, repo: str, release_id: int, path: str, tmpdir: str) -
     print(f"  published {name} ({size} bytes)")
 
 
+def check_catalogs(tag: str, repo: str, release, catalogs: list) -> int:
+    """Every `zipfile_location` in the catalogs that points at this release
+    must be an existing asset; otherwise the catalog must not be committed."""
+    if not catalogs:
+        return 0
+    prefix = f"https://github.com/{repo}/releases/download/{tag}/"
+    assets = {a["name"] for a in list_assets(release["id"], repo)} if release else set()
+    missing = []
+    for catalog in catalogs:
+        for loc in ElementTree.parse(catalog).getroot().iter("zipfile_location"):
+            url = (loc.text or "").strip()
+            if url.startswith(prefix) and url[len(prefix):] not in assets:
+                missing.append(f"{catalog}: {url[len(prefix):]}")
+    if missing:
+        print("error: the catalog links to files that are not in the release:\n  "
+              + "\n  ".join(missing), file=sys.stderr)
+        return 1
+    print(f"catalog check: all release links in {', '.join(catalogs)} exist")
+    return 0
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("tag")
     ap.add_argument("files", nargs="*")
     ap.add_argument("--list", help="file with one path per line to publish (in addition to FILES)")
+    ap.add_argument("--check-catalog", action="append", default=[], metavar="XML",
+                    help="after publishing, fail when a chart catalog links to a file of this release "
+                         "that is not one of its assets (can be given more than once)")
     ap.add_argument("--repo", default=os.environ.get("GITHUB_REPOSITORY", DEFAULT_REPO))
     args = ap.parse_args()
 
@@ -218,7 +242,7 @@ def main() -> int:
         if release is not None:
             clean_leftovers(release["id"], args.repo)
         print("nothing to publish")
-        return 0
+        return check_catalogs(args.tag, args.repo, release, args.check_catalog)
 
     names = [os.path.basename(p) for p in files]
     if len(set(names)) != len(names):
@@ -247,7 +271,7 @@ def main() -> int:
     if failed:
         print("not published: " + ", ".join(failed), file=sys.stderr)
         return 1
-    return 0
+    return check_catalogs(args.tag, args.repo, release, args.check_catalog)
 
 
 if __name__ == "__main__":

@@ -92,7 +92,8 @@ jobs:
           if [ "$STATS_OUTCOME" != "success" ]; then
             echo "::warning::Download counts were not recorded; replaced files lose their downloads since the last snapshot"
           fi
-          python3 scripts/publish_release_assets.py waypoints-latest --list working/release-assets.txt
+          python3 scripts/publish_release_assets.py waypoints-latest --list working/release-assets.txt \
+            --check-catalog chartcatalog/NL-waypoints.xml
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v11
