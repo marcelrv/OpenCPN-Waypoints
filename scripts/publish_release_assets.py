@@ -15,9 +15,11 @@ Per file:
   1. check the local file: not empty, a .gpx parses and has waypoints,
      a .zip passes a zip test; a bad file is skipped and the old asset kept
   2. upload it as `<name>.uploading` and check the uploaded size
-  3. only then delete the old asset and rename the new one to `<name>`
-Leftover `*.uploading` assets from an interrupted run are cleaned up first
-(renamed into place when the final asset is missing, otherwise removed).
+  3. only then rename the old asset to `<name>.previous`, rename the new one
+     to `<name>` and delete the previous one; when the rename fails, the
+     previous asset is renamed back
+Leftover `*.uploading` / `*.previous` assets of an interrupted run are cleaned
+up first (renamed into place when `<name>` is missing, otherwise removed).
 
 The release is created (not marked as latest) when it does not exist yet.
 
@@ -41,6 +43,7 @@ from xml.etree import ElementTree
 
 DEFAULT_REPO = "marcelrv/OpenCPN-Waypoints"
 TEMP_SUFFIX = ".uploading"
+PREVIOUS_SUFFIX = ".previous"
 GPX_NS = "{http://www.topografix.com/GPX/1/1}"
 RELEASE_TITLE = "Waypoints (latest)"
 RELEASE_NOTES = (
@@ -105,19 +108,27 @@ def rename_asset(asset_id: int, name: str, repo: str) -> None:
 
 
 def clean_leftovers(release_id: int, repo: str) -> None:
-    """Handle `*.uploading` assets of an interrupted run. When the final asset
-    is missing (deleted, but the rename failed) the leftover is the only copy,
-    so it is renamed into place; otherwise it is removed."""
+    """Handle the `*.uploading` / `*.previous` assets of an interrupted run.
+    When `<name>` itself is missing, one of them is the only copy and is
+    renamed into place: the new upload (it was verified before the old asset
+    was moved aside), else the previous one. All other leftovers are removed."""
     assets = list_assets(release_id, repo)
     names = {a["name"] for a in assets}
+    leftovers = {}
     for a in assets:
-        if not a["name"].endswith(TEMP_SUFFIX):
-            continue
-        final = a["name"][:-len(TEMP_SUFFIX)]
-        if final not in names and a.get("state") == "uploaded":
-            print(f"  restoring {final} from leftover {a['name']}")
-            rename_asset(a["id"], final, repo)
-        else:
+        for suffix in (TEMP_SUFFIX, PREVIOUS_SUFFIX):
+            if a["name"].endswith(suffix):
+                leftovers.setdefault(a["name"][:-len(suffix)], {})[suffix] = a
+    for final, found in sorted(leftovers.items()):
+        if final not in names:
+            for suffix in (TEMP_SUFFIX, PREVIOUS_SUFFIX):
+                a = found.get(suffix)
+                if a is not None and a.get("state") == "uploaded":
+                    print(f"  restoring {final} from leftover {a['name']}")
+                    rename_asset(a["id"], final, repo)
+                    del found[suffix]
+                    break
+        for a in found.values():
             print(f"  removing leftover {a['name']}")
             delete_asset(a["id"], repo)
 
@@ -140,6 +151,11 @@ def check_file(path: str) -> str:
                 bad = z.testzip()
                 if bad:
                     return f"zip member {bad} is corrupt"
+                for member in z.namelist():
+                    if member.endswith(".gpx"):
+                        with z.open(member) as f:
+                            if ElementTree.parse(f).getroot().find(f"{GPX_NS}wpt") is None:
+                                return f"zip member {member} has no waypoints"
     except (ElementTree.ParseError, zipfile.BadZipFile, OSError) as e:
         return f"{type(e).__name__}: {e}"
     return ""
@@ -162,8 +178,17 @@ def publish_file(tag: str, repo: str, release_id: int, path: str, tmpdir: str) -
 
     old = assets.get(name)
     if old is not None:
+        # keep the old asset as a recovery copy until the new one has its name
+        rename_asset(old["id"], name + PREVIOUS_SUFFIX, repo)
+    try:
+        rename_asset(new["id"], name, repo)
+    except Exception:
+        if old is not None:
+            rename_asset(old["id"], name, repo)
+            delete_asset(new["id"], repo)
+        raise
+    if old is not None:
         delete_asset(old["id"], repo)
-    rename_asset(new["id"], name, repo)
     print(f"  published {name} ({size} bytes)")
 
 
@@ -181,6 +206,10 @@ def main() -> int:
             files += [line.strip() for line in f if line.strip()]
     files = list(dict.fromkeys(files))  # dedupe, keep order
     if not files:
+        # still recover the assets of an interrupted earlier run
+        release = get_release(args.tag, args.repo)
+        if release is not None:
+            clean_leftovers(release["id"], args.repo)
         print("nothing to publish")
         return 0
 
