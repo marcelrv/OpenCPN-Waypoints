@@ -12,6 +12,20 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    inputs:
+      upload_all:
+        description: 'Publish all generated files to the release, not only the changed ones'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# Both refresh workflows publish to the same release and push to main
+concurrency:
+  group: waypoints-release
+  cancel-in-progress: false
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -35,9 +49,11 @@ jobs:
 
       - name: execute py script vwi_waypoints_generator # run the run.py to get the latest data
         run: |
-              python vwi_waypoints_generator.py
+              # any argument forces regeneration when the source data is unchanged
+              if [ "$UPLOAD_ALL" = "true" ]; then python vwi_waypoints_generator.py force; else python vwi_waypoints_generator.py; fi
         env:
           key: ${{ secrets.key }} # if run.py requires passwords..etc, set it as secrets
+          UPLOAD_ALL: ${{ inputs.upload_all }}
 
       - name: execute py script marrekritten_to_GPX.py # run the marrekritten_to_GPX.py to get the latest data
         run: |
@@ -50,12 +66,34 @@ jobs:
           pip install -r requirements-catalog.txt
 
       - name: execute py script # run the run.py to get the latest data
+        env:
+          UPLOAD_ALL: ${{ inputs.upload_all }}
         run: |
-          python chartcatalog.py
+          if [ "$UPLOAD_ALL" = "true" ]; then python chartcatalog.py --all; else python chartcatalog.py; fi
 
       - name: execute daily charts script # run the run.py to get the latest data
         run: |
           python nl_enc_charts.py
+
+      - name: Record download counts
+        id: stats
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/release_download_stats.py waypoints-latest --strict
+
+      # Fresh data has priority over exact counts: publish even when the snapshot
+      # failed. Replaced files then lose their downloads since the last snapshot.
+      - name: Publish changed files to the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          STATS_OUTCOME: ${{ steps.stats.outcome }}
+        run: |
+          if [ "$STATS_OUTCOME" != "success" ]; then
+            echo "::warning::Download counts were not recorded; replaced files lose their downloads since the last snapshot"
+          fi
+          python3 scripts/publish_release_assets.py waypoints-latest --list working/release-assets.txt \
+            --check-catalog chartcatalog/NL-waypoints.xml
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v11

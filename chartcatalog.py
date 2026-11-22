@@ -6,6 +6,7 @@ Update chartcatalogs when gpx files are processed and have changes
 
 """
 import os
+import sys
 import datetime
 import hashlib
 import json
@@ -20,6 +21,10 @@ from ChartCatalogs import Chart, RncChartCatalog
 
 working_folder = './working/'
 catalog_folder = './chartcatalog/'
+# Files are published as assets of this rolling release (see scripts/publish_release_assets.py)
+release_url = 'https://github.com/marcelrv/OpenCPN-Waypoints/releases/download/waypoints-latest/'
+# Paths of the files to publish to the release, written for the workflow
+release_list = working_folder + 'release-assets.txt'
 
 
 def md5sum(filename) -> str:
@@ -51,6 +56,18 @@ class ChartInfo:
 
     def get_baseFilename(self):
         return ('.').join(self.filename.split('.')[:-1])
+
+    def get_source_path(self) -> str:
+        """Path of the file this chart is built from: the generated .gpx in the root, or a zip in the catalog folder."""
+        if self.get_fileExtension() == '.gpx':
+            return self.filename
+        return catalog_folder + self.filename
+
+    def get_release_files(self) -> list[str]:
+        """Local paths of the files published to the release for this chart."""
+        if self.get_fileExtension() == '.gpx':
+            return [self.filename, self.get_chartFolder_filename()]
+        return [self.get_source_path()]
 
     def get_chartFolder_filename(self) -> str:
         zip_name = self.get_baseFilename() + '.zip'
@@ -135,8 +152,7 @@ class OpenCPNChartCatalog:
     def add_chart(self, catalog, description: str, update_date: datetime, filename: str, number):
         chart = Chart()
         chart.chart_format = 'Sailing Chart, International Chart'
-        chart.url = "https://raw.githubusercontent.com/marcelrv/OpenCPN-Waypoints/main/chartcatalog/%s" % (
-            filename)
+        chart.url = release_url + filename
         chart.title = "%s" % description
         chart.number = str(number)
         chart.zipfile_ts = update_date
@@ -152,16 +168,31 @@ class OpenCPNChartCatalog:
 
 
 if __name__ == "__main__":
+    # --all: list every available file for the release, not only the changed ones (bootstrap)
+    publish_all = '--all' in sys.argv[1:]
 
     catalog = OpenCPNChartCatalog()
     hasUpdate = False
+    release_files = []
     for chart in catalog.get_charts():
-        if catalog.isModified(chart.filename):
+        # The generated .gpx files are not kept in the repository; a workflow run
+        # only has the ones it (re)generated. Skip the others, they are unchanged.
+        if not os.path.exists(chart.get_source_path()):
+            print('not generated in this run, skipped', chart.filename)
+            continue
+        modified = catalog.isModified(chart.filename)
+        if modified or publish_all:
             chart.saveZip()
+            release_files += chart.get_release_files()
+        if modified:
             chart.updated = datetime.datetime.fromtimestamp(
                 os.path.getmtime(chart.get_chartFolder_filename())).isoformat()
             hasUpdate = True
-    if hasUpdate:
+    os.makedirs(working_folder, exist_ok=True)
+    with open(release_list, 'w') as f:
+        f.writelines(fn + '\n' for fn in release_files)
+    print('%d files to publish listed in %s' % (len(release_files), release_list))
+    if hasUpdate or publish_all:
         print('Updates,saving catalog files...')
         catalog.update_chartCatalog()
         catalog.store_chartinfo()

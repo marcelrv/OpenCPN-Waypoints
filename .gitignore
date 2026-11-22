@@ -2,3 +2,7 @@ working/*.*
 .vscode/*
 ChartCatalogs/__pycache__/*
 *.pyc
+# Generated files, published as assets of the waypoints-latest release instead
+/*.gpx
+/chartcatalog/*.zip
+!/chartcatalog/usericons.zip
