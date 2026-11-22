@@ -21,6 +21,10 @@ Per file:
 Leftover `*.uploading` / `*.previous` assets of an interrupted run are cleaned
 up first (renamed into place when `<name>` is missing, otherwise removed).
 
+Remaining gap: asset names are unique, so `<name>` does not exist for the
+moment between the two renames. If the job is killed exactly then, the link
+fails until the next run restores the file from the leftovers.
+
 The release is created (not marked as latest) when it does not exist yet.
 
 Usage (needs the gh CLI, authenticated; GH_TOKEN in workflows):
@@ -201,7 +205,10 @@ def main() -> int:
     args = ap.parse_args()
 
     files = list(args.files)
-    if args.list and os.path.exists(args.list):
+    if args.list:
+        if not os.path.isfile(args.list):
+            print(f"error: list file {args.list} does not exist", file=sys.stderr)
+            return 1
         with open(args.list) as f:
             files += [line.strip() for line in f if line.strip()]
     files = list(dict.fromkeys(files))  # dedupe, keep order
