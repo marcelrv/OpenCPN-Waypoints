@@ -168,6 +168,7 @@ if __name__ == "__main__":
     catalog = OpenCPNChartCatalog()
     hasUpdate = False
     release_files = []
+    os.makedirs(working_folder, exist_ok=True)
     for chart in catalog.get_charts():
         # The generated .gpx files are not kept in the repository; a workflow run
         # only has the ones it (re)generated. Skip the others, they are unchanged.
@@ -183,7 +184,6 @@ if __name__ == "__main__":
                 os.path.getmtime(chart.get_chartFolder_filename()),
                 tz=datetime.timezone.utc).isoformat()
             hasUpdate = True
-    os.makedirs(working_folder, exist_ok=True)
     with open(release_list, 'w') as f:
         f.writelines(fn + '\n' for fn in release_files)
     print('%d files to publish listed in %s' % (len(release_files), release_list))
