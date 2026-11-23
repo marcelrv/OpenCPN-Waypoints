@@ -344,7 +344,8 @@ def format_opening_dim(opening):
     type_label = 'Vast' if opening.get('Type') == 'VST' else 'BB'
     h = opening.get('HeightClosed')
     w = opening.get('Width')
-    h_str = f'{h:.1f}' if h is not None else '?'
+    # round down so the clearance is never overstated
+    h_str = f'{math.floor(h * 10 + 1e-9) / 10:.1f}' if h is not None else '?'
     if w is not None:
         # round down so the opening is never overstated
         w_str = f'{math.floor(w * 10 + 1e-9) / 10:.1f}' if w < 5 else f'{math.floor(w + 1e-9):.0f}'
