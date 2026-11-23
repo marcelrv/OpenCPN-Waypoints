@@ -37,8 +37,8 @@ with urlopen(url, timeout=60) as f:
         chart.zipfile_ts = datetime.fromtimestamp(tileset['date']/1000, tz=timezone.utc)
         chart.target_filename = "%s.zip" % tileset['name']
         try:
-            response = urlopen(chart.url, timeout=60)
-            filename = response.headers.get_filename()
+            with urlopen(chart.url, timeout=60) as response:
+                filename = response.headers.get_filename()
             if filename is not None:
                 chart.target_filename = filename
         except Exception:
