@@ -4,7 +4,7 @@
 
 ### Dutch files (boeien, bruggen, sluizen, marifoon & jachthavens gebaseerd op RWS / vaarweginformatie.nl data)
 * [Friesland-Boeien.gpx](https://github.com/marcelrv/OpenCPN-Waypoints/releases/download/waypoints-latest/Friesland-Boeien.gpx) - Boeien in Friesland als GPX (bron: provincie Friesland). Note: gebruik de [usericons](https://github.com/marcelrv/OpenCPN-Waypoints/releases/download/waypoints-latest/usericons.zip)  anders zie je alleen circels
-* [Marrekrite-Aanlegplaatsen.gpx](https://github.com/marcelrv/OpenCPN-Waypoints/releases/download/waypoints-latest/Marrekrite-Aanlegplaatsen.gpx)  - Alle marrekritten aanlegplaatsen for use with OpenCPN. Import as Layer so it can be easily switched on/off. **Note:** laatst bijgewerkt 28-07-2026; de bron (marrekrite.frl API) is offline, dit bestand wordt niet meer ververst tot er een nieuwe bron is
+* [Marrekrite-Aanlegplaatsen.gpx](https://github.com/marcelrv/OpenCPN-Waypoints/releases/download/waypoints-latest/Marrekrite-Aanlegplaatsen.gpx)  - Alle marrekritten aanlegplaatsen for use with OpenCPN. Import as Layer so it can be easily switched on/off
 * [Friesland-Bruggen.gpx](https://github.com/marcelrv/OpenCPN-Waypoints/releases/download/waypoints-latest/Friesland-Bruggen.gpx) - Alle Friese bruggen met openingstijden en marifoon kanaal
 * [Friesland-Bruggen-ExtraInfoInName.gpx](https://github.com/marcelrv/OpenCPN-Waypoints/releases/download/waypoints-latest/Friesland-Bruggen-ExtraInfoInName.gpx) - Friese bruggen met opening afmetingen en contact info in de naam (check 'Show WPT Name')
 * [Friesland-Sluizen.gpx](https://github.com/marcelrv/OpenCPN-Waypoints/releases/download/waypoints-latest/Friesland-Sluizen.gpx) -Alle Friese sluizen met openingstijden en marifoon kanaal

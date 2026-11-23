@@ -8,8 +8,8 @@ Create marrekrite GPX file for OpenCPN
 __author__ = "Marcel Verpaalen"
 __copyright__ = "Copyright 2020 - 2022"
 __license__ = "AGPL 3.0"
-__version__ = "1.0.3"
-__updated__ = "2026-05-07"
+__version__ = "1.0.4"
+__updated__ = "2026-11-23"
 
 import datetime
 import xml.etree.ElementTree as mod_etree
@@ -24,9 +24,13 @@ from requests.exceptions import HTTPError
 _UseScale = True
 _ScaleMin = 50000
 
-# https://www.marrekrite.frl/wp-json/api/var/get/attributes
-# https://www.marrekrite.frl/wp-json/api/wnt/get/lines
-# https://www.marrekrite.frl/wp-json/api/fkp/get/lines
+BASE_URL = "https://marrekrite.frl/wp-content/uploads/cache/marrekritekaart"
+REQUEST_TIMEOUT = 30
+
+# https://marrekrite.frl/wp-content/uploads/cache/marrekritekaart/var/points.json
+# https://marrekrite.frl/wp-content/uploads/cache/marrekritekaart/var/attributes.json
+# https://marrekrite.frl/wp-content/uploads/cache/marrekritekaart/wnt/lines.json
+# https://marrekrite.frl/wp-content/uploads/cache/marrekritekaart/fkp/lines.json
 
 
 gpx = gpxpy.gpx.GPX()
@@ -57,15 +61,15 @@ if _UseScale:
 for ty in "var".split(","):
     try:
         response = requests.get(
-            'https://marrekrite.frl/wp-json/api/' + ty + '/get/points')
+            f'{BASE_URL}/{ty}/points.json', timeout=REQUEST_TIMEOUT)
         response.raise_for_status()
-        # access JSOn content
+        # access JSON content
         jsonResponse = response.json()
 
         response = requests.get(
-            'https://marrekrite.frl/wp-json/api/var/get/attributes')
+            f'{BASE_URL}/{ty}/attributes.json', timeout=REQUEST_TIMEOUT)
         response.raise_for_status()
-        # access JSOn content
+        # access JSON content
         attributes = response.json()
 
 #        print("Entire JSON response for " + ty)
@@ -74,6 +78,9 @@ for ty in "var".split(","):
         for locType in jsonResponse:
             #            print(locType, '->', jsonResponse[locType])
             location_group = jsonResponse[locType]
+            group_type = location_group["type"]
+            is_boei = group_type.get("b", group_type.get("isBoei")) == 1
+            type_desc = group_type.get("d", group_type.get("description", ""))
             for point in location_group["points"]:
                 print(point)
                 gpx_wps = gpxpy.gpx.GPXWaypoint()
@@ -81,7 +88,7 @@ for ty in "var".split(","):
                     "POINT(", "").replace(")", "").split(" ")
                 gpx_wps.longitude = pnt[1]
                 gpx_wps.latitude = pnt[0]
-                if location_group["type"]["isBoei"] == 1:
+                if is_boei:
                     gpx_wps.symbol = "Marks-Mooring-Float"
                 else:
                     gpx_wps.symbol = "Service-Dock"
@@ -97,7 +104,7 @@ for ty in "var".split(","):
                     if a['id'] == 152:
                         wp_name = ((point["name"] if point["name"] is not None else " ") + " " +
                                    (description if description is not None else " ")).strip() + \
-                                   " (" + location_group["type"]["description"] + ")"
+                                   " (" + type_desc + ")"
                         gpx_wps.name = wp_name
                     desc = desc + name + ' ' * \
                         max((33 - len(name) - len(description)), 1) + \
