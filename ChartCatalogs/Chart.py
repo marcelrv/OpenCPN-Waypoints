@@ -5,6 +5,7 @@ Copyright (c) 2022 Marcel Verpaalen : Minor updates
 Licensed under GPLv2 or, at yoir will later version
 """
 
+from datetime import timezone
 from xml.etree.ElementTree import Element, SubElement, tostring
 
 
@@ -45,13 +46,16 @@ class Chart:
             child.text = self.chart_format
         child = SubElement(e, 'zipfile_location')
         child.text = self.url
+        zipfile_ts = self.zipfile_ts
+        if zipfile_ts.tzinfo is not None:
+            zipfile_ts = zipfile_ts.astimezone(timezone.utc)
         child = SubElement(e, 'zipfile_datetime')
-        child.text = self.zipfile_ts.strftime('%Y%m%d_%H%M%S')
+        child.text = zipfile_ts.strftime('%Y%m%d_%H%M%S')
         child = SubElement(e, 'zipfile_datetime_iso8601')
-        child.text = self.zipfile_ts.strftime('%Y-%m-%dT%H:%M:%SZ')
+        child.text = zipfile_ts.strftime('%Y-%m-%dT%H:%M:%SZ')
         if self.zipfile_size > 0:
             child = SubElement(e, 'zipfile_size')
-            child.text = self.zipfile_size
+            child.text = str(self.zipfile_size)
         if self.ntm_edition_last_correction != None:
             child = SubElement(e, 'ntm_edition_last_correction')
             child.text = self.ntm_edition_last_correction

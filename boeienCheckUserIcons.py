@@ -284,7 +284,8 @@ def safeFile(filename, indata):
 def update_source_data(fn,url):
     if not os.path.exists(fn) or (time.time() - os.path.getmtime(fn)) > max_age:
         print('Downloading %s' % fn)
-        response = requests.get(url)
+        response = requests.get(url, timeout=120)
+        response.raise_for_status()
         data = response.text
         safeFile(fn, data)
     else:

@@ -16,21 +16,26 @@ __updated__ = "2026-05-07"
 
 import datetime
 import json
+import math
 import os
 import re
 import sys
 import time
 import xml.etree.ElementTree as mod_etree
+from zoneinfo import ZoneInfo
 
 import gpxpy
 import gpxpy.gpx
 import requests
-from requests.exceptions import HTTPError
+
+# Operating rule From/To are instants on 2000-01-01, Dutch local time
+DUTCH_TIME = ZoneInfo('Europe/Amsterdam')
 
 baseURL = 'https://www.vaarweginformatie.nl/wfswms/dataservice/1.3/'
 workingFolder = './working/'
 debugging = False
 max_age = 60 * 60 * 24  # 24h
+REQUEST_TIMEOUT = (10, 120)  # (connect, read) seconds
 
 
 class BridgeInfo:
@@ -70,7 +75,7 @@ class BridgeInfo:
                 t += 1
             if operatingRule.get('IsSunday'):
                 t += 2
-            return operatingRule.get('From')
+            return t
         return 9999900000
 
     def get_openingHours(self, openingId):
@@ -90,8 +95,8 @@ class BridgeInfo:
                     if OperatingRule.get('From') is not None and \
                             OperatingRule.get('To') is not None and OperatingRule.get('From') > 0:
                         openingDescription += '   ' + \
-                            datetime.datetime.fromtimestamp(OperatingRule['From'] / 1000.0).strftime('%H:%M') + \
-                            ' - ' + datetime.datetime.fromtimestamp(OperatingRule['To'] / 1000.0).strftime('%H:%M') + ': '
+                            datetime.datetime.fromtimestamp(OperatingRule['From'] / 1000.0, tz=DUTCH_TIME).strftime('%H:%M') + \
+                            ' - ' + datetime.datetime.fromtimestamp(OperatingRule['To'] / 1000.0, tz=DUTCH_TIME).strftime('%H:%M') + ': '
                     else:
                         openingDescription += '   Gesloten: '
                     if OperatingRule.get('IsMonday'):
@@ -339,9 +344,11 @@ def format_opening_dim(opening):
     type_label = 'Vast' if opening.get('Type') == 'VST' else 'BB'
     h = opening.get('HeightClosed')
     w = opening.get('Width')
-    h_str = f'{h:.1f}' if h is not None else '?'
+    # round down so the clearance is never overstated
+    h_str = f'{math.floor(h * 10 + 1e-9) / 10:.1f}' if h is not None else '?'
     if w is not None:
-        w_str = f'{w:.1f}' if w < 5 else f'{w:.0f}'
+        # round down so the opening is never overstated
+        w_str = f'{math.floor(w * 10 + 1e-9) / 10:.1f}' if w < 5 else f'{math.floor(w + 1e-9):.0f}'
     else:
         w_str = '?'
     return f'{type_label} H{h_str} W{w_str}'
@@ -412,38 +419,34 @@ def download_geo_data(geotype, geogeneration):
     download_done = False
     result = []
     counter = 0
+    # Errors are deliberately not caught: a partial download must abort the run
+    # so neither the cache nor lastPublication.json records incomplete data.
     while not download_done:
-        try:
-            url = baseURL + str(geogeneration) + '/' + geotype + \
-                '?offset=' + str(counter) + '&count=100'
-            response = requests.get(url)
-            response.raise_for_status()
-            # access JSOn content
-            jsonResponse = response.json()
+        url = baseURL + str(geogeneration) + '/' + geotype + \
+            '?offset=' + str(counter) + '&count=100'
+        response = requests.get(url, timeout=REQUEST_TIMEOUT)
+        response.raise_for_status()
+        # access JSOn content
+        jsonResponse = response.json()
 
-            if debugging:
-                print("Downloading JSON response for " + url)
-                print(json.dumps(jsonResponse, indent=2))
+        if debugging:
+            print("Downloading JSON response for " + url)
+            print(json.dumps(jsonResponse, indent=2))
 
-            result.extend(jsonResponse['Result'])
-            print(f"Processed {counter} of {str(jsonResponse['TotalCount'])} from {url}")
-            counter = counter + jsonResponse['Count']
-            if (counter >= jsonResponse['TotalCount']):
-                download_done = True
-
-        except HTTPError as http_err:
-            print(f'HTTP error occurred: {http_err}')
-            download_done = True
-        except Exception as err:
-            print(f'Other error occurred: {err}')
+        result.extend(jsonResponse['Result'])
+        print(f"Processed {counter} of {str(jsonResponse['TotalCount'])} from {url}")
+        counter = counter + jsonResponse['Count']
+        if (counter >= jsonResponse['TotalCount']):
             download_done = True
     return result
 
 
 def saveJson(filename, data):
-    f = open(filename, "w")
-    f.write(json.dumps(data, indent=2))
-    f.close()
+    content = json.dumps(data, indent=2)
+    tmp = filename + '.tmp'
+    with open(tmp, "w") as f:
+        f.write(content)
+    os.replace(tmp, filename)
     print("Saved to %s" % filename)
 
 
@@ -467,22 +470,27 @@ def saveGPX(gpx, name):
     if waypoints == 0:
         print(f'GPX with {str(waypoints)} waypoints SKIPPED: {name}')
         return
-    try:
-        fn = name + '.gpx'
-        f = open(fn, "w", encoding='utf-8')
-        f.write(gpx.to_xml())
-        f.close()
-        print(f'GPX with {str(waypoints)} points exported to {fn}')
-    except Exception as err:
-        print(f'Failed to create GPX with {str(waypoints)} points {fn}. Error occurred: {err}')
+    fn = name + '.gpx'
+    content = gpx.to_xml()
+    tmp = fn + '.tmp'
+    with open(tmp, "w", encoding='utf-8') as f:
+        f.write(content)
+    os.replace(tmp, fn)
+    print(f'GPX with {str(waypoints)} points exported to {fn}')
 
 
 if __name__ == "__main__":
 
     os.makedirs(workingFolder, exist_ok=True)
 
-    response = requests.get(baseURL + 'geogeneration')
+    response = requests.get(baseURL + 'geogeneration', timeout=REQUEST_TIMEOUT)
+    response.raise_for_status()
     geoInfo = response.json()
+
+    def cache_path(geotype):
+        # keyed by geogeneration so a cache from an older generation is never reused
+        return workingFolder + geotype + '-' + str(geoInfo['GeoGeneration']) + 'Download.json'
+
     print(f"Latest geoinfomation: {json.dumps(geoInfo,indent=2)}")
     publication_date = datetime.datetime.strptime(
         geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
@@ -496,7 +504,8 @@ if __name__ == "__main__":
     print('Already up-to-date. Forcing update due to command line argument provided.')
 
 #    download all available info instead of required only
-    response = requests.get(baseURL + 'geotype')
+    response = requests.get(baseURL + 'geotype', timeout=REQUEST_TIMEOUT)
+    response.raise_for_status()
     geotypes = response.json()
     print(f"Available geotypes:\r\n {json.dumps(geotypes,indent=2)}")
     # comment below line to download all geotypes
@@ -506,7 +515,7 @@ if __name__ == "__main__":
                 'administration', 'opening']
 
     for geotype in geotypes:
-        fn = workingFolder + geotype + 'Download.json'
+        fn = cache_path(geotype)
         if not os.path.exists(fn) or (time.time() - os.path.getmtime(fn)) > max_age:
             res = download_geo_data(geotype, geoInfo['GeoGeneration'])
             saveJson(fn, res)
@@ -514,21 +523,21 @@ if __name__ == "__main__":
             print(
                 f'Reusing existing {fn} which is {int((time.time() -  os.path.getmtime(fn))/3600)} hours old')
 
-    bridges = readJson(workingFolder + 'bridgeDownload.json')
-    locks = readJson(workingFolder + 'lockDownload.json')
-    operatingtimes = readJson(workingFolder + 'operatingtimesDownload.json')
-    openings = readJson(workingFolder + 'openingDownload.json')
-    radiocallinpoint = readJson(workingFolder + 'radiocallinpointDownload.json')
-    fairway = readJson(workingFolder + 'fairwayDownload.json')
-    touristharbour = readJson(workingFolder + 'touristharbourDownload.json')
+    bridges = readJson(cache_path('bridge'))
+    locks = readJson(cache_path('lock'))
+    operatingtimes = readJson(cache_path('operatingtimes'))
+    openings = readJson(cache_path('opening'))
+    radiocallinpoint = readJson(cache_path('radiocallinpoint'))
+    fairway = readJson(cache_path('fairway'))
+    touristharbour = readJson(cache_path('touristharbour'))
     related = [{'bridge': bridges}, {'lock': locks}]
-    related.append({'vinharbour': readJson(workingFolder + 'vinharbourDownload.json')})
-    related.append({'nwbharbour': readJson(workingFolder + 'nwbharbourDownload.json')})
-    related.append({'berth': readJson(workingFolder + 'berthDownload.json')})
-    related.append({'vtssector': readJson(workingFolder + 'vtssectorDownload.json')})
+    related.append({'vinharbour': readJson(cache_path('vinharbour'))})
+    related.append({'nwbharbour': readJson(cache_path('nwbharbour'))})
+    related.append({'berth': readJson(cache_path('berth'))})
+    related.append({'vtssector': readJson(cache_path('vtssector'))})
     related.append({'exceptionalnavigationalstructure': readJson(
-        workingFolder + 'exceptionalnavigationalstructureDownload.json')})
-    related.append({'administration': readJson(workingFolder + 'administrationDownload.json')})
+        cache_path('exceptionalnavigationalstructure'))})
+    related.append({'administration': readJson(cache_path('administration'))})
 
     countries = ['NL']
     for bridge in bridges:
@@ -547,7 +556,7 @@ if __name__ == "__main__":
         regions.append({'name': country, 'country': country})
 
     # create bridge files
-    bridgeInfo = BridgeInfo(bridges, operatingtimes, radiocallinpoint, fairway, openings=openings)
+    bridgeInfo = BridgeInfo(bridges, operatingtimes, radiocallinpoint, fairway, related=related, openings=openings)
     for region in regions:
         gpx = bridgeInfo.create_bridgeGPX(region, 'bridge')
         gpx.time = publication_date
@@ -559,7 +568,7 @@ if __name__ == "__main__":
         saveGPX(gpx, name)
 
     # create locks files
-    bridgeInfo = BridgeInfo(locks, operatingtimes, radiocallinpoint, fairway)
+    bridgeInfo = BridgeInfo(locks, operatingtimes, radiocallinpoint, fairway, related=related)
     for region in regions:
         gpx = bridgeInfo.create_bridgeGPX(region, 'lock')
         gpx.time = publication_date

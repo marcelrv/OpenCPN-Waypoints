@@ -143,12 +143,6 @@ class OpenCPNChartCatalog:
             self.add_chart(catalog, chart.description, time, fn, chart.sort)
         self.store_catalog(catalog)
 
-    def add_and_store_chart(self, description: str, update_date: datetime, filename: str):
-        zip_name = filename + '.zip'
-        with ZipFile(catalog_folder + zip_name, 'w') as zip:
-            zip.write(filename + '.gpx')
-        self.add_chart(description, update_date, zip_name)
-
     def add_chart(self, catalog, description: str, update_date: datetime, filename: str, number):
         chart = Chart()
         chart.chart_format = 'Sailing Chart, International Chart'
@@ -174,6 +168,7 @@ if __name__ == "__main__":
     catalog = OpenCPNChartCatalog()
     hasUpdate = False
     release_files = []
+    os.makedirs(working_folder, exist_ok=True)
     for chart in catalog.get_charts():
         # The generated .gpx files are not kept in the repository; a workflow run
         # only has the ones it (re)generated. Skip the others, they are unchanged.
@@ -186,9 +181,9 @@ if __name__ == "__main__":
             release_files += chart.get_release_files()
         if modified:
             chart.updated = datetime.datetime.fromtimestamp(
-                os.path.getmtime(chart.get_chartFolder_filename())).isoformat()
+                os.path.getmtime(chart.get_chartFolder_filename()),
+                tz=datetime.timezone.utc).isoformat()
             hasUpdate = True
-    os.makedirs(working_folder, exist_ok=True)
     with open(release_list, 'w') as f:
         f.writelines(fn + '\n' for fn in release_files)
     print('%d files to publish listed in %s' % (len(release_files), release_list))
