@@ -180,7 +180,8 @@ if __name__ == "__main__":
             release_files += chart.get_release_files()
         if modified:
             chart.updated = datetime.datetime.fromtimestamp(
-                os.path.getmtime(chart.get_chartFolder_filename())).isoformat()
+                os.path.getmtime(chart.get_chartFolder_filename()),
+                tz=datetime.timezone.utc).isoformat()
             hasUpdate = True
     os.makedirs(working_folder, exist_ok=True)
     with open(release_list, 'w') as f:
