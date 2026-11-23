@@ -86,7 +86,6 @@ for ty in "var".split(","):
         is_boei = group_type.get("b", group_type.get("isBoei")) == 1
         type_desc = group_type.get("d", group_type.get("description", ""))
         for point in location_group["points"]:
-            print(point)
             try:
                 gpx_wps = gpxpy.gpx.GPXWaypoint()
                 pnt = point["point"].split(";")[1].replace(
@@ -131,7 +130,6 @@ if len(gpx.waypoints) == 0:
     # Do not overwrite the published file with an empty one
     print(f'GPX with 0 waypoints SKIPPED: {fn}')
     sys.exit(0)
-print('Created GPX:', gpx.to_xml())
 f = open(fn, "w", encoding="utf-8")
 f.write(gpx.to_xml())
 f.close()
