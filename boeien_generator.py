@@ -210,7 +210,7 @@ def update_source_data(fn, urls):
     for url in urls:  # multiple urls to be implemented
         if not os.path.exists(fn) or (time.time() - os.path.getmtime(fn)) > max_age:
             print('Downloading %s' % fn)
-            response = requests.get(url)
+            response = requests.get(url, timeout=120)
             if not response.ok:
                 raise RuntimeError(
                     f"Failed to download source data from '{url}': "
