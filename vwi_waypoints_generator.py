@@ -437,9 +437,11 @@ def download_geo_data(geotype, geogeneration):
 
 
 def saveJson(filename, data):
-    f = open(filename, "w")
-    f.write(json.dumps(data, indent=2))
-    f.close()
+    content = json.dumps(data, indent=2)
+    tmp = filename + '.tmp'
+    with open(tmp, "w") as f:
+        f.write(content)
+    os.replace(tmp, filename)
     print("Saved to %s" % filename)
 
 
@@ -463,14 +465,13 @@ def saveGPX(gpx, name):
     if waypoints == 0:
         print(f'GPX with {str(waypoints)} waypoints SKIPPED: {name}')
         return
-    try:
-        fn = name + '.gpx'
-        f = open(fn, "w", encoding='utf-8')
-        f.write(gpx.to_xml())
-        f.close()
-        print(f'GPX with {str(waypoints)} points exported to {fn}')
-    except Exception as err:
-        print(f'Failed to create GPX with {str(waypoints)} points {fn}. Error occurred: {err}')
+    fn = name + '.gpx'
+    content = gpx.to_xml()
+    tmp = fn + '.tmp'
+    with open(tmp, "w", encoding='utf-8') as f:
+        f.write(content)
+    os.replace(tmp, fn)
+    print(f'GPX with {str(waypoints)} points exported to {fn}')
 
 
 if __name__ == "__main__":
