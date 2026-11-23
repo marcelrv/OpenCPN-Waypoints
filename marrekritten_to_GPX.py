@@ -132,7 +132,7 @@ if len(gpx.waypoints) == 0:
     print(f'GPX with 0 waypoints SKIPPED: {fn}')
     sys.exit(0)
 print('Created GPX:', gpx.to_xml())
-f = open(fn, "w")
+f = open(fn, "w", encoding="utf-8")
 f.write(gpx.to_xml())
 f.close()
 print("Exported to " + fn)
