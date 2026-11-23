@@ -105,7 +105,7 @@ for ty in "var".split(","):
                 desc = ""
                 for a in loc_attribute:
                     name = a["name"]
-                    description = str(a["value"])
+                    description = str(a["value"]) if a["value"] is not None else ""
                     if a['id'] == 152:
                         wp_name = ((point["name"] if point["name"] is not None else " ") + " " +
                                    (description if description is not None else " ")).strip() + \
