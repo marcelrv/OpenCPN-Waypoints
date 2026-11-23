@@ -483,13 +483,14 @@ if __name__ == "__main__":
 
     os.makedirs(workingFolder, exist_ok=True)
 
+    response = requests.get(baseURL + 'geogeneration', timeout=REQUEST_TIMEOUT)
+    response.raise_for_status()
+    geoInfo = response.json()
+
     def cache_path(geotype):
         # keyed by geogeneration so a cache from an older generation is never reused
         return workingFolder + geotype + '-' + str(geoInfo['GeoGeneration']) + 'Download.json'
 
-    response = requests.get(baseURL + 'geogeneration', timeout=REQUEST_TIMEOUT)
-    response.raise_for_status()
-    geoInfo = response.json()
     print(f"Latest geoinfomation: {json.dumps(geoInfo,indent=2)}")
     publication_date = datetime.datetime.strptime(
         geoInfo['PublicationDate'], "%Y-%m-%dT%H:%M:%S.%fZ")
