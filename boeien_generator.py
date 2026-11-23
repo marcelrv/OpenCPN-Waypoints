@@ -136,7 +136,7 @@ def process_gml(input_filename, outName, field_mapping, icon_mapping, epsg=None)
                                 has_S57Id = True
                             else:
                                 outFeature.SetField(map['dst'], poFeature.GetFieldAsString(iField))
-                                has_S57Id =  poFeature.GetFieldAsString(iField)
+                                has_S57Id = bool(poFeature.GetFieldAsString(iField))
                                 if value not in missing:
                                     missing.append(value)
 
