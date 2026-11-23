@@ -238,7 +238,7 @@ def saveGPX(gpx, fn):
         print('Created GPX:', gpx.to_xml())
     waypoints = len(gpx.waypoints)
     if waypoints == 0:
-        print(f'GPX with {str(waypoints)} waypoints SKIPPED: {name}')
+        print(f'GPX with {str(waypoints)} waypoints SKIPPED: {fn}')
         return
     f = open(fn, "w")
     f.write(gpx.to_xml())
