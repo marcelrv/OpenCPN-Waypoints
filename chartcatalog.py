@@ -143,12 +143,6 @@ class OpenCPNChartCatalog:
             self.add_chart(catalog, chart.description, time, fn, chart.sort)
         self.store_catalog(catalog)
 
-    def add_and_store_chart(self, description: str, update_date: datetime, filename: str):
-        zip_name = filename + '.zip'
-        with ZipFile(catalog_folder + zip_name, 'w') as zip:
-            zip.write(filename + '.gpx')
-        self.add_chart(description, update_date, zip_name)
-
     def add_chart(self, catalog, description: str, update_date: datetime, filename: str, number):
         chart = Chart()
         chart.chart_format = 'Sailing Chart, International Chart'
