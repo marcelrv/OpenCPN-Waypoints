@@ -18,7 +18,6 @@ import gpxpy
 import gpxpy.gpx
 import sys
 import requests
-from requests.exceptions import HTTPError
 
 # adjust to OpenCPN Scale (at which scale this is visible) disable if not needed
 _UseScale = True
@@ -71,18 +70,24 @@ for ty in "var".split(","):
         response.raise_for_status()
         # access JSON content
         attributes = response.json()
+    except (requests.RequestException, ValueError) as err:
+        # Keep the published file: a partial download must not replace it
+        print(f'::warning::Marrekrite download failed, GPX not updated: {err}')
+        sys.exit(0)
 
 #        print("Entire JSON response for " + ty)
 #        print(json.dumps(jsonResponse,indent=2))
 
-        for locType in jsonResponse:
-            #            print(locType, '->', jsonResponse[locType])
-            location_group = jsonResponse[locType]
-            group_type = location_group["type"]
-            is_boei = group_type.get("b", group_type.get("isBoei")) == 1
-            type_desc = group_type.get("d", group_type.get("description", ""))
-            for point in location_group["points"]:
-                print(point)
+    skipped = 0
+    for locType in jsonResponse:
+        #            print(locType, '->', jsonResponse[locType])
+        location_group = jsonResponse[locType]
+        group_type = location_group["type"]
+        is_boei = group_type.get("b", group_type.get("isBoei")) == 1
+        type_desc = group_type.get("d", group_type.get("description", ""))
+        for point in location_group["points"]:
+            print(point)
+            try:
                 gpx_wps = gpxpy.gpx.GPXWaypoint()
                 pnt = point["point"].split(";")[1].replace(
                     "POINT(", "").replace(")", "").split(" ")
@@ -114,11 +119,12 @@ for ty in "var".split(","):
                 if _UseScale:
                     gpx_wps.extensions.append(root)
                 gpx.waypoints.append(gpx_wps)
-
-    except HTTPError as http_err:
-        print(f'HTTP error occurred: {http_err}')
-    except Exception as err:
-        print(f'Other error occurred: {err}')
+            except (KeyError, IndexError, TypeError, AttributeError, ValueError) as err:
+                # Skip one malformed point instead of dropping all points after it
+                skipped += 1
+                print(f'::warning::Skipping malformed Marrekrite point {point}: {err!r}')
+    if skipped:
+        print(f'{skipped} malformed points skipped')
 
 fn = "Marrekrite-Aanlegplaatsen.gpx"
 if len(gpx.waypoints) == 0:
