@@ -93,14 +93,25 @@ for ty in "var".split(","):
 #        print("Entire JSON response for " + ty)
 #        print(json.dumps(jsonResponse,indent=2))
 
+    if not isinstance(jsonResponse, dict) or not isinstance(attributes, dict):
+        # Unexpected format: keep the published file, like a failed download
+        print('::warning::Marrekrite data has an unexpected format, GPX not updated')
+        sys.exit(0)
+
     skipped = 0
     for locType in jsonResponse:
         #            print(locType, '->', jsonResponse[locType])
-        location_group = jsonResponse[locType]
-        group_type = location_group["type"]
-        is_boei = group_type.get("b", group_type.get("isBoei")) == 1
-        type_desc = group_type.get("d", group_type.get("description", ""))
-        for point in location_group["points"]:
+        try:
+            location_group = jsonResponse[locType]
+            group_type = location_group["type"]
+            is_boei = group_type.get("b", group_type.get("isBoei")) == 1
+            type_desc = group_type.get("d", group_type.get("description", ""))
+            points = list(location_group["points"])
+        except (KeyError, IndexError, TypeError, AttributeError) as err:
+            # Skip one malformed group instead of failing the daily run
+            print(f'::warning::Skipping malformed Marrekrite group {locType}: {err!r}')
+            continue
+        for point in points:
             try:
                 gpx_wps = gpxpy.gpx.GPXWaypoint()
                 pnt = point["point"].split(";")[1].replace(
