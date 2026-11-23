@@ -22,10 +22,14 @@ import re
 import sys
 import time
 import xml.etree.ElementTree as mod_etree
+from zoneinfo import ZoneInfo
 
 import gpxpy
 import gpxpy.gpx
 import requests
+
+# Operating rule From/To are instants on 2000-01-01, Dutch local time
+DUTCH_TIME = ZoneInfo('Europe/Amsterdam')
 
 baseURL = 'https://www.vaarweginformatie.nl/wfswms/dataservice/1.3/'
 workingFolder = './working/'
@@ -91,8 +95,8 @@ class BridgeInfo:
                     if OperatingRule.get('From') is not None and \
                             OperatingRule.get('To') is not None and OperatingRule.get('From') > 0:
                         openingDescription += '   ' + \
-                            datetime.datetime.fromtimestamp(OperatingRule['From'] / 1000.0).strftime('%H:%M') + \
-                            ' - ' + datetime.datetime.fromtimestamp(OperatingRule['To'] / 1000.0).strftime('%H:%M') + ': '
+                            datetime.datetime.fromtimestamp(OperatingRule['From'] / 1000.0, tz=DUTCH_TIME).strftime('%H:%M') + \
+                            ' - ' + datetime.datetime.fromtimestamp(OperatingRule['To'] / 1000.0, tz=DUTCH_TIME).strftime('%H:%M') + ': '
                     else:
                         openingDescription += '   Gesloten: '
                     if OperatingRule.get('IsMonday'):
