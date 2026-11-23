@@ -18,7 +18,6 @@ import gpxpy
 import gpxpy.gpx
 import sys
 import requests
-from requests.exceptions import HTTPError
 
 # adjust to OpenCPN Scale (at which scale this is visible) disable if not needed
 _UseScale = True
@@ -31,6 +30,21 @@ REQUEST_TIMEOUT = 30
 # https://marrekrite.frl/wp-content/uploads/cache/marrekritekaart/var/attributes.json
 # https://marrekrite.frl/wp-content/uploads/cache/marrekritekaart/wnt/lines.json
 # https://marrekrite.frl/wp-content/uploads/cache/marrekritekaart/fkp/lines.json
+
+
+
+def format_value(value) -> str:
+    """Attribute value as text; a closure ('Tijdelijk buiten gebruik') is an object."""
+    if value is None:
+        return ""
+    if isinstance(value, dict):
+        text = value.get("re") or ""
+        if value.get("dt"):
+            text = (text + " " + str(value["dt"])).strip()
+        if value.get("fr") or value.get("to"):
+            text += f' ({value.get("fr") or "?"} - {value.get("to") or "?"})'
+        return text.strip() or ", ".join(str(v) for v in value.values() if v)
+    return str(value)
 
 
 gpx = gpxpy.gpx.GPX()
@@ -71,18 +85,34 @@ for ty in "var".split(","):
         response.raise_for_status()
         # access JSON content
         attributes = response.json()
+    except (requests.RequestException, ValueError) as err:
+        # Keep the published file: a partial download must not replace it
+        print(f'::warning::Marrekrite download failed, GPX not updated: {err}')
+        sys.exit(0)
 
 #        print("Entire JSON response for " + ty)
 #        print(json.dumps(jsonResponse,indent=2))
 
-        for locType in jsonResponse:
-            #            print(locType, '->', jsonResponse[locType])
+    if not isinstance(jsonResponse, dict) or not isinstance(attributes, dict):
+        # Unexpected format: keep the published file, like a failed download
+        print('::warning::Marrekrite data has an unexpected format, GPX not updated')
+        sys.exit(0)
+
+    skipped = 0
+    for locType in jsonResponse:
+        #            print(locType, '->', jsonResponse[locType])
+        try:
             location_group = jsonResponse[locType]
             group_type = location_group["type"]
             is_boei = group_type.get("b", group_type.get("isBoei")) == 1
             type_desc = group_type.get("d", group_type.get("description", ""))
-            for point in location_group["points"]:
-                print(point)
+            points = list(location_group["points"])
+        except (KeyError, IndexError, TypeError, AttributeError) as err:
+            # Skip one malformed group instead of failing the daily run
+            print(f'::warning::Skipping malformed Marrekrite group {locType}: {err!r}')
+            continue
+        for point in points:
+            try:
                 gpx_wps = gpxpy.gpx.GPXWaypoint()
                 pnt = point["point"].split(";")[1].replace(
                     "POINT(", "").replace(")", "").split(" ")
@@ -100,7 +130,7 @@ for ty in "var".split(","):
                 desc = ""
                 for a in loc_attribute:
                     name = a["name"]
-                    description = str(a["value"])
+                    description = format_value(a["value"])
                     if a['id'] == 152:
                         wp_name = ((point["name"] if point["name"] is not None else " ") + " " +
                                    (description if description is not None else " ")).strip() + \
@@ -114,19 +144,19 @@ for ty in "var".split(","):
                 if _UseScale:
                     gpx_wps.extensions.append(root)
                 gpx.waypoints.append(gpx_wps)
-
-    except HTTPError as http_err:
-        print(f'HTTP error occurred: {http_err}')
-    except Exception as err:
-        print(f'Other error occurred: {err}')
+            except (KeyError, IndexError, TypeError, AttributeError, ValueError) as err:
+                # Skip one malformed point instead of dropping all points after it
+                skipped += 1
+                print(f'::warning::Skipping malformed Marrekrite point {point}: {err!r}')
+    if skipped:
+        print(f'{skipped} malformed points skipped')
 
 fn = "Marrekrite-Aanlegplaatsen.gpx"
 if len(gpx.waypoints) == 0:
     # Do not overwrite the published file with an empty one
     print(f'GPX with 0 waypoints SKIPPED: {fn}')
     sys.exit(0)
-print('Created GPX:', gpx.to_xml())
-f = open(fn, "w")
+f = open(fn, "w", encoding="utf-8")
 f.write(gpx.to_xml())
 f.close()
 print("Exported to " + fn)
