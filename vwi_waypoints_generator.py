@@ -475,6 +475,10 @@ if __name__ == "__main__":
 
     os.makedirs(workingFolder, exist_ok=True)
 
+    def cache_path(geotype):
+        # keyed by geogeneration so a cache from an older generation is never reused
+        return workingFolder + geotype + '-' + str(geoInfo['GeoGeneration']) + 'Download.json'
+
     response = requests.get(baseURL + 'geogeneration', timeout=REQUEST_TIMEOUT)
     response.raise_for_status()
     geoInfo = response.json()
@@ -502,7 +506,7 @@ if __name__ == "__main__":
                 'administration', 'opening']
 
     for geotype in geotypes:
-        fn = workingFolder + geotype + 'Download.json'
+        fn = cache_path(geotype)
         if not os.path.exists(fn) or (time.time() - os.path.getmtime(fn)) > max_age:
             res = download_geo_data(geotype, geoInfo['GeoGeneration'])
             saveJson(fn, res)
@@ -510,21 +514,21 @@ if __name__ == "__main__":
             print(
                 f'Reusing existing {fn} which is {int((time.time() -  os.path.getmtime(fn))/3600)} hours old')
 
-    bridges = readJson(workingFolder + 'bridgeDownload.json')
-    locks = readJson(workingFolder + 'lockDownload.json')
-    operatingtimes = readJson(workingFolder + 'operatingtimesDownload.json')
-    openings = readJson(workingFolder + 'openingDownload.json')
-    radiocallinpoint = readJson(workingFolder + 'radiocallinpointDownload.json')
-    fairway = readJson(workingFolder + 'fairwayDownload.json')
-    touristharbour = readJson(workingFolder + 'touristharbourDownload.json')
+    bridges = readJson(cache_path('bridge'))
+    locks = readJson(cache_path('lock'))
+    operatingtimes = readJson(cache_path('operatingtimes'))
+    openings = readJson(cache_path('opening'))
+    radiocallinpoint = readJson(cache_path('radiocallinpoint'))
+    fairway = readJson(cache_path('fairway'))
+    touristharbour = readJson(cache_path('touristharbour'))
     related = [{'bridge': bridges}, {'lock': locks}]
-    related.append({'vinharbour': readJson(workingFolder + 'vinharbourDownload.json')})
-    related.append({'nwbharbour': readJson(workingFolder + 'nwbharbourDownload.json')})
-    related.append({'berth': readJson(workingFolder + 'berthDownload.json')})
-    related.append({'vtssector': readJson(workingFolder + 'vtssectorDownload.json')})
+    related.append({'vinharbour': readJson(cache_path('vinharbour'))})
+    related.append({'nwbharbour': readJson(cache_path('nwbharbour'))})
+    related.append({'berth': readJson(cache_path('berth'))})
+    related.append({'vtssector': readJson(cache_path('vtssector'))})
     related.append({'exceptionalnavigationalstructure': readJson(
-        workingFolder + 'exceptionalnavigationalstructureDownload.json')})
-    related.append({'administration': readJson(workingFolder + 'administrationDownload.json')})
+        cache_path('exceptionalnavigationalstructure'))})
+    related.append({'administration': readJson(cache_path('administration'))})
 
     countries = ['NL']
     for bridge in bridges:
