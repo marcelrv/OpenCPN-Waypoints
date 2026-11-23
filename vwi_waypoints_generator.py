@@ -25,12 +25,12 @@ import xml.etree.ElementTree as mod_etree
 import gpxpy
 import gpxpy.gpx
 import requests
-from requests.exceptions import HTTPError
 
 baseURL = 'https://www.vaarweginformatie.nl/wfswms/dataservice/1.3/'
 workingFolder = './working/'
 debugging = False
 max_age = 60 * 60 * 24  # 24h
+REQUEST_TIMEOUT = (10, 120)  # (connect, read) seconds
 
 
 class BridgeInfo:
@@ -412,30 +412,24 @@ def download_geo_data(geotype, geogeneration):
     download_done = False
     result = []
     counter = 0
+    # Errors are deliberately not caught: a partial download must abort the run
+    # so neither the cache nor lastPublication.json records incomplete data.
     while not download_done:
-        try:
-            url = baseURL + str(geogeneration) + '/' + geotype + \
-                '?offset=' + str(counter) + '&count=100'
-            response = requests.get(url)
-            response.raise_for_status()
-            # access JSOn content
-            jsonResponse = response.json()
+        url = baseURL + str(geogeneration) + '/' + geotype + \
+            '?offset=' + str(counter) + '&count=100'
+        response = requests.get(url, timeout=REQUEST_TIMEOUT)
+        response.raise_for_status()
+        # access JSOn content
+        jsonResponse = response.json()
 
-            if debugging:
-                print("Downloading JSON response for " + url)
-                print(json.dumps(jsonResponse, indent=2))
+        if debugging:
+            print("Downloading JSON response for " + url)
+            print(json.dumps(jsonResponse, indent=2))
 
-            result.extend(jsonResponse['Result'])
-            print(f"Processed {counter} of {str(jsonResponse['TotalCount'])} from {url}")
-            counter = counter + jsonResponse['Count']
-            if (counter >= jsonResponse['TotalCount']):
-                download_done = True
-
-        except HTTPError as http_err:
-            print(f'HTTP error occurred: {http_err}')
-            download_done = True
-        except Exception as err:
-            print(f'Other error occurred: {err}')
+        result.extend(jsonResponse['Result'])
+        print(f"Processed {counter} of {str(jsonResponse['TotalCount'])} from {url}")
+        counter = counter + jsonResponse['Count']
+        if (counter >= jsonResponse['TotalCount']):
             download_done = True
     return result
 
@@ -481,7 +475,8 @@ if __name__ == "__main__":
 
     os.makedirs(workingFolder, exist_ok=True)
 
-    response = requests.get(baseURL + 'geogeneration')
+    response = requests.get(baseURL + 'geogeneration', timeout=REQUEST_TIMEOUT)
+    response.raise_for_status()
     geoInfo = response.json()
     print(f"Latest geoinfomation: {json.dumps(geoInfo,indent=2)}")
     publication_date = datetime.datetime.strptime(
@@ -496,7 +491,8 @@ if __name__ == "__main__":
     print('Already up-to-date. Forcing update due to command line argument provided.')
 
 #    download all available info instead of required only
-    response = requests.get(baseURL + 'geotype')
+    response = requests.get(baseURL + 'geotype', timeout=REQUEST_TIMEOUT)
+    response.raise_for_status()
     geotypes = response.json()
     print(f"Available geotypes:\r\n {json.dumps(geotypes,indent=2)}")
     # comment below line to download all geotypes
