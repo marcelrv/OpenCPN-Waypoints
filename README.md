@@ -58,7 +58,7 @@ To update files when no update is availabe from https://www.vaarweginformatie.nl
 
 * [boeien_generator.py](boeien_generator.py)  - File to automatically create the boeienfiles based on data from provincie Friesland & RWS
 
-Requires gpxpy, you can install this with `pip3 install gpxpy` or alternatively `pip3 install -r requirements.txt`  
+Requires gpxpy and requests, you can install these with `pip3 install gpxpy requests` or alternatively `pip3 install -r requirements.txt`  
 For boeien_generator also osgeo is required and python >=3.11
 
 ## Copyright
