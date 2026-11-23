@@ -547,7 +547,7 @@ if __name__ == "__main__":
         regions.append({'name': country, 'country': country})
 
     # create bridge files
-    bridgeInfo = BridgeInfo(bridges, operatingtimes, radiocallinpoint, fairway, openings=openings)
+    bridgeInfo = BridgeInfo(bridges, operatingtimes, radiocallinpoint, fairway, related=related, openings=openings)
     for region in regions:
         gpx = bridgeInfo.create_bridgeGPX(region, 'bridge')
         gpx.time = publication_date
@@ -559,7 +559,7 @@ if __name__ == "__main__":
         saveGPX(gpx, name)
 
     # create locks files
-    bridgeInfo = BridgeInfo(locks, operatingtimes, radiocallinpoint, fairway)
+    bridgeInfo = BridgeInfo(locks, operatingtimes, radiocallinpoint, fairway, related=related)
     for region in regions:
         gpx = bridgeInfo.create_bridgeGPX(region, 'lock')
         gpx.time = publication_date
