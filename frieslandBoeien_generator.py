@@ -224,7 +224,8 @@ def update_source_data(fn):
     if not os.path.exists(fn) or (time.time() - os.path.getmtime(fn)) > 60*60*24:
         print('Downloading %s' % fn)
         url = 'https://geoportaal.fryslan.nl/arcgis/services/ProvinciaalGeoRegister/PGR2/MapServer/wfsServer?request=GetFeature&service=WFS&version=1.1.0&outputFormat=GML3&typeName=Vaarwegmarkeringen'
-        response = requests.get(url)
+        response = requests.get(url, timeout=120)
+        response.raise_for_status()
         data = response.text
         safeFile(fn, data)
     else:
