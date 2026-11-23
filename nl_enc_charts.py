@@ -25,7 +25,7 @@ catalog = RncChartCatalog()
 catalog.title = "Netherlands Inland ENC Charts (daily refresh)"
 
 url = 'https://vaarweginformatie.nl/frp/api/webcontent/downloads?pageId=infra/enc'
-with urlopen(url) as f:
+with urlopen(url, timeout=60) as f:
     data = json.load(f)
     cnt = 0
     for tileset in data:
@@ -37,7 +37,7 @@ with urlopen(url) as f:
         chart.zipfile_ts = datetime.fromtimestamp(tileset['date']/1000)
         chart.target_filename = "%s.zip" % tileset['name']
         try:
-            response = urlopen(chart.url)
+            response = urlopen(chart.url, timeout=60)
             filename = response.headers.get_filename()
             if filename is not None:
                 chart.target_filename = filename
