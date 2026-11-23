@@ -32,6 +32,21 @@ REQUEST_TIMEOUT = 30
 # https://marrekrite.frl/wp-content/uploads/cache/marrekritekaart/fkp/lines.json
 
 
+
+def format_value(value) -> str:
+    """Attribute value as text; a closure ('Tijdelijk buiten gebruik') is an object."""
+    if value is None:
+        return ""
+    if isinstance(value, dict):
+        text = value.get("re") or ""
+        if value.get("dt"):
+            text = (text + " " + str(value["dt"])).strip()
+        if value.get("fr") or value.get("to"):
+            text += f' ({value.get("fr") or "?"} - {value.get("to") or "?"})'
+        return text.strip() or ", ".join(str(v) for v in value.values() if v)
+    return str(value)
+
+
 gpx = gpxpy.gpx.GPX()
 gpx.name = 'Marrekrite aanlegplaatsen'
 gpx.creator = 'marrekritten_to_GPX.py -- https://github.com/marcelrv/OpenCPN-Waypoints'
@@ -104,7 +119,7 @@ for ty in "var".split(","):
                 desc = ""
                 for a in loc_attribute:
                     name = a["name"]
-                    description = str(a["value"]) if a["value"] is not None else ""
+                    description = format_value(a["value"])
                     if a['id'] == 152:
                         wp_name = ((point["name"] if point["name"] is not None else " ") + " " +
                                    (description if description is not None else " ")).strip() + \
