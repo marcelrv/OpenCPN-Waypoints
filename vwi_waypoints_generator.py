@@ -70,7 +70,7 @@ class BridgeInfo:
                 t += 1
             if operatingRule.get('IsSunday'):
                 t += 2
-            return operatingRule.get('From')
+            return t
         return 9999900000
 
     def get_openingHours(self, openingId):
