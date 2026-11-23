@@ -16,6 +16,7 @@ __updated__ = "2026-05-07"
 
 import datetime
 import json
+import math
 import os
 import re
 import sys
@@ -341,7 +342,8 @@ def format_opening_dim(opening):
     w = opening.get('Width')
     h_str = f'{h:.1f}' if h is not None else '?'
     if w is not None:
-        w_str = f'{w:.1f}' if w < 5 else f'{w:.0f}'
+        # round down so the opening is never overstated
+        w_str = f'{math.floor(w * 10 + 1e-9) / 10:.1f}' if w < 5 else f'{math.floor(w + 1e-9):.0f}'
     else:
         w_str = '?'
     return f'{type_label} H{h_str} W{w_str}'
