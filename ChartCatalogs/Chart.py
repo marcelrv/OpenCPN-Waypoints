@@ -55,7 +55,7 @@ class Chart:
         child.text = zipfile_ts.strftime('%Y-%m-%dT%H:%M:%SZ')
         if self.zipfile_size > 0:
             child = SubElement(e, 'zipfile_size')
-            child.text = self.zipfile_size
+            child.text = str(self.zipfile_size)
         if self.ntm_edition_last_correction != None:
             child = SubElement(e, 'ntm_edition_last_correction')
             child.text = self.ntm_edition_last_correction
